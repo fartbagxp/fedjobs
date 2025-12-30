@@ -88,7 +88,7 @@ jobs:
           USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
           USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
-          uv run python -m fedjobs.main export-csv --agency IRS --limit 250 --output data/raw/active_IRS_jobs.csv
+          uv run python -m fedjobs.main export-csv --agency TR93 --limit 250 --output data/raw/active_IRS_jobs.csv
         continue-on-error: true
 
       - name: Commit and push changes
