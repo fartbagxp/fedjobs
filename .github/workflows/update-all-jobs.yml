@@ -59,6 +59,14 @@ jobs:
           uv run python -m fedjobs.main export-csv --job-code 1560 --limit 250 --output data/raw/all_1560_jobs.csv --append
         continue-on-error: true
 
+      - name: Update all jobs for 0854 job code
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: |
+          uv run python -m fedjobs.main export-csv --job-code 0854 --limit 250 --output data/raw/all_0854_jobs.csv --append
+        continue-on-error: true
+
       - name: Update all jobs for CDC agency
         env:
           USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
@@ -73,6 +81,14 @@ jobs:
           USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
           uv run python -m fedjobs.main export-csv --agency HHS --limit 250 --output data/raw/all_HHS_jobs.csv --append
+        continue-on-error: true
+
+      - name: Update all jobs for IRS agency
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: |
+          uv run python -m fedjobs.main export-csv --agency IRS --limit 250 --output data/raw/all_IRS_jobs.csv --append
         continue-on-error: true
 
       - name: Commit and push changes
