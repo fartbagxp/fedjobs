@@ -1,0 +1,73 @@
+name: Update All Jobs
+
+on:
+  schedule:
+    # Run daily at 4 AM UTC
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Allow manual triggering
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - 'data/raw/**'
+      - 'docs/**'
+      - '.github/workflows/**'
+      - '**/*.md'
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  update-all-jobs:
+    runs-on: ubuntu-latest
+    environment: 'prod'
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        with:
+          persist-credentials: true
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@681c641aba71e4a1c380be3ab5e12ad51f415867 # v7.1.6
+        with:
+          enable-cache: true
+
+      - name: Update all jobs for 2210 job code
+        run: |
+          uv run python -m fedjobs.main export-csv --job-code 2210 --limit 250 --output data/raw/all_2210_jobs.csv --append
+        continue-on-error: true
+
+      - name: Update all jobs for 1550 job code
+        run: |
+          uv run python -m fedjobs.main export-csv --job-code 1550 --limit 250 --output data/raw/all_1550_jobs.csv --append
+        continue-on-error: true
+
+      - name: Update all jobs for 1560 job code
+        run: |
+          uv run python -m fedjobs.main export-csv --job-code 1560 --limit 250 --output data/raw/all_1560_jobs.csv --append
+        continue-on-error: true
+
+      - name: Update all jobs for CDC agency
+        run: |
+          uv run python -m fedjobs.main export-csv --agency CDC --limit 250 --output data/raw/all_CDC_jobs.csv --append
+        continue-on-error: true
+
+      - name: Update all jobs for HHS agency
+        run: |
+          uv run python -m fedjobs.main export-csv --agency HHS --limit 250 --output data/raw/all_HHS_jobs.csv --append
+        continue-on-error: true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/raw/*.csv
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update all jobs for various jobs from USAJOBS API"
+            git push
+          fi

@@ -56,13 +56,13 @@ cp .env.example .env
 Search for IT Management positions (2210):
 
 ```bash
-fedjobs search --job-code 2210
+uv run python -m fedjobs.main search --job-code 2210
 ```
 
 Search for multiple job codes:
 
 ```bash
-fedjobs search --job-code 2210 --job-code 1550 --job-code 1560
+uv run python -m fedjobs.main search --job-code 2210 --job-code 1550 --job-code 1560
 ```
 
 ### Search by Agency
@@ -70,7 +70,7 @@ fedjobs search --job-code 2210 --job-code 1550 --job-code 1560
 Search for CDC jobs:
 
 ```bash
-fedjobs search --agency CDC
+uv run python -m fedjobs.main search --agency CDC
 ```
 
 ### Combined Search
@@ -78,7 +78,7 @@ fedjobs search --agency CDC
 Search for IT positions at CDC:
 
 ```bash
-fedjobs search --job-code 2210 --agency CDC
+uv run python -m fedjobs.main search --job-code 2210 --agency CDC
 ```
 
 ### Search with Keywords
@@ -86,7 +86,7 @@ fedjobs search --job-code 2210 --agency CDC
 Search for cybersecurity positions:
 
 ```bash
-fedjobs search --job-code 2210 --keyword cybersecurity
+uv run python -m fedjobs.main search --job-code 2210 --keyword cybersecurity
 ```
 
 ### Additional Options
@@ -94,27 +94,52 @@ fedjobs search --job-code 2210 --keyword cybersecurity
 Show more results (up to 500):
 
 ```bash
-fedjobs search --job-code 2210 --limit 50
+uv run python -m fedjobs.main search --job-code 2210 --limit 50
 ```
 
 Show verbose output with job codes and close dates:
 
 ```bash
-fedjobs search --job-code 2210 --verbose
+uv run python -m fedjobs.main search --job-code 2210 --verbose
 ```
+
+### Export Jobs to CSV
+
+Export job search results to a CSV file with opening/closing dates and job URLs:
+
+```bash
+uv run python -m fedjobs.main export-csv --job-code 2210 --output active_jobs.csv
+```
+
+Append new results to an existing CSV file:
+
+```bash
+uv run python -m fedjobs.main export-csv --job-code 2210 --agency CDC --append
+```
+
+The CSV file includes:
+- Position Title
+- Agency
+- Location
+- Grade
+- Salary Range
+- Job Code
+- Opening Date
+- Closing Date
+- Job URL (link to USAJOBS posting)
 
 ### List Available Codes and Agencies
 
 List common job series codes:
 
 ```bash
-fedjobs list-codes
+uv run python -m fedjobs.main list-codes
 ```
 
 List common federal agencies:
 
 ```bash
-fedjobs list-agencies
+uv run python -m fedjobs.main list-agencies
 ```
 
 ## Common Job Series Codes
