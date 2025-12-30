@@ -5,6 +5,18 @@ on:
     # Run daily at 2 AM UTC
     - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual triggering
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - 'data/raw/**'
+      - 'docs/**'
+      - '.github/workflows/**'
+      - '**/*.md'
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
 
 jobs:
   update-agencies:

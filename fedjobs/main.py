@@ -175,12 +175,14 @@ def save_agency_codes_to_csv(agencies: list[dict], filepath: Path) -> None:
         writer = csv.DictWriter(
             f,
             fieldnames=["Code", "Value", "ParentCode", "Acronym", "LastModified"],
-            extrasaction="ignore"
+            extrasaction="ignore",
         )
         writer.writeheader()
         writer.writerows(active_agencies)
 
-    console.print(f"[green]Saved {len(active_agencies)} agency codes to {filepath}[/green]")
+    console.print(
+        f"[green]Saved {len(active_agencies)} agency codes to {filepath}[/green]"
+    )
 
 
 def update_agency_codes() -> None:
@@ -224,7 +226,9 @@ def display_jobs(data: dict, verbose: bool = False):
     total_count = search_result.get("SearchResultCountAll", 0)
     items = search_result.get("SearchResultItems", [])
 
-    console.print(f"\n[bold green]Found {count} jobs (Total: {total_count})[/bold green]\n")
+    console.print(
+        f"\n[bold green]Found {count} jobs (Total: {total_count})[/bold green]\n"
+    )
 
     if not items:
         console.print("[yellow]No jobs found matching your criteria.[/yellow]")
@@ -268,7 +272,11 @@ def display_jobs(data: dict, verbose: bool = False):
         if verbose:
             job_codes = job.get("JobCategory", [])
             job_code = job_codes[0].get("Code", "N/A") if job_codes else "N/A"
-            close_date = job.get("ApplicationCloseDate", "N/A")[:10] if job.get("ApplicationCloseDate") else "N/A"
+            close_date = (
+                job.get("ApplicationCloseDate", "N/A")[:10]
+                if job.get("ApplicationCloseDate")
+                else "N/A"
+            )
             row.extend([job_code, close_date])
 
         table.add_row(*row)
@@ -325,7 +333,9 @@ def search(job_code, agency, keyword, limit, verbose):
         sys.exit(1)
 
     if not job_code and not agency and not keyword:
-        console.print("[yellow]Please specify at least one filter: --job-code, --agency, or --keyword[/yellow]")
+        console.print(
+            "[yellow]Please specify at least one filter: --job-code, --agency, or --keyword[/yellow]"
+        )
         sys.exit(1)
 
     client = USAJobsClient(api_key, email)
@@ -362,7 +372,9 @@ def search(job_code, agency, keyword, limit, verbose):
 @cli.command()
 def list_codes():
     """List common job series codes."""
-    table = Table(title="Common Job Series Codes", show_header=True, header_style="bold cyan")
+    table = Table(
+        title="Common Job Series Codes", show_header=True, header_style="bold cyan"
+    )
     table.add_column("Code", style="bold", justify="center")
     table.add_column("Title")
 
@@ -388,7 +400,7 @@ def list_agencies(show_all):
             title="All Federal Agencies",
             show_header=True,
             header_style="bold cyan",
-            box=box.ROUNDED
+            box=box.ROUNDED,
         )
         table.add_column("Code", style="bold", justify="center")
         table.add_column("Agency Name", max_width=60)
@@ -398,9 +410,7 @@ def list_agencies(show_all):
             reader = csv.DictReader(f)
             for row in reader:
                 table.add_row(
-                    row.get("Code", ""),
-                    row.get("Value", ""),
-                    row.get("Acronym", "")
+                    row.get("Code", ""), row.get("Value", ""), row.get("Acronym", "")
                 )
 
         console.print(table)
@@ -416,7 +426,7 @@ def list_agencies(show_all):
             title="Common Federal Agencies",
             show_header=True,
             header_style="bold cyan",
-            box=box.ROUNDED
+            box=box.ROUNDED,
         )
         table.add_column("Name/Abbreviation", style="bold")
         table.add_column("API Code", justify="center")
@@ -443,6 +453,187 @@ def list_agencies(show_all):
 def update_agencies():
     """Fetch and update the agency codes CSV from USAJOBS API."""
     update_agency_codes()
+
+
+@cli.command()
+@click.option(
+    "--job-code",
+    "-j",
+    multiple=True,
+    help="Job series code (e.g., 2210, 1550). Can specify multiple times.",
+)
+@click.option(
+    "--agency",
+    "-a",
+    help="Agency name (e.g., CDC, FDA, NASA)",
+)
+@click.option(
+    "--keyword",
+    "-k",
+    help="Search keyword",
+)
+@click.option(
+    "--limit",
+    "-l",
+    default=25,
+    type=int,
+    help="Number of results to return (max 500)",
+)
+@click.option(
+    "--output",
+    "-o",
+    default="active_jobs.csv",
+    type=click.Path(),
+    help="Output CSV file path (default: active_jobs.csv)",
+)
+@click.option(
+    "--append",
+    is_flag=True,
+    help="Append to existing CSV file instead of overwriting",
+)
+def export_csv(job_code, agency, keyword, limit, output, append):
+    """Export job search results to a CSV file with opening/closing dates and job URLs."""
+    api_key = os.getenv("USAJOBS_API_KEY")
+    email = os.getenv("USAJOBS_EMAIL")
+
+    if not api_key or not email:
+        console.print(
+            "[red]Error: USAJOBS_API_KEY and USAJOBS_EMAIL environment variables required.[/red]\n"
+            "Get your API key at: https://developer.usajobs.gov/apirequest/getapikey"
+        )
+        sys.exit(1)
+
+    if not job_code and not agency and not keyword:
+        console.print(
+            "[yellow]Please specify at least one filter: --job-code, --agency, or --keyword[/yellow]"
+        )
+        sys.exit(1)
+
+    client = USAJobsClient(api_key, email)
+
+    # Translate agency name to code if needed
+    agency_code = None
+    if agency:
+        agency_code = translate_agency_name(agency)
+
+    search_params = []
+    if job_code:
+        codes = ", ".join(job_code)
+        search_params.append(f"Job Codes: {codes}")
+    if agency:
+        if agency_code != agency:
+            search_params.append(f"Agency: {agency} (code: {agency_code})")
+        else:
+            search_params.append(f"Agency: {agency}")
+    if keyword:
+        search_params.append(f"Keyword: {keyword}")
+
+    console.print(f"[bold]Searching for jobs:[/bold] {' | '.join(search_params)}\n")
+
+    data = client.search_jobs(
+        job_codes=list(job_code) if job_code else None,
+        organization=agency_code,
+        keyword=keyword,
+        results_per_page=limit,
+    )
+
+    search_result = data.get("SearchResult", {})
+    count = search_result.get("SearchResultCount", 0)
+    items = search_result.get("SearchResultItems", [])
+
+    if not items:
+        console.print("[yellow]No jobs found matching your criteria.[/yellow]")
+        return
+
+    console.print(f"[bold green]Found {count} jobs[/bold green]")
+
+    # Prepare CSV data
+    output_path = Path(output)
+    file_exists = output_path.exists()
+
+    # Determine write mode
+    mode = "a" if (append and file_exists) else "w"
+
+    with open(output_path, mode, newline="", encoding="utf-8") as csvfile:
+        fieldnames = [
+            "Position Title",
+            "Agency",
+            "Location",
+            "Grade",
+            "Salary Min",
+            "Salary Max",
+            "Job Code",
+            "Opening Date",
+            "Closing Date",
+            "Job URL",
+        ]
+
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        # Write header only if file is new or we're overwriting
+        if mode == "w" or not file_exists:
+            writer.writeheader()
+
+        # Write job data
+        for item in items:
+            job = item.get("MatchedObjectDescriptor", {})
+
+            # Extract job details
+            position_title = job.get("PositionTitle", "")
+            organization = job.get("OrganizationName", "")
+
+            # Handle locations
+            locations = job.get("PositionLocation", [])
+            location_name = locations[0].get("LocationName", "") if locations else ""
+
+            # Grade information
+            grade_info = job.get("JobGrade", [{}])[0] if job.get("JobGrade") else {}
+            grade = grade_info.get("Code", "")
+
+            # Salary range
+            salary_info = (
+                job.get("PositionRemuneration", [{}])[0]
+                if job.get("PositionRemuneration")
+                else {}
+            )
+            salary_min = salary_info.get("MinimumRange", "")
+            salary_max = salary_info.get("MaximumRange", "")
+
+            # Job codes
+            job_codes = job.get("JobCategory", [])
+            job_code_str = job_codes[0].get("Code", "") if job_codes else ""
+
+            # Dates
+            opening_date = job.get(
+                "PublicationStartDate", job.get("PositionStartDate", "")
+            )
+            if opening_date:
+                opening_date = opening_date[:10]  # Extract just the date part
+
+            closing_date = job.get("ApplicationCloseDate", "")
+            if closing_date:
+                closing_date = closing_date[:10]  # Extract just the date part
+
+            # Job URL
+            job_url = job.get("PositionURI", "")
+
+            writer.writerow(
+                {
+                    "Position Title": position_title,
+                    "Agency": organization,
+                    "Location": location_name,
+                    "Grade": grade,
+                    "Salary Min": salary_min,
+                    "Salary Max": salary_max,
+                    "Job Code": job_code_str,
+                    "Opening Date": opening_date,
+                    "Closing Date": closing_date,
+                    "Job URL": job_url,
+                }
+            )
+
+    action = "Appended" if (append and file_exists) else "Exported"
+    console.print(f"\n[bold green]{action} {count} jobs to {output_path}[/bold green]")
 
 
 if __name__ == "__main__":

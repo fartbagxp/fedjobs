@@ -12,4 +12,12 @@ repos:
     rev: v0.14.10
     hooks:
       - id: ruff
-        exclude: ^(data/raw|docs)/
+        args: [--fix]
+        exclude: ^data/raw/
+      - id: ruff-format
+        exclude: ^data/raw/
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.30.0
+    hooks:
+      - id: gitleaks
+        exclude: ^data/raw/
