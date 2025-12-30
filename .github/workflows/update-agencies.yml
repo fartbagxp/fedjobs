@@ -9,6 +9,7 @@ on:
 jobs:
   update-agencies:
     runs-on: ubuntu-latest
+    environment: 'prod'
     permissions:
       contents: write
     steps:
