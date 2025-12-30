@@ -1,0 +1,794 @@
+Code,Value,ParentCode,Acronym,LastModified
+AF00,Department of the Air Force - Agency Wide,AF,AF,2021-05-14T11:04:18.77
+AG00,Department of Agriculture - Agency Wide,AG,USDA,2021-04-30T11:38:44.897
+AH00,National Foundation on the Arts and the Humanities - Agency Wide,AH,,2021-04-30T11:38:45.383
+AR00,Department of the Army - Agency Wide,AR,,2021-05-14T11:04:18.897
+CM00,Department of Commerce - Agency Wide,CM,DOC,2021-04-30T11:38:45.873
+DD00,Department of Defense - Agency Wide,DD,DOD,2021-04-30T11:38:46.297
+DJ00,Department of Justice - Agency Wide,DJ,DOJ,2021-04-30T11:38:49.93
+DN00,Department of Energy - Agency Wide,DN,DOE,2021-04-30T11:38:50.457
+ED00,Department of Education - Agency Wide,ED,ED,2021-04-30T11:38:50.633
+FQ00,Court Services and Offender Supervision Agency for DC - Agency Wide,FQ,CSOSA,2021-04-30T11:38:51.467
+GS00,General Services Administration - Agency Wide,GS,GSA,2021-04-30T11:38:51.85
+HE00,Department of Health and Human Services - Agency Wide,HE,HHS,2023-03-17T10:40:05.937
+HS00,Department of Homeland Security - Agency Wide,HS,DHS,2021-04-30T11:38:52.967
+HU00,Department of Housing and Urban Development - Agency Wide,HU,HUD,2021-04-30T11:38:53.223
+IN00,Department of the Interior - Agency Wide,IN,DOI,2021-05-14T11:04:19.617
+JL00,Judicial Branch - Agency Wide,JL,,2021-04-30T11:38:54.083
+LL00,Legislative Branch - Agency Wide,LL,,2021-04-30T11:38:54.193
+NN00,National Aeronautics and Space Administration - Agency Wide,NN,NASA,2021-04-30T11:38:54.68
+NV00,Department of the Navy - Agency Wide,NV,,2021-05-14T11:04:18.913
+ST00,Department of State - Agency Wide,ST,DOS,2021-04-30T11:38:55.553
+TD00,Department of Transportation - Agency Wide,TD,DOT,2021-04-30T11:38:55.777
+TR00,Department of the Treasury - Agency Wide,TR,,2021-05-14T11:04:20.327
+VA00,Department of Veterans Affairs - Agency Wide,VA,VA,2021-04-30T11:38:56.293
+AF,Department of the Air Force,DD,AF,2021-05-14T11:04:18.77
+AG,Department of Agriculture,,USDA,2021-04-30T11:38:44.897
+AR,Department of the Army,DD,,2021-05-14T11:04:18.897
+CM,Department of Commerce,,DOC,2021-04-30T11:38:45.873
+DD,Department of Defense,,DOD,2021-04-30T11:38:46.297
+DJ,Department of Justice,,DOJ,2021-04-30T11:38:49.93
+DL,Department of Labor,,DOL,2021-04-30T11:38:50.133
+ED,Department of Education,,ED,2021-04-30T11:38:50.633
+DN,Department of Energy,,DOE,2021-04-30T11:38:50.457
+GS,General Services Administration,,GSA,2021-04-30T11:38:51.85
+HE,Department of Health and Human Services,,HHS,2023-03-17T10:40:05.937
+HS,Department of Homeland Security,,DHS,2021-04-30T11:38:52.967
+HU,Department of Housing and Urban Development,,HUD,2021-04-30T11:38:53.223
+IN,Department of the Interior,,DOI,2021-05-14T11:04:19.617
+NN,National Aeronautics and Space Administration,,NASA,2021-04-30T11:38:54.68
+NV,Department of the Navy,DD,,2021-05-14T11:04:18.913
+ST,Department of State,,DOS,2021-04-30T11:38:55.553
+TD,Department of Transportation,,DOT,2021-04-30T11:38:55.777
+TR,Department of the Treasury,,,2021-05-14T11:04:20.327
+VA,Department of Veterans Affairs,,VA,2021-04-30T11:38:56.293
+EOP,Executive Office of the President,,,2021-04-30T11:38:50.993
+FQ,Court Services and Offender Supervision Agency for DC,,CSOSA,2021-04-30T11:38:51.467
+JL,Judicial Branch,,,2021-04-30T11:38:54.083
+LL,Legislative Branch,,,2021-04-30T11:38:54.193
+AF02,Air Force Inspection Agency (FO),AF,,2021-04-30T11:38:46.33
+AF03,Air Force Operational Test and Evaluation Center,AF,,2021-04-30T11:38:46.34
+AF04,Air Force Communications Agency (Historical),AF,,2021-04-30T11:38:46.353
+AF05,Air Force Intelligence Analysis Agency,AF,,2021-04-30T11:38:46.363
+AF06,Air Force Audit Agency,AF,,2021-04-30T11:38:46.377
+AF07,Air Force Office of Special Investigations,AF,,2021-04-30T11:38:46.393
+AF08,"Headquarters, U.S. Air Force Security Forces Center",AF,,2021-04-30T11:38:46.407
+AF09,Air Force Personnel Center,AF,,2021-04-30T11:38:46.417
+AF0B,U.S. Air Force Academy,AF,,2021-04-30T11:38:46.427
+AF0D,"U.S. Air Forces, Europe",AF,,2021-04-30T11:38:46.437
+AF0I,Air Force Reserve Personnel Center,AF,,2021-04-30T11:38:46.453
+AF0J,Air Education and Training Command,AF,,2021-04-30T11:38:46.463
+AF0M,"Headquarters, Air Force Reserve Command",AF,,2021-04-30T11:38:46.487
+AF0N,"Immediate Office, Headquarters, USAF",AF,,2021-04-30T11:38:46.5
+AF0R,Pacific Air Forces,AF,,2021-04-30T11:38:46.51
+AF0U,"Air Force Intelligence, Surveillance, & Reconnaissance Agency",AF,,2021-04-30T11:38:46.52
+AF1C,Air Combat Command,AF,,2021-04-30T11:38:46.667
+AF1G,Air Force Logistics Management Agency,AF,,2021-04-30T11:38:46.69
+AF1L,Air Mobility Command,AF,,2021-04-30T11:38:46.71
+AF1M,Air Force Materiel Command,AF,,2021-04-30T11:38:46.72
+AF1Q,HQ AF Flight Standards Agency,AF,,2021-04-30T11:38:46.74
+AF1S,"Headquarters, Air Force Space Command",AF,,2021-04-30T11:38:46.76
+AF29,Air Force National Security Emergency Preparedness,AF,,2021-04-30T11:38:46.873
+AF2A,Air Force Cost Analysis Agency,AF,,2021-04-30T11:38:46.883
+AF2D,Air Force Personnel Operations Agency,AF,,2021-04-30T11:38:46.917
+AF2E,Air Force Legal Operations Agency,AF,,2021-04-30T11:38:46.927
+AF2F,Air Force Medical Support Agency,AF,,2021-04-30T11:38:46.937
+AF2H,Air Force Operations Group,AF,,2021-04-30T11:38:46.963
+AF2I,Air National Guard Readiness Center,AF,,2021-04-30T11:38:46.973
+AF2K,Air Force Historical Research Agency,AF,,2021-04-30T11:38:46.987
+AF2L,Air Force Technical Applications Center,AF,,2021-04-30T11:38:46.997
+AF2M,Air Force Review Boards Agency,AF,,2021-04-30T11:38:47.013
+AF2N,Air Force Studies and Analyses Agency,AF,,2021-04-30T11:38:47.023
+AF2Q,"Headquarters, Air Weather Agency",AF,,2021-04-30T11:38:47.047
+AF2R,Air Force Program Executive Office,AF,,2021-04-30T11:38:47.057
+AF2S,Air Force Elements NORAD,AF,,2021-04-30T11:38:47.067
+AF2T,Air Force Safety Center,AF,,2021-04-30T11:38:47.077
+AF2U,Air Force Services Agency,AF,,2021-04-30T11:38:47.087
+AF2W,11th Wing,AF,,2021-04-30T11:38:47.11
+AF2Z,Air Force Medical Command,AF,,2025-01-31T15:34:55.787
+AF34,Air National Guard,AF,,2021-04-30T11:38:47.183
+AF3C,"Air Force Elements, U.S. Central Command",AF,,2021-04-30T11:38:47.267
+AF3D,"Air Force Elements, U.S. Special Operations Command",AF,,2021-04-30T11:38:47.283
+AF3G,"Air Force Elements, NATO",AF,,2021-04-30T11:38:47.297
+AF3M,"Air Force Elements, U.S. Southern Command",AF,,2021-04-30T11:38:47.337
+AF3N,"Air Force Elements, U.S. Joint Forces Command",AF,,2021-04-30T11:38:47.347
+AF3O,"Air Force Elements, U.S. Pacific Command",AF,,2021-04-30T11:38:47.36
+AF3Q,"Air Force Elements, U.S. Strategic Command",AF,,2021-04-30T11:38:47.37
+AF3T,"Air Force Elements, U.S. Transportation Command",AF,,2021-04-30T11:38:47.41
+AF3V,Air Force Elements,AF,,2021-04-30T11:38:47.42
+AF3W,Air Force Center for Engineer & Environment,AF,,2021-04-30T11:38:47.43
+AF3Y,Air Force Frequency Management Agency,AF,,2021-04-30T11:38:47.443
+AFNG,Air National Guard Units,AF,,2021-04-30T11:38:47.637
+AFZG,U.S. Special Operations Command (ANG),AF,,2021-04-30T11:38:47.65
+AFZS,"Air Force, Special Operations Command",AF,,2021-04-30T11:38:47.66
+AG01,Office of the Secretary of Agriculture,AG,,2021-04-30T11:38:44.91
+AG02,Agricultural Marketing Service,AG,AMS,2021-04-30T11:38:44.923
+AG03,Agricultural Research Service,AG,ARS,2021-04-30T11:38:44.933
+AG07,"Agriculture, Rural Development",AG,,2021-04-30T11:38:44.947
+AG08,Risk Management Agency,AG,RMA,2021-04-30T11:38:44.957
+AG10,Foreign Agricultural Service,AG,FAS,2021-04-30T11:38:44.97
+AG11,Forest Service,AG,FS,2021-04-30T11:38:44.983
+AG13,Office of Communications,AG,,2021-04-30T11:38:44.993
+AG14,Office of the General Counsel,AG,,2021-04-30T11:38:45.007
+AG15,Rural Utilities Service,AG,,2021-04-30T11:38:45.023
+AG16,Natural Resources Conservation Service,AG,NRCS,2021-04-30T11:38:45.03
+AG18,Economic Research Service,AG,ERS,2021-04-30T11:38:45.043
+AG20,National Agricultural Statistics Service,AG,NASS,2021-04-30T11:38:45.053
+AG22,National Institute of Food and Agriculture,AG,NIFA,2021-04-30T11:38:45.063
+AG23,Office of the Inspector General,AG,OIG,2021-04-30T11:38:45.077
+AG32,Rural Business-Cooperative Service,AG,,2021-04-30T11:38:45.097
+AG34,Animal and Plant Health Inspection Service,AG,APHIS,2021-04-30T11:38:45.107
+AG36,"Grain Inspection, Packers and Stockyards Administration",AG,GIPSA,2021-04-30T11:38:45.117
+AG37,Food Safety and Inspection Service,AG,FSIS,2021-04-30T11:38:45.127
+AG38,Office of the Chief Economist,AG,,2021-04-30T11:38:45.137
+AG42,Office of Budget and Program Analysis,AG,,2021-04-30T11:38:45.147
+AG90,"Agriculture, Office of the Chief Financial Officer",AG,,2021-04-30T11:38:45.16
+AGCR,Civil Rights,AG,,2021-04-30T11:38:45.21
+AGDA,Departmental Administration,AG,,2021-04-30T11:38:45.227
+AGES,Office of the Executive Secretariat,AG,,2021-04-30T11:38:45.26
+AGFA,Farm Service Agency,AG,FSA,2021-04-30T11:38:45.273
+AGIT,Office of the Chief Information Officer,AG,,2021-04-30T11:38:45.31
+AGNA,Office of Hearings and Appeals,AG,,2021-04-30T11:38:45.33
+ARAS,U.S. Army Intelligence and Security Command,AR,,2021-04-30T11:38:47.823
+ARAT,U.S. Army Test and Evaluation Command,AR,,2021-04-30T11:38:47.833
+ARBA,Army Installation Management Command,AR,,2021-04-30T11:38:47.857
+ARCB,United States Army Criminal Investigation Division,AR,,2024-01-05T10:40:47.953
+ARCS,Office of the Chief of Staff of the Army,AR,,2021-04-30T11:38:47.91
+ARE0,59th Ordnance Brigade,AR,,2021-04-30T11:38:47.937
+ARE1,Immediate Office of the Commander-in-Chief of the U.S. Army,AR,,2021-04-30T11:38:47.947
+ARE2,21st Theater Sustainment Command (TSC),AR,,2021-04-30T11:38:47.96
+ARE3,United States Army Europe and Africa,AR,,2022-01-07T10:43:14.243
+ARE5,U.S. Army V Corps,AR,,2021-04-30T11:38:47.983
+AREB,1st Personnel Command,AR,,2021-04-30T11:38:48
+ARED,"U.S. Military Community Activity, Heidelberg",AR,,2021-04-30T11:38:48.013
+AREN,Seventh Army Training Command,AR,,2021-04-30T11:38:48.027
+ARFC,U.S. Army Forces Command,AR,,2021-04-30T11:38:48.05
+ARGB,Office of the Chief of the National Guard Bureau,AR,,2021-04-30T11:38:48.087
+ARHR,U.S. Army Reserve Command,AR,,2021-04-30T11:38:48.11
+ARHS,U.S. Army Health Services Command,AR,,2021-04-30T11:38:48.127
+ARJ1,U.S. Army Element SHAPE,AR,,2021-04-30T11:38:48.143
+ARJA,Joint Activities,AR,,2021-04-30T11:38:48.177
+ARMA,U.S. Military Academy,AR,,2021-04-30T11:38:48.233
+ARMC,U.S. Army Medical Command,AR,,2021-04-30T11:38:48.26
+ARMD,Surgeon General,AR,,2021-04-30T11:38:48.273
+ARMW,U.S. Army Military District of Washington,AR,,2021-04-30T11:38:48.307
+ARNG,Army National Guard Units,AR,,2021-04-30T11:38:48.327
+ARP1,"U.S. Army, Pacific",AR,,2021-04-30T11:38:48.343
+ARP8,Eighth U.S. Army,AR,,2021-04-30T11:38:48.36
+ARSA,Office of the Secretary of the Army,AR,,2021-04-30T11:38:48.407
+ARSB,Field Operating Offices of the Office of the Secretary of the Army,AR,,2021-04-30T11:38:48.417
+ARSC,U.S. Army Space and Missile Defense Command/U. S. Army Forces Strategic Command,AR,,2021-04-30T11:38:48.427
+ARSE,HQDA Field Operating Agencies and Staff Support Agencies,AR,,2021-04-30T11:38:48.437
+ARSF,Miscellaneous Field Operating Agencies,AR,,2021-04-30T11:38:48.45
+ARSJ,"Joint Services and Activities Supported by the Office, Secretary of the Army",AR,,2021-04-30T11:38:48.463
+ARSP,U.S. Special Operations Command (Army),AR,,2021-04-30T11:38:48.483
+ARSU,U.S. Army Southern Command,AR,,2021-04-30T11:38:48.503
+ARTC,U.S. Army Training and Doctrine Command,AR,,2021-04-30T11:38:48.527
+ARX2,"Headquarters, AMC",AR,,2021-04-30T11:38:48.567
+ARX3,"Headquarters, Staff Support Activities, AMC",AR,,2021-04-30T11:38:48.577
+ARX4,"Training Activities, AMC",AR,,2021-04-30T11:38:48.587
+ARX6,U.S. Army Aviation and Missile Command,AR,,2021-04-30T11:38:48.61
+ARX7,Army Tank-Automotive and Armament Command (TACOM),AR,,2021-04-30T11:38:48.62
+ARX8,U.S. Army Communications Electronics Command,AR,,2021-04-30T11:38:48.63
+ARX9,United States Army Medical Logistics Command,AR,,2021-04-30T11:38:48.643
+ARXA,United States Army Installation Management Command,AR,,2021-06-24T09:22:04.783
+ARXB,U.S. Army Chemical Materials Activity,AR,,2021-04-30T11:38:48.667
+ARXC,U.S. Army Sustainment Command,AR,,2021-04-30T11:38:48.677
+ARXD,U.S. Army Contracting Command,AR,,2021-04-30T11:38:48.687
+ARXK,Materiel Acquisition Activities,AR,,2021-04-30T11:38:48.723
+ARXL,Materiel Acquisition Project Managers,AR,,2021-04-30T11:38:48.737
+ARXP,U.S. Army Security Assistance Command,AR,,2021-04-30T11:38:48.75
+ARXQ,U.S. Army Joint Munitions Command,AR,,2021-04-30T11:38:48.76
+ARXT,U.S. Army Military Surface Deployment and Distribution Command,AR,,2021-04-30T11:38:48.777
+ARXX,U.S. Army Data Analysis Center,AR,,2024-07-05T14:51:56.22
+CM33,Technology Administration,CM,,2021-04-30T11:38:45.883
+CM51,Office of the Secretary,CM,,2021-04-30T11:38:45.897
+CM52,Economic Development Administration,CM,EDA,2021-04-30T11:38:45.903
+CM53,Bureau of Economic Analysis,CM,BEA,2021-04-30T11:38:45.913
+CM54,National Oceanic and Atmospheric Administration,CM,NOAA,2021-04-30T11:38:45.923
+CM55,"Commerce, International Trade Administration",CM,ITA,2021-04-30T11:38:45.937
+CM56,Patent and Trademark Office,CM,USPTO,2021-04-30T11:38:45.947
+CM57,National Institute of Standards and Technology,CM,NIST,2021-04-30T11:38:45.96
+CM59,Minority Business Development Agency,CM,MBDA,2021-04-30T11:38:45.973
+CM61,National Telecommunications and Information Administration,CM,NTIA,2021-04-30T11:38:45.987
+CM62,National Technical Information Service,CM,NTIS,2021-04-30T11:38:46
+CM63,U.S. Census Bureau,CM,USCB,2021-04-30T11:38:46.017
+CM64,Office of the Inspector General,CM,OIG,2021-04-30T11:38:46.03
+CM65,Economics and Statistics Administration,CM,ESA,2021-04-30T11:38:46.043
+CM67,Bureau of Industry and Security,CM,BIS,2021-04-30T11:38:46.057
+DD01,Office of the Secretary of Defense,DD,,2021-04-30T11:38:48.86
+DD02,Organization of the Joint Chiefs of Staff,DD,JCS,2021-04-30T11:38:48.873
+DD04,Defense Information Systems Agency,DD,DISA,2021-04-30T11:38:48.883
+DD05,Defense Intelligence Agency,DD,DIA,2021-04-30T11:38:48.893
+DD06,Defense Security Cooperation Agency,DD,DSCA,2021-04-30T11:38:48.903
+DD07,Defense Logistics Agency,DD,DLA,2021-04-30T11:38:48.913
+DD08,U.S. Court of Appeals for the Armed Forces,DD,CAAF,2021-04-30T11:38:48.927
+DD10,Defense Contract Audit Agency,DD,DCAA,2021-04-30T11:38:48.947
+DD11,National Geospatial-Intelligence Agency,DD,NGA,2021-04-30T11:38:48.957
+DD12,Defense Counterintelligence and Security Agency,DD,DCSA,2024-12-20T15:35:02.617
+DD13,Defense Advanced Research Projects Agency,DD,DARPA,2021-04-30T11:38:48.977
+DD15,Uniformed Services University of the Health Sciences,DD,USU,2021-04-30T11:38:48.983
+DD16,Department of Defense Education Activity,DD,DODEA,2021-04-30T11:38:48.993
+DD21,Washington Headquarters Services,DD,WHS,2021-04-30T11:38:49.01
+DD23,Office of the Local Defense Community Corporation,DD,,2021-10-29T10:42:50.21
+DD25,Defense Legal Services Agency,DD,DLSA,2021-04-30T11:38:49.03
+DD26,Office of Inspector General,DD,OIG,2021-04-30T11:38:49.037
+DD27,Missile Defense Agency,DD,MDA,2021-04-30T11:38:49.05
+DD28,National Security Agency/Central Security Service,DD,NSA,2021-04-30T11:38:49.063
+DD29,Defense Technology Security Administration,DD,,2021-04-30T11:38:49.073
+DD34,Defense Commissary Agency,DD,DECA,2021-04-30T11:38:49.083
+DD35,Defense Finance and Accounting Service,DD,DFAS,2021-04-30T11:38:49.1
+DD36,Army and Air Force Exchange Service (nonappropriated fund),DD,,2021-04-30T11:38:49.113
+DD48,Defense Human Resources Activity,DD,,2021-04-30T11:38:49.123
+DD58,Defense POW/MIA Accounting Agency,DD,,2025-05-23T14:35:46.967
+DD59,Consolidated Metropolitan Technical Personnel Center,DD,,2021-04-30T11:38:49.17
+DD60,Defense Health Agency,DD,,2022-01-07T10:43:14.29
+DD61,Defense Threat Reduction Agency,DD,DTRA,2021-04-30T11:38:49.19
+DD62,Defense Career Management and Support Agency,DD,,2021-04-30T11:38:49.2
+DD63,Defense Contract Management Agency,DD,DCMA,2021-04-30T11:38:49.21
+DD64,Eastern Regional Support Center,DD,,2021-04-30T11:38:49.217
+DD65,Pentagon Force Protection Agency,DD,PFPA,2021-04-30T11:38:49.227
+DD66,Department of Defense Counterintelligence Field Activity,DD,,2021-04-30T11:38:49.237
+DJ01,"Offices, Boards and Divisions",DJ,,2021-04-30T11:38:49.943
+DJ02,Federal Bureau of Investigation,DJ,FBI,2021-04-30T11:38:49.953
+DJ03,"Justice, Bureau of Prisons/Federal Prison System",DJ,BOP,2021-04-30T11:38:49.963
+DJ06,Drug Enforcement Administration,DJ,DEA,2021-04-30T11:38:49.973
+DJ07,Office of Justice Programs,DJ,OJP,2021-04-30T11:38:49.987
+DJ08,U.S. Marshals Service,DJ,USMS,2021-04-30T11:38:49.997
+DJ09,Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,DJ,,2021-04-30T11:38:50.01
+DJ10,Office of the Inspector General,DJ,OIG,2024-07-19T14:34:10.947
+DJ11,U.S. Trustee Program,DJ,,2024-07-19T14:34:10.97
+DJ12,Executive Office for Immigration Review,DJ,EOIR,2021-04-30T11:38:50.05
+DJ14,Community Relations Service,DJ,,2021-04-30T11:38:50.063
+DJ15,"Bureau of Alcohol, Tobacco, Firearms, and Explosives",DJ,ATF,2021-04-30T11:38:50.073
+DLAA,Office of the Secretary of Labor,DL,,2021-04-30T11:38:50.143
+DLAM,Office of the Assistant Secretary for Administration and Management,DL,,2021-04-30T11:38:50.157
+DLBL,Bureau of International Labor Affairs,DL,ILAB,2021-04-30T11:38:50.17
+DLCA,Office of Congressional and Intergovernmental Affairs,DL,,2021-04-30T11:38:50.18
+DLCF,Office of the Chief Financial Officer,DL,,2021-04-30T11:38:50.193
+DLEH,Office of Disability Employment Policy,DL,ODEP,2021-04-30T11:38:50.21
+DLES,Employment Standards Administration,DL,,2021-04-30T11:38:50.227
+DLET,Employment and Training Administration,DL,ETA,2021-04-30T11:38:50.24
+DLIG,Office of Inspector General,DL,OIG,2022-04-01T10:39:18.97
+DLLS,Bureau of Labor Statistics,DL,BLS,2021-04-30T11:38:50.277
+DLMS,Mine Safety and Health Administration,DL,MSHA,2021-04-30T11:38:50.287
+DLPA,Office of Public Affairs,DL,,2021-04-30T11:38:50.353
+DLPE,Office of the Assistant Secretary for Policy,DL,,2021-04-30T11:38:50.363
+DLPW,Employee Benefits Security Administration,DL,EBSA,2021-04-30T11:38:50.373
+DLSH,Occupational Safety and Health Administration,DL,,2021-04-30T11:38:50.393
+DLSL,Office of the Solicitor,DL,,2021-04-30T11:38:50.403
+DLVE,Veterans' Employment and Training Service,DL,VETS,2024-10-11T14:45:12.577
+DLWB,Women's Bureau,DL,WB,2021-04-30T11:38:50.427
+EDEA,Immediate Office of the Secretary of Education,ED,,2021-04-30T11:38:50.643
+EDEB,Office of the Deputy Secretary of Education,ED,,2021-04-30T11:38:50.653
+EDEC,Office for Civil Rights,ED,OCR,2021-04-30T11:38:50.667
+EDEE,Office of the Under Secretary,ED,,2021-04-30T11:38:50.687
+EDEF,Office of Inspector General,ED,OIG,2021-04-30T11:38:50.703
+EDEG,Office of the General Counsel,ED,,2021-04-30T11:38:50.713
+EDEH,Office of Special Education and Rehabilitative Services,ED,,2021-04-30T11:38:50.727
+EDEI,Office of the Chief Information Officer,ED,,2021-04-30T11:38:50.737
+EDEJ,Office of Legislation and Congressional Affairs,ED,,2021-04-30T11:38:50.747
+EDEK,Office of Finance and Operations,ED,,2021-04-30T11:38:50.76
+EDEL,Office of the Chief Financial Officer,ED,,2021-04-30T11:38:50.773
+EDEM,Office of Management,ED,,2021-04-30T11:38:50.783
+EDEN,Federal Student Aid,ED,FAFSC,2021-04-30T11:38:50.797
+EDEP,Office of Postsecondary Education,ED,,2021-04-30T11:38:50.813
+EDEQ,Office of Safe and Drug-Free Schools,ED,,2021-04-30T11:38:50.823
+EDER,Institute of Education Sciences,ED,IES,2021-04-30T11:38:50.833
+EDES,Office of Elementary and Secondary Education,ED,OESE,2021-04-30T11:38:50.843
+EDET,Office of English Language Acquisition,ED,OELA,2021-04-30T11:38:50.853
+EDEU,Office of Innovation and Improvement,ED,OII,2021-04-30T11:38:50.863
+EDEV,"Office of Career, Technical, and Adult Education",ED,,2021-04-30T11:38:50.877
+EDEX,National Institute for Literacy,ED,,2021-04-30T11:38:50.887
+EDEY,Advisory Councils and Committees,ED,,2021-04-30T11:38:50.897
+EDEZ,National Assessment Governing Board,ED,,2021-04-30T11:38:50.907
+GS01,Immediate Office of the Administrator,GS,,2021-04-30T11:38:51.86
+GS03,Public Buildings Service,GS,,2021-04-30T11:38:51.897
+GS04,Office of Civil Rights,GS,,2021-04-30T11:38:51.913
+GS10,Office of Small Business Utilization,GS,,2021-04-30T11:38:51.923
+GS11,Office of the Chief Financial Officer,GS,,2021-04-30T11:38:51.933
+GS12,Office of General Counsel,GS,,2021-04-30T11:38:51.943
+GS13,Civilian Board of Contract Appeals,GS,,2021-04-30T11:38:51.953
+GS14,Office of Human Resources Management,GS,,2021-04-30T11:38:51.963
+GS15,Office of Inspector General,GS,OIG,2021-04-30T11:38:51.973
+GS19,Office of Citizen Services and Innovative Technologies,GS,,2021-04-30T11:38:52
+GS20,Office of Congressional and Intergovernmental Affairs,GS,,2021-04-30T11:38:52.01
+GS22,Offices of the Regional Administrators,GS,,2021-04-30T11:38:52.037
+GS26,Office of Governmentwide Policy,GS,,2021-04-30T11:38:52.077
+GS28,Office of the Chief Information Officer,GS,,2021-04-30T11:38:52.097
+GS29,Office of Childcare,GS,,2021-04-30T11:38:52.11
+HE10,Office of the Secretary of Health and Human Services,HE,,2021-04-30T11:38:52.403
+HE11,Program Support Center,HE,,2021-04-30T11:38:52.42
+HE12,Administration for Community Living,HE,,2021-04-30T11:38:52.43
+HE31,Office of the Assistant Secretary for Health,HE,,2023-07-07T10:45:39.37
+HE32,Substance Abuse and Mental Health Services Administration,HE,SAMHSA,2021-04-30T11:38:52.507
+HE33,Agency for Healthcare Research and Quality,HE,AHRQ,2021-04-30T11:38:52.563
+HE34,Health Resources and Services Administration,HE,HRSA,2021-04-30T11:38:52.597
+HE35,Agency for Toxic Substances and Disease Registry,HE,ATSDR,2021-04-30T11:38:52.607
+HE36,Food and Drug Administration,HE,FDA,2021-04-30T11:38:52.62
+HE37,Indian Health Service,HE,IHS,2021-04-30T11:38:52.63
+HE38,National Institutes of Health,HE,NIH,2021-04-30T11:38:52.64
+HE39,Centers for Disease Control and Prevention,HE,CDC,2021-04-30T11:38:52.653
+HE70,Centers for Medicare & Medicaid Services,HE,CMS,2021-04-30T11:38:52.663
+HE90,Administration for Children and Families,HE,ACF,2021-04-30T11:38:52.673
+HSAA,DHS Headquarters,HS,,2021-04-30T11:38:52.973
+HSAB,Citizenship and Immigration Services,HS,USCIS,2021-04-30T11:38:52.983
+HSAC,U.S. Coast Guard,HS,USCG,2021-04-30T11:38:52.993
+HSAD,U.S. Secret Service,HS,USSS,2021-04-30T11:38:53.003
+HSAE,Office of the Inspector General,HS,OIG,2021-04-30T11:38:53.013
+HSBB,Immigration and Customs Enforcement,HS,ICE,2021-04-30T11:38:53.033
+HSBC,Transportation Security Administration,HS,TSA,2021-04-30T11:38:53.043
+HSBD,Customs and Border Protection,HS,CBP,2021-04-30T11:38:53.053
+HSBE,Federal Law Enforcement Training Centers,HS,FLETC,2021-04-30T11:38:53.063
+HSCA,Cybersecurity and Infrastructure Security Agency,HS,,2021-04-30T11:38:53.073
+HSCB,Federal Emergency Management Agency,HS,FEMA,2021-04-30T11:38:53.087
+HSDA,Domestic Nuclear Detection Office,HS,,2021-04-30T11:38:53.097
+HSFA,Science and Technology Directorate,HS,,2021-04-30T11:38:53.143
+HU01,Office of the Senior Coordinator for New England,HU,,2021-04-30T11:38:53.233
+HU02,Office of the Senior Coordinator for New York/New Jersey,HU,,2021-04-30T11:38:53.243
+HU03,Office of the Senior Coordinator for Mid-Atlantic,HU,,2021-04-30T11:38:53.25
+HU04,Office of the Senior Coordinator for Southeast/Caribbean,HU,,2021-04-30T11:38:53.263
+HU05,Office of the Senior Coordinator for Midwest,HU,,2021-04-30T11:38:53.273
+HU06,Office of the Senior Coordinator for Southwest,HU,,2021-04-30T11:38:53.287
+HU07,Office of the Senior Coordinator for Great Plains,HU,,2021-04-30T11:38:53.297
+HU08,Office of the Senior Coordinator for Rocky Mountains,HU,,2021-04-30T11:38:53.307
+HU09,Office of the Senior Coordinator for Pacific/Hawaii,HU,,2021-04-30T11:38:53.317
+HU10,Office of the Senior Coordinator for Northwest/Alaska,HU,,2021-04-30T11:38:53.327
+HUAA,Office of the Secretary of Housing and Urban Development,HU,,2021-04-30T11:38:53.34
+HUBB,Office of the Chief Human Capital Officer,HU,,2021-04-30T11:38:53.37
+HUCC,Office of General Counsel,HU,,2021-04-30T11:38:53.38
+HUDD,Assistant Secretary for Community Planning and Development,HU,,2021-04-30T11:38:53.39
+HUEE,Assistant Secretary for Fair Housing and Equal Opportunity,HU,,2021-04-30T11:38:53.4
+HUFF,Office of the Chief Financial Officer,HU,,2021-04-30T11:38:53.41
+HUGG,Office of Inspector General,HU,OIG,2021-04-30T11:38:53.43
+HUII,Office of Departmental Operations and Coordination,HU,,2021-04-30T11:38:53.44
+HUJJ,Assistant Secretary for Congressional and Intergovernmental Relations,HU,,2021-04-30T11:38:53.463
+HUKA,Center for Faith-Based and Community Initiatives,HU,,2021-04-30T11:38:53.473
+HUKK,Office of Field Policy and Management,HU,,2021-04-30T11:38:53.483
+HULL,Office of Healthy Homes and Lead Hazard Control,HU,OHHLHC,2021-04-30T11:38:53.497
+HUMM,Assistant Secretary for Housing-Federal Housing Commissioner,HU,,2021-04-30T11:38:53.507
+HUNN,Office of the Chief Procurement Officer,HU,,2021-04-30T11:38:53.517
+HUPP,Assistant Secretary for Public and Indian Housing,HU,PIH,2021-04-30T11:38:53.54
+HUQQ,Office of the Chief Information Officer,HU,,2021-04-30T11:38:53.55
+HURR,Assistant Secretary for Policy Development and Research,HU,,2021-04-30T11:38:53.577
+HUTT,Government National Mortgage Association (Ginnie Mae),HU,GNMA,2021-04-30T11:38:53.587
+HUUU,Office of Departmental Equal Employment Opportunity,HU,,2021-04-30T11:38:53.6
+HUVV,Office of Disaster Management and National Security,HU,,2021-04-30T11:38:53.61
+HUWW,Assistant Secretary for Public Affairs,HU,,2021-04-30T11:38:53.62
+HUXX,Office of Strategic Planning and Management,HU,,2021-04-30T11:38:53.633
+HUYY,Office of Sustainable Housing and Communities,HU,,2021-04-30T11:38:53.643
+IN01,Office of the Secretary of the Interior,IN,,2021-04-30T11:38:53.76
+IN05,Bureau of Land Management,IN,BLM,2021-04-30T11:38:53.77
+IN06,"Interior, Bureau of Indian Affairs",IN,BIA,2021-04-30T11:38:53.78
+IN07,Bureau of Reclamation,IN,USBR,2021-04-30T11:38:53.79
+IN08,Geological Survey,IN,USGS,2021-04-30T11:38:53.8
+IN10,National Park Service,IN,NPS,2021-04-30T11:38:53.81
+IN15,U.S. Fish and Wildlife Service,IN,FWS,2021-07-30T12:26:33.92
+IN21,Office of the Solicitor,IN,,2021-04-30T11:38:53.83
+IN22,Office of Surface Mining Reclamation and Enforcement,IN,,2021-04-30T11:38:53.837
+IN23,"Bureau of Ocean Energy Management, Regulation, and Enforcement",IN,,2021-04-30T11:38:53.847
+IN24,Office of Inspector General,IN,OIG,2022-07-07T10:41:10.823
+NN10,"Headquarters, NASA",NN,,2021-04-30T11:38:54.687
+NN21,Ames Research Center,NN,,2021-04-30T11:38:54.7
+NN22,John Glenn Research Center at Lewis Field,NN,,2021-04-30T11:38:54.707
+NN23,Langley Research Center,NN,,2021-04-30T11:38:54.717
+NN24,Armstrong Flight Research Center,NN,,2021-04-30T11:38:54.727
+NN51,Goddard Space Flight Center,NN,,2021-04-30T11:38:54.737
+NN62,George C. Marshall Space Flight Center,NN,,2021-04-30T11:38:54.747
+NN64,John C. Stennis Space Center,NN,,2021-04-30T11:38:54.757
+NN72,Lyndon B. Johnson Space Center,NN,,2021-04-30T11:38:54.767
+NN73,Space Station Program Office,NN,,2021-04-30T11:38:54.777
+NN76,John F. Kennedy Space Center,NN,,2021-04-30T11:38:54.79
+NV08,Immediate Office of the Secretary of the Navy,NV,,2021-04-30T11:38:49.487
+NV09,Navy Staff Offices,NV,,2021-04-30T11:38:49.5
+NV10,Navy Field Offices,NV,,2021-04-30T11:38:49.51
+NV11,Immediate Office of the Chief of Naval Operations,NV,,2021-04-30T11:38:49.523
+NV12,Secretary of the Navy Offices (SECNAV),NV,,2021-04-30T11:38:49.533
+NV14,Office of Naval Research,NV,,2021-04-30T11:38:49.543
+NV15,Naval Intelligence Activity,NV,,2025-12-19T15:33:32.05
+NV18,Naval Medical Command,NV,,2021-04-30T11:38:49.567
+NV19,Naval Air Systems Command,NV,,2021-04-30T11:38:49.58
+NV22,Bureau of Naval Personnel,NV,,2021-04-30T11:38:49.593
+NV23,Naval Supply Systems Command,NV,,2021-04-30T11:38:49.607
+NV24,Naval Sea Systems Command,NV,NAVSEA,2021-04-30T11:38:49.62
+NV25,Naval Facilities Engineering Systems Command,NV,NAVFAC,2022-10-31T10:44:49.017
+NV27,U.S. Marine Corps,NV,,2021-04-30T11:38:49.643
+NV30,STRATEGIC SYSTEMS PROGRAMS (SSP),NV,,2021-04-30T11:38:49.657
+NV33,Military Sealift Command,NV,,2021-04-30T11:38:49.67
+NV39,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",NV,,2021-04-30T11:38:49.683
+NV41,Naval Systems Management Activity,NV,,2024-07-19T14:34:10.89
+NV60,United States Fleet Forces Command,NV,,2021-04-30T11:38:49.72
+NV61,"U.S. Naval Forces, Europe",NV,,2021-04-30T11:38:49.733
+NV62,Chief of Naval Education and Training,NV,,2021-04-30T11:38:49.747
+NV65,Naval Meteorology and Oceanography Command,NV,,2021-04-30T11:38:49.77
+NV69,Naval Security Group Command,NV,,2021-04-30T11:38:49.78
+NV70,U.S. Pacific Fleet,NV,,2021-04-30T11:38:49.793
+NV72,Navy Reserve Force,NV,,2025-02-28T15:37:00.97
+NV74,Naval Special Warfare Command,NV,,2021-04-30T11:38:49.817
+NVZS,U.S. Special Operations Command (Navy),NV,,2021-04-30T11:38:49.873
+RH00,Armed Forces Retirement Home,OT,AFRH,2021-04-30T11:38:55.22
+TD01,Office of the Secretary of Transportation,TD,,2021-04-30T11:38:55.787
+TD03,Federal Aviation Administration,TD,FAA,2021-04-30T11:38:55.8
+TD04,Federal Highway Administration,TD,FHWA,2021-04-30T11:38:55.81
+TD05,Federal Railroad Administration,TD,FRA,2021-04-30T11:38:55.827
+TD06,Great Lakes Saint Lawrence Seaway Development Corporation,TD,SLSDC,2021-09-20T15:26:07.273
+TD09,Federal Transit Administration,TD,FTA,2021-04-30T11:38:55.847
+TD10,National Highway Traffic Safety Administration,TD,NHTSA,2021-04-30T11:38:55.857
+TD11,Research and Innovative Technology Administration,TD,RITA,2021-04-30T11:38:55.867
+TD12,Office of Inspector General,TD,OIG,2021-04-30T11:38:55.877
+TD13,Maritime Administration,TD,MARAD,2021-04-30T11:38:55.887
+TD16,Pipeline and Hazardous Materials Safety Administration,TD,PHMSA,2021-04-30T11:38:55.907
+TD17,Federal Motor Carrier Safety Administration,TD,FMCSA,2021-04-30T11:38:55.917
+TR35,Office of Thrift Supervision,TR,,2021-04-30T11:38:56
+TR40,Alcohol and Tobacco Tax and Trade Bureau,TR,TTB,2021-04-30T11:38:56.033
+TR91,"Treasury, Departmental Offices",TR,,2021-04-30T11:38:56.043
+TR93,Internal Revenue Service,TR,IRS,2021-04-30T11:38:56.057
+TR95,Office of Inspector General,TR,OIG,2021-04-30T11:38:56.067
+TRAA,Bureau of the Fiscal Service (FMS),TR,,2021-04-30T11:38:56.073
+TRAB,Bureau of the Fiscal Service (BPD),TR,,2021-04-30T11:38:56.087
+TRAD,U.S. Mint,TR,,2021-04-30T11:38:56.097
+TRAF,"Treasury, Financial Crimes Enforcement Network",TR,,2021-04-30T11:38:56.107
+TRAI,Bureau of Engraving and Printing,TR,BEP,2021-04-30T11:38:56.117
+TRAJ,Office of the Comptroller of the Currency,TR,OCC,2021-04-30T11:38:56.127
+TRTG,Office of the Inspector General for Tax Administration,TR,OIG,2021-04-30T11:38:56.18
+VAAA,Office of the Secretary,VA,,2021-04-30T11:38:56.303
+VAAD,Board of Veterans' Appeals,VA,,2023-09-29T10:46:04.29
+VAAE,General Counsel,VA,,2021-04-30T11:38:56.337
+VAAF,"Veterans Affairs, Inspector General",VA,OIG,2021-04-30T11:38:56.35
+VABA,Immediate Office of the Assistant Secretary for Human Resources and Administration,VA,,2021-04-30T11:38:56.37
+VABC,Office of the Chief Human Capital Officer,VA,,2021-09-17T10:40:33.737
+VABE,Deputy Assistant Secretary for Administration,VA,,2021-04-30T11:38:56.413
+VABF,Deputy Assistant Secretary for Office of Resolution Management,VA,,2021-04-30T11:38:56.423
+VABG,Deputy Assistant Secretary for Corporate Senior Executive Management,VA,,2021-04-30T11:38:56.433
+VADA,Immediate Office of the Assistant Secretary for Management,VA,,2021-04-30T11:38:56.487
+VADC,Deputy Assistant Secretary for Budget,VA,,2021-04-30T11:38:56.5
+VADD,Deputy Assistant Secretary for Finance,VA,,2021-04-30T11:38:56.51
+VADG,"Executive Director, Office of Acquisition and Logistics",VA,,2021-04-30T11:38:56.52
+VAEA,Immediate Office of the Assistant Secretary for Information and Technology,VA,,2021-04-30T11:38:56.533
+VAEB,Deputy Assistant Secretary for Information and Technology,VA,,2021-04-30T11:38:56.543
+VAHA,Office of Enterprise Integration,VA,,2021-04-30T11:38:56.613
+VAHB,Deputy Assistant Secretary for Program and Data Analysis,VA,,2021-04-30T11:38:56.623
+VAHC,Deputy Assistant Secretary for Planning and Evaluation,VA,,2021-04-30T11:38:56.633
+VAHD,National Center for Veteran Analysis and Statistics,VA,,2021-04-30T11:38:56.643
+VAJA,Office of the Assistant Secretary for Public and Intergovernmental Affairs,VA,,2021-04-30T11:38:56.723
+VAJB,Deputy Assistant Secretary for Intergovernmental Affairs,VA,,2021-04-30T11:38:56.733
+VAJC,Deputy Assistant Secretary for Public Affairs,VA,,2021-04-30T11:38:56.743
+VAKA,Immediate Office of the Assistant Secretary for Congressional and Legislative Affairs,VA,,2021-04-30T11:38:56.763
+VAKB,Deputy Assistant Secretary for Congressional Affairs,VA,,2021-04-30T11:38:56.777
+VALA,Veterans Benefits Administration,VA,VBA,2021-04-30T11:38:56.793
+VAPA,National Cemetery Administration,VA,NCA,2021-04-30T11:38:56.803
+VATA,Veterans Health Administration,VA,VHA,2021-04-30T11:38:56.823
+AB00,American Battle Monuments Commission,OT,ABMC,2021-04-30T11:38:44.88
+AH01,National Endowment for the Arts,AH,NEA,2021-04-30T11:38:45.397
+AH02,National Endowment for the Humanities,AH,NEH,2021-04-30T11:38:45.41
+AH03,Institute of Museum and Library Services,AH,IMLS,2025-12-05T15:33:44.36
+AP00,Appalachian Regional Commission,OT,ARC,2021-04-30T11:38:45.507
+AU00,Federal Labor Relations Authority,OT,FLRA,2021-04-30T11:38:45.53
+BD00,Merit Systems Protection Board,OT,MSPB,2021-04-30T11:38:45.567
+BF00,Defense Nuclear Facilities Safety Board,OT,DNSFB,2021-04-30T11:38:45.587
+BG00,Pension Benefit Guaranty Corporation,OT,PBGC,2021-04-30T11:38:45.613
+BH00,Commission for the Preservation of America's Heritage Abroad,OT,,2021-04-30T11:38:45.637
+BJ00,Illinois and Michigan Canal National Heritage Corridor Commission,OT,IMCNHC,2021-04-30T11:38:45.66
+BO00,Office of Management and Budget,EOP,OMB,2021-04-30T11:38:51.007
+BT00,Architectural and Transportation Barriers Compliance Board,OT,,2021-04-30T11:38:45.703
+BW00,Nuclear Waste Technical Review Board,OT,NWTRB,2021-04-30T11:38:45.727
+BZ00,Christopher Columbus Fellowship Foundation,OT,,2021-04-30T11:38:45.747
+CC00,Commission on Civil Rights,OT,USCCR,2021-04-30T11:38:45.767
+CE00,Council of Economic Advisers,EOP,CEA,2021-04-30T11:38:51.017
+CF00,Commission of Fine Arts,OT,CFA,2022-02-04T10:44:45.05
+CI00,Central Intelligence Agency,OT,CIA,2021-04-30T11:38:45.857
+CT00,Commodity Futures Trading Commission,OT,CFTC,2021-04-30T11:38:46.197
+CU00,National Credit Union Administration,OT,NCUA,2021-04-30T11:38:46.213
+CX00,National Commission on Libraries and Information Science,OT,,2021-04-30T11:38:46.233
+DC00,Office of Policy Development,EOP,OPDR,2021-04-30T11:38:51.027
+EB00,Export-Import Bank of the United States,OT,EXIM,2021-04-30T11:38:50.613
+EC00,Office of Administration,EOP,,2021-04-30T11:38:51.037
+EE00,Equal Employment Opportunity Commission,OT,EEOC,2021-04-30T11:38:50.947
+EO00,Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation,OT,,2021-04-30T11:38:50.97
+EP00,Environmental Protection Agency,OT,EPA,2021-04-30T11:38:51.197
+EQ00,Council on Environmental Quality/Office of Environmental Quality,EOP,CEQ,2021-04-30T11:38:51.05
+ES00,"Commission on Executive, Legislative, and Judicial Salaries",OT,,2021-04-30T11:38:51.253
+EW00,Trade and Development Agency,OT,USTDA,2021-04-30T11:38:51.273
+EX00,Executive Residence at the White House,EOP,,2021-04-30T11:38:51.063
+FC00,Federal Communications Commission,OT,FCC,2021-04-30T11:38:51.293
+FD00,Federal Deposit Insurance Corporation,OT,FDIC,2021-04-30T11:38:51.343
+FI00,Federal Financial Institutions Examination Council,OT,FFIEC,2021-04-30T11:38:51.363
+FJ00,Chemical Safety and Hazard Investigation Board,OT,CSB,2021-04-30T11:38:51.387
+FL00,Farm Credit Administration,OT,FCA,2021-04-30T11:38:51.427
+FM00,Federal Mediation and Conciliation Service,OT,FMCS,2021-04-30T11:38:51.447
+FQ01,Office of the Director,FQ,,2021-04-30T11:38:51.487
+FQ02,Pretrial Services Agency,FQ,,2021-04-30T11:38:51.5
+FT00,Federal Trade Commission,OT,FTC,2021-04-30T11:38:51.583
+FW00,Office of Special Counsel,OT,OSC,2021-04-30T11:38:51.6
+GB00,Development Finance Corporation,OT,DFC,2024-07-19T14:34:11.363
+GE00,Barry Goldwater Scholarship and Excellence in Education Foundation,OT,,2021-04-30T11:38:51.677
+GG00,Office of Government Ethics,OT,OGE,2021-04-30T11:38:51.697
+GJ00,Presidio Trust,OT,,2025-10-10T14:36:04.16
+GN00,White House Commission on the National Moment of Remembrance,OT,,2021-04-30T11:38:51.783
+GW00,International Boundary and Water Commission: United States and Mexico,OT,,2021-04-30T11:38:52.19
+GX00,International Boundary Commission: United States and Canada,OT,,2021-04-30T11:38:52.227
+HD00,U.S. Holocaust Memorial Museum,OT,USHMM,2021-04-30T11:38:52.313
+HP00,Advisory Council on Historic Preservation,OT,ACHP,2024-12-20T15:35:04.887
+HT00,Harry S. Truman Scholarship Foundation,OT,,2021-04-30T11:38:53.203
+IB00,U.S. Agency for Global Media,OT,USAGM,2021-04-30T11:38:53.69
+JL02,U.S. Courts,JL,,2021-04-30T11:38:54.1
+JL04,Administrative Office of the U.S. Courts,JL,AO,2021-04-30T11:38:54.12
+KS00,AmeriCorps,OT,CNCS,2021-04-30T11:38:54.15
+LA00,Architect of the Capitol,LL,AOC,2021-04-30T11:38:54.203
+LB00,Botanic Garden,LL,USBG,2021-04-30T11:38:54.213
+LC00,Library of Congress,LL,LOC,2021-04-30T11:38:54.223
+LD00,Congressional Budget Office,LL,CBO,2021-04-30T11:38:54.233
+LF00,Federal Election Commission,OT,FEC,2021-04-30T11:38:54.17
+LG00,Government Accountability Office,LL,GAO,2021-04-30T11:38:54.24
+LL01,Senate,LL,,2021-04-30T11:38:54.253
+LL02,House of Representatives,LL,,2021-04-30T11:38:54.263
+LL03,U.S. Capitol Police,LL,USCP,2021-04-30T11:38:54.277
+LP00,Government Publishing Office,LL,GPO,2021-04-30T11:38:54.287
+LQ00,John C. Stennis Center for Public Service Training and Development,LL,,2021-04-30T11:38:54.297
+JL03,U.S. Tax Court,JL,,2021-04-30T11:38:54.11
+MC00,Federal Maritime Commission,OT,FMC,2021-04-30T11:38:54.537
+NF00,National Science Foundation,OT,NSF,2021-04-30T11:38:54.577
+NL00,National Labor Relations Board,OT,NLRB,2021-04-30T11:38:54.647
+NM00,National Mediation Board,OT,NMB,2021-04-30T11:38:54.663
+NP00,National Capital Planning Commission,OT,NCPC,2021-04-30T11:38:54.86
+NQ00,National Archives and Records Administration,OT,NARA,2021-04-30T11:38:54.883
+NS00,National Security Council,EOP,NSC,2021-04-30T11:38:51.1
+NU00,Nuclear Regulatory Commission,OT,NRC,2021-04-30T11:38:54.9
+OM00,Office of Personnel Management,OT,OPM,2021-06-24T09:43:53.827
+OS00,Occupational Safety and Health Review Commission,OT,OSHRC,2021-04-30T11:38:54.997
+OV00,Office of the Vice President,OT,,2021-04-30T11:38:55.013
+PI00,Public International Organization,OT,,2021-04-30T11:38:55.033
+PJ00,Postal Regulatory Commission,OT,PRC,2021-04-30T11:38:55.057
+PO00,U.S. Postal Service,OT,USPS,2021-04-30T11:38:55.077
+PU00,Peace Corps,OT,PC,2021-04-30T11:38:55.117
+QQ00,Office of National Drug Control Policy,EOP,ONDCP,2021-04-30T11:38:51.11
+RF00,Federal Retirement Thrift Investment Board,OT,FRTIB,2021-04-30T11:38:55.157
+RR00,Railroad Retirement Board,OT,RRB,2021-04-30T11:38:55.277
+RS00,Federal Mine Safety and Health Review Commission,OT,FMSHRC,2021-04-30T11:38:55.297
+SB00,Small Business Administration,OT,SBA,2021-04-30T11:38:55.337
+SE00,Securities and Exchange Commission,OT,SEC,2021-04-30T11:38:55.39
+SK00,Consumer Product Safety Commission,OT,CPSC,2021-04-30T11:38:55.41
+SM01,National Gallery of Art,OT,NGA,2021-04-30T11:38:55.453
+SM02,Woodrow Wilson International Center for Scholars,OT,,2021-04-30T11:38:55.473
+SM03,Smithsonian Institution ,OT,SI,2021-04-30T11:38:55.493
+SM04,John F. Kennedy Center for the Performing Arts,OT,,2025-02-28T15:37:02.423
+SS00,Selective Service System,OT,SSS,2021-04-30T11:38:55.537
+SZ00,Social Security Administration,OT,SSA,2021-04-30T11:38:55.643
+TB00,National Transportation Safety Board,OT,NTSB,2021-04-30T11:38:55.737
+TC00,U.S. International Trade Commission,OT,ITC,2021-04-30T11:38:55.757
+TN00,Office of the U.S. Trade Representative,EOP,USTR,2021-04-30T11:38:51.123
+TS00,Office of Science and Technology Policy,EOP,OSTP,2021-04-30T11:38:51.133
+UJ00,Japan-United States Friendship Commission,OT,JUSFC,2021-04-30T11:38:56.257
+UT00,Utah Reclamation Mitigation and Conservation Commission,OT,,2021-04-30T11:38:56.273
+WH01,White House Office,EOP,,2021-04-30T11:38:51.143
+WH03,Office of the President,EOP,,2021-04-30T11:38:51.157
+ZD00,U.S. Court of Appeals for Veterans Claims,LL,CAVC,2021-04-30T11:38:54.363
+ZG00,Office of Congressional Workplace Rights,LL,OCWR,2021-04-30T11:38:54.373
+ZO00,Commission on Security and Cooperation in Europe,LL,CSCE,2021-04-30T11:38:54.417
+ZS00,United States-China Economic and Security Review Commission,LL,,2021-04-30T11:38:54.433
+ZV00,Commission on the People's Republic of China,LL,,2021-04-30T11:38:54.457
+ZX00,Abraham Lincoln Bicentennial Commission,LL,,2021-04-30T11:38:54.483
+ARG6,U.S. Army Network Enterprise Technology Command/9th Army Signal Command,AR,,2021-04-30T11:38:48.073
+NV52,"Commander, Navy Installations",NV,,2021-04-30T11:38:49.707
+DD69,National Defense University,DD,NDU,2021-04-30T11:38:49.263
+NV76,Naval Education and Training Command,NV,,2021-04-30T11:38:49.83
+GQ00,Election Assistance Commission,OT,EAC,2021-04-30T11:38:51.833
+AF1A,"Air Force C2 & Intelligence, Surveillance & Reconnaissance",AF,,2021-04-30T11:38:46.643
+AF3K,"Air Force Elements, U.S. European Command",AF,,2021-04-30T11:38:47.317
+MI00,Millennium Challenge Corporation,OT,MCC,2021-04-30T11:38:54.557
+ARXR,"U.S. Army Research, Development and Engineering Command",AR,,2021-04-30T11:38:48.767
+TD18,Transportation Administrative Service Center,TD,,2021-04-30T11:38:55.93
+DD70,Armed Forces Radiobiology Research Institute,DD,,2021-04-30T11:38:49.273
+DD71,Defense Microelectronics Activity,DD,,2021-04-30T11:38:49.283
+DD72,Pentagon Renovation Program Office,DD,,2021-04-30T11:38:49.297
+DD73,Virginia Contracting Activity,DD,,2021-04-30T11:38:49.31
+GS16,Office of the Chief Acquisition Officer,GS,,2021-04-30T11:38:51.983
+DD74,Defense Technical Information Center,DD,DTIC,2021-04-30T11:38:49.323
+VAKC,Deputy Assistant Secretary for Legislative Affairs,VA,,2021-04-30T11:38:56.783
+VAHE,Deputy Assistant Secretary for Security Preparedness,VA,,2021-04-30T11:38:56.657
+DD68,Department of Defense Test Resource Management Center,DD,,2021-04-30T11:38:49.253
+AF25,Air Force Wide Support Element,AF,,2021-04-30T11:38:46.833
+AF1Y,Air Force Civilian Career Training,AF,,2021-04-30T11:38:46.783
+AF4D,U.S. Northern Command,AF,USNORTHCOM,2021-04-30T11:38:47.493
+AF21,Air Force Nuclear Weapons Agency,AF,,2021-04-30T11:38:46.81
+AF0V,Air Force Special Operations Command,AF,,2021-04-30T11:38:46.533
+AF24,HQ USAF Direct Support Element,AF,,2021-04-30T11:38:46.823
+DD75,Defense Civilian Personnel Advisory Service,DD,,2021-04-30T11:38:49.333
+ARTA,U.S. Army Recruiting Command and U.S. Army Cadet Command,AR,,2023-08-18T10:42:09.74
+ARTW,U.S. Army War College,AR,,2021-04-30T11:38:48.547
+EDEO,Office of Communications and Outreach,ED,,2021-04-30T11:38:50.803
+OI00,Office of the Director of National Intelligence,OT,ODNI,2021-04-30T11:38:54.92
+AF4W,Air Force District of Washington,AF,,2021-04-30T11:38:47.55
+DD77,Business Transformation Agency,DD,,2021-04-30T11:38:49.357
+GS30,Federal Acquisition Service,GS,,2021-04-30T11:38:52.123
+AF35,Air Elements Defense Intelligence Agency,AF,,2021-04-30T11:38:47.193
+DB00,Public Interest Declassification Board,OT,,2021-04-30T11:38:46.273
+EDED,"Office of Planning, Evaluation and Policy Development",ED,,2021-04-30T11:38:50.677
+DD78,Defense Programs Support Activity,DD,,2021-04-30T11:38:49.367
+DQ00,Denali Commission,OT,,2021-04-30T11:38:50.597
+VAGA,"Immediate Office of the Assistant Secretary for Operations, Security, and Preparedness",VA,,2021-04-30T11:38:56.553
+VAGB,Executive Director for Security and Law Enforcement,VA,,2021-04-30T11:38:56.567
+VAGC,Dep Asst Sec for Emergency Mgt & Resilience,VA,,2021-04-30T11:38:56.577
+DNWP,Western Area Power Administration,DN,WAPA,2021-04-30T11:38:50.577
+DD79,Joint Improvised Explosive Device Defeat Organization,DD,,2021-04-30T11:38:49.377
+GS31,"GSA, Office of Mission Assurance",GS,,2021-04-30T11:38:52.13
+DF00,Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects,OT,,2021-04-30T11:38:49.893
+GS32,Office of Strategic Communication,GS,,2022-06-10T10:55:29.003
+AF5J,Air Force Financial Services,AF,,2021-04-30T11:38:47.577
+AF5K,Air Force Petroleum Agency,AF,,2021-04-30T11:38:47.587
+DNSW,Southwestern Power Administration,DN,SWPA,2021-04-30T11:38:50.57
+AR3A,U.S. Army Central,AR,,2021-04-30T11:38:47.71
+AR5A,U.S. Army North,AR,,2021-04-30T11:38:47.723
+ARSO,U.S. Army South,AR,,2021-04-30T11:38:48.473
+AF1K,Air Force Cyber Command,AF,,2021-04-30T11:38:46.7
+AF1R,United States Africa Command,AF,,2021-04-30T11:38:46.75
+IN99,National Indian Gaming Commission,IN,NIGC,2021-04-30T11:38:53.91
+DD80,Defense Media Activity,DD,,2021-04-30T11:38:49.387
+PO01,"Office of the Inspector General, USPS",OT,OIG,2021-04-30T11:38:55.097
+AF12,Air Force Public Affairs Agency,AF,,2021-04-30T11:38:46.57
+AF13,HQ USAF and Support Elements,AF,,2021-04-30T11:38:46.583
+AFGS,Air Force Global Strike Command,AF,,2021-04-30T11:38:47.613
+AF39,Air Force Element OSD,AF,,2021-04-30T11:38:47.23
+JL01,Supreme Court of the United States,JL,,2021-04-30T11:38:54.093
+TR36,Office of the Special Inspector General for the Troubled Asset Relief Program,TR,SIGTARP,2021-05-14T11:04:20.337
+RZ00,Recovery Act Accountability and Transparency Board,OT,,2021-04-30T11:38:55.317
+AG30,Food and Nutrition Service,AG,,2021-04-30T11:38:45.087
+ARAE,U.S. Army Acquisition Support Center,AR,,2021-04-30T11:38:47.767
+DD67,Unified Combatant Command Headquarters,DD,,2021-04-30T11:38:49.243
+DD76,U.S. Transportation Command,DD,TRANSCOM,2021-04-30T11:38:49.347
+DLWH,Wage and Hour Division,DL,,2021-04-30T11:38:50.437
+DLOF,Office of Federal Contract Compliance Programs,DL,,2021-04-30T11:38:50.317
+DLOL,Office of Labor-Management Standards,DL,,2021-04-30T11:38:50.33
+DLOW,Office of Workers' Compensation Programs,DL,,2021-04-30T11:38:50.343
+DNNN,National Nuclear Security Administration,DN,NNSA,2021-04-30T11:38:50.537
+AGEM,Office of Environmental Markets,AG,,2021-04-30T11:38:45.25
+DD81,Defense Acquisition University,DD,DAU,2021-04-30T11:38:49.397
+IN26,Bureau of Safety and Environmental Enforcement,IN,,2021-04-30T11:38:53.87
+IN27,Bureau of Ocean Energy Management,IN,,2021-04-30T11:38:53.88
+YE00,Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism,OT,,2021-04-30T11:38:57.007
+IG00,Council of the Inspectors General on Integrity and Efficiency,OT,,2021-04-30T11:38:53.733
+AA00,Administrative Conference of the United States,OT,ACUS,2021-04-30T11:38:44.86
+DG00,Northern Border Regional Commission,OT,,2021-04-30T11:38:49.91
+RO00,Medicaid and CHIP Payment and Access Commission,OT,,2021-04-30T11:38:55.26
+FRFT,Consumer Financial Protection Bureau,OT,CFPB,2021-04-30T11:38:51.563
+AH,National Foundation on the Arts and the Humanities,,,2021-04-30T11:38:45.383
+AGAO,Office of Partnerships and Public Engagement,AG,,2021-04-30T11:38:45.18
+AGHL,Homeland Security Staff,AG,,2021-04-30T11:38:45.287
+DN03,Bonneville Power Administration,DN,BPA,2021-04-30T11:38:50.48
+ST14,Metropolitan Technical Support Center,ST,,2021-04-30T11:38:55.567
+ST27,Northern Regional Personnel Center,ST,,2021-04-30T11:38:55.577
+ST32,Materiel Acquisition Support Center,ST,,2021-04-30T11:38:55.587
+ST46,Eastern Regional Personnel Center,ST,,2021-04-30T11:38:55.597
+AF20,Air Force Agency for Modeling/Simulation,AF,,2021-04-30T11:38:46.797
+ARAA,U.S. Army Accession Command,AR,,2021-04-30T11:38:47.747
+ARAP,U.S. Military Entrance Processing Command,AR,,2021-04-30T11:38:47.813
+ARCE,U.S. Army Corps of Engineers,AR,USACE,2021-04-30T11:38:47.887
+WHX1,Office of the Former President,EOP,,2021-04-30T11:38:51.167
+WHY1,Office of the President Elect,EOP,,2021-04-30T11:38:51.177
+GK00,Centennial of Flight Commission,OT,,2021-04-30T11:38:51.737
+YF00,Financial Crisis Inquiry Commission,LL,,2021-04-30T11:38:54.343
+HFHA,Federal Housing Finance Agency,OT,FHFA,2021-04-30T11:38:52.87
+HFHI,Office of Inspector General for the Federal Housing Finance Agency,OT,OIG,2024-07-19T14:34:11.653
+AR2A,U.S. Army Cyber Command,AR,,2021-04-30T11:38:47.697
+KR00,National Commission on Fiscal Responsibility and Reform,EOP,,2021-04-30T11:38:51.087
+VABH,Deputy Assistant Secretary for Labor Management Relations,VA,,2021-04-30T11:38:56.447
+VABI,Dean for VA Learning University,VA,,2021-04-30T11:38:56.457
+YG00,Ronald Reagan Centennial Commission,LL,,2021-04-30T11:38:54.353
+DNFE,Federal Energy Regulatory Commission,DN,FERC,2021-05-14T11:04:18.973
+XDCC,District of Columbia Courts,OT,,2021-04-30T11:38:56.937
+VABJ,Veteran Employment Services Office,VA,,2021-04-30T11:38:56.467
+JL05,U. S. Sentencing Commission,JL,USSC,2021-04-30T11:38:54.13
+XPDS,Public Defender Service for the District of Columbia,ZZ,,2021-04-30T11:38:56.953
+AF14,Air Force Installation Contracting Agency,AF,,2021-04-30T11:38:46.593
+GS02,Office of Administrative Services,GS,,2021-04-30T11:38:51.877
+VD00,Privacy and Civil Liberties Oversight Board,OT,,2024-11-13T14:34:46.233
+AF15,Air Force Civil Engineer Center,AF,,2021-04-30T11:38:46.607
+ARA1,U.S. Army Africa/Southern European Task Force (USARAF/SETAF),AR,,2021-04-30T11:38:47.733
+GC00,Gulf Coast Ecosystem Restoration Council,OT,,2021-04-30T11:38:51.66
+TRFD,Bureau of the Fiscal Service,TR,,2021-04-30T11:38:56.137
+HE13,Office of Inspector General,HE,OIG,2021-04-30T11:38:52.46
+AF16,Air Force Mortuary Affairs Operations,AF,,2021-04-30T11:38:46.613
+AF17,AF Installation and Mission Support,AF,,2021-04-30T11:38:46.623
+AF18,Defense Health Agency Air Force Element,AF,,2021-04-30T11:38:46.633
+WX00,World War 1 Centennial Commission,OT,,2021-04-30T11:38:56.877
+GS33,Office of the Customer Experience,GS,,2021-04-30T11:38:52.153
+ARX1,U.S. Army Material Command,AR,,2021-04-30T11:38:48.557
+ARAN,Arlington National Cemetery,AR,,2021-04-30T11:38:47.797
+GS18,Technology Transformation Service,GS,,2021-04-30T11:38:51.993
+AF1B,Air Force Manpower Analysis Agency,AF,,2021-04-30T11:38:46.657
+ARHC,US ARMY HUMAN RESOURCES COMMAND (DRU),AR,,2021-04-30T11:38:48.1
+ARCH,US Army Civilian Human Resources Agency,AR,,2021-06-24T09:22:04.447
+ARFB,US Army Financial Management Command,AR,,2021-04-30T11:38:48.04
+VABK,Office of Enterprise Operations,VA,,2021-04-30T11:38:56.477
+AF4C,AFELEM US CYBER COMMAND,AF,,2021-04-30T11:38:47.483
+VAHG,Vet Customer Experience (VCE),VA,,2021-04-30T11:38:56.68
+VAGD,"Executive Director for Identity, Credential, and Access Management",VA,,2021-04-30T11:38:56.587
+VAGE,Director for Resource Management,VA,,2021-04-30T11:38:56.6
+AG99,Farm Production and Conservation (FPAC) Business Center,AG,FPAC,2021-04-30T11:38:45.17
+ARAF,United States Army Futures Command,AR,,2021-04-30T11:38:47.78
+TW00,Surface Transportation Board,OT,STB,2021-04-30T11:38:56.237
+DD82,National Reconnaissance Office,DD,NRO,2022-03-04T10:46:59.49
+AF4F,Office of Chief of Space Operations,AF,,2021-04-30T11:38:47.503
+AF4G,United States Space Force,AF,,2021-04-30T11:38:47.517
+AF4V,Non-DOD And Other Support,AF,,2021-04-30T11:38:47.54
+AF30,AFELM DISA,AF,,2021-04-30T11:38:47.16
+AF33,AFELM DLA,AF,,2021-04-30T11:38:47.17
+AF37,AFELM Defense Threat Reduction Agency,AF,,2021-04-30T11:38:47.207
+AF38,AFELM JCS,AF,,2021-04-30T11:38:47.22
+AF3A,"Defense Contract Management Agency, AF Element",AF,,2021-04-30T11:38:47.247
+AF3B,AFELM Defense Media Activity,AF,,2021-04-30T11:38:47.257
+AF40,National Air and Space Intelligence Center,AF,,2021-04-30T11:38:47.463
+AF41,"National Geospatial-Intel Agency, AF Element",AF,,2021-04-30T11:38:47.473
+AF4S,AFELM US Space Command,AF,,2021-04-30T11:38:47.527
+WK00,Federal Permitting Improvement Steering Council,OT,,2021-04-30T11:38:56.857
+AF6F,United States Space Force Forces,AF,,2021-04-30T11:38:47.597
+DD84,Space Development Agency,DD,,2022-03-04T10:46:59.527
+ARXF,United States Army Financial Management Command,AR,,2021-04-30T11:38:48.697
+IN29,Bureau of Trust Funds Administration,IN,,2021-04-30T11:38:53.9
+TR37,Special Inspector General For Pandemic Recovery (SIGPR),TR,,2021-04-30T11:38:56.023
+AF5D,DOD Cyber Crime Center,AF,,2023-08-18T10:42:09.71
+ARXG,United States Army Print and Media Distribution Center,AR,,2021-04-30T11:38:48.71
+IN28,Bureau of Indian Education,IN,,2021-04-30T11:38:53.89
+DD83,Military Treatment Facilities under DHA,DD,,2021-06-21T10:09:40.903
+VAAI,Electronic Health Record Modernization,VA,,2021-08-03T12:57:11.823
+VADE,Deputy Assistant Secretary for FMBTS,VA,,2021-08-03T12:57:12.377
+AF6V,Space Force Elements,AF,,2023-01-20T11:05:56.36
+AF6S,Space Systems Command,AF,,2022-02-04T10:44:45.237
+AF6T,Space Training and Readiness Command,AF,,2022-02-04T10:44:45.25
+ARDJ,Joint Special Operations Command,AR,,2022-02-04T10:44:45.26
+DO00,Office of the National Cyber Director,EOP,,2022-08-15T10:20:29.843
+WH04,National Space Council (NSpC),EOP,,2022-02-04T10:44:45.31
+LL05,The Naming Commission Office,LL,,2022-02-18T10:50:28.083
+VAAJ,Office of Accountability and Whistleblower Protection,VA,,2022-02-04T10:44:45.43
+VAGI,Access Management,VA,,2022-02-04T10:44:45.45
+VAGF,Plans Exercise TRN & Eval,VA,,2022-02-04T10:44:45.457
+VAGH,VA Integrated OPS Center,VA,,2022-02-04T10:44:45.473
+VAGG,OPS & National SER,VA,,2022-02-04T10:44:45.56
+VAGJ,Identity Management,VA,,2022-02-04T10:44:45.567
+VAGK,Personnel Security,VA,,2022-02-04T10:44:45.567
+VAAG,My VA Initiative,VA,,2022-02-04T10:44:45.573
+IP00,Intellectual Property Enforcement Coordinator (IPEC),EOP,,2022-08-15T10:20:29.843
+KY00,Public Buildings Reform Board,OT,,2022-02-04T10:44:45.593
+WZ00,Western Hemisphere Drug Policy Commission,OT,,2022-02-04T10:44:45.603
+GZ00,The Women's Suffrage Centennial Commission,OT,,2022-02-04T10:44:45.613
+VQ00,Open Source Center,OT,,2022-02-04T10:44:45.627
+QZ00,Federal Compensation Board,OT,,2022-02-04T10:44:45.64
+IO00,Office of Cooperative Programs,OT,,2022-02-04T10:44:45.657
+PD00,The Public Defender Service for the District of Columbia,OT,,2022-02-04T10:44:45.673
+QS00,Southeast Crescent Regional Commission,OT,,2022-02-04T10:44:45.687
+HB02,Office of Inspector General,OT,,2022-02-04T10:44:45.777
+HB01,Office Of The Committee for Purchase From People Who Are Blind or Severely Disabled,OT,,2022-02-04T10:44:45.787
+OY00,Commission on the State of U.S. Olympics and Paralympics (CSUSOP),OT,,2022-06-01T13:28:22.42
+AF6C,SFELM United States Space Command,AF,,2022-08-19T11:14:21.483
+AF6R,SFELM Activity N,AF,,2024-07-19T14:34:10.867
+AF6D,Space Development Agency,AF,,2022-08-19T11:14:21.547
+HUZZ,Office of the Chief Administrative Officer,HU,,2022-09-28T16:42:05.997
+HSIC,Office of Intelligence and Analysis,HS,,2022-09-16T11:06:23.047
+RJ00,Civil Rights Cold Case Review Board (CRCCRB),OT,,2022-09-14T10:14:07.257
+LL07,Afghanistan War Commission,LL,,2023-01-20T11:05:56.557
+LL06,"Commission on Planning, Programming, Budgeting, and Execution Reform",LL,,2023-01-20T11:05:56.55
+WU00,Southwest Border Regional Commission,OT,,2023-01-10T19:01:48.223
+LL08,National Security Commission on Emerging Biotechnology,LL,,2023-03-17T10:40:06.01
+LL09,Commission on the National Defense Strategy,LL,,2023-04-17T17:58:20.357
+LL10,Congressional Commission on the Strategic Posture of the United States,LL,,2023-04-17T17:57:09.613
+HE60,Administration for Strategic Preparedness and Response,HE,,2023-04-17T17:59:29.99
+DDC0,US Cyber Command (CYBERCOM) Headquarters,DD,,2024-10-11T14:45:17.817
+OP00,Office of Pandemic Preparedness and Response Policy,OT,,2023-05-26T10:50:41.547
+AF6K,United States Space Force Components,AF,,2023-11-13T10:41:53.863
+ARCP,Civilian Protection Center Of Excellence (CP CoE),AR,,2024-03-01T10:40:52.967
+AF6N,National Space Intelligence Center,AF,,2024-03-01T10:40:53
+AF6G,USSF Support to USAF (NON-HAF),AF,,2024-03-01T10:40:53.003
+AF6A,Space Rapid Capabilities Office,AF,,2024-03-01T10:40:53.013
+AF4H,USSF Support to HAF (NON-OCSO),AF,,2024-07-19T14:34:12.937
+AF6E,Space Force Service Wide Support Activities,AF,,2024-07-19T14:34:12.993
+AF6B,Space Futures Command,AF,,2024-07-19T14:34:13.007
+AF5C,Cyberspace Capabilities Center,AF,,2024-09-27T14:38:19.497
+AFCT,Air Forces Central,AF,,2024-10-25T14:34:44.287
+AFNS,Air Forces Northern - Air Forces Space,AF,,2025-03-28T14:35:34.763
+AFSN,Air Forces Southern,AF,,2024-10-25T14:34:44.367
+AFCC,Integrated Capabilities Command,AF,,2024-12-20T15:35:02.343
+WH05,United States DOGE Service,EOP,,2025-02-28T15:37:02.98
+AFCY,Air Force Cyber and Intelligence Command,AF,,2025-03-28T14:35:34.613
+ARCC,U.S. Army Corrections Command,AR,,2025-06-06T14:35:35.777
+OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
+ZZ,Non-Federal Civilian Customers,,,2021-03-29T09:28:41.693

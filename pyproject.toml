@@ -1,0 +1,15 @@
+[project]
+name = "fedjobs"
+version = "1.0.0"
+description = "A collector of USA jobs from federal government sources."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.31.0",
+    "click>=8.1.0",
+    "rich>=13.0.0",
+    "python-dotenv==1.2.1",
+]
+
+[project.scripts]
+fedjobs = "fedjobs.main:cli"
