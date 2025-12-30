@@ -36,6 +36,9 @@ jobs:
           enable-cache: true
 
       - name: Update agency codes
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: uv run python -m fedjobs.main update-agencies
 
       - name: Commit and push changes
