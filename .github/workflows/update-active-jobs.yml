@@ -36,26 +36,41 @@ jobs:
           enable-cache: true
 
       - name: Update active jobs for 2210 job code
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
           uv run python -m fedjobs.main export-csv --job-code 2210 --limit 250 --output data/raw/active_2210_jobs.csv
         continue-on-error: true
 
       - name: Update active jobs for 1550 job code
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
           uv run python -m fedjobs.main export-csv --job-code 1550 --limit 250 --output data/raw/active_1550_jobs.csv
         continue-on-error: true
 
       - name: Update active jobs for 1560 job code
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
           uv run python -m fedjobs.main export-csv --job-code 1560 --limit 250 --output data/raw/active_1560_jobs.csv
         continue-on-error: true
 
       - name: Update active jobs for CDC agency
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
           uv run python -m fedjobs.main export-csv --agency CDC --limit 250 --output data/raw/active_CDC_jobs.csv
         continue-on-error: true
 
       - name: Update active jobs for HHS agency
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
         run: |
           uv run python -m fedjobs.main export-csv --agency HHS --limit 250 --output data/raw/active_HHS_jobs.csv
         continue-on-error: true
