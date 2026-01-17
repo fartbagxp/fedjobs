@@ -125,7 +125,6 @@ AG42,Office of Budget and Program Analysis,AG,,2021-04-30T11:38:45.147
 AG90,"Agriculture, Office of the Chief Financial Officer",AG,,2021-04-30T11:38:45.16
 AGCR,Civil Rights,AG,,2021-04-30T11:38:45.21
 AGDA,Departmental Administration,AG,,2021-04-30T11:38:45.227
-AGES,Office of the Executive Secretariat,AG,,2021-04-30T11:38:45.26
 AGFA,Farm Service Agency,AG,FSA,2021-04-30T11:38:45.273
 AGIT,Office of the Chief Information Officer,AG,,2021-04-30T11:38:45.31
 AGNA,Office of Hearings and Appeals,AG,,2021-04-30T11:38:45.33
@@ -569,7 +568,7 @@ ZS00,United States-China Economic and Security Review Commission,LL,,2021-04-30T
 ZV00,Commission on the People's Republic of China,LL,,2021-04-30T11:38:54.457
 ZX00,Abraham Lincoln Bicentennial Commission,LL,,2021-04-30T11:38:54.483
 ARG6,U.S. Army Network Enterprise Technology Command/9th Army Signal Command,AR,,2021-04-30T11:38:48.073
-NV52,"Commander, Navy Installations",NV,,2021-04-30T11:38:49.707
+NV52,"Commander, Navy Installations Command",NV,,2026-01-16T15:34:08.243
 DD69,National Defense University,DD,NDU,2021-04-30T11:38:49.263
 NV76,Naval Education and Training Command,NV,,2021-04-30T11:38:49.83
 GQ00,Election Assistance Commission,OT,EAC,2021-04-30T11:38:51.833
@@ -790,5 +789,8 @@ AFCC,Integrated Capabilities Command,AF,,2024-12-20T15:35:02.343
 WH05,United States DOGE Service,EOP,,2025-02-28T15:37:02.98
 AFCY,Air Force Cyber and Intelligence Command,AF,,2025-03-28T14:35:34.613
 ARCC,U.S. Army Corrections Command,AR,,2025-06-06T14:35:35.777
+DJJA,Northern District of Oklahoma,DJ,,2026-01-16T15:34:17.52
+LL11,DOD/Navy Futures Commission,LL,,2026-01-16T15:34:17.73
+OV01,Official Residence of the Vice President,,,2026-01-16T15:34:17.797
 OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
 ZZ,Non-Federal Civilian Customers,,,2021-03-29T09:28:41.693
