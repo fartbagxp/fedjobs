@@ -2,7 +2,6 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 IT Professional (CMS Fellows Appointment),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,76463,164301,2210,2025-12-23,2026-03-23,https://www.usajobs.gov:443/job/853198300
 Student Volunteer,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GG,0,0,0160,2026-01-26,2026-12-31,https://www.usajobs.gov:443/job/855153700
 Health Policy and Program Analyst (CMS Fellows Appointment),Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,76463,164301,0107,2026-01-23,2026-04-23,https://www.usajobs.gov:443/job/855347400
-Contracting Officer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,1102,2026-01-29,2026-02-09,https://www.usajobs.gov:443/job/855594100
 Principal Deputy Assistant Secretary,Substance Abuse and Mental Health Services Administration,"Rockville, Maryland",ES,151661,228000,0301,2026-02-01,2026-02-14,https://www.usajobs.gov:443/job/855612600
 Technical Advisor,Centers for Medicare & Medicaid Services,"Bethesda, Maryland",GS,143913,187093,0301,2026-01-28,2026-02-10,https://www.usajobs.gov:443/job/855636000
 Clinical Psychologist,Indian Health Service,"Chinle, Arizona",GS,122749,159575,0180,2026-01-28,2026-04-28,https://www.usajobs.gov:443/job/855758900
@@ -43,7 +42,6 @@ Clinical Laboratory Scientist,Indian Health Service,"Chinle, Arizona",GS,107814,
 Clinical Psychologist,Indian Health Service,"Chinle, Arizona",GS,103225,134195,0180,2026-02-02,2026-05-01,https://www.usajobs.gov:443/job/856246900
 Physician Assistant,Indian Health Service,"Chinle, Arizona",GS,126164,164017,0603,2026-02-02,2026-04-02,https://www.usajobs.gov:443/job/856250500
 Supervisory IT Specialist (Systems Analysis),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,2210,2026-02-02,2026-02-17,https://www.usajobs.gov:443/job/856252200
-Full Stack Engineer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,141367,187093,2210,2026-02-02,2026-02-09,https://www.usajobs.gov:443/job/856253600
 Optometrist,Indian Health Service,"Chinle, Arizona",GS,142986,185885,0662,2026-02-02,2026-05-04,https://www.usajobs.gov:443/job/856262800
 Social Worker,Indian Health Service,"Chinle, Arizona",GS,65381,104502,0185,2026-02-02,2026-05-04,https://www.usajobs.gov:443/job/856266300
 Clinical Laboratory Scientist,Indian Health Service,"Chinle, Arizona",GS,72849,94706,0644,2026-02-02,2026-05-04,https://www.usajobs.gov:443/job/856276300
@@ -63,7 +61,7 @@ Program Analyst,Centers for Medicare & Medicaid Services,"San Francisco, Califor
 Management Analyst,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,108173,172980,0343,2026-02-05,2026-02-11,https://www.usajobs.gov:443/job/856436300
 Social Services Assistant,Indian Health Service,"Chinle, Arizona",GS,36409,47334,0186,2026-02-04,2026-05-04,https://www.usajobs.gov:443/job/856437600
 Social Services Assistant,Indian Health Service,"Chinle, Arizona",GS,50460,65599,0186,2026-02-02,2026-05-04,https://www.usajobs.gov:443/job/856437800
-Supervisory Health Insurance Specialist (Division Director),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-05,2026-02-11,https://www.usajobs.gov:443/job/856449300
+Supervisory Health Insurance Specialist (Division Director),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-05,2026-02-16,https://www.usajobs.gov:443/job/856449300
 Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0107,2026-02-04,2026-02-11,https://www.usajobs.gov:443/job/856488800
 Writer-Editor,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,121785,158322,1082,2026-02-05,2026-02-11,https://www.usajobs.gov:443/job/856489500
 Solution Platform Architect,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,160836,197200,2210,2026-02-05,2026-02-19,https://www.usajobs.gov:443/job/856528000
@@ -83,12 +81,20 @@ Student Trainee (Admin),Centers for Medicare & Medicaid Services,"San Francisco,
 Technical Director,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,138595,187093,0107,2026-02-06,2026-02-12,https://www.usajobs.gov:443/job/856742500
 Nurse (Outpatient),Indian Health Service,"Chinle, Arizona",GS,73426,127725,0610,2026-02-05,2026-05-06,https://www.usajobs.gov:443/job/856752800
 Executive Assistant,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,70623,111087,0301,2026-02-06,2026-02-12,https://www.usajobs.gov:443/job/856770300
+Executive Officer,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,169279,197200,0301,2026-02-10,2026-02-12,https://www.usajobs.gov:443/job/856808700
 Clinical Laboratory Scientist,Indian Health Service,"Chinle, Arizona",GS,72849,94706,0644,2026-02-06,2026-05-04,https://www.usajobs.gov:443/job/856845000
 Clinical Laboratory Scientist,Indian Health Service,"Chinle, Arizona",GS,89109,115848,0644,2026-02-06,2026-05-04,https://www.usajobs.gov:443/job/856846000
 Clinical Laboratory Scientist,Indian Health Service,"Chinle, Arizona",GS,107814,140165,0644,2026-02-06,2026-05-04,https://www.usajobs.gov:443/job/856846800
 Accountant,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,108173,172980,0510,2026-02-09,2026-02-13,https://www.usajobs.gov:443/job/856886000
 Financial Management Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,138595,187093,0501,2026-02-09,2026-02-13,https://www.usajobs.gov:443/job/856886300
 Financial Management Specialist,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,108173,172980,0501,2026-02-09,2026-02-13,https://www.usajobs.gov:443/job/856889900
+IT Specialist (PLCYPLN),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,2210,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/856894500
 Optometrist,Indian Health Service,"Chinle, Arizona",GS,119297,155094,0662,2026-02-06,2026-05-07,https://www.usajobs.gov:443/job/856924400
 Clinical Psychologist,Indian Health Service,"Chinle, Arizona",GS,86123,111966,0180,2026-02-06,2026-05-06,https://www.usajobs.gov:443/job/856926200
+Student Trainee (Financial Management),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,17.73,21.81,0599,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857025100
+Student Trainee (Data Scientist),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,19.84,30.23,1599,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857026100
+Medicaid Home & Community Based Services Technical Lead,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,141367,187093,0107,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857038800
+Medicaid Home & Community Based Services Technical Lead,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,141367,187093,0107,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857039900
 Budget Analyst,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,108173,172980,0560,2026-02-09,2026-02-13,https://www.usajobs.gov:443/job/857057700
+Physician Assistant,Indian Health Service,"Chinle, Arizona",GS,110727,143953,0603,2026-02-10,2026-05-08,https://www.usajobs.gov:443/job/857115600
+Pharmacy Technician,Indian Health Service,"Chinle, Arizona",GS,55678,80685,0661,2026-02-10,2026-05-08,https://www.usajobs.gov:443/job/857213000
