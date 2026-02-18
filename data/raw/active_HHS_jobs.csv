@@ -51,7 +51,7 @@ Pharmacy Technician,Indian Health Service,"Chinle, Arizona",GS,62066,80685,0661,
 Health Technician (Multiple Specialties),Indian Health Service,"Chinle, Arizona",GS,40736,52957,0640,2026-02-03,2026-05-05,https://www.usajobs.gov:443/job/856400100
 Social Services Assistant,Indian Health Service,"Chinle, Arizona",GS,36409,47334,0186,2026-02-04,2026-05-04,https://www.usajobs.gov:443/job/856437600
 Social Services Assistant,Indian Health Service,"Chinle, Arizona",GS,50460,65599,0186,2026-02-02,2026-05-04,https://www.usajobs.gov:443/job/856437800
-Supervisory Health Insurance Specialist (Division Director),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-05,2026-02-16,https://www.usajobs.gov:443/job/856449300
+Physician,National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/856486100
 Solution Platform Architect,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,160836,197200,2210,2026-02-05,2026-02-19,https://www.usajobs.gov:443/job/856528000
 Associate General Counsel for the Centers for Medicare and Medicaid Services Division,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",ES,151661,228000,0905,2026-02-04,2026-02-18,https://www.usajobs.gov:443/job/856533900
 Deputy Associate General Counsel for Program Review (CMS),Office of the Secretary of Health and Human Services,"Washington, District of Columbia",ES,151661,228000,0905,2026-02-04,2026-02-18,https://www.usajobs.gov:443/job/856534000
@@ -72,6 +72,8 @@ Clinical Laboratory Scientist,Indian Health Service,"Chinle, Arizona",GS,107814,
 IT Specialist (PLCYPLN),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,2210,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/856894500
 Optometrist,Indian Health Service,"Chinle, Arizona",GS,119297,155094,0662,2026-02-06,2026-05-07,https://www.usajobs.gov:443/job/856924400
 Clinical Psychologist,Indian Health Service,"Chinle, Arizona",GS,86123,111966,0180,2026-02-06,2026-05-06,https://www.usajobs.gov:443/job/856926200
+Supervisory Physician,National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/856955900
+Supervisory Physician (Clinical),National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/856956500
 Student Trainee (Financial Management),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,17.73,21.81,0599,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857025100
 Student Trainee (Data Scientist),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,19.84,30.23,1599,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857026100
 Medicaid Home & Community Based Services Technical Lead,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,141367,187093,0107,2026-02-10,2026-02-17,https://www.usajobs.gov:443/job/857038800
@@ -82,8 +84,15 @@ Supervisory Quality Assurance Specialist (Materials Management),National Institu
 Pharmacy Technician,Indian Health Service,"Chinle, Arizona",GS,55678,80685,0661,2026-02-10,2026-05-08,https://www.usajobs.gov:443/job/857213000
 Epidemiologist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0601,2026-02-12,2026-02-19,https://www.usajobs.gov:443/job/857301100
 Health Insurance Specialist (Medicare Administrative Contractor COR III),Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,136736,187093,0107,2026-02-12,2026-02-22,https://www.usajobs.gov:443/job/857369300
+Physician (Clinical),National Institutes of Health,"Baltimore, Maryland",GP,143913,350000,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/857420200
+Physician (Clinical),National Institutes of Health,"Baltimore, Maryland",GP,169279,350000,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/857421300
 Social Science Research Analyst,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,117284,158322,0101,2026-02-12,2026-02-19,https://www.usajobs.gov:443/job/857432800
-IT Specialist (ENTARCH),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,2210,2026-02-13,2026-02-20,https://www.usajobs.gov:443/job/857498700
+Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/857466300
+Supervisory Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/857466500
+Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/857508300
+Physician,National Institutes of Health,"Montgomery County, Maryland",GP,143913,285000,0602,2026-02-17,2026-02-26,https://www.usajobs.gov:443/job/857511100
 Management and Program Analyst,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,121785,158322,0343,2026-02-13,2026-02-20,https://www.usajobs.gov:443/job/857575400
 Personnel Security Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0080,2026-02-13,2026-02-23,https://www.usajobs.gov:443/job/857671700
 Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-13,2026-02-23,https://www.usajobs.gov:443/job/857737800
+IT Specialist (ENTARCH),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,2210,2026-02-17,2026-02-24,https://www.usajobs.gov:443/job/857900800
+Management and Program Analyst,Health Resources and Services Administration,"Rockville, Maryland",GS,169279,197200,0343,2026-02-17,2026-02-20,https://www.usajobs.gov:443/job/857915800
