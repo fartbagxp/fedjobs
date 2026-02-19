@@ -574,7 +574,8 @@ def export_csv(job_code, agency, keyword, limit, output, append):
         if mode == "w" or not file_exists:
             writer.writeheader()
 
-        # Write job data
+        # Collect job data
+        rows = []
         for item in items:
             job = item.get("MatchedObjectDescriptor", {})
 
@@ -617,7 +618,7 @@ def export_csv(job_code, agency, keyword, limit, output, append):
             # Job URL
             job_url = job.get("PositionURI", "")
 
-            writer.writerow(
+            rows.append(
                 {
                     "Position Title": position_title,
                     "Agency": organization,
@@ -631,6 +632,11 @@ def export_csv(job_code, agency, keyword, limit, output, append):
                     "Job URL": job_url,
                 }
             )
+
+        # Sort by Agency, then Position Title, then Location, then Grade
+        rows.sort(key=lambda r: (r["Agency"], r["Position Title"], r["Location"], r["Grade"]))
+
+        writer.writerows(rows)
 
     action = "Appended" if (append and file_exists) else "Exported"
     console.print(f"\n[bold green]{action} {count} jobs to {output_path}[/bold green]")
