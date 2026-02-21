@@ -154,6 +154,7 @@ ARMW,U.S. Army Military District of Washington,AR,,2021-04-30T11:38:48.307
 ARNG,Army National Guard Units,AR,,2021-04-30T11:38:48.327
 ARP1,"U.S. Army, Pacific",AR,,2021-04-30T11:38:48.343
 ARP8,Eighth U.S. Army,AR,,2021-04-30T11:38:48.36
+ARRC,U.S. Army Recruiting Command,AR,,2026-02-20T15:38:19.793
 ARSA,Office of the Secretary of the Army,AR,,2021-04-30T11:38:48.407
 ARSB,Field Operating Offices of the Office of the Secretary of the Army,AR,,2021-04-30T11:38:48.417
 ARSC,U.S. Army Space and Missile Defense Command/U. S. Army Forces Strategic Command,AR,,2021-04-30T11:38:48.427
@@ -442,7 +443,7 @@ VABG,Deputy Assistant Secretary for Corporate Senior Executive Management,VA,,20
 VADA,Immediate Office of the Assistant Secretary for Management,VA,,2021-04-30T11:38:56.487
 VADC,Deputy Assistant Secretary for Budget,VA,,2021-04-30T11:38:56.5
 VADD,Deputy Assistant Secretary for Finance,VA,,2021-04-30T11:38:56.51
-VADG,"Executive Director, Office of Acquisition and Logistics",VA,,2021-04-30T11:38:56.52
+VADG,"Executive Director, Office of Acquisition, Logistics and Construction",VA,,2026-02-20T15:38:21.56
 VAEA,Immediate Office of the Assistant Secretary for Information and Technology,VA,,2021-04-30T11:38:56.533
 VAEB,Deputy Assistant Secretary for Information and Technology,VA,,2021-04-30T11:38:56.543
 VAHA,Office of Enterprise Integration,VA,,2021-04-30T11:38:56.613
@@ -644,7 +645,7 @@ DLOL,Office of Labor-Management Standards,DL,,2021-04-30T11:38:50.33
 DLOW,Office of Workers' Compensation Programs,DL,,2021-04-30T11:38:50.343
 DNNN,National Nuclear Security Administration,DN,NNSA,2021-04-30T11:38:50.537
 AGEM,Office of Environmental Markets,AG,,2021-04-30T11:38:45.25
-DD81,Defense Acquisition University,DD,DAU,2021-04-30T11:38:49.397
+DD81,Warfighting Acquisition University,DD,DAU,2026-02-20T15:38:19.873
 IN26,Bureau of Safety and Environmental Enforcement,IN,,2021-04-30T11:38:53.87
 IN27,Bureau of Ocean Energy Management,IN,,2021-04-30T11:38:53.88
 YE00,Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism,OT,,2021-04-30T11:38:57.007
@@ -783,7 +784,7 @@ AF6G,USSF Support to USAF (NON-HAF),AF,,2024-03-01T10:40:53.003
 AF6A,Space Rapid Capabilities Office,AF,,2024-03-01T10:40:53.013
 AF4H,USSF Support to HAF (NON-OCSO),AF,,2024-07-19T14:34:12.937
 AF6E,Space Force Service Wide Support Activities,AF,,2024-07-19T14:34:12.993
-AF6B,Space Futures Command,AF,,2024-07-19T14:34:13.007
+AF6B,Space Warfighting Analysis Command,AF,,2026-02-20T15:38:21.913
 AF5C,Cyberspace Capabilities Center,AF,,2024-09-27T14:38:19.497
 AFCT,Air Forces Central,AF,,2024-10-25T14:34:44.287
 AFNS,Air Forces Northern - Air Forces Space,AF,,2025-03-28T14:35:34.763
@@ -795,5 +796,10 @@ ARCC,U.S. Army Corrections Command,AR,,2025-06-06T14:35:35.777
 DJJA,Northern District of Oklahoma,DJ,,2026-01-16T15:34:17.52
 LL11,DOD/Navy Futures Commission,LL,,2026-01-16T15:34:17.73
 OV01,Official Residence of the Vice President,,,2026-01-16T15:34:17.797
+DD85,Joint Interagency Task Force,DD,DOD,2026-02-20T15:38:21.947
+ART2,Army Transformation and Training Command,AR,,2026-02-20T15:38:22.02
+ARJC,U.S. Joint Counter,AR,,2026-02-20T15:38:22.033
+DD86,PCS Joint Task Force,DD,DOD,2026-02-20T15:38:22.05
+LCCO,U.S. Copyright Office,LL,,2026-02-20T15:38:22.07
 OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
 ZZ,Non-Federal Civilian Customers,,,2021-03-29T09:28:41.693
