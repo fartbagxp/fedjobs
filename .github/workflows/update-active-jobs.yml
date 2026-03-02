@@ -19,9 +19,82 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-active-jobs:
+  fetch-jobs:
     runs-on: ubuntu-latest
     environment: 'prod'
+    continue-on-error: true
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - type: job-code
+            value: "2210"
+            label: "2210"
+          - type: job-code
+            value: "1550"
+            label: "1550"
+          - type: job-code
+            value: "1560"
+            label: "1560"
+          - type: job-code
+            value: "0854"
+            label: "0854"
+          - type: agency
+            value: "CDC"
+            label: "CDC"
+          - type: agency
+            value: "HHS"
+            label: "HHS"
+          - type: agency
+            value: "TR93"
+            label: "IRS"
+          - type: agency
+            value: "EOP"
+            label: "EOP"
+          - type: agency
+            value: "VA"
+            label: "VA"
+          - type: agency
+            value: "TR"
+            label: "TREASURY"
+          - type: agency
+            value: "TD"
+            label: "DoT"
+          - type: agency
+            value: "ST"
+            label: "STATE"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@5a095e7a2014a4212f075830d4f7277575a9d098 # v7.3.1
+        with:
+          enable-cache: true
+
+      - name: Fetch active jobs for ${{ matrix.label }}
+        env:
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+        run: |
+          uv run python -m fedjobs.main export-csv --${{ matrix.type }} ${{ matrix.value }} \
+            --limit 250 --output data/raw/active_${{ matrix.label }}_jobs.csv
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
+        with:
+          name: active_${{ matrix.label }}_jobs
+          path: data/raw/active_${{ matrix.label }}_jobs.csv
+          retention-days: 1
+
+  commit-changes:
+    needs: fetch-jobs
+    if: always()
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -30,66 +103,11 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Install uv
-        uses: astral-sh/setup-uv@5a095e7a2014a4212f075830d4f7277575a9d098 # v7.3.1
+      - name: Download artifacts
+        uses: actions/download-artifact@70fc10c6e5e1ce46ad2ea6f2b72d43f7d47b13c3 # v8.0.0
         with:
-          enable-cache: true
-
-      - name: Update active jobs for 2210 job code
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --job-code 2210 --limit 250 --output data/raw/active_2210_jobs.csv
-        continue-on-error: true
-
-      - name: Update active jobs for 1550 job code
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --job-code 1550 --limit 250 --output data/raw/active_1550_jobs.csv
-        continue-on-error: true
-
-      - name: Update active jobs for 1560 job code
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --job-code 1560 --limit 250 --output data/raw/active_1560_jobs.csv
-        continue-on-error: true
-
-      - name: Update active jobs for 0854 job code
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --job-code 0854 --limit 250 --output data/raw/active_0854_jobs.csv
-        continue-on-error: true
-
-      - name: Update active jobs for CDC agency
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --agency CDC --limit 250 --output data/raw/active_CDC_jobs.csv
-        continue-on-error: true
-
-      - name: Update active jobs for HHS agency
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --agency HHS --limit 250 --output data/raw/active_HHS_jobs.csv
-        continue-on-error: true
-
-      - name: Update active jobs for IRS agency
-        env:
-          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
-          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
-        run: |
-          uv run python -m fedjobs.main export-csv --agency TR93 --limit 250 --output data/raw/active_IRS_jobs.csv
-        continue-on-error: true
+          path: data/raw/
+          merge-multiple: true
 
       - name: Commit and push changes
         run: |
