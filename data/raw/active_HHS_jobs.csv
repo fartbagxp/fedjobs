@@ -1,9 +1,8 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
-Veterinary Medical Officer,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0701,2026-02-27,2026-03-03,https://www.usajobs.gov:443/job/859105000
 Accountant,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,51283,100315,0510,2026-03-02,2026-03-10,https://www.usajobs.gov:443/job/859157300
 Actuary,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,85447,133142,1510,2026-02-20,2026-03-06,https://www.usajobs.gov:443/job/858410400
 Actuary,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,85447,133142,1510,2026-02-20,2026-03-06,https://www.usajobs.gov:443/job/858410600
-Director,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-27,2026-03-05,https://www.usajobs.gov:443/job/859048300
+Director,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-27,2026-03-12,https://www.usajobs.gov:443/job/859048300
 Director Seamless Care Models Group,Centers for Medicare & Medicaid Services,"Atlanta, Georgia",ES,151661,228000,0340,2026-02-19,2026-03-20,https://www.usajobs.gov:443/job/858056900
 "Director, Medicare Contractor Management Group",Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",ES,151661,228000,0340,2026-02-23,2026-03-23,https://www.usajobs.gov:443/job/858518500
 Full Stack Engineer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,67100,133142,2210,2026-02-27,2026-03-06,https://www.usajobs.gov:443/job/859110300
@@ -14,16 +13,16 @@ Health Policy and Program Analyst (CMS Fellows Appointment),Centers for Medicare
 IT Professional (CMS Fellows Appointment),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,76463,164301,2210,2025-12-23,2026-03-23,https://www.usajobs.gov:443/job/853198300
 IT Program Manager (Data Management/Data Science),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,2210,2026-02-27,2026-03-06,https://www.usajobs.gov:443/job/859103100
 IT Specialist (SECURITY),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,2210,2026-02-27,2026-03-05,https://www.usajobs.gov:443/job/859115000
+IT Specialist (Security),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-04,2026-03-11,https://www.usajobs.gov:443/job/859741700
 Management & Program Analyst,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,51283,100315,0343,2026-03-02,2026-03-10,https://www.usajobs.gov:443/job/859122600
 Nurse (Payment Policies and Programs),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0610,2026-02-27,2026-03-12,https://www.usajobs.gov:443/job/859081400
 Nurse (Payment Policies and Programs),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0610,2026-02-27,2026-03-12,https://www.usajobs.gov:443/job/859085200
+Public Health Analyst,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,121785,158322,0685,2026-03-04,2026-03-10,https://www.usajobs.gov:443/job/859650700
 Security Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0080,2026-02-26,2026-03-06,https://www.usajobs.gov:443/job/859070200
 Senior Advisor,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0301,2026-02-27,2026-03-05,https://www.usajobs.gov:443/job/859193700
 Social Science Research Analyst,Centers for Medicare & Medicaid Services,"San Francisco, California",GS,51283,100315,0101,2026-03-02,2026-03-10,https://www.usajobs.gov:443/job/859074000
-Student Trainee (Actuarial Science),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,19.96,19.96,1599,2026-02-23,2026-03-03,https://www.usajobs.gov:443/job/858276000
 Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-02-25,2026-03-06,https://www.usajobs.gov:443/job/858777300
 Supervisory Health Insurance Specialist (Deputy Director),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0107,2026-02-27,2026-03-05,https://www.usajobs.gov:443/job/859011000
-Human Resources Assistant (Office Automation),Food and Drug Administration,"North Bethesda, Maryland",GS,46610,60593,0203,2026-02-26,2026-03-05,https://www.usajobs.gov:443/job/859088100
 Staff Director (Supervisory Regulatory Counsel),Food and Drug Administration,"College Park, Maryland",AD,169279,259265,0301,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859420400
 Certified Nurse Midwife,Indian Health Service,"Camp Verde, Arizona",GS,117383,164017,0610,2026-01-30,2026-04-30,https://www.usajobs.gov:443/job/856124800
 Certified Registered Nurse Anesthetist,Indian Health Service,"Chinle, Arizona",GS,154384,232862,0610,2026-01-30,2026-04-30,https://www.usajobs.gov:443/job/856146600
@@ -39,6 +38,7 @@ Clinical Psychologist,Indian Health Service,"Chinle, Arizona",GS,86123,111966,01
 Contact Representative (Benefits),Indian Health Service,"Camp Verde, Arizona",GS,50460,65599,0962,2026-02-20,2026-05-22,https://www.usajobs.gov:443/job/858463100
 Contact Representative (Benefits),Indian Health Service,"Camp Verde, Arizona",GS,55882,72644,0962,2026-02-20,2026-05-22,https://www.usajobs.gov:443/job/858464300
 Contact Representative (Benefits),Indian Health Service,"Camp Verde, Arizona",GS,45409,59031,0962,2026-02-20,2026-05-22,https://www.usajobs.gov:443/job/858469000
+Contract Specialist,Indian Health Service,"Anchorage, Alaska",GS,73939,137000,1102,2026-03-04,2026-03-17,https://www.usajobs.gov:443/job/859800000
 Custodial Worker (Housekeeping),Indian Health Service,"Chinle, Arizona",WG,18.04,25.45,3566,2026-01-30,2026-04-30,https://www.usajobs.gov:443/job/856158300
 Dental Assistant,Indian Health Service,"Camp Verde, Arizona",GS,38090,56610,0681,2026-02-19,2026-05-31,https://www.usajobs.gov:443/job/858179600
 Dental Assistant (EF),Indian Health Service,"Camp Verde, Arizona",GS,47675,61977,0681,2026-02-19,2026-05-31,https://www.usajobs.gov:443/job/858179900
@@ -109,25 +109,13 @@ X-Ray Technologist,Indian Health Service,"Chinle, Arizona",GS,50807,77334,0647,2
 ADVANCED PRACTICE NURSE (NURSE PRACTITIONER),National Institutes of Health,"Baltimore, Maryland",GS,121785,158322,0610,2026-02-23,2026-03-04,https://www.usajobs.gov:443/job/857474400
 Biologist,National Institutes of Health,"Baltimore, Maryland",GS,111147,158322,0401,2026-02-23,2026-03-04,https://www.usajobs.gov:443/job/857542200
 Biologist,National Institutes of Health,"Baltimore, Maryland",GS,77983,133142,0401,2026-02-23,2026-03-04,https://www.usajobs.gov:443/job/857552200
+Biologist,National Institutes of Health,"Hamilton, Montana",GS,74678,116362,0401,2026-03-04,2026-03-13,https://www.usajobs.gov:443/job/859485500
 Nurse,National Institutes of Health,"Baltimore, Maryland",GS,104023,133142,0610,2026-02-23,2026-03-04,https://www.usajobs.gov:443/job/857540800
 Nurse,National Institutes of Health,"Baltimore, Maryland",GS,121785,158322,0610,2026-02-23,2026-03-04,https://www.usajobs.gov:443/job/857542500
 Nurse (Clinical Research),National Institutes of Health,"Baltimore, Maryland",GS,94527,120051,0610,2026-02-23,2026-03-04,https://www.usajobs.gov:443/job/857540700
-Physician,National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/856486100
-Physician,National Institutes of Health,"Montgomery County, Maryland",GP,143913,285000,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/857511100
-Physician (Clinical),National Institutes of Health,"Baltimore, Maryland",GP,143913,350000,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/857420200
-Physician (Clinical),National Institutes of Health,"Baltimore, Maryland",GP,169279,350000,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/857421300
-Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/857466300
-Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/857508300
-Supervisory Physician,National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/856955900
-Supervisory Physician (Clinical),National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/856956500
-Supervisory Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-02-17,2026-03-03,https://www.usajobs.gov:443/job/857466500
 Deputy Associate General Counsel for Litigation (CMSD),Office of the Secretary of Health and Human Services,"Denver, Colorado",ES,151661,228000,0905,2026-02-24,2026-03-10,https://www.usajobs.gov:443/job/858670700
 Human Resources Specialist,Office of the Secretary of Health and Human Services,"Salt Lake City, Utah",GS,74678,114413,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859378200
 Human Resources Specialist,Office of the Secretary of Health and Human Services,"Salt Lake City, Utah",GS,89508,137128,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859381400
-Human Resources Specialist,Office of the Secretary of Health and Human Services,"Salt Lake City, Utah",GS,106437,163062,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859383300
-Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,85447,111087,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859376200
-Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,102415,133142,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859380700
 Student Volunteer,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GG,0,0,0160,2026-01-26,2026-12-31,https://www.usajobs.gov:443/job/855153700
-Supervisory Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,143913,187093,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859352600
 Supervisory Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,143913,187093,0201,2026-03-02,2026-03-06,https://www.usajobs.gov:443/job/859366800
 "Director, Office of Financial Resources",Substance Abuse and Mental Health Services Administration,"Rockville, Maryland",ES,151661,228000,0505,2026-03-02,2026-03-16,https://www.usajobs.gov:443/job/859011900
