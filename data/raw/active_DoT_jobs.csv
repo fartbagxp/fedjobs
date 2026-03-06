@@ -1,12 +1,12 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 International Transportation Analyst (Maritime) (Open to both U.S. Citizens and Federal Employees),Department of Transportation - Agency Wide,"Washington, District of Columbia",GS,143913,187093,2101,2026-02-20,2026-03-20,https://www.usajobs.gov:443/job/858194300
+"ASI (AC-Flight Oversight), Assistant Aircrew Program Manager (AAPM), Fed Ex CMO, CESD23",Federal Aviation Administration,"Memphis, Tennessee",FG,106437,138370,1825,2026-03-04,2026-03-24,https://www.usajobs.gov:443/job/859706200
 "ATCS, Certified Professional Controller (CPC)(Level 12),AT-2152-LH",Federal Aviation Administration,"Westbury, New York",AT,179627,225700,2152,2026-01-07,2027-01-06,https://www.usajobs.gov:443/job/853637600
 Aerospace Engineer,Federal Aviation Administration,"Belgium, Belgium",FV,112283,173980,0861,2026-03-05,2026-03-25,https://www.usajobs.gov:443/job/859827700
 Aerospace Engineer (Cabin Safety),Federal Aviation Administration,"Tutuila Island, American Samoa",FV,95489,148037,0861,2026-02-23,2026-03-06,https://www.usajobs.gov:443/job/858208500
 Aerospace Engineer (Cabin Safety) (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,95489,148037,0861,2026-02-23,2026-03-06,https://www.usajobs.gov:443/job/858209600
 Air Traffic Control Specialist,Federal Aviation Administration,"College Park, Georgia",FV,112283,173980,2152,2026-02-26,2026-03-06,https://www.usajobs.gov:443/job/858940700
 Air Traffic Control Specialist,Federal Aviation Administration,"Herndon, Virginia",FV,150392,228000,2152,2026-03-04,2026-03-13,https://www.usajobs.gov:443/job/859699600
-Air Traffic Control Specialist,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,2152,2026-02-24,2026-03-10,https://www.usajobs.gov:443/job/858530500
 Air Traffic Control Specialist,Federal Aviation Administration,"Washington, District of Columbia",FV,95489,148037,2152,2026-02-25,2026-03-11,https://www.usajobs.gov:443/job/858710400
 Air Traffic Control Specialist,Federal Aviation Administration,"Washington, District of Columbia",FV,95489,148037,2152,2026-02-25,2026-03-11,https://www.usajobs.gov:443/job/858751800
 Air Traffic Control Specialist,Federal Aviation Administration,"Washington, District of Columbia",FV,95489,148037,2152,2026-02-26,2026-03-12,https://www.usajobs.gov:443/job/858899200
@@ -34,7 +34,7 @@ Airway Transportation Systems Specialist,Federal Aviation Administration,"Hampto
 Airway Transportation Systems Specialist ,Federal Aviation Administration,"Hampton, Georgia",FV,75279,116689,2101,2026-02-27,2026-03-19,https://www.usajobs.gov:443/job/859176200
 Airway Transportation Systems Specialist  (ATSS Coordinator),Federal Aviation Administration,"Birmingham, Alabama",FV,91460,141750,2101,2026-02-25,2026-03-17,https://www.usajobs.gov:443/job/858694800
 Airway Transportation Systems Specialist  (ATSS Coordinator),Federal Aviation Administration,"Columbus, Georgia",FV,77351,119883,2101,2026-02-25,2026-03-17,https://www.usajobs.gov:443/job/858701400
-Airway Transportation Systems Specialist (Automation),Federal Aviation Administration,"Houston, Texas",FV,104424,161842,2101,2026-02-13,2026-03-05,https://www.usajobs.gov:443/job/857489300
+Airway Transportation Systems Specialist (Automation),Federal Aviation Administration,"Houston, Texas",FV,104424,161842,2101,2026-02-13,2026-03-12,https://www.usajobs.gov:443/job/857489300
 Airway Transportation Systems Specialist (COORDINATOR),Federal Aviation Administration,"Anchorage, Alaska",FV,102382,158677,2101,2026-02-27,2026-03-19,https://www.usajobs.gov:443/job/859090600
 Airway Transportation Systems Specialist (Coordinator),Federal Aviation Administration,"Miami, Florida",FV,96433,149458,2101,2026-02-28,2026-03-20,https://www.usajobs.gov:443/job/859248800
 Airway Transportation Systems Specialist (Coordinator),Federal Aviation Administration,"Tampa, Florida",FV,90547,140335,2101,2026-03-03,2026-03-23,https://www.usajobs.gov:443/job/859498600
@@ -72,7 +72,6 @@ Aviation Safety Inspector (AC - Flight Oversight) (Assistant Aircrew Program Man
 "Aviation Safety Inspector (AC - Flight Oversight), Assistant Principal Oversight Inspector (APOI)",Federal Aviation Administration,"San Juan, Puerto Rico",FG,90925,118204,1825,2026-02-27,2026-03-20,https://www.usajobs.gov:443/job/859212200
 "Aviation Safety Inspector (AC - Flight Oversight), Geographic Program Inspector",Federal Aviation Administration,"San Juan, Puerto Rico",FG,90925,118204,1825,2026-02-27,2026-03-19,https://www.usajobs.gov:443/job/859121700
 Aviation Safety Inspector (AC) (APM) - Flight Oversight),Federal Aviation Administration,"Hapeville, Georgia",FG,133007,172915,1825,2026-02-20,2026-03-12,https://www.usajobs.gov:443/job/858226100
-"Aviation Safety Inspector (AC-Flight Oversight), AAPM, Fed Ex CMO, CESD23",Federal Aviation Administration,"Memphis, Tennessee",FG,106437,138370,1825,2026-03-04,2026-03-24,https://www.usajobs.gov:443/job/859706200
 Aviation Safety Inspector (AW) (Partial Program Manager (PPM),Federal Aviation Administration,"Hapeville, Georgia",FG,133007,172915,1825,2026-03-04,2026-03-24,https://www.usajobs.gov:443/job/859585400
 "Aviation Safety Inspector (AW), Air Carrier Avionics - Assistant Principal Avionics Inspector",Federal Aviation Administration,"Watkins, Colorado",FG,90925,118204,1825,2026-02-18,2026-03-10,https://www.usajobs.gov:443/job/857915000
 "Aviation Safety Inspector (AW), PAI, Portland FSDO, NMSD64 
@@ -281,6 +280,7 @@ Marine Engineer (Assistant/Associate) Professor,Maritime Administration,"Kings P
 Marine Transportation (Assistant/Associate Professor) ,Maritime Administration,"Kings Point, New York",AD,84896,146699,2101,2025-12-22,2026-06-22,https://www.usajobs.gov:443/job/852961200
 Master - SME (Open to both U.S. Citizens and Federal Employees),Maritime Administration,"Kings Point, New York",WM,158801,158801,9902,2026-02-24,2026-03-13,https://www.usajobs.gov:443/job/858650500
 Criminal Investigator,Office of Inspector General,"Atlanta, Georgia",GS,112556,146325,1811,2026-02-24,2026-03-10,https://www.usajobs.gov:443/job/858770700
+Human Resources Specialist,Office of Inspector General,"District of Columbia, District of Columbia",GS,102415,158322,0201,2026-03-05,2026-03-16,https://www.usajobs.gov:443/job/859931600
 1DOT Internship Program (Pathways),Office of the Secretary of Transportation,"Washington, District of Columbia",GS,36735,57736,0099,2026-02-20,2026-03-06,https://www.usajobs.gov:443/job/858434500
 "Director, Office of Infrastructure Deployment",Office of the Secretary of Transportation,"Washington, District of Columbia",ES,151661,218800,0340,2026-03-03,2026-03-23,https://www.usajobs.gov:443/job/859530900
 General Engineer (Inspector) (Open to both U.S. Citizens and Federal Employees),Pipeline and Hazardous Materials Safety Administration,"Anchorage, Alaska",GS,40736,94563,0801,2026-01-16,2026-03-16,https://www.usajobs.gov:443/job/854814500
