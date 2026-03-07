@@ -547,95 +547,104 @@ def export_csv(job_code, agency, keyword, limit, output, append):
 
     console.print(f"[bold green]Found {count} jobs[/bold green]")
 
+    fieldnames = [
+        "Position Title",
+        "Agency",
+        "Location",
+        "Grade",
+        "Salary Min",
+        "Salary Max",
+        "Job Code",
+        "Opening Date",
+        "Closing Date",
+        "Job URL",
+    ]
+
+    # Collect new job data
+    rows = []
+    for item in items:
+        job = item.get("MatchedObjectDescriptor", {})
+
+        # Extract job details
+        position_title = job.get("PositionTitle", "")
+        organization = job.get("OrganizationName", "")
+
+        # Handle locations
+        locations = job.get("PositionLocation", [])
+        location_name = locations[0].get("LocationName", "") if locations else ""
+
+        # Grade information
+        grade_info = job.get("JobGrade", [{}])[0] if job.get("JobGrade") else {}
+        grade = grade_info.get("Code", "")
+
+        # Salary range
+        salary_info = (
+            job.get("PositionRemuneration", [{}])[0]
+            if job.get("PositionRemuneration")
+            else {}
+        )
+        salary_min = salary_info.get("MinimumRange", "")
+        salary_max = salary_info.get("MaximumRange", "")
+
+        # Job codes
+        job_codes = job.get("JobCategory", [])
+        job_code_str = job_codes[0].get("Code", "") if job_codes else ""
+
+        # Dates
+        opening_date = job.get(
+            "PublicationStartDate", job.get("PositionStartDate", "")
+        )
+        if opening_date:
+            opening_date = opening_date[:10]  # Extract just the date part
+
+        closing_date = job.get("ApplicationCloseDate", "")
+        if closing_date:
+            closing_date = closing_date[:10]  # Extract just the date part
+
+        # Job URL
+        job_url = job.get("PositionURI", "")
+
+        rows.append(
+            {
+                "Position Title": position_title,
+                "Agency": organization,
+                "Location": location_name,
+                "Grade": grade,
+                "Salary Min": salary_min,
+                "Salary Max": salary_max,
+                "Job Code": job_code_str,
+                "Opening Date": opening_date,
+                "Closing Date": closing_date,
+                "Job URL": job_url,
+            }
+        )
+
     # Prepare CSV data
     output_path = Path(output)
     file_exists = output_path.exists()
 
-    # Determine write mode
-    mode = "a" if (append and file_exists) else "w"
+    # When appending, merge with existing rows and deduplicate by Job URL
+    if append and file_exists:
+        existing_rows = []
+        with open(output_path, "r", newline="", encoding="utf-8") as csvfile:
+            reader = csv.DictReader(csvfile)
+            existing_rows = list(reader)
+        rows = existing_rows + rows
+        seen_urls = set()
+        deduped = []
+        for row in rows:
+            url = row.get("Job URL", "")
+            if url not in seen_urls:
+                seen_urls.add(url)
+                deduped.append(row)
+        rows = deduped
 
-    with open(output_path, mode, newline="", encoding="utf-8") as csvfile:
-        fieldnames = [
-            "Position Title",
-            "Agency",
-            "Location",
-            "Grade",
-            "Salary Min",
-            "Salary Max",
-            "Job Code",
-            "Opening Date",
-            "Closing Date",
-            "Job URL",
-        ]
+    # Sort by Agency, then Position Title, then Location, then Grade
+    rows.sort(key=lambda r: (r["Agency"], r["Position Title"], r["Location"], r["Grade"]))
 
+    with open(output_path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        # Write header only if file is new or we're overwriting
-        if mode == "w" or not file_exists:
-            writer.writeheader()
-
-        # Collect job data
-        rows = []
-        for item in items:
-            job = item.get("MatchedObjectDescriptor", {})
-
-            # Extract job details
-            position_title = job.get("PositionTitle", "")
-            organization = job.get("OrganizationName", "")
-
-            # Handle locations
-            locations = job.get("PositionLocation", [])
-            location_name = locations[0].get("LocationName", "") if locations else ""
-
-            # Grade information
-            grade_info = job.get("JobGrade", [{}])[0] if job.get("JobGrade") else {}
-            grade = grade_info.get("Code", "")
-
-            # Salary range
-            salary_info = (
-                job.get("PositionRemuneration", [{}])[0]
-                if job.get("PositionRemuneration")
-                else {}
-            )
-            salary_min = salary_info.get("MinimumRange", "")
-            salary_max = salary_info.get("MaximumRange", "")
-
-            # Job codes
-            job_codes = job.get("JobCategory", [])
-            job_code_str = job_codes[0].get("Code", "") if job_codes else ""
-
-            # Dates
-            opening_date = job.get(
-                "PublicationStartDate", job.get("PositionStartDate", "")
-            )
-            if opening_date:
-                opening_date = opening_date[:10]  # Extract just the date part
-
-            closing_date = job.get("ApplicationCloseDate", "")
-            if closing_date:
-                closing_date = closing_date[:10]  # Extract just the date part
-
-            # Job URL
-            job_url = job.get("PositionURI", "")
-
-            rows.append(
-                {
-                    "Position Title": position_title,
-                    "Agency": organization,
-                    "Location": location_name,
-                    "Grade": grade,
-                    "Salary Min": salary_min,
-                    "Salary Max": salary_max,
-                    "Job Code": job_code_str,
-                    "Opening Date": opening_date,
-                    "Closing Date": closing_date,
-                    "Job URL": job_url,
-                }
-            )
-
-        # Sort by Agency, then Position Title, then Location, then Grade
-        rows.sort(key=lambda r: (r["Agency"], r["Position Title"], r["Location"], r["Grade"]))
-
+        writer.writeheader()
         writer.writerows(rows)
 
     action = "Appended" if (append and file_exists) else "Exported"
