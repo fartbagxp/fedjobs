@@ -1,4 +1,5 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+Information Technology Specialist (Security),Administrative Office of the U.S. Courts,"Washington, District of Columbia",AD,102415,191965,2210,2026-03-06,2026-03-20,https://www.usajobs.gov:443/job/859954800
 INFORMATION TECHNOLOGY SPECIALIST,Air Combat Command,"Seymour Johnson AFB, North Carolina",NF,25.26,25.26,2210,2026-02-27,2026-03-08,https://www.usajobs.gov:443/job/859239500
 IT SPECIALIST (CUSTSPT/SYSADMIN),Air Combat Command,"Grand Forks AFB, North Dakota",GS,75278,97867,2210,2026-03-06,2026-03-16,https://www.usajobs.gov:443/job/859721500
 IT SPECIALIST (NETWORK SERVICES/CUSTOMER SUPPORT),Air Education and Training Command,"Columbus AFB, Mississippi",GS,68545,89114,2210,2026-03-05,2026-03-11,https://www.usajobs.gov:443/job/859892500
@@ -43,7 +44,6 @@ ITSPEC (SYSADMIN) (TITLE 32),Air National Guard Units,"Tyndall AFB, Florida",GS,
 ITSPEC (SYSADMIN) (TITLE 32),Air National Guard Units,"Tyndall AFB, Florida",GS,57331,97867,2210,2026-02-26,2026-03-26,https://www.usajobs.gov:443/job/858676800
 ITSPEC (SYSADMIN) (TITLE 32),Air National Guard Units,"Tyndall AFB, Florida",GS,57331,97867,2210,2026-02-26,2026-03-26,https://www.usajobs.gov:443/job/858687200
 ITSPEC (SYSADMIN) (TITLE 32),Air National Guard Units,"Tyndall AFB, Florida",GS,57331,97867,2210,2026-02-26,2026-03-26,https://www.usajobs.gov:443/job/858692400
-ITSPEC (SYSADMIN)(TITLE 32),Air National Guard Units,"Tyndall AFB, Florida",GS,61722,97087,2210,2026-02-05,2026-03-07,https://www.usajobs.gov:443/job/856573400
 SUPERVISORY IT SPECIALIST (NETWORK) (TITLE 32),Air National Guard Units,"New London, North Carolina",GS,91503,118957,2210,2026-03-01,2026-03-30,https://www.usajobs.gov:443/job/858270700
 SUPERVISORY IT SPECIALIST (PLCYPLN) (TITLE 32),Air National Guard Units,"Jefferson Barracks, Missouri",GS,109137,141880,2210,2026-02-13,2026-03-13,https://www.usajobs.gov:443/job/857696600
 SUPV IT SPEC (NETWORK) - TITLE 32,Air National Guard Units,"Garden City, Georgia",GS,89508,116362,2210,2026-02-20,2026-03-13,https://www.usajobs.gov:443/job/857887700
@@ -95,6 +95,8 @@ IT CYBERSECURITY SPECIALIST (INFOSEC),Defense Finance and Accounting Service,"In
 IT CYBERSECURITY SPECIALIST (INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,117446,2210,2026-02-24,2026-03-10,https://www.usajobs.gov:443/job/858538600
 IT CYBERSECURITY SPECIALIST (INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,117446,2210,2026-02-25,2026-03-10,https://www.usajobs.gov:443/job/858869300
 IT CYBERSECURITY SPECIALIST (INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,77977,101375,2210,2026-03-02,2026-03-16,https://www.usajobs.gov:443/job/859079700
+IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,107428,139658,2210,2026-03-06,2026-03-23,https://www.usajobs.gov:443/job/859958000
+IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,106365,138276,2210,2026-03-05,2026-03-18,https://www.usajobs.gov:443/job/859960400
 IT CYBERSECURITY SPECIALIST (SYSANALYSIS/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,117446,2210,2026-02-26,2026-03-11,https://www.usajobs.gov:443/job/859086500
 IT PROJECT MANAGER (APPSW),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,107428,139658,2210,2026-02-23,2026-03-09,https://www.usajobs.gov:443/job/858344700
 IT SPECIALIST (APPSW),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,121502,2210,2026-02-20,2026-03-09,https://www.usajobs.gov:443/job/858296300
@@ -125,9 +127,7 @@ JWICS Technical Director,Defense Intelligence Agency,"Washington, District of Co
 SUPERVISORY IT SPECIALIST (INFOSEC) (STEM),Defense Intelligence Agency,"Washington, District of Columbia",GG,167446,197200,2210,2026-02-27,2026-03-13,https://www.usajobs.gov:443/job/859446700
 IT SPECIALIST (SYSADMIN/CUSTSPT),Defense Logistics Agency,"New Cumberland Defense Logistics Center, Pennsylvania",GS,102415,133142,2210,2026-03-05,2026-03-13,https://www.usajobs.gov:443/job/859936300
 IT Specialist (CUSTSPT),Defense Logistics Agency,"Whitehall, Ohio",GS,77926,101309,2210,2026-03-02,2026-03-08,https://www.usajobs.gov:443/job/859460900
-IT Specialist (SYSADMIN/INFOSEC),Defense Logistics Agency,"Battle Creek, Michigan",GS,89508,133142,2210,2026-02-25,2026-03-07,https://www.usajobs.gov:443/job/858853100
 IT Specialist (SYSANALYSIS),Defense Logistics Agency,"Battle Creek, Michigan",GS,106437,158322,2210,2026-03-02,2026-03-08,https://www.usajobs.gov:443/job/859456500
-Supervisory IT Program Manager (INFOSEC),Defense Logistics Agency,"Fort Belvoir, Virginia",GS,169279,220065,2210,2026-02-25,2026-03-07,https://www.usajobs.gov:443/job/858851300
 IT SPECIALIST (NETWORK),Defense Media Activity,"Fort Meade, Maryland",GS,102415,133142,2210,2026-02-26,2026-03-16,https://www.usajobs.gov:443/job/859011700
 Information Technology Specialist,Department of Energy - Agency Wide,"Washington, District of Columbia",GS,143913,187093,2210,2026-03-02,2026-03-11,https://www.usajobs.gov:443/job/859167600
 IT SPECIALIST (ENTARCH),Department of the Air Force - Agency Wide,"Goodfellow AFB, Texas",GG,117753,153082,2210,2026-03-03,2026-03-09,https://www.usajobs.gov:443/job/859455200
