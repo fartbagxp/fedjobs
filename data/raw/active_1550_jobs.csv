@@ -1,18 +1,21 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 ELECTRONICS ENGINEER,Air Combat Command,"Eglin AFB, Florida",GS,106437,138370,0854,2026-03-11,2026-03-17,https://www.usajobs.gov:443/job/860791800
+OPERATIONS RESEARCH ANALYST/COMPUTER/ELECTRONICS ENGINEER/ COMPUTER SCIENTIST INTERDISCIPLINARY,Air Combat Command,"Eglin AFB, Florida",GS,106437,138370,0854,2026-03-13,2026-03-19,https://www.usajobs.gov:443/job/860982700
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Lackland AFB, Texas",GG,79735,126275,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846773800
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,56763,88225,1550,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/852682400
 Computer Scientist,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,56763,99314,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846731400
 COMPUTER SCIENTIST-DIRECT HIRE AUTHORITY,Air Force Materiel Command,"Eglin AFB, Florida",NH,88621,137000,1550,2025-11-19,2026-03-17,https://www.usajobs.gov:443/job/850343200
 ENGINEER/SCIENTIST,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","NIWC LANT Charleston, South Carolina",ND,106382,162672,0854,2026-03-10,2026-03-16,https://www.usajobs.gov:443/job/860576700
 Engineer/Scientist,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","NIWC LANT Charleston, South Carolina",ND,125776,192331,0854,2026-03-10,2026-03-16,https://www.usajobs.gov:443/job/860515200
+SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",NM,143677,197200,0801,2026-03-13,2026-03-16,https://www.usajobs.gov:443/job/860550200
+SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",NM,102246,186785,0801,2026-03-13,2026-03-16,https://www.usajobs.gov:443/job/860550900
 Computer Scientist,Department of the Air Force - Agency Wide,"Joint Base Anacostia-Bolling, District of Columbia",GS,76463,164301,1550,2025-12-22,2026-12-21,https://www.usajobs.gov:443/job/852882500
 Senior Computer Scientist,Department of the Air Force - Agency Wide,"Linthicum, Maryland",ST,151662,209600,1550,2026-03-05,2026-03-20,https://www.usajobs.gov:443/job/859974200
-Data Scientist (Branch Chief),Food Safety and Inspection Service,"Fort Collins, Colorado",GS,126797,182316,1530,2026-02-27,2026-03-12,https://www.usajobs.gov:443/job/858837100
 "Computer Scientist, AST, Computer Research and Development (Direct Hire)","Headquarters, NASA","Huntsville, Alabama",GS,125776,197200,1550,2026-03-06,2026-03-13,https://www.usajobs.gov:443/job/859853800
 Solutions Development Office Technical Analyst (O-5 Billet) Non-Supervisory,Immigration and Customs Enforcement,"Washington, District of Columbia",CC,1,150000,0332,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/845848100
-Supervisory Computer Scientist,Joint Activities,"Fort Meade, Maryland",GG,143913,196689,1550,2026-03-05,2026-03-12,https://www.usajobs.gov:443/job/860017800
+Data/AI Strategy and Implementation Supervisor,Joint Activities,"Stuttgart, Germany",GS,107446,139684,0854,2026-03-13,2026-03-26,https://www.usajobs.gov:443/job/860884100
 Computer Scientist / Support Specialist,Judicial Branch - Agency Wide,"Washington, District of Columbia",AD,86169,90478,1550,2026-02-24,2026-03-23,https://www.usajobs.gov:443/job/858733500
+AI TEVV Developer,National Institute of Standards and Technology,"Gaithersburg, Maryland",ZP,57736,101097,1550,2026-03-13,2026-03-19,https://www.usajobs.gov:443/job/860827300
 INTERDISCIPLINARY ENGINEER,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-01-15,2026-05-15,https://www.usajobs.gov:443/job/854460900
 INTERDISCIPLINARY ENGINEER/ SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-01-20,2026-05-20,https://www.usajobs.gov:443/job/854653900
 INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,101401,156755,0850,2025-11-14,2026-05-15,https://www.usajobs.gov:443/job/849884300
@@ -30,11 +33,10 @@ ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,102415,1583
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,102415,158322,0801,2026-02-04,2026-05-04,https://www.usajobs.gov:443/job/856246000
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,46610,158322,0854,2026-02-17,2027-02-15,https://www.usajobs.gov:443/job/857832800
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,118204,158322,0801,2026-02-19,2026-03-20,https://www.usajobs.gov:443/job/858075700
-ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,143913,197200,0801,2026-02-27,2026-03-12,https://www.usajobs.gov:443/job/859067700
+ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,143913,197200,0801,2026-03-13,2026-03-26,https://www.usajobs.gov:443/job/861009200
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dam Neck Naval Facility, Virginia Beach, Virginia",ND,90838,140426,0854,2025-10-27,2026-04-24,https://www.usajobs.gov:443/job/848864700
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Keyport, Washington",ND,141367,197200,0801,2026-03-10,2026-03-23,https://www.usajobs.gov:443/job/860058900
 ENGINEER/SCIENTIST Unmanned Surface Vessel Lead Mission Autonomy Software Developer,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,0801,2025-12-18,2026-03-23,https://www.usajobs.gov:443/job/852781900
 SOFTWARE DEVELOPER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,1550,2025-10-22,2026-10-21,https://www.usajobs.gov:443/job/848520700
-TECHNICAL PROJECT MANAGER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,143913,197200,0801,2026-02-27,2026-03-12,https://www.usajobs.gov:443/job/859147100
 Computer Scientist (Agency Employees Only),Nuclear Regulatory Commission,"Atlanta, Georgia",GG,143913,187093,1550,2026-03-11,2026-04-02,https://www.usajobs.gov:443/job/860861600
 COMPUTER SCIENTIST,United States Fleet Forces Command,"Washington, District of Columbia",GS,85447,158322,1550,2026-03-11,2026-03-20,https://www.usajobs.gov:443/job/860471700
