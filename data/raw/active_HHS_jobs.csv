@@ -1,10 +1,8 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Pathways Public Health Associates Program (PHAP) - Public Health Advisor,Centers for Disease Control and Prevention,"Salt Lake City, Utah",GS,50460,65599,0685,2026-03-16,2026-03-23,https://www.usajobs.gov:443/job/861340600
 Safety and Occupational Health Manager,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0018,2026-03-18,2026-03-23,https://www.usajobs.gov:443/job/861490300
-Business Operations Staff (BOS) Director,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0343,2026-03-09,2026-03-20,https://www.usajobs.gov:443/job/860235000
 Contract Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,85447,133142,1102,2026-03-19,2026-03-25,https://www.usajobs.gov:443/job/861682800
 "Deputy Director, Division of Investigations & Audit Contracts",Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0107,2026-03-19,2026-03-25,https://www.usajobs.gov:443/job/861586600
-Director Seamless Care Models Group,Centers for Medicare & Medicaid Services,"Atlanta, Georgia",ES,151661,228000,0340,2026-02-19,2026-03-20,https://www.usajobs.gov:443/job/858056900
 "Director, Medicare Contractor Management Group",Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",ES,151661,228000,0340,2026-02-23,2026-03-23,https://www.usajobs.gov:443/job/858518500
 "Director, Medicare Drug Rebate and Negotiations Group",Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",ES,151661,228000,0340,2026-03-16,2026-03-30,https://www.usajobs.gov:443/job/861241900
 "Director, Performance-Based Payment Policy Group",Centers for Medicare & Medicaid Services,"Washington, District of Columbia",ES,151661,228000,0340,2026-03-16,2026-04-16,https://www.usajobs.gov:443/job/861283700
@@ -13,7 +11,6 @@ Ethical Hacker,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,
 Government Information Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,57736,91815,0306,2026-03-06,2026-03-23,https://www.usajobs.gov:443/job/860274100
 Group Deputy Director (Supervisory Health Insurance Specialist),Centers for Medicare & Medicaid Services,"Boston, Massachusetts",GS,150359,197200,0107,2026-03-19,2026-04-02,https://www.usajobs.gov:443/job/861726500
 Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,143913,187093,0107,2026-03-18,2026-03-25,https://www.usajobs.gov:443/job/861552900
-Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0107,2026-03-13,2026-03-20,https://www.usajobs.gov:443/job/861209700
 Health Insurance Specialist (Program Policy),Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,118675,158322,0107,2026-03-13,2026-03-26,https://www.usajobs.gov:443/job/860939900
 Health Insurance Specialist (Technical Director),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0107,2026-03-17,2026-03-23,https://www.usajobs.gov:443/job/861316400
 Health Policy and Program Analyst (CMS Fellows Appointment),Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,76463,164301,0107,2026-01-23,2026-04-23,https://www.usajobs.gov:443/job/855347400
@@ -23,28 +20,20 @@ IT Specialist (Cloud Platform Engineer),Centers for Medicare & Medicaid Services
 Paralegal Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0950,2026-03-19,2026-04-01,https://www.usajobs.gov:443/job/861859800
 Paralegal Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0950,2026-03-19,2026-04-01,https://www.usajobs.gov:443/job/861860600
 Social Science Research Analyst,Centers for Medicare & Medicaid Services,"Boston, Massachusetts",GS,119630,158322,0101,2026-03-11,2026-03-24,https://www.usajobs.gov:443/job/860620200
-Special Assistant,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,143913,187093,0301,2026-03-13,2026-03-20,https://www.usajobs.gov:443/job/861209200
 Student Trainee (Health Insurance),Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,17.78,19.96,0199,2026-03-18,2026-04-15,https://www.usajobs.gov:443/job/861525500
 Student Trainee (Health Insurance),Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,22.33,27.66,0199,2026-03-18,2026-04-15,https://www.usajobs.gov:443/job/861530800
-Supervisory Financial Management Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0501,2026-03-12,2026-03-20,https://www.usajobs.gov:443/job/860903300
 Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-03-20,2026-03-26,https://www.usajobs.gov:443/job/861830100
 Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0107,2026-03-20,2026-03-26,https://www.usajobs.gov:443/job/861839600
 Supervisory Health Insurance Specialist (Division Director),Centers for Medicare & Medicaid Services,"Bethesda, Maryland",GS,169279,197200,0107,2026-03-20,2026-03-27,https://www.usajobs.gov:443/job/861747700
 Technical Advisor,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0301,2026-03-20,2026-04-02,https://www.usajobs.gov:443/job/861848700
 Center Director,Food and Drug Administration,"Silver Spring, Maryland",AD,301825,400000,0601,2026-03-20,2026-04-03,https://www.usajobs.gov:443/job/862056100
 Deputy Center Director,Food and Drug Administration,"Silver Spring, Maryland",AD,259391,373165,0601,2026-03-11,2026-03-25,https://www.usajobs.gov:443/job/860827200
-Director Cybersecurity Specialist,Food and Drug Administration,"North Bethesda, Maryland",AD,169279,259265,2210,2026-03-06,2026-03-20,https://www.usajobs.gov:443/job/860032900
 Physician,Food and Drug Administration,"Silver Spring, Maryland",AD,171700,280658,0602,2026-03-05,2026-03-25,https://www.usajobs.gov:443/job/859999300
 Physician,Food and Drug Administration,"White Oak, Maryland",AD,171700,280658,0602,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/861174800
 Physician,Food and Drug Administration,"White Oak, Maryland",AD,186850,308724,0602,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/861175600
-Regulatory Scientific Reviewer,Food and Drug Administration,"Silver Spring, Maryland",AD,171700,280658,0602,2026-03-16,2026-03-20,https://www.usajobs.gov:443/job/861327400
 Regulatory Scientific Reviewer (Mathematical Statistician),Food and Drug Administration,"Silver Spring, Maryland",AD,121785,191352,1529,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/861160600
 Regulatory Scientific Reviewer (Mathematical Statistician),Food and Drug Administration,"Silver Spring, Maryland",AD,143913,226144,1529,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/861161400
-Regulatory Scientific Reviewer (Pharmacologist),Food and Drug Administration,"Silver Spring, Maryland",AD,121785,169583,0405,2026-03-16,2026-03-20,https://www.usajobs.gov:443/job/861142700
-Regulatory Scientific Reviewer (Toxicologist),Food and Drug Administration,"Silver Spring, Maryland",AD,121785,169583,0415,2026-03-16,2026-03-20,https://www.usajobs.gov:443/job/861143700
-Regulatory Scientific Reviewer (Veterinary Medical Officer),Food and Drug Administration,"College Park, Maryland",AD,121785,169583,0701,2026-03-16,2026-03-20,https://www.usajobs.gov:443/job/861151000
 "Regulatory Scientific Reviewer, (Supervisory Veterinary Medical Officer)",Food and Drug Administration,"College Park, Maryland",AD,143913,197200,0701,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/861149900
-Regulatory Specialist,Food and Drug Administration,"Silver Spring, Maryland",AD,121785,169583,0696,2026-03-19,2026-03-25,https://www.usajobs.gov:443/job/861715100
 ADON / DON,Indian Health Service,"Chinle, Arizona",GS,98244,127725,0610,2026-03-04,2026-06-05,https://www.usajobs.gov:443/job/859980200
 ADON / DON,Indian Health Service,"Chinle, Arizona",GS,107048,139166,0610,2026-03-05,2026-06-05,https://www.usajobs.gov:443/job/859987900
 Certified Nurse Midwife,Indian Health Service,"Camp Verde, Arizona",GS,117383,164017,0610,2026-01-30,2026-04-30,https://www.usajobs.gov:443/job/856124800
@@ -96,7 +85,6 @@ Medical Technician (Laboratory Support),Indian Health Service,"Chinle, Arizona",
 Nurse (Case Management),Indian Health Service,"Dulce, New Mexico",GS,98244,127725,0610,2026-03-17,2026-03-27,https://www.usajobs.gov:443/job/861415700
 Nurse (ER),Indian Health Service,"Chinle, Arizona",GS,73426,127725,0610,2026-01-29,2026-04-30,https://www.usajobs.gov:443/job/855960600
 Nurse (ICU),Indian Health Service,"Chinle, Arizona",GS,79746,127725,0610,2026-01-29,2026-04-29,https://www.usajobs.gov:443/job/855957500
-Nurse (Infection Control),Indian Health Service,"Dulce, New Mexico",GS,98244,127725,0610,2026-03-10,2026-03-20,https://www.usajobs.gov:443/job/858954100
 Nurse (Med/Surg),Indian Health Service,"Chinle, Arizona",GS,68738,127725,0610,2026-01-30,2026-04-30,https://www.usajobs.gov:443/job/856154400
 Nurse (OB),Indian Health Service,"Chinle, Arizona",GS,73426,127725,0610,2026-01-29,2026-04-30,https://www.usajobs.gov:443/job/855995900
 Nurse (OR),Indian Health Service,"Chinle, Arizona",GS,73426,127725,0610,2026-01-29,2026-04-29,https://www.usajobs.gov:443/job/855955100
@@ -138,7 +126,6 @@ Emergency Management Specialist,National Institutes of Health,"Bethesda, Marylan
 Health Scientist Administrator (PO),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0601,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/859992200
 Health Scientist Administrator (Program Officer),National Institutes of Health,"Montgomery County, Maryland",GS,102415,187093,0601,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/859990600
 NIH Chief Information Officer,National Institutes of Health,"Bethesda, Maryland",ES,151661,228000,2210,2026-03-09,2026-03-23,https://www.usajobs.gov:443/job/860052400
-Senior Health Science Policy Analyst,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0601,2026-03-16,2026-03-20,https://www.usajobs.gov:443/job/861065100
 Supervisory Health Scientist Administrator (PO),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0601,2026-03-16,2026-03-25,https://www.usajobs.gov:443/job/859993100
 Supervisory Pharmacist (Medication Safety & Regulatory Compliance),National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0660,2026-03-19,2026-03-23,https://www.usajobs.gov:443/job/861560000
 Supervisory Pharmacist (Service Chief - CPIDRS),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0660,2026-03-19,2026-03-23,https://www.usajobs.gov:443/job/861559800
