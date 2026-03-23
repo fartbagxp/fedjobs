@@ -24,13 +24,13 @@ IT SPEC (NETWORK/CUSTSPT),Air National Guard Units,"Eielson AFB, Alaska",GS,8476
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"Eielson AFB, Alaska",GS,85607,123876,2210,2026-02-19,2027-02-18,https://www.usajobs.gov:443/job/858223500
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"Fairchild AFB, Washington",GS,75278,97867,2210,2026-03-12,2026-03-27,https://www.usajobs.gov:443/job/861021200
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"Lincoln, Nebraska",GS,79445,103276,2210,2025-12-15,2026-09-26,https://www.usajobs.gov:443/job/852458100
-IT SPECIALIST (CUSTSPT) T32,Air National Guard Units,"Phoenix, Arizona",GS,68545,101558,2210,2026-03-06,2026-03-21,https://www.usajobs.gov:443/job/860240300
 IT SPECIALIST (INFOSEC),Air National Guard Units,"McChord AFB, Washington",GS,99606,129494,2210,2026-03-18,2026-04-19,https://www.usajobs.gov:443/job/861670900
 IT SPECIALIST (INFOSEC),Air National Guard Units,"Reno, Nevada",GS,75278,97867,2210,2026-03-06,2027-03-05,https://www.usajobs.gov:443/job/860289600
 IT SPECIALIST (INFOSEC),Air National Guard Units,"Van Nuys, California",GS,104349,135657,2210,2026-03-10,2026-03-31,https://www.usajobs.gov:443/job/860419600
 IT SPECIALIST (INFOSEC) (TITLE 5),Air National Guard Units,"Salt Lake City, Utah",GS,75278,97867,2210,2026-03-17,2026-03-24,https://www.usajobs.gov:443/job/861476600
 IT SPECIALIST (INFOSEC) (Title 5),Air National Guard Units,"Des Moines, Iowa",GS,68545,117307,2210,2026-03-09,2026-03-23,https://www.usajobs.gov:443/job/860316600
 IT SPECIALIST (INFOSEC/NETWORK) (TITLE 5),Air National Guard Units,"Ellington AFB, Texas",GS,102203,132870,2210,2026-02-25,2026-03-25,https://www.usajobs.gov:443/job/858729200
+IT SPECIALIST (NETWORK),Air National Guard Units,"Flowood, Mississippi",GS,75278,97867,2210,2026-03-18,2026-03-22,https://www.usajobs.gov:443/job/861732100
 IT SPECIALIST (NETWORK),Air National Guard Units,"Mansfield, Ohio",GS,77977,101375,2210,2026-03-12,2026-03-26,https://www.usajobs.gov:443/job/860904600
 IT SPECIALIST (NETWORK),Air National Guard Units,"Springfield, Ohio",GS,77460,100703,2210,2026-03-10,2026-05-09,https://www.usajobs.gov:443/job/860490500
 IT SPECIALIST (NETWORK) (TITLE 32),Air National Guard Units,"Jefferson Barracks, Missouri",GS,75815,98554,2210,2025-10-30,2026-10-29,https://www.usajobs.gov:443/job/849162500
@@ -56,7 +56,6 @@ Information Technology Specialist (Data Management),Animal and Plant Health Insp
 Information Technology Specialist (Systems Analysis/Customer Support),Animal and Plant Health Inspection Service,"Manhattan, Kansas",GS,89508,116362,2210,2026-03-17,2026-03-23,https://www.usajobs.gov:443/job/861241400
 Information Technology Specialist (Systems Analysis/Customer Support),Animal and Plant Health Inspection Service,"Manhattan, Kansas",GS,89508,116362,2210,2026-03-17,2026-03-23,https://www.usajobs.gov:443/job/861307200
 IT SPECIALIST (CUSTOMER SUPPORT) (T32),Army National Guard Units,"Fort Mc Clellan, Alabama",GS,68545,97867,2210,2026-03-13,2026-04-12,https://www.usajobs.gov:443/job/861180500
-IT SPECIALIST (DATA MANAGEMENT),Army National Guard Units,"Topeka, Kansas",GS,75897,98671,2210,2026-03-07,2026-03-21,https://www.usajobs.gov:443/job/860291900
 IT SPECIALIST (DATAMGT) TITLE 32,Army National Guard Units,"Springfield, Illinois",GS,89508,116362,2210,2026-02-13,2027-02-12,https://www.usajobs.gov:443/job/857123900
 IT SPECIALIST (DATAMGT) TITLE 5,Army National Guard Units,"Springfield, Illinois",GS,89508,116362,2210,2026-02-13,2027-02-12,https://www.usajobs.gov:443/job/857122700
 IT SPECIALIST (NETWORK),Army National Guard Units,"Grand Island, Nebraska",GS,88621,115213,2210,2025-12-03,2026-09-26,https://www.usajobs.gov:443/job/851449400
@@ -70,6 +69,7 @@ IT Specialist (INFOSEC),Bonneville Power Administration,"Portland, Oregon",GS,10
 IT Specialist (INFOSEC),Bonneville Power Administration,"Portland, Oregon",GS,106991,149091,2210,2026-03-18,2026-03-27,https://www.usajobs.gov:443/job/861570100
 IT Technical Lead (Application Software),Bonneville Power Administration,"Portland, Oregon",GS,114684,149091,2210,2026-03-18,2026-03-27,https://www.usajobs.gov:443/job/861650300
 IT Technical Lead (Application Software),Bonneville Power Administration,"Portland, Oregon",GS,114684,149091,2210,2026-03-18,2026-03-27,https://www.usajobs.gov:443/job/861650600
+Web Content Producer,Bureau of Labor Statistics,"Suitland, Maryland",GS,102415,133142,2210,2026-03-19,2026-03-27,https://www.usajobs.gov:443/job/861736300
 IT SPECIALIST (INFOSEC),Bureau of Naval Personnel,"Annapolis, Maryland",GS,85447,133142,2210,2026-03-06,2026-04-06,https://www.usajobs.gov:443/job/859883100
 IT SPECIALIST (SYSADMIN),Bureau of Naval Personnel,"Annapolis, Maryland",GS,121785,158322,2210,2026-03-17,2026-03-23,https://www.usajobs.gov:443/job/861106300
 IT Specialist (CUSTSPT),Bureau of Naval Personnel,"Naval Post Graduate School, Monterey, California",GS,63081,100315,2210,2026-03-19,2026-04-20,https://www.usajobs.gov:443/job/860786900
@@ -137,6 +137,7 @@ Information Technology Specialist,Executive Office for U.S. Attorneys and the Of
 Information Technology Specialist,Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,"Little Rock, Arkansas",GS,89508,116362,2210,2026-03-10,2026-03-23,https://www.usajobs.gov:443/job/860317200
 Information Technology Specialist (Programmer/Application Software),Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,"Chicago, Illinois",GS,100059,130080,2210,2026-03-12,2026-03-23,https://www.usajobs.gov:443/job/860945000
 Information Technology Specialist (Programmer/Application Software),Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,"Chicago, Illinois",GS,100059,130080,2210,2026-03-12,2026-03-23,https://www.usajobs.gov:443/job/860945900
+Supervisory Information Technology Specialist,Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,"New Haven, Connecticut",GS,125431,163062,2210,2026-03-19,2026-03-26,https://www.usajobs.gov:443/job/861736500
 IT Specialist (APPSW),Federal Election Commission,"Washington, District of Columbia",GS,85447,133142,2210,2026-03-05,2026-03-23,https://www.usajobs.gov:443/job/859691400
 IT Specialist (INFOSEC/CUSTSPT),Federal Election Commission,"Washington, District of Columbia",GS,121785,158322,2210,2026-03-11,2026-03-24,https://www.usajobs.gov:443/job/860432300
 Information Technology Specialist (InfoSec),Federal Law Enforcement Training Centers,"Glynco, Georgia",GS,106437,138370,2210,2026-03-12,2026-03-24,https://www.usajobs.gov:443/job/860889000
@@ -176,7 +177,6 @@ Information Technology Specialist (APPSW),Organization of the Joint Chiefs of St
 Chief Artificial Intelligence Officer,Patent and Trademark Office,"Alexandria, Virginia",ES,198491,220000,2210,2026-02-12,2026-03-31,https://www.usajobs.gov:443/job/857613700
 IT Specialist (INFOSEC),Patent and Trademark Office,"Alexandria, Virginia",GS,143913,187093,2210,2026-03-05,2026-03-25,https://www.usajobs.gov:443/job/860039100
 INFORMATION TECHNOLOGY SPECIALIST (NETWORK/CUSTSPT),Secretary of the Navy Offices (SECNAV),"Pearl Harbor, Hawaii",GS,111119,144457,2210,2026-03-19,2026-03-24,https://www.usajobs.gov:443/job/861594400
-INFORMATION TECHNOLOGY SPECIALIST (AI),Securities and Exchange Commission,"Washington, District of Columbia",SK,160007,289400,2210,2026-03-18,2026-03-31,https://www.usajobs.gov:443/job/861406300
 Principal Network Engineer #332,Senate,"Washington, District of Columbia",AD,130469,181570,2210,2026-03-11,2026-03-25,https://www.usajobs.gov:443/job/860838700
 Senior Systems Engineer #294,Senate,"Washington, District of Columbia",AD,102745,173959,2210,2026-03-10,2026-03-24,https://www.usajobs.gov:443/job/860525500
 IT Specialist (Network/SysAdmin),Smithsonian Institution ,"Hilo, Hawaii",GS,101091,131422,2210,2026-03-18,2026-04-08,https://www.usajobs.gov:443/job/861586300
