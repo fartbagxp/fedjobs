@@ -1,4 +1,5 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+SUPERVISORY GENERAL ENGINEER,Air Education and Training Command,"San Antonio, Texas",GS,127624,165917,0801,2026-04-21,2026-05-04,https://www.usajobs.gov:443/job/865868100
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Lackland AFB, Texas",GG,79735,126275,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846773800
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,56763,88225,1550,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/852682400
 Computer Scientist,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,56763,99314,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846731400
@@ -6,10 +7,10 @@ Computer Scientist-Direct Hire Authority,Air Force Materiel Command,"Edwards AFB
 Computer Scientist-Direct Hire Authority,Air Force Materiel Command,"Edwards AFB, California",NH,89508,138370,1550,2026-04-07,2026-05-07,https://www.usajobs.gov:443/job/864044900
 Computer Scientist/ Computer Engineer- Direct Hire Authority,Air Force Materiel Command,"Edwards AFB, California",NH,89508,138370,0854,2026-04-03,2026-05-03,https://www.usajobs.gov:443/job/863855200
 GENERAL ENGINEER-DIRECT HIRE AUTHORITY,Air Force Materiel Command,"Hill AFB, Utah",GS,61722,116362,0801,2026-04-01,2026-07-30,https://www.usajobs.gov:443/job/863464900
-SCIENTIST,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",ND,102246,158062,1550,2026-04-09,2026-04-20,https://www.usajobs.gov:443/job/864360100
 SCIENTIST,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",ND,102246,158062,1550,2026-04-09,2026-04-22,https://www.usajobs.gov:443/job/864386200
-SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",NM,102246,186785,0801,2026-04-17,2026-04-20,https://www.usajobs.gov:443/job/865360500
-SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",NM,143677,197200,0801,2026-04-17,2026-04-20,https://www.usajobs.gov:443/job/865361000
+SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","NIWC LANT Charleston, South Carolina",NM,89508,163514,0801,2026-04-20,2026-04-27,https://www.usajobs.gov:443/job/865847700
+COMPUTER SCIENTIST (CYBER),Defense Information Systems Agency,"Fort Meade, Maryland",GG,121785,158322,1550,2026-04-20,2026-04-27,https://www.usajobs.gov:443/job/865940600
+SUPV ELECTRONICS ENGINEER,Defense Information Systems Agency,"Pentagon, Arlington, Virginia",GS,169279,197200,0854,2026-04-21,2026-05-01,https://www.usajobs.gov:443/job/865882600
 Computer Scientist,Department of the Air Force - Agency Wide,"Joint Base Anacostia-Bolling, District of Columbia",GS,76463,164301,1550,2025-12-22,2026-12-21,https://www.usajobs.gov:443/job/852882500
 Electronics Engineer/Computer Engineer/Operations Research Analyst/Computer Scientist,Department of the Air Force - Agency Wide,"Robins AFB, Georgia",GS,106437,138370,0854,2026-04-16,2026-04-22,https://www.usajobs.gov:443/job/865317900
 Mathematics and Statistics,Department of the Air Force - Agency Wide,"Salt Lake City, Utah",NH,22584,164301,1515,2026-03-30,2027-03-29,https://www.usajobs.gov:443/job/863086700
@@ -24,12 +25,10 @@ SUPERVISORY INTERDISCIPLINARY ENGINEER/RESEARCH PSYCHOLOGIST,Naval Air Systems C
 SUPERVISORY INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Point Mugu, California",NM,146632,197200,0801,2026-04-16,2026-04-22,https://www.usajobs.gov:443/job/864826000
 Supervisory Interdisciplinary Engineer/Computer Scientist,Naval Air Systems Command,"Patuxent River, Maryland",NM,121785,187093,0850,2026-04-15,2026-04-28,https://www.usajobs.gov:443/job/865277600
 COMPUTER SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,1550,2025-11-17,2026-05-15,https://www.usajobs.gov:443/job/850195200
-COMPUTER SCIENTIST,Naval Sea Systems Command,"Keyport, Washington",GS,100602,130786,1550,2026-04-10,2026-04-20,https://www.usajobs.gov:443/job/864580500
 COOPERATIVE ENGAGEMENT CAPABILITY SYSTEMS ENGINEER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,69923,156755,0801,2025-10-21,2026-10-20,https://www.usajobs.gov:443/job/848468700
-ENGINEER/SCIENTIST,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-09,2026-04-20,https://www.usajobs.gov:443/job/864540000
-ENGINEER/SCIENTIST,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-09,2026-04-20,https://www.usajobs.gov:443/job/864624100
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-15,2026-04-27,https://www.usajobs.gov:443/job/865326000
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-17,2026-04-27,https://www.usajobs.gov:443/job/865492200
+ENGINEER/SCIENTIST,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-20,2026-05-01,https://www.usajobs.gov:443/job/865892900
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,69923,156755,0801,2025-10-21,2026-10-20,https://www.usajobs.gov:443/job/848470100
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,0801,2025-11-03,2026-11-02,https://www.usajobs.gov:443/job/849215100
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,0801,2025-11-04,2026-11-03,https://www.usajobs.gov:443/job/849247100
@@ -38,11 +37,11 @@ ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,102415,1583
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,102415,158322,0801,2026-02-04,2026-05-04,https://www.usajobs.gov:443/job/856246000
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,46610,158322,0854,2026-02-17,2027-02-15,https://www.usajobs.gov:443/job/857832800
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,70623,158322,0801,2026-03-23,2026-06-30,https://www.usajobs.gov:443/job/862036600
+ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,70623,158322,0801,2026-04-21,2026-06-23,https://www.usajobs.gov:443/job/865329500
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dam Neck Naval Facility, Virginia Beach, Virginia",ND,90838,140426,0854,2025-10-27,2026-04-24,https://www.usajobs.gov:443/job/848864700
-LEAD SYSTEMS ENGINEER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,143913,197200,0801,2026-04-07,2026-04-20,https://www.usajobs.gov:443/job/864146000
-MANAGER,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-09,2026-04-20,https://www.usajobs.gov:443/job/864614700
 MANAGER,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-04-15,2026-04-27,https://www.usajobs.gov:443/job/865355100
 SOFTWARE DEVELOPER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,1550,2025-10-22,2026-10-21,https://www.usajobs.gov:443/job/848520700
 SCIENCE ADVISOR (INTERDISCPLINARY),Office of Naval Research,"Mayport, Florida",GS,105734,164301,0401,2026-04-08,2026-05-07,https://www.usajobs.gov:443/job/864201200
 SENIOR SCIENTIST FOR ARTIFICIAL INTELLIGENCE,Office of Naval Research,"Naval Research Laboratory, District of Columbia",ST,186207,228000,0180,2026-04-02,2026-04-30,https://www.usajobs.gov:443/job/862914800
+COMPUTER SCIENTIST,U.S. Army Test and Evaluation Command,"Aberdeen Proving Ground, Maryland",NH,143913,197200,1550,2026-04-21,2026-04-24,https://www.usajobs.gov:443/job/865918300
 INTERGRATION TEAM LEAD,U.S. Marine Corps,"Stafford, Virginia",NH,143913,197200,1550,2026-04-06,2026-06-08,https://www.usajobs.gov:443/job/863960900
