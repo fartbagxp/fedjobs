@@ -1,5 +1,4 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
-Budget Analyst,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,112556,146325,0560,2026-04-29,2026-05-06,https://www.usajobs.gov:443/job/867110200
 IT Project Manager,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,2210,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867776500
 Information Technology Specialist (INFOSEC),Centers for Disease Control and Prevention,"Washington, District of Columbia",GS,110865,158322,2210,2026-05-01,2026-05-07,https://www.usajobs.gov:443/job/867339200
 Science Officer,Centers for Disease Control and Prevention,"Washington, District of Columbia",GS,154100,197200,0601,2026-05-01,2026-05-07,https://www.usajobs.gov:443/job/867527200
@@ -10,7 +9,6 @@ ASSISTANT HR OFFICER,Centers for Medicare & Medicaid Services,"Woodlawn, Marylan
 Clinical Laboratory Regulatory Specialist,Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,90925,118204,0644,2026-05-06,2026-05-12,https://www.usajobs.gov:443/job/867999000
 Contract Specialist,Centers for Medicare & Medicaid Services,"Atlanta, Georgia",GS,63795,99404,1102,2026-05-01,2026-05-11,https://www.usajobs.gov:443/job/867629000
 DIS Deputy Director,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,138595,187093,2210,2026-04-30,2026-05-07,https://www.usajobs.gov:443/job/867440500
-Data Engineer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,2210,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/867231200
 Data Scientist,Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,82289,133142,1560,2026-05-01,2026-05-11,https://www.usajobs.gov:443/job/867405900
 Deputy Director for Operations,Centers for Medicare & Medicaid Services,"Bethesda, Maryland",ES,151661,228000,0340,2026-05-05,2026-05-18,https://www.usajobs.gov:443/job/867692100
 "Director, Children and Adults Health Programs Group",Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",ES,151661,228000,0340,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866786500
@@ -19,7 +17,6 @@ HR SPEC (COMPENSATION),Centers for Medicare & Medicaid Services,"Woodlawn, Maryl
 HR SPEC (EMPL BENEFITS & COMP),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,108173,172980,0201,2026-04-24,2026-05-25,https://www.usajobs.gov:443/job/866483700
 HR SPEC (EMPL BENEFITS & COMP),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,108173,172980,0201,2026-04-24,2026-05-25,https://www.usajobs.gov:443/job/866485200
 HR Specialist (Recruitment/Placement),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,90968,145468,0201,2026-04-24,2026-05-25,https://www.usajobs.gov:443/job/866533800
-Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,192694,0107,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/867293000
 Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,127829,187093,0107,2026-05-01,2026-05-08,https://www.usajobs.gov:443/job/867429500
 Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0107,2026-05-06,2026-05-12,https://www.usajobs.gov:443/job/867941100
 Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0107,2026-05-06,2026-05-12,https://www.usajobs.gov:443/job/867983400
@@ -39,10 +36,16 @@ Physician,Centers for Medicare & Medicaid Services,"Boston, Massachusetts",GS,16
 Privacy Engineer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,119630,158322,2210,2026-05-01,2026-05-07,https://www.usajobs.gov:443/job/867465800
 Program Analyst,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0343,2026-04-30,2026-05-08,https://www.usajobs.gov:443/job/867111900
 Program Analyst,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0343,2026-04-30,2026-05-08,https://www.usajobs.gov:443/job/867309000
+Robotic Process Automation Developer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,97307,133142,2210,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868065300
+Social Science Research Analyst,Centers for Medicare & Medicaid Services,"Atlanta, Georgia",GS,112556,146325,0101,2026-05-06,2026-05-13,https://www.usajobs.gov:443/job/868070000
+Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Bethesda, Maryland",GS,143913,187093,0107,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868160600
 Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0107,2026-05-06,2026-05-12,https://www.usajobs.gov:443/job/868033900
+Supervisory Health Insurance Specialist (Division Director),Centers for Medicare & Medicaid Services,"Bethesda, Maryland",GS,169279,197200,0107,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868072400
 Supervisory Program Manager,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,169279,197200,0340,2026-04-23,2026-05-07,https://www.usajobs.gov:443/job/866401600
+Supervisory Social Science Research Analyst,Centers for Medicare & Medicaid Services,"Washington, District of Columbia",GS,143913,187093,0101,2026-05-07,2026-05-14,https://www.usajobs.gov:443/job/868174100
 Deputy Division Director,Food and Drug Administration,"College Park, Maryland",AD,169279,232306,0696,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867768300
 "Director, Office of Compliance and Enforcement",Food and Drug Administration,"Silver Spring, Maryland",ES,151661,228000,0696,2026-04-15,2026-05-15,https://www.usajobs.gov:443/job/865289200
+General Engineer,Food and Drug Administration,"Silver Spring, Maryland",GS,85447,111087,0801,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868131300
 Information Technology Specialist (INFOSEC),Food and Drug Administration,"North Bethesda, Maryland",AD,121785,191352,2210,2026-05-04,2026-05-15,https://www.usajobs.gov:443/job/867029600
 Advanced Practice Nurse (Psychiatric),Indian Health Service,"Belcourt, North Dakota",GS,117383,164017,0610,2026-04-28,2026-05-12,https://www.usajobs.gov:443/job/867014500
 Certified Nurse Midwife,Indian Health Service,"Camp Verde, Arizona",GS,117383,164017,0610,2026-01-30,2026-05-29,https://www.usajobs.gov:443/job/856124800
@@ -63,6 +66,7 @@ Contact Representative (Benefits),Indian Health Service,"Camp Verde, Arizona",GS
 Contact Representative (Benefits),Indian Health Service,"Camp Verde, Arizona",GS,55882,72644,0962,2026-02-20,2026-05-22,https://www.usajobs.gov:443/job/858464300
 Contact Representative (Benefits),Indian Health Service,"Camp Verde, Arizona",GS,45409,59031,0962,2026-02-20,2026-05-22,https://www.usajobs.gov:443/job/858469000
 Cook,Indian Health Service,"Browning, Montana",WG,27.66,32.27,7404,2026-04-30,2026-05-13,https://www.usajobs.gov:443/job/867388100
+Cook,Indian Health Service,"Wakpala, South Dakota",WG,21.1,24.65,7404,2026-05-06,2026-05-29,https://www.usajobs.gov:443/job/865538900
 Custodial Worker Leader,Indian Health Service,"Parker, Arizona",WL,20.5,23.91,3566,2026-05-04,2026-05-13,https://www.usajobs.gov:443/job/867846100
 Dental Assistant,Indian Health Service,"Camp Verde, Arizona",GS,38090,56610,0681,2026-02-19,2026-05-31,https://www.usajobs.gov:443/job/858179600
 Dental Assistant (EF),Indian Health Service,"Camp Verde, Arizona",GS,47675,61977,0681,2026-02-19,2026-05-31,https://www.usajobs.gov:443/job/858179900
@@ -73,8 +77,10 @@ Dentist,Indian Health Service,"Chinle, Arizona",GS,123077,315000,0680,2026-03-19
 Dentist,Indian Health Service,"Chinle, Arizona",GS,175000,315000,0680,2026-03-19,2026-06-19,https://www.usajobs.gov:443/job/861901300
 Dentist,Indian Health Service,"Chinle, Arizona",GS,175000,315000,0680,2026-03-19,2026-06-19,https://www.usajobs.gov:443/job/861901400
 Dentist (Pediatric),Indian Health Service,"Albuquerque, New Mexico",GS,123077,315000,0680,2026-05-01,2026-05-22,https://www.usajobs.gov:443/job/867616200
+Diagnostic Radiologic Technologist (Computerized Tomography),Indian Health Service,"Zuni, New Mexico",GS,71709,93227,0647,2026-05-06,2026-06-05,https://www.usajobs.gov:443/job/868227700
 Food Service Worker,Indian Health Service,"Kayenta, Arizona",WG,19.71,23.01,7408,2026-04-29,2026-05-19,https://www.usajobs.gov:443/job/867278200
 Health Information Specialist,Indian Health Service,"Sisseton, South Dakota",GS,74678,97087,0601,2026-04-23,2026-05-07,https://www.usajobs.gov:443/job/861237900
+Health Technician (Behavior Health),Indian Health Service,"Lockport, New York",GS,1,2,0640,2026-05-06,2026-07-06,https://www.usajobs.gov:443/job/868127200
 Health Technician (EMT),Indian Health Service,"Belcourt, North Dakota",GS,36464,47334,0640,2026-04-21,2026-05-11,https://www.usajobs.gov:443/job/865995000
 Health Technician (EMT),Indian Health Service,"Belcourt, North Dakota",GS,45409,59031,0640,2026-04-21,2026-05-11,https://www.usajobs.gov:443/job/865995800
 Health Technician (EMT),Indian Health Service,"Belcourt, North Dakota",GS,40736,52597,0640,2026-04-21,2026-05-11,https://www.usajobs.gov:443/job/865995900
@@ -87,7 +93,6 @@ Health Technician (Paramedic),Indian Health Service,"Belcourt, North Dakota",GS,
 Laborer,Indian Health Service,"Sacaton, Arizona",WG,21.38,27.27,3502,2026-04-28,2026-05-12,https://www.usajobs.gov:443/job/867094700
 Laborer,Indian Health Service,"Sacaton, Arizona",WG,21.38,27.27,3502,2026-04-28,2026-05-12,https://www.usajobs.gov:443/job/867094900
 Licensed Practical Nurse,Indian Health Service,"Chinle, Arizona",GS,46655,73625,0620,2026-01-30,2026-05-29,https://www.usajobs.gov:443/job/856120900
-Maintenance Mechanic,Indian Health Service,"Harlem, Montana",WG,34.68,40.45,4749,2026-04-27,2026-05-08,https://www.usajobs.gov:443/job/866835100
 Maintenance Mechanic Helper,Indian Health Service,"Phoenix, Arizona",WG,25.37,29.6,4749,2026-04-27,2026-05-15,https://www.usajobs.gov:443/job/866879100
 Maintenance Mechanic Supervisor,Indian Health Service,"Lame Deer, Montana",WS,42.17,49.23,4749,2026-05-01,2026-05-15,https://www.usajobs.gov:443/job/867556200
 Maintenance Worker,Indian Health Service,"Cass Lake, Minnesota",WG,27.49,37.88,4749,2026-04-27,2026-05-15,https://www.usajobs.gov:443/job/866769200
@@ -126,6 +131,7 @@ Physician Assistant,Indian Health Service,"Chinle, Arizona",GS,117383,152606,060
 Physician Assistant,Indian Health Service,"Chinle, Arizona",GS,110727,143953,0603,2026-02-10,2026-05-29,https://www.usajobs.gov:443/job/857115600
 Physician Assistant,Indian Health Service,"Chinle, Arizona",GS,126164,164017,0603,2026-05-01,2026-05-15,https://www.usajobs.gov:443/job/867553200
 Public Health Nurse,Indian Health Service,"Camp Verde, Arizona",GS,84363,127725,0610,2026-03-24,2026-06-22,https://www.usajobs.gov:443/job/862294300
+Safety and Occupational Health Specialist,Indian Health Service,"Fort Thompson, South Dakota",GS,89508,116362,0018,2026-05-06,2026-05-26,https://www.usajobs.gov:443/job/868103500
 Social Services Assistant,Indian Health Service,"Camp Verde, Arizona",GS,40736,52957,0186,2026-02-20,2026-05-22,https://www.usajobs.gov:443/job/858390300
 Social Services Assistant,Indian Health Service,"Chinle, Arizona",GS,45409,59031,0186,2026-01-29,2026-05-29,https://www.usajobs.gov:443/job/855985600
 Social Services Assistant,Indian Health Service,"Chinle, Arizona",GS,36409,47334,0186,2026-02-04,2026-05-29,https://www.usajobs.gov:443/job/856437600
@@ -135,6 +141,8 @@ Social Worker,Indian Health Service,"Chinle, Arizona",GS,65381,104502,0185,2026-
 Social Worker,Indian Health Service,"Chinle, Arizona",GS,80382,104502,0185,2026-02-02,2026-05-29,https://www.usajobs.gov:443/job/856283500
 Supervisory Advanced Practice Nurse,Indian Health Service,"Fort Yates, North Dakota",GS,136388,177306,0610,2026-03-26,2026-06-23,https://www.usajobs.gov:443/job/862780500
 Supervisory Advanced Practice Nurse (Psychiatric),Indian Health Service,"Acomita, New Mexico",GS,136388,177306,0610,2026-04-29,2026-06-29,https://www.usajobs.gov:443/job/867247300
+Supervisory Civil Engineer (Deputy District Engineer),Indian Health Service,"Tuba City, Arizona",GS,104754,136183,0810,2026-05-06,2026-06-05,https://www.usajobs.gov:443/job/868108200
+Supervisory Civil Engineer (Deputy District Engineer),Indian Health Service,"Tuba City, Arizona",GS,104754,136183,0810,2026-05-06,2026-06-05,https://www.usajobs.gov:443/job/868109100
 Supervisory Clinical Nurse (Chief Nurse Executive),Indian Health Service,"Acomita, New Mexico",GS,107048,139166,0610,2026-04-29,2026-06-29,https://www.usajobs.gov:443/job/867247600
 Supervisory Dentist,Indian Health Service,"Camp Verde, Arizona",GS,145000,335000,0680,2026-03-03,2026-05-25,https://www.usajobs.gov:443/job/859683800
 Supervisory Dentist,Indian Health Service,"Camp Verde, Arizona",GS,145000,335000,0680,2026-03-03,2026-05-29,https://www.usajobs.gov:443/job/859696200
@@ -157,30 +165,18 @@ X-Ray Technologist,Indian Health Service,"Chinle, Arizona",GS,50807,77334,0647,2
 Administrative Technician (OA),National Institutes of Health,"Montgomery County, Maryland",GS,46610,75059,0303,2026-05-04,2026-05-08,https://www.usajobs.gov:443/job/867024000
 Architect,National Institutes of Health,"Frederick County, Maryland",GS,121785,158322,0808,2026-04-17,2026-05-08,https://www.usajobs.gov:443/job/865499800
 Architect,National Institutes of Health,"Frederick County, Maryland",GS,121785,158322,0808,2026-04-17,2026-05-08,https://www.usajobs.gov:443/job/865500200
-Auditor,National Institutes of Health,"Montgomery County, Maryland",GS,102415,158322,0511,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/866998500
-Emergency Management Specialist,National Institutes of Health,"Bethesda, Maryland",GS,70623,133142,0089,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/866816400
-Emergency Management Specialist,National Institutes of Health,"Bethesda, Maryland",GS,70623,133142,0089,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/866816700
-General Engineer,National Institutes of Health,"Montgomery County, Maryland",GS,77983,158322,0801,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866177800
+Ethics Program Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,121785,158322,0301,2026-05-07,2026-05-11,https://www.usajobs.gov:443/job/868218600
+Financial Management Analyst,National Institutes of Health,"Frederick County, Maryland",GS,85447,158322,0501,2026-05-07,2026-05-11,https://www.usajobs.gov:443/job/868018100
+General Engineer,National Institutes of Health,"Montgomery County, Maryland",GS,77983,158322,0801,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866177800
 Lead Budget Analyst,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0560,2026-04-29,2026-05-08,https://www.usajobs.gov:443/job/866261800
 Mathematical Statistician (Biostatistics),National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,1529,2026-05-04,2026-05-08,https://www.usajobs.gov:443/job/866193100
 Patient Care Technician,National Institutes of Health,"Montgomery County, Maryland",GS,57736,75059,0640,2026-05-04,2026-05-08,https://www.usajobs.gov:443/job/867630300
 Patient Care Technician,National Institutes of Health,"Montgomery County, Maryland",GS,57736,75059,0640,2026-05-04,2026-05-08,https://www.usajobs.gov:443/job/867632600
-Physician,National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866077000
-Physician,National Institutes of Health,"Montgomery County, Maryland",GP,143913,285000,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866079400
-Physician (Clinical),National Institutes of Health,"Baltimore, Maryland",GP,169279,350000,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866086200
-Physician (Clinical),National Institutes of Health,"Frederick, Maryland",GP,143913,350000,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866078900
-Physician (Clinical),National Institutes of Health,"Montgomery County, Maryland",GS,169279,350000,0602,2026-04-25,2026-05-06,https://www.usajobs.gov:443/job/866627800
-Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866064200
-Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866068400
+Program Analyst,National Institutes of Health,"Salt Lake City, Utah",GS,74678,172980,0343,2026-05-07,2026-05-11,https://www.usajobs.gov:443/job/868220900
 Staff Assistant,National Institutes of Health,"Durham, North Carolina",GS,64453,83794,0301,2026-05-06,2026-05-12,https://www.usajobs.gov:443/job/868000700
 "Statistician (Medicine) - Chief, Biostatistics and Clinical Epidemiology Service",National Institutes of Health,"Salt Lake City, Utah",GS,147945,197200,1530,2026-05-04,2026-05-08,https://www.usajobs.gov:443/job/867656200
 Supervisory Emergency Management Specialist,National Institutes of Health,"Bethesda, Maryland",GS,169279,197200,0089,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867112900
 Supervisory Emergency Management Specialist,National Institutes of Health,"Bethesda, Maryland",GS,169279,197200,0089,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867113100
-Supervisory Physician,National Institutes of Health,"Montgomery County, Maryland",GP,169279,350000,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866075100
-Supervisory Physician (Clinical),National Institutes of Health,"Frederick, Maryland",GP,169279,350000,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866085300
-Supervisory Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-04-27,2026-05-06,https://www.usajobs.gov:443/job/866070400
-Criminal Investigator,Office of Inspector General,"Washington, District of Columbia",GS,65435,111087,1811,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/867112700
-Criminal Investigator,Office of Inspector General,"Washington, District of Columbia",GS,102415,158322,1811,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/867158100
 General Attorney,Office of Inspector General,"Los Angeles, California",GS,112556,197200,0905,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867793200
 "Management and Program Analysis Officer (Director, API)",Office of Inspector General,"Little Rock, Arkansas",GS,147945,192331,0343,2026-05-06,2026-05-11,https://www.usajobs.gov:443/job/867738200
 Visual Information Specialist,Office of Inspector General,"District of Columbia, District of Columbia",GS,70623,111087,1084,2026-04-20,2026-05-12,https://www.usajobs.gov:443/job/865285900
@@ -188,7 +184,7 @@ Visual Information Specialist,Office of Inspector General,"District of Columbia,
 Attorney Adviser,Office of the Secretary of Health and Human Services,"Denver, Colorado",GS,147945,192331,0905,2026-03-26,2026-09-30,https://www.usajobs.gov:443/job/862590000
 Deputy Associate General Counsel for Ethics,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",ES,151661,228000,0905,2026-04-24,2026-05-08,https://www.usajobs.gov:443/job/866164800
 General Attorney and Senior Attorney,Office of the Secretary of Health and Human Services,"Denver, Colorado",GS,74678,163514,0905,2026-03-26,2026-09-30,https://www.usajobs.gov:443/job/862588600
-Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,121785,158322,0201,2026-05-05,2026-05-07,https://www.usajobs.gov:443/job/867831400
+Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,121785,158322,0201,2026-05-05,2026-05-08,https://www.usajobs.gov:443/job/867831400
 IT Cybersecurity Specialist,Office of the Secretary of Health and Human Services,"Phoenix, Arizona",GS,107592,161313,2210,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867788400
 Program Support Specialist,Office of the Secretary of Health and Human Services,"Phoenix, Arizona",GS,89508,135657,0301,2026-04-29,2026-05-12,https://www.usajobs.gov:443/job/867012700
 Supervisory IT Specialist (Application Software),Office of the Secretary of Health and Human Services,"Phoenix, Arizona",GS,125776,190627,2210,2026-05-05,2026-05-11,https://www.usajobs.gov:443/job/867734800

@@ -1,11 +1,13 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Chief (Office of Facilities Support),Bureau of Engraving and Printing,"Washington, District of Columbia",GS,169279,197200,0301,2026-05-01,2026-05-14,https://www.usajobs.gov:443/job/867323900
-Accountant,Bureau of the Fiscal Service,"Washington, District of Columbia",GS,50460,133142,0510,2026-04-29,2026-05-06,https://www.usajobs.gov:443/job/867163000
 Deputy Chief Financial Officer,Bureau of the Fiscal Service,"Washington, District of Columbia",ES,151661,228000,0505,2026-04-14,2026-05-13,https://www.usajobs.gov:443/job/864929300
 IT Specialist (INFOSEC),Bureau of the Fiscal Service,"Kansas City, Missouri",GS,75278,118261,2210,2026-05-01,2026-05-12,https://www.usajobs.gov:443/job/866905900
+IT Specialist (INFOSEC/PLCYPLN)(SENIOR IT SPECIALIST (SECURITY / POLICY PLANNING),Bureau of the Fiscal Service,"Birmingham, Alabama",GS,106437,158322,2210,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868123700
 Supervisory Management and Program Analyst (Branch Manager),Bureau of the Fiscal Service,"Parkersburg, West Virginia",GS,125776,163514,0343,2026-04-28,2026-05-11,https://www.usajobs.gov:443/job/866759900
 Accountant,Internal Revenue Service,"Washington, District of Columbia",GS,106437,158322,0510,2026-04-27,2026-05-07,https://www.usajobs.gov:443/job/866674100
 Appeals Officer (Team Case Lead) 6 MONTH REGISTER,Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0930,2026-05-04,2026-08-03,https://www.usajobs.gov:443/job/867755500
+Appraiser,Internal Revenue Service,"Birmingham, Alabama",GS,106437,172980,1171,2026-05-06,2026-05-15,https://www.usajobs.gov:443/job/868069100
+Budget Analyst,Internal Revenue Service,"Fresno County, California",GS,61722,145468,0560,2026-05-06,2026-05-19,https://www.usajobs.gov:443/job/868066300
 "Centralized Evaluative Review (CER) Group Manager, TEMP NTE 1 yr, MBE 5 yrs, MBMP",Internal Revenue Service,"Ogden, Utah",IR,74678,97087,0962,2026-04-27,2026-05-08,https://www.usajobs.gov:443/job/866461700
 Chief of Internal Consulting,Internal Revenue Service,"Washington, District of Columbia",ES,151661,228000,1811,2026-05-01,2026-05-15,https://www.usajobs.gov:443/job/867651100
 "Contact Representative (Bilingual-Spanish) (Seasonal) - Direct Hire, TERM",Internal Revenue Service,"Caguas, Puerto Rico",GS,19.52,25.37,0962,2026-04-23,2026-06-17,https://www.usajobs.gov:443/job/866509500
@@ -25,12 +27,15 @@ Legal Assistant (OA),Internal Revenue Service,"Chicago, Illinois",GS,40736,65599
 Legal Assistant (OA),Internal Revenue Service,"Phoenix, Arizona",GS,40736,82007,0986,2026-04-29,2026-05-13,https://www.usajobs.gov:443/job/867192900
 Legal Assistant (Office Automation),Internal Revenue Service,"Birmingham, Alabama",GS,40736,77306,0986,2026-04-29,2026-05-13,https://www.usajobs.gov:443/job/867272300
 MANAGEMENT AND PROGRAM ANALYST,Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,0343,2026-05-01,2026-05-14,https://www.usajobs.gov:443/job/867632700
+Management & Program Analyst,Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,0343,2026-05-06,2026-05-26,https://www.usajobs.gov:443/job/868057500
 Management and Program Analyst,Internal Revenue Service,"Fresno, California",GS,106437,172980,0343,2026-05-04,2026-05-18,https://www.usajobs.gov:443/job/867726200
 Operations Coordinator,Internal Revenue Service,"San Diego, California",GS,69373,91664,0301,2026-05-01,2026-05-15,https://www.usajobs.gov:443/job/867575000
+Program Manager,Internal Revenue Service,"Fresno, California",IR,75055,146325,0340,2026-05-06,2026-05-19,https://www.usajobs.gov:443/job/868064200
+Program Manager (Department Manager),Internal Revenue Service,"Austin, Texas",IR,76777,142259,0340,2026-05-07,2026-05-20,https://www.usajobs.gov:443/job/868132300
 Program Manager (Department Manager),Internal Revenue Service,"Chamblee, Georgia",IR,78972,146325,0340,2026-05-01,2026-05-14,https://www.usajobs.gov:443/job/867317200
 Program Manager (Department Manager),Internal Revenue Service,"Covington, Kentucky",IR,77785,156715,0340,2026-04-30,2026-05-13,https://www.usajobs.gov:443/job/867444800
+"Program Manager (Department Manager) - Not to Exceed 1 Year, May Be Extended up to 5 Years",Internal Revenue Service,"Memphis, Tennessee",IR,74678,138370,0340,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868108900
 "Program Manager (Manager, Human and Capital Resources)",Internal Revenue Service,"Glendale, Arizona",IR,125776,197200,0340,2026-04-24,2026-05-07,https://www.usajobs.gov:443/job/866567100
-Senior Tax Analyst,Internal Revenue Service,"Fresno, California",GS,125776,192694,0501,2026-04-23,2026-05-06,https://www.usajobs.gov:443/job/866345100
 Sign Language Interpreter,Internal Revenue Service,"Kansas City, Missouri",GS,74678,99816,1040,2026-04-24,2026-05-07,https://www.usajobs.gov:443/job/866551600
 Special Agent in Charge,Internal Revenue Service,"Lake Forest, California",ES,151661,228000,1811,2026-04-29,2026-05-12,https://www.usajobs.gov:443/job/866736300
 Staff Accountant,Internal Revenue Service,"Washington, District of Columbia",GS,125776,187093,0510,2026-04-27,2026-05-07,https://www.usajobs.gov:443/job/866758200
@@ -47,36 +52,34 @@ Supervisory Tax Examining Technician - Seasonal 8 to 10 Months,Internal Revenue 
 "Tax Examining Technician (Seasonal) - Direct Hire, TERM",Internal Revenue Service,"Holtsville, New York",GS,23,29.9,0592,2026-04-24,2026-06-02,https://www.usajobs.gov:443/job/866648800
 "Tax Examining Technician (Seasonal) - Direct Hire, TERM",Internal Revenue Service,"Ogden, Utah",GS,19.52,25.37,0592,2026-04-22,2026-05-15,https://www.usajobs.gov:443/job/866305900
 "Tax Examining Technician (Seasonal)- Direct Hire, TERM",Internal Revenue Service,"Chamblee, Georgia",GS,19.52,27.96,0592,2026-04-23,2026-06-17,https://www.usajobs.gov:443/job/866522900
-"Analyst to the DC, NB-0570-VI.2",Office of the Comptroller of the Currency,"Denver, Colorado",NB,115909,215372,0570,2026-04-22,2026-05-06,https://www.usajobs.gov:443/job/866200600
+"Analyst to the DC, NB-0570-VI.2",Office of the Comptroller of the Currency,"Denver, Colorado",NB,115909,215372,0570,2026-04-22,2026-05-14,https://www.usajobs.gov:443/job/866200600
 "Deputy Comptroller, NB-0570-VIII",Office of the Comptroller of the Currency,"Los Angeles, California",NB,176282,319800,0570,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866682200
 "Director (Chartering), NB-0570-VII",Office of the Comptroller of the Currency,"San Francisco, California",NB,138791,258016,0570,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866828700
 "Director (Chartering), NB-0570-VII",Office of the Comptroller of the Currency,"San Francisco, California",NB,138791,258016,0570,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866829100
 "Director for International Banking Supervision, NB-0570-VII",Office of the Comptroller of the Currency,"New York, New York",NB,199609,311400,0570,2026-04-23,2026-05-07,https://www.usajobs.gov:443/job/866313000
-"Senior Advisor to the SDC, NB-0570-VII",Office of the Comptroller of the Currency,"Denver, Colorado",NB,138791,258016,0570,2026-04-22,2026-05-06,https://www.usajobs.gov:443/job/866213100
+"Senior Advisor to the SDC, NB-0570-VII",Office of the Comptroller of the Currency,"Denver, Colorado",NB,138791,258016,0570,2026-04-22,2026-05-14,https://www.usajobs.gov:443/job/866213100
 "Senior Management and Program Analyst, NB-343-VI",Office of the Comptroller of the Currency,"Denver, Colorado",NB,107819,200349,0343,2026-04-28,2026-05-11,https://www.usajobs.gov:443/job/866904100
-"Supervisory National Bank Examiner (Examiner-In-Charge), NB-570-VII.2",Office of the Comptroller of the Currency,"New York, New York",NB,214522,315400,0570,2026-04-23,2026-05-07,https://www.usajobs.gov:443/job/866346900
-Contract Management Analyst,"Treasury, Departmental Offices","Washington, District of Columbia",GS,121785,158322,1101,2026-05-01,2026-05-07,https://www.usajobs.gov:443/job/867390000
+Contract Management Analyst,"Treasury, Departmental Offices","Washington, District of Columbia",GS,121785,158322,1101,2026-05-01,2026-05-14,https://www.usajobs.gov:443/job/867390000
 Deputy Assistant General Counsel (Banking and Finance),"Treasury, Departmental Offices","Washington, District of Columbia",ES,151661,228000,0905,2026-04-09,2026-05-09,https://www.usajobs.gov:443/job/864580000
 Deputy Assistant Secretary for Global Affairs,"Treasury, Departmental Offices","Washington, District of Columbia",ES,151661,228000,0301,2026-04-30,2026-05-14,https://www.usajobs.gov:443/job/867433800
 Deputy Director of Analysis,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0301,2026-04-21,2026-05-08,https://www.usajobs.gov:443/job/865703100
+Deputy Director of Policy,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0301,2026-05-07,2026-05-21,https://www.usajobs.gov:443/job/868103200
 Director - Technology Advisor,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0301,2026-04-29,2026-05-13,https://www.usajobs.gov:443/job/867023700
 Director of Business Services,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0301,2026-05-05,2026-05-18,https://www.usajobs.gov:443/job/867771800
 IT Specialist (AI),"Treasury, Departmental Offices","Salt Lake City, Utah",GS,89508,197200,2210,2026-02-24,2026-07-20,https://www.usajobs.gov:443/job/858700600
-Intelligence Operations Specialist (Cyber Counterintelligence),"Treasury, Departmental Offices","Washington, District of Columbia",GS,85447,158322,0132,2026-04-22,2026-05-06,https://www.usajobs.gov:443/job/866087700
 RECORDS AND INFORMATION MANAGEMENT SPECIALIST,"Treasury, Departmental Offices","Washington, District of Columbia",GS,121785,158322,0308,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866637700
 SENIOR INSURANCE REGULATORY POLICY ANALYST,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0301,2026-04-29,2026-05-13,https://www.usajobs.gov:443/job/867283000
 SUPERVISORY FINANCIAL ANALYST,"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,197200,1160,2026-03-02,2026-09-02,https://www.usajobs.gov:443/job/859410600
 SUPERVISORY SECURE COMMUNICATIONS &  CONTINUITY INTELLIGENCE SUPPORT PROGRAMS OFFICER,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0132,2026-04-29,2026-05-13,https://www.usajobs.gov:443/job/867066900
+Senior Advisor,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,0301,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868173500
 Senior Policy Advisor,"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,187093,0301,2026-02-17,2026-08-17,https://www.usajobs.gov:443/job/857816900
 Senior Research Economist,"Treasury, Departmental Offices","Washington, District of Columbia",SL,151661,228000,0110,2026-04-30,2026-05-30,https://www.usajobs.gov:443/job/867405800
 Special Events & Conference Coordinator,"Treasury, Departmental Offices","Washington, District of Columbia",GS,70623,158322,0301,2026-05-04,2026-05-18,https://www.usajobs.gov:443/job/867692300
 Supervisory IT Specialist (Cybersecurity),"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,2210,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866767000
-Information Technology Project Manager,"Treasury, Financial Crimes Enforcement Network","Vienna, Virginia",GS,143913,187093,2210,2026-04-23,2026-05-06,https://www.usajobs.gov:443/job/866273400
 Information Technology Project Manager,"Treasury, Financial Crimes Enforcement Network","Vienna, Virginia",GS,143913,187093,2210,2026-04-24,2026-05-07,https://www.usajobs.gov:443/job/866488500
 Legislative Advisor,"Treasury, Financial Crimes Enforcement Network","Washington, District of Columbia",GS,169279,197200,0301,2026-04-29,2026-05-12,https://www.usajobs.gov:443/job/866897500
 ELECTRONIC INDUSTRIAL CONTROLS MECHANIC,U.S. Mint,"West Point, New York",WG,35.91,43.55,2606,2026-04-15,2026-05-07,https://www.usajobs.gov:443/job/865225200
 ELECTRONIC INDUSTRIAL CONTROLS MECHANIC,U.S. Mint,"West Point, New York",WG,35.91,43.55,2606,2026-04-15,2026-05-07,https://www.usajobs.gov:443/job/865226300
 Physical Security Specialist,U.S. Mint,"San Francisco, California",GS,111896,172980,0080,2026-05-01,2026-05-18,https://www.usajobs.gov:443/job/867526000
 Police Officer (Training Officer),U.S. Mint,"Fort Knox, Kentucky",TR,77950,125465,0083,2026-04-28,2026-05-12,https://www.usajobs.gov:443/job/866912300
-SUPERVISORY POLICE OFFICER (Field Chief of Police),U.S. Mint,"San Francisco, California",TR,173237,197200,0083,2026-04-22,2026-05-06,https://www.usajobs.gov:443/job/866175700
 Supervisory Die Manufacturing Specialist,U.S. Mint,"Denver, Colorado",GS,140239,182316,1101,2026-05-04,2026-05-19,https://www.usajobs.gov:443/job/867776100

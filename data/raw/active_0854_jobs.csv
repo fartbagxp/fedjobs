@@ -1,6 +1,7 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 COMPUTER ENGINEER,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,56763,88225,0854,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/847080100
 ENGINEERING,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,55486,99314,0801,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846773600
+INTERDISCIPLINARY,Air Force Civilian Career Training,"Edwards AFB, California",NH,107446,164301,0801,2026-05-07,2026-05-13,https://www.usajobs.gov:443/job/868027100
 SUPERVISORY COMPUTER SCIENTIST(INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY,Air Force Materiel Command,"Edwards AFB, California",NH,125776,192331,0801,2026-05-05,2026-05-20,https://www.usajobs.gov:443/job/867901600
 SUPERVISORY ELECTRONICS ENGINEER-Direct Hire Authoirty,Air Force Materiel Command,"Edwards AFB, California",NH,125776,192331,0801,2026-05-06,2026-05-20,https://www.usajobs.gov:443/job/868009400
 Computer Engineer,Defense Contract Management Agency,"Roy, Utah",NH,90479,138369,0854,2026-04-22,2026-05-29,https://www.usajobs.gov:443/job/866263000
@@ -9,7 +10,6 @@ Electronics Engineer/Computer Engineer/Operations Research Analyst/Computer Scie
 Engineering,Department of the Air Force - Agency Wide,"Salt Lake City, Utah",GS,22584,164301,0801,2026-03-31,2027-03-30,https://www.usajobs.gov:443/job/863288600
 Engineering and Architecture Family,Department of the Air Force - Agency Wide,"Salt Lake City, Utah",NH,22584,164301,0801,2026-03-30,2027-03-29,https://www.usajobs.gov:443/job/863064100
 Public Notice for Computer Engineer (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,53528,173980,0854,2026-02-24,2027-02-23,https://www.usajobs.gov:443/job/858636600
-Research Data Engineer,National Institute of Standards and Technology,"Gaithersburg, Maryland",ZP,85447,133142,0854,2026-04-30,2026-05-06,https://www.usajobs.gov:443/job/867310900
 INTERDISCIPLINARY ENGINEER,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-01-15,2026-05-15,https://www.usajobs.gov:443/job/854460900
 INTERDISCIPLINARY ENGINEER/ OPERATIONS RESEARCH ANALYST,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-03-16,2026-09-14,https://www.usajobs.gov:443/job/860996200
 INTERDISCIPLINARY ENGINEER/ SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-01-20,2026-05-20,https://www.usajobs.gov:443/job/854653900
@@ -22,7 +22,10 @@ DIRECTOR - USW UNMANNED SYSTEMS & AUTONOMOUS BEHAVIOR,Naval Sea Systems Command,
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,0854,2025-11-04,2026-11-03,https://www.usajobs.gov:443/job/849270200
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,46610,158322,0854,2026-02-17,2027-02-15,https://www.usajobs.gov:443/job/857832800
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,143913,197200,0801,2026-04-27,2026-05-11,https://www.usajobs.gov:443/job/866446900
+Interdisciplinary Engineer/Scientist (CYBER),Naval Sea Systems Command,"Naval Business Center, Philadelphia, Pennsylvania",GS,138595,180178,0801,2026-05-07,2026-05-18,https://www.usajobs.gov:443/job/868104400
 MANAGER,Naval Sea Systems Command,"Port Hueneme, California",ND,146632,197200,0854,2026-04-29,2026-05-13,https://www.usajobs.gov:443/job/867045700
+Sr. Computer Engineer,Nuclear Regulatory Commission,"Atlanta, Georgia",GG,147945,197200,0854,2026-05-06,2026-05-19,https://www.usajobs.gov:443/job/868084500
 ASSOCIATE DIRECTOR OF RESEARCH FOR SYSTEMS,Office of Naval Research,"Naval Research Laboratory, District of Columbia",ES,199172,228000,0830,2026-05-04,2026-06-03,https://www.usajobs.gov:443/job/867487900
+SUPERVISORY INTERDISCIPLINARY ENGINEER,STRATEGIC SYSTEMS PROGRAMS (SSP),"Washington Navy Yard, District of Columbia",NH,143913,197200,0801,2026-05-06,2026-05-18,https://www.usajobs.gov:443/job/868162400
 Interdisciplinary,U.S. Army Corps of Engineers,"Walla Walla, Washington",GS,74678,127443,0401,2026-04-25,2026-05-08,https://www.usajobs.gov:443/job/866700100
 LEAD GENERAL ENGINEER,U.S. Marine Corps,"Quantico, Virginia",NH,143913,197200,0801,2026-04-06,2026-06-08,https://www.usajobs.gov:443/job/863973200
