@@ -1,4 +1,5 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+ACOS (Psychiatrist) Mental Health,Veterans Health Administration,"Augusta, Georgia",VM,165000,336000,0602,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851647900
 Addiction Psychiatrist- Supervisory,Veterans Health Administration,"Charleston, South Carolina",VM,275000,320000,0602,2025-12-01,2026-09-30,https://www.usajobs.gov:443/job/851212800
 Advanced Diagnostic Radiologic Technologist (MRI/CT/X-Ray),Veterans Health Administration,"Fredericksburg, Virginia",GS,101894,132457,0647,2025-10-22,2026-09-30,https://www.usajobs.gov:443/job/848616300
 Advanced Medical Support Assistant,Veterans Health Administration,"Alamosa, Colorado",GS,44959,74891,0679,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849238000
@@ -7,8 +8,10 @@ Advanced Medical Support Assistant,Veterans Health Administration,"Bartlesville,
 Advanced Medical Support Assistant,Veterans Health Administration,"Broward County, Florida",GS,54845,71296,0679,2025-12-01,2026-06-05,https://www.usajobs.gov:443/job/851359100
 Advanced Medical Support Assistant,Veterans Health Administration,"Craig, Colorado",GS,45409,69591,0679,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849222800
 Advanced Practice Nurse (Certified Nurse Anesthetist),Veterans Health Administration,"Houston, Texas",VN,180403,289400,0610,2025-11-05,2026-09-30,https://www.usajobs.gov:443/job/849483200
+Advanced Practice Nurse - Associate Chief of Staff Mental Health,Veterans Health Administration,"Augusta, Georgia",VN,168655,224304,0610,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851632900
 Advanced Practice Nurse-Certified Nurse Anesthetist-Recruitment/Relocation Incentive-EDRP Authorized,Veterans Health Administration,"San Antonio, Texas",VN,202693,289400,0610,2025-11-25,2026-07-23,https://www.usajobs.gov:443/job/851051700
 Air Condition Equipment Mechanic,Veterans Health Administration,"Fort Wayne, Indiana",WG,31.73,37.16,5306,2025-10-03,2026-03-31,https://www.usajobs.gov:443/job/847397400
+Air Conditioning Equipment Mechanic,Veterans Health Administration,"Augusta, Maine",WG,28.5,33.26,5306,2025-12-04,2026-06-30,https://www.usajobs.gov:443/job/851603800
 Anesthesiologist,Veterans Health Administration,"Fayetteville, North Carolina",VM,300000,400000,0602,2025-11-15,2026-09-30,https://www.usajobs.gov:443/job/850176000
 Associate Chief of Staff Geriatrics & Extended Care Services (Physician),Veterans Health Administration,"Tuscaloosa, Alabama",VM,165000,336000,0602,2025-10-07,2026-09-30,https://www.usajobs.gov:443/job/847624100
 Audiologist Recruitment-Relocation Incentive Authorized,Veterans Health Administration,"El Paso, Texas",GS,74678,116362,0665,2025-12-03,2026-09-24,https://www.usajobs.gov:443/job/851427800
@@ -35,6 +38,7 @@ DIAGNOSTIC RADIOLOGIST,Veterans Health Administration,"Madison, Wisconsin",VN,25
 Dental Assistant,Veterans Health Administration,"Greenville, South Carolina",GS,38819,70647,0681,2025-11-24,2026-09-30,https://www.usajobs.gov:443/job/850893200
 Dental Hygienist,Veterans Health Administration,"Marietta, Georgia",GS,81427,105852,0682,2025-11-13,2026-09-30,https://www.usajobs.gov:443/job/849976400
 Dental Laboratory Technician,Veterans Health Administration,"Washington, District of Columbia",GS,63307,90898,0683,2025-11-03,2026-11-02,https://www.usajobs.gov:443/job/849385800
+Dentist - Oral Surgeon,Veterans Health Administration,"Columbia, South Carolina",VM,123077,400000,0680,2025-12-04,2026-09-30,https://www.usajobs.gov:443/job/851665900
 Dentist - Oral and Maxillofacial Surgeon,Veterans Health Administration,"Albany, New York",VM,225000,350000,0680,2025-10-08,2026-09-30,https://www.usajobs.gov:443/job/848103000
 Dentist - Prosthodontics,Veterans Health Administration,"Washington, District of Columbia",VM,123077,315000,0680,2025-10-31,2026-05-01,https://www.usajobs.gov:443/job/849281700
 Diagnostic Radiologic Technologist,Veterans Health Administration,"Miami, Florida",GS,77040,100148,0647,2025-12-02,2026-05-15,https://www.usajobs.gov:443/job/851292200
@@ -176,6 +180,7 @@ Physician (Gastroenterologist) w/Recruitment/Relocation Incentive-EDRP,Veterans 
 Physician (Gastroenterology),Veterans Health Administration,"Asheville, North Carolina",AD,175000,200000,0602,2025-11-13,2026-04-30,https://www.usajobs.gov:443/job/850013100
 Physician (Geriatric Psychiatrist),Veterans Health Administration,"Augusta, Georgia",VM,300000,315000,0602,2025-10-16,2026-09-30,https://www.usajobs.gov:443/job/848762900
 "Physician (Geriatrics & Extended Care-Kerrville, TX)",Veterans Health Administration,"Kerrville, Texas",VM,220000,300000,0602,2025-10-02,2026-03-31,https://www.usajobs.gov:443/job/847379000
+Physician (HBPC Medical Director),Veterans Health Administration,"Tuskegee, Alabama",VM,200000,320000,0602,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851777600
 Physician (Hematology/Oncology),Veterans Health Administration,"Hampton, Virginia",VM,360000,400000,0602,2025-10-21,2026-09-30,https://www.usajobs.gov:443/job/848490200
 Physician (Hematology/Oncology),Veterans Health Administration,"Kansas City, Missouri",VM,280000,400000,0602,2025-10-07,2026-03-03,https://www.usajobs.gov:443/job/847635900
 Physician (Inpatient Spinal Cord),Veterans Health Administration,"Augusta, Georgia",VM,270000,315000,0602,2025-10-27,2026-09-30,https://www.usajobs.gov:443/job/848953300
@@ -308,6 +313,7 @@ Physician - Section Chief of Infectious Disease,Veterans Health Administration,"
 "Physician - Service Chief, Geriatrics and Extended Care",Veterans Health Administration,"Queens, New York",VM,225000,336000,0602,2025-10-01,2026-03-31,https://www.usajobs.gov:443/job/847059000
 Physician - Sleep Medicine,Veterans Health Administration,"Jamaica Plain, Massachusetts",VM,225000,300000,0602,2025-10-02,2026-03-06,https://www.usajobs.gov:443/job/847277200
 Physician - Spinal Cord Injury - EDRP and Recruitment/Relocation Incentive May be Offered,Veterans Health Administration,"Dallas, Texas",VM,200000,280000,0602,2025-09-30,2026-08-12,https://www.usajobs.gov:443/job/846993900
+Physician - Spinal Cord Injury and Disorder,Veterans Health Administration,"West Roxbury, Massachusetts",VM,245000,300000,0602,2025-12-02,2026-06-05,https://www.usajobs.gov:443/job/851690900
 Physician - Staff Radiologist,Veterans Health Administration,"Jamaica Plain, Massachusetts",VM,320000,400000,0602,2025-09-30,2026-09-29,https://www.usajobs.gov:443/job/846904600
 Physician - Supervisory Lead (Primary Care),Veterans Health Administration,"North Charleston, South Carolina",VM,250000,335000,0602,2025-12-02,2026-09-30,https://www.usajobs.gov:443/job/851299500
 Physician - Urologist,Veterans Health Administration,"Lebanon County, Pennsylvania",VM,360000,390000,0602,2025-11-04,2026-09-30,https://www.usajobs.gov:443/job/849431700
@@ -354,6 +360,7 @@ Physician-Infectious Disease-EDRP Authorized,Veterans Health Administration,"Ama
 Physician-Orthopedic Surgeon,Veterans Health Administration,"Jackson, Mississippi",VM,285000,400000,0602,2025-10-10,2026-03-31,https://www.usajobs.gov:443/job/847984600
 Physician-Orthopedic Surgeon,Veterans Health Administration,"Nashville, Tennessee",VM,350000,400000,0602,2025-10-06,2026-03-31,https://www.usajobs.gov:443/job/847509800
 Physician-Primary Care,Veterans Health Administration,"Pensacola, Florida",VM,210000,270000,0602,2025-10-14,2026-03-31,https://www.usajobs.gov:443/job/848061600
+Physician-Primary Care,Veterans Health Administration,"Rome, Georgia",VM,290658,315000,0602,2025-12-04,2026-09-30,https://www.usajobs.gov:443/job/851659200
 Physician-Psychiatrist-EDRP Authorized,Veterans Health Administration,"Temple, Texas",VM,270000,290000,0602,2025-10-15,2026-10-14,https://www.usajobs.gov:443/job/848180200
 Physician-Psychiatrist-Recruitment-Relocation Incentive-EDRP Authorized,Veterans Health Administration,"El Paso, Texas",VM,123077,315000,0602,2025-11-13,2026-11-12,https://www.usajobs.gov:443/job/850060800
 Physician-Pulmonary Section Chief-Relocation Incentive-EDRP Authorized,Veterans Health Administration,"San Antonio, Texas",VM,315000,351000,0602,2025-10-06,2026-10-05,https://www.usajobs.gov:443/job/847598300
@@ -384,6 +391,7 @@ Primary Care Physician (Camdenton),Veterans Health Administration,"Camdenton, Mi
 Psychiatrist,Veterans Health Administration,"Cambridge, Maryland",VM,123077,315000,0602,2025-10-27,2026-10-26,https://www.usajobs.gov:443/job/848805800
 Psychiatrist,Veterans Health Administration,"Fayetteville, North Carolina",VM,260000,315000,0602,2025-10-04,2026-09-30,https://www.usajobs.gov:443/job/847487200
 Psychiatrist,Veterans Health Administration,"Jacksonville, North Carolina",VM,260000,315000,0602,2025-10-02,2026-09-30,https://www.usajobs.gov:443/job/847231200
+Psychiatrist,Veterans Health Administration,"Pembroke, North Carolina",VM,260000,315000,0602,2025-12-06,2026-09-30,https://www.usajobs.gov:443/job/851711900
 Psychiatrist (Education Debt Repayment & Sign On Bonus),Veterans Health Administration,"Battle Creek, Michigan",VM,210000,300000,0602,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846788200
 Psychiatrist (Education Debt Repayment & Sign On Bonus),Veterans Health Administration,"Battle Creek, Michigan",VM,210000,300000,0602,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/847135000
 Psychiatrist / Addiction Medicine,Veterans Health Administration,"Wilmington, North Carolina",VM,260000,315000,0602,2025-10-04,2026-09-30,https://www.usajobs.gov:443/job/847486700
@@ -411,10 +419,12 @@ Section Chief of Ophthalmology,Veterans Health Administration,"Hampton, Virginia
 Section Chief of Urology,Veterans Health Administration,"Fayetteville, North Carolina",VM,300000,400000,0602,2025-10-08,2026-09-30,https://www.usajobs.gov:443/job/847646100
 Senior Licensed Professional Mental Health Counselor (BHIP),Veterans Health Administration,"Anchorage, Alaska",GS,100204,130271,0183,2025-11-04,2026-09-30,https://www.usajobs.gov:443/job/849431900
 Senior Licensed Professional Mental Health Counselor (BHIP),Veterans Health Administration,"Anchorage, Alaska",GS,100204,130271,0183,2025-11-04,2026-09-30,https://www.usajobs.gov:443/job/849432000
+Senior Psychologist Program Manager,Veterans Health Administration,"Augusta, Georgia",GS,146481,190424,0180,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851573200
 Senior Social Work,Veterans Health Administration,"Fresno, California",GS,96344,124986,0185,2025-11-14,2026-09-30,https://www.usajobs.gov:443/job/850166100
 Senior Social Worker (PCMHI) - EDRP Approved,Veterans Health Administration,"McAllen, Texas",GS,92611,120400,0185,2025-09-29,2026-04-29,https://www.usajobs.gov:443/job/846892300
 Senior Social Worker (Post 9/11 M2VA Military 2 VA Case Manager) - EDRP Approved,Veterans Health Administration,"Laredo, Texas",GS,92869,120734,0185,2025-10-29,2026-09-30,https://www.usajobs.gov:443/job/849114400
 Senior Social Worker- HUD VASH,Veterans Health Administration,"Grand Junction, Colorado",GS,98138,127584,0185,2025-10-28,2026-04-27,https://www.usajobs.gov:443/job/849009000
+Social Work Program Manager,Veterans Health Administration,"Augusta, Georgia",GS,146481,190424,0185,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851573500
 Staff Dentist,Veterans Health Administration,"Columbia, South Carolina",AD,123077,315000,0680,2025-11-03,2026-09-30,https://www.usajobs.gov:443/job/849785000
 Staff Dentist,Veterans Health Administration,"Fort McPherson, Georgia",VM,200000,315000,0680,2025-10-28,2026-09-30,https://www.usajobs.gov:443/job/849059000
 Staff Physical Therapist - EDRP Approved,Veterans Health Administration,"Abilene, Texas",GS,73939,115213,0633,2025-10-23,2026-09-30,https://www.usajobs.gov:443/job/848765500
