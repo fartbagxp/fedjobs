@@ -337,6 +337,7 @@ ITSPEC (NETWORK) (Title 32),Air National Guard Units,"Little Rock AFB, Arkansas"
 ITSPEC (NETWORK) (Title 32),Air National Guard Units,"Little Rock AFB, Arkansas",GS,88120,114563,2210,2026-04-24,2026-05-11,https://www.usajobs.gov:443/job/866557500
 ITSPEC (NETWORK) - TITLE 5,Air National Guard Units,"Dobbins AFB, Georgia",GS,78189,101641,2210,2026-02-10,2026-03-03,https://www.usajobs.gov:443/job/856631400
 ITSPEC (NETWORK) - TITLE 5,Air National Guard Units,"Robins AFB, Georgia",GS,88621,115213,2210,2025-12-15,2026-01-05,https://www.usajobs.gov:443/job/852065300
+ITSPEC (NETWORK/CUSTSPT),Air National Guard Units,"Buckley AFB, Colorado",GS,68819,108251,2210,2026-05-06,2026-06-20,https://www.usajobs.gov:443/job/868083400
 ITSPEC (SYSADMIN),Air National Guard Units,"Syracuse, New York",GS,75278,97867,2210,2026-04-13,2026-04-28,https://www.usajobs.gov:443/job/864871400
 ITSPEC (SYSADMIN),Air National Guard Units,"Tyndall AFB, Florida",GS,56763,96887,2210,2025-12-02,2026-01-05,https://www.usajobs.gov:443/job/851308100
 ITSPEC (SYSADMIN) (TITLE 32),Air National Guard Units,"Tyndall AFB, Florida",GS,49960,96116,2210,2025-12-16,2026-01-15,https://www.usajobs.gov:443/job/852522400
@@ -487,6 +488,7 @@ TITLE 32 IT SPECIALIST (INET) (MI PAO),Army National Guard Units,"Lansing, Michi
 TITLE 32 IT SPECIALIST (NETWORK) GS-2210-11,Army National Guard Units,"Kingwood, West Virginia",GS,74678,97087,2210,2026-04-24,2026-05-24,https://www.usajobs.gov:443/job/866641500
 TITLE 32 SUPERVISORY IT CYBERSECURITY SPECIALIST(INFOSEC) (MI G6),Army National Guard Units,"Lansing, Michigan",GS,117402,152625,2210,2026-03-12,2026-03-27,https://www.usajobs.gov:443/job/860791400
 TITLE 32 SUPERVISORY IT SPECIALIST (NETWORK/SYSADMIN) (MI G4),Army National Guard Units,"Lansing, Michigan",GS,98729,128350,2210,2026-03-24,2026-04-13,https://www.usajobs.gov:443/job/862354000
+TITLE 5 SUPV IT CYBERSECURITY SPECIALIST(INFOSEC) (MI G6),Army National Guard Units,"Lansing, Michigan",GS,117402,152625,2210,2026-05-06,2026-05-12,https://www.usajobs.gov:443/job/868078600
 IT Specialist (CUSTSPT),Army Tank-Automotive and Armament Command (TACOM),"Watervliet, New York",GS,68545,89114,2210,2026-01-29,2026-02-10,https://www.usajobs.gov:443/job/855489000
 IT Specialist (INFOSEC),Army Tank-Automotive and Armament Command (TACOM),"Watervliet, New York",GS,77045,100164,2210,2026-02-05,2026-02-18,https://www.usajobs.gov:443/job/856553000
 Information Technology Specialist (System Administration),Army Tank-Automotive and Armament Command (TACOM),"Texarkana, Texas",GS,89508,116362,2210,2026-02-06,2026-02-19,https://www.usajobs.gov:443/job/856737500
@@ -1716,6 +1718,7 @@ Network Communications Specialist - Campus Area Networks,House of Representative
 Network Communications Specialist - Wide Area Networks,House of Representatives,"Washington, District of Columbia",HS,122345,157291,2210,2026-03-31,2026-04-14,https://www.usajobs.gov:443/job/863254200
 Senior Cloud Engineer,House of Representatives,"Washington, District of Columbia",HS,132000,150000,2210,2026-01-20,2026-03-31,https://www.usajobs.gov:443/job/854955100
 Senior Cloud Engineer,House of Representatives,"Washington, District of Columbia",HS,132000,150000,2210,2026-03-18,2026-05-29,https://www.usajobs.gov:443/job/861684000
+Senior Cloud Engineer,House of Representatives,"Washington, District of Columbia",HS,132000,150000,2210,2026-05-06,2026-07-31,https://www.usajobs.gov:443/job/868076000
 Senior IT Business and Systems Analyst,House of Representatives,"Washington, District of Columbia",HS,120000,144000,2210,2026-01-13,2026-03-31,https://www.usajobs.gov:443/job/854413400
 Senior IT Business and Systems Analyst,House of Representatives,"Washington, District of Columbia",HS,120000,144000,2210,2026-01-14,2026-03-31,https://www.usajobs.gov:443/job/854492400
 Senior Network Systems Engineer,House of Representatives,"Washington, District of Columbia",HS,137622,173878,2210,2026-01-08,2026-01-30,https://www.usajobs.gov:443/job/853964700
