@@ -208,7 +208,7 @@ DD11,National Geospatial-Intelligence Agency,DD,NGA,2021-04-30T11:38:48.957
 DD12,Defense Counterintelligence and Security Agency,DD,DCSA,2024-12-20T15:35:02.617
 DD13,Defense Advanced Research Projects Agency,DD,DARPA,2021-04-30T11:38:48.977
 DD15,Uniformed Services University of the Health Sciences,DD,USU,2021-04-30T11:38:48.983
-DD16,Department of Defense Education Activity,DD,DODEA,2021-04-30T11:38:48.993
+DD16,Department of War Education Activity,DD,DODEA,2026-05-15T14:36:15.867
 DD21,Washington Headquarters Services,DD,WHS,2021-04-30T11:38:49.01
 DD23,Office of the Local Defense Community Corporation,DD,,2021-10-29T10:42:50.21
 DD25,Defense Legal Services Agency,DD,DLSA,2021-04-30T11:38:49.03
@@ -803,7 +803,6 @@ SX00,State Justice Institute,,,2026-03-27T14:39:04.11
 ARW1,U.S. Army Western Hemisphere Command,AR,,2026-03-27T14:39:04.307
 LDAQ,Congressional Budget Office,LL,CBO,2026-03-27T14:39:04.37
 NN11,NASA Shared Services Center,NN,,2026-04-24T14:34:30.98
-SM73,Smithsonian Institution - Trust - (Use only for the Woodrow Wilson International Center for Scholars,SM03,SI,2026-05-08T14:33:26.93
+SM73,Smithsonian Institution - Trust - (Use only for the Woodrow Wilson International Center for Scholars,SM03,SI,2026-05-15T14:36:18.033
 SM71,Smithsonian Institution - Trust (Except units administered under separate boards of trustees),SM03,SI,2026-04-24T14:34:31.057
 OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
-ZZ,Non-Federal Civilian Customers,,,2021-03-29T09:28:41.693
