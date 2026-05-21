@@ -29,12 +29,14 @@ Dental Assistant,Veterans Health Administration,"Greenville, South Carolina",GS,
 Dental Hygienist,Veterans Health Administration,"Marietta, Georgia",GS,81427,105852,0682,2025-11-13,2026-09-30,https://www.usajobs.gov:443/job/849976400
 Dental Hygienist-Recruitment/Relocation Incentive,Veterans Health Administration,"Garland, Texas",GS,44285,87235,0682,2025-12-22,2026-12-21,https://www.usajobs.gov:443/job/853076700
 Dental Laboratory Technician,Veterans Health Administration,"Washington, District of Columbia",GS,63307,90898,0683,2025-11-03,2026-11-02,https://www.usajobs.gov:443/job/849385800
+Dentist (Oral Surgery) - Maxillofacial,Veterans Health Administration,"Gainesville, Florida",VM,279890,400000,0680,2026-01-20,2026-12-31,https://www.usajobs.gov:443/job/854921100
 Dentist - Oral Surgeon,Veterans Health Administration,"Columbia, South Carolina",VM,350000,400000,0680,2025-12-04,2026-09-30,https://www.usajobs.gov:443/job/851665900
 Dentist - Oral Surgeon,Veterans Health Administration,"Greenville, South Carolina",AD,123077,400000,0680,2025-12-12,2026-09-30,https://www.usajobs.gov:443/job/852289900
 Dentist - Oral and Maxillofacial Surgeon,Veterans Health Administration,"Albany, New York",VM,225000,350000,0680,2025-10-08,2026-09-30,https://www.usajobs.gov:443/job/848103000
 Diagnostic Radiologic Technologist (Computed Tomography),Veterans Health Administration,"Huntsville, Alabama",GS,74538,96898,0647,2025-12-12,2026-09-30,https://www.usajobs.gov:443/job/852355000
 Diagnostic Radiologic Technologist (Computerized Tomography) - Recruitment/Relocation Incentive,Veterans Health Administration,"Dallas, Texas",GS,79164,102910,0647,2025-10-14,2026-09-30,https://www.usajobs.gov:443/job/848015700
 Diagnostic Radiologic Technologist (General Radiology),Veterans Health Administration,"Charleston, South Carolina",GS,66125,81785,0647,2025-12-19,2026-09-30,https://www.usajobs.gov:443/job/852938100
+Diagnostic Radiologic Technologist (MRI),Veterans Health Administration,"Corpus Christi, Texas",GS,71007,92315,0647,2026-01-20,2027-01-19,https://www.usajobs.gov:443/job/854912600
 Diagnostic Radiologic Technologist - Computed Tomography,Veterans Health Administration,"Iowa City, Iowa",GS,84284,109576,0647,2025-10-17,2026-09-30,https://www.usajobs.gov:443/job/848321200
 Diagnostic Radiologic Technologist - MRI,Veterans Health Administration,"Lexington, Kentucky",GS,83784,108917,0647,2025-12-11,2026-09-30,https://www.usajobs.gov:443/job/852187600
 Diagnostic Radiologic Technologist - Recruitment/Relocation Incentive,Veterans Health Administration,"Dallas, Texas",GS,60639,94699,0647,2025-11-10,2026-11-09,https://www.usajobs.gov:443/job/849868200
@@ -51,7 +53,6 @@ Food Service Worker,Veterans Health Administration,"Grand Junction, Colorado",WG
 Food Service Worker,Veterans Health Administration,"Muskogee, Oklahoma",WG,19.89,23.21,7408,2025-10-22,2026-09-30,https://www.usajobs.gov:443/job/848653300
 Food Service Worker,Veterans Health Administration,"Oklahoma City, Oklahoma",WG,18.95,22.09,7408,2025-10-29,2026-09-30,https://www.usajobs.gov:443/job/849106300
 Food Service Worker,Veterans Health Administration,"Portland, Oregon",WG,24.59,28.68,7408,2025-12-09,2026-09-30,https://www.usajobs.gov:443/job/851930300
-Food Service Worker,Veterans Health Administration,"Providence, Rhode Island",WG,21.4,24.96,7408,2025-10-31,2026-06-30,https://www.usajobs.gov:443/job/849268600
 Food Service Worker,Veterans Health Administration,"Sheridan, Wyoming",WG,20.64,23.87,7408,2025-12-03,2026-09-25,https://www.usajobs.gov:443/job/851524700
 Gastroenterologist,Veterans Health Administration,"Poplar Bluff, Missouri",VM,380000,400000,0602,2025-09-30,2026-09-29,https://www.usajobs.gov:443/job/846971200
 Gastroenterologist Physician (Regular Ft),Veterans Health Administration,"Huntington, West Virginia",VM,300000,400000,0602,2025-10-10,2026-09-30,https://www.usajobs.gov:443/job/847964200
@@ -102,7 +103,6 @@ Nursing Assistant - Emergency Department,Veterans Health Administration,"Dallas,
 Nursing Assistant - Emergency Department,Veterans Health Administration,"Dallas, Texas",GS,37096,60560,0621,2025-11-20,2026-11-13,https://www.usajobs.gov:443/job/850556700
 Nursing Assistant- Community Living Center,Veterans Health Administration,"Aspinwall, Pennsylvania",GS,40021,65343,0621,2025-10-22,2026-09-30,https://www.usajobs.gov:443/job/848634100
 Occupational Therapist - Recruitment-Relocation Incentive,Veterans Health Administration,"Tyler, Texas",GS,61111,115213,0631,2025-12-17,2026-07-01,https://www.usajobs.gov:443/job/852658700
-PHYSICIAN (RADIOLOGIST),Veterans Health Administration,"Buffalo, New York",VM,350000,400000,0602,2025-10-07,2026-06-30,https://www.usajobs.gov:443/job/847712400
 "PHYSICIAN- PRIMARY CARE COLUMBIA, MO",Veterans Health Administration,"Columbia, Missouri",VM,250000,258000,0602,2025-12-01,2026-11-20,https://www.usajobs.gov:443/job/851181700
 PM&R PHYSICIAN (PAIN MANAGEMENT),Veterans Health Administration,"Columbia, Missouri",VM,340000,400000,0602,2025-09-29,2026-09-25,https://www.usajobs.gov:443/job/846923500
 PRIMARY CARE PHYSICIAN-WAYNESVILLE,Veterans Health Administration,"Waynesville, Missouri",VM,250000,258000,0602,2025-10-07,2026-09-25,https://www.usajobs.gov:443/job/847699600
@@ -110,11 +110,13 @@ PTSD Psychologist - Evidence Based Psychotherapy-EDRP-Recruitment/Relocation Inc
 Physician (Anesthesiologist) PCS AUTHORIZED,Veterans Health Administration,"Columbia, Missouri",VM,300000,400000,0602,2025-09-29,2026-09-25,https://www.usajobs.gov:443/job/846939000
 Physician (Cardiologist Interventional or Non-Interventional),Veterans Health Administration,"Augusta, Georgia",VM,340000,400000,0602,2025-10-28,2026-09-30,https://www.usajobs.gov:443/job/849018800
 Physician (Cardiology Non Invasive),Veterans Health Administration,"Charleston, South Carolina",VM,350000,400000,0602,2025-12-02,2026-09-30,https://www.usajobs.gov:443/job/851352000
+Physician (Cardiology) Non Invasive,Veterans Health Administration,"Gainesville, Florida",VM,283016,400000,0602,2026-01-20,2026-12-31,https://www.usajobs.gov:443/job/854838600
 Physician (Cardiology-Interventional),Veterans Health Administration,"Cincinnati, Ohio",VM,340000,400000,0602,2026-01-14,2026-12-31,https://www.usajobs.gov:443/job/854290700
 Physician (Chief of Geriatrics & Extended Care),Veterans Health Administration,"Augusta, Georgia",VM,300000,335000,0602,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849159800
 Physician (Dermatologist),Veterans Health Administration,"Kansas City, Missouri",AD,250000,400000,0602,2025-10-29,2026-10-28,https://www.usajobs.gov:443/job/849084200
 Physician (Emergency Medicine),Veterans Health Administration,"Augusta, Georgia",VM,340000,400000,0602,2025-11-05,2026-09-30,https://www.usajobs.gov:443/job/849573600
 Physician (Gastroenterologist P/T),Veterans Health Administration,"Augusta, Georgia",VM,340000,400000,0602,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849152700
+Physician (Gastroenterology),Veterans Health Administration,"Cape Coral, Florida",VM,350000,400000,0602,2026-01-20,2026-12-31,https://www.usajobs.gov:443/job/854895600
 Physician (Gastroenterology),Veterans Health Administration,"Cincinnati, Ohio",VM,121020,400000,0602,2026-01-14,2026-12-31,https://www.usajobs.gov:443/job/854288900
 Physician (Geriatric Psychiatrist),Veterans Health Administration,"Augusta, Georgia",VM,300000,315000,0602,2025-10-16,2026-09-30,https://www.usajobs.gov:443/job/848762900
 Physician (Geriatrics and Extended Care),Veterans Health Administration,"Kansas City, Missouri",VM,250000,300000,0602,2025-12-09,2026-12-08,https://www.usajobs.gov:443/job/851927900
@@ -135,6 +137,7 @@ Physician (Primary Care),Veterans Health Administration,"Gainesville, Florida",V
 Physician (Primary Care),Veterans Health Administration,"Sebring, Florida",GS,225000,300000,0602,2026-01-15,2026-06-30,https://www.usajobs.gov:443/job/854654800
 Physician (Primary Care),Veterans Health Administration,"Tallahassee, Florida",VM,225000,315000,0602,2026-01-14,2026-09-30,https://www.usajobs.gov:443/job/854461800
 "Physician (Primary Care)  Hyannis, MA CBOC- EDRP & Recruitment Incentive Authorized",Veterans Health Administration,"Hyannis, Massachusetts",VM,275000,310000,0602,2025-11-12,2026-09-30,https://www.usajobs.gov:443/job/851264000
+Physician (Psychiatrist),Veterans Health Administration,"Guntersville, Alabama",VM,270000,315000,0602,2026-01-16,2026-09-30,https://www.usajobs.gov:443/job/854791900
 Physician (Psychiatrist),Veterans Health Administration,"Madison, Wisconsin",GS,204000,300000,0602,2025-10-28,2026-06-30,https://www.usajobs.gov:443/job/849031400
 Physician (Psychiatry),Veterans Health Administration,"Gainesville, Florida",VM,260000,315000,0602,2026-01-13,2026-12-31,https://www.usajobs.gov:443/job/854320700
 Physician (Psychiatry),Veterans Health Administration,"The Villages, Florida",VM,260000,315000,0602,2026-01-12,2026-12-31,https://www.usajobs.gov:443/job/854225300
@@ -157,7 +160,6 @@ Physician - Diagnostic and/or Interventional Radiologist,Veterans Health Adminis
 Physician - Emergency Medicine,Veterans Health Administration,"Columbia, South Carolina",VM,350000,400000,0602,2025-11-18,2026-09-30,https://www.usajobs.gov:443/job/850168100
 Physician - Endocrinologist,Veterans Health Administration,"Fredericksburg, Virginia",VM,123077,300000,0602,2025-10-18,2026-09-30,https://www.usajobs.gov:443/job/848351700
 Physician - Full Time Radiologist - 25 percent Incentive,Veterans Health Administration,"Phoenix, Arizona",VM,300000,400000,0602,2025-10-07,2026-09-30,https://www.usajobs.gov:443/job/847588200
-Physician - Geriatrician,Veterans Health Administration,"Buffalo, New York",VM,240000,275000,0602,2025-10-28,2026-06-30,https://www.usajobs.gov:443/job/848994600
 Physician - Interventional Radiologist,Veterans Health Administration,"Columbia, South Carolina",VM,350000,400000,0602,2025-12-10,2026-09-30,https://www.usajobs.gov:443/job/852082700
 Physician - Interventional Radiologist,Veterans Health Administration,"Kansas City, Missouri",VM,350000,400000,0602,2025-11-12,2026-11-11,https://www.usajobs.gov:443/job/849954700
 Physician - Multiple Specialties (Internal to Marion Veterans Health Care System),Veterans Health Administration,"Carbondale, Illinois",VM,123077,400000,0602,2025-09-29,2026-09-25,https://www.usajobs.gov:443/job/846793900
@@ -201,7 +203,6 @@ Psychologist (Neuropsychology) - Recruitment/Relocation Incentive/EDRP Authorize
 Psychologist (Supportive Recovery Services),Veterans Health Administration,"Bronx, New York",GS,87133,161448,0180,2025-11-12,2026-10-30,https://www.usajobs.gov:443/job/849901200
 Psychologist - Program Manager,Veterans Health Administration,"Kings, New York",GS,168764,219393,0180,2025-10-08,2026-06-30,https://www.usajobs.gov:443/job/847676100
 Psychology Program Manager - Behavioral Health Interdisciplinary Program,Veterans Health Administration,"Fresno, California",GS,161126,209463,0180,2025-12-16,2026-06-26,https://www.usajobs.gov:443/job/852601100
-Radiologist,Veterans Health Administration,"Buffalo, New York",VM,375000,400000,0602,2025-10-08,2026-06-30,https://www.usajobs.gov:443/job/847713200
 Registered Nurse,Veterans Health Administration,"Salt Lake City, Utah",VN,90696,164082,0610,2025-12-30,2026-06-30,https://www.usajobs.gov:443/job/853317100
 Registered Nurse - Inpatient Mental Health,Veterans Health Administration,"Jefferson Barracks, Missouri",VN,79454,154604,0610,2025-10-28,2026-09-30,https://www.usajobs.gov:443/job/849040700
 Registered Nurse - Med-Surg and Telemetry -5 Main,Veterans Health Administration,"Lexington, Kentucky",VN,64825,127694,0610,2026-01-08,2026-09-30,https://www.usajobs.gov:443/job/853985300
@@ -241,7 +242,6 @@ Staff Psychologist - Recruitment/Relocation - EDRP Approved,Veterans Health Admi
 Staff Psychologist - Recruitment/Relocation Incentive - EDRP,Veterans Health Administration,"Dallas, Texas",GS,99779,184879,0180,2025-10-10,2026-10-09,https://www.usajobs.gov:443/job/847996100
 Staff Psychologist - Recruitment/Relocation Incentive - EDRP,Veterans Health Administration,"Dallas, Texas",GS,99779,184879,0180,2025-11-21,2026-11-20,https://www.usajobs.gov:443/job/850734500
 Supervisory Diagnostic Radiologic Technologist (IR),Veterans Health Administration,"Memphis, Tennessee",GS,79967,103954,0647,2025-12-08,2026-09-30,https://www.usajobs.gov:443/job/851808700
-Supervisory Dietitian (Food Operations) - RECRUITMENT/RELOCATION INCENTIVE,Veterans Health Administration,"Amarillo, Texas",GS,88621,115213,0630,2025-10-02,2026-05-22,https://www.usajobs.gov:443/job/847312100
 Supply Technician,Veterans Health Administration,"Charleston, South Carolina",GS,40332,52426,2005,2025-12-16,2026-09-30,https://www.usajobs.gov:443/job/852617200
 Surgical Technician,Veterans Health Administration,"Seattle, Washington",GS,56153,73003,0640,2025-12-02,2026-07-30,https://www.usajobs.gov:443/job/851328400
 Surgical Technician - Recruitment Incentive Authorized,Veterans Health Administration,"Lexington, Kentucky",GS,54365,70678,0640,2025-12-15,2026-09-30,https://www.usajobs.gov:443/job/852158400
