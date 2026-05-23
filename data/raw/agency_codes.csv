@@ -179,7 +179,7 @@ ARXK,Materiel Acquisition Activities,AR,,2021-04-30T11:38:48.723
 ARXL,Materiel Acquisition Project Managers,AR,,2021-04-30T11:38:48.737
 ARXP,U.S. Army Security Assistance Command,AR,,2021-04-30T11:38:48.75
 ARXQ,U.S. Army Joint Munitions Command,AR,,2021-04-30T11:38:48.76
-ARXT,U.S. Army Military Surface Deployment and Distribution Command,AR,,2021-04-30T11:38:48.777
+ARXT,ARMY TRANSPORTATION,AR,,2026-05-22T14:34:11.087
 ARXX,U.S. Army Data Analysis Center,AR,,2024-07-05T14:51:56.22
 CM33,Technology Administration,CM,,2021-04-30T11:38:45.883
 CM51,Office of the Secretary,CM,,2021-04-30T11:38:45.897
@@ -787,7 +787,6 @@ AF5C,Cyberspace Capabilities Center,AF,,2024-09-27T14:38:19.497
 AFCT,Air Forces Central,AF,,2024-10-25T14:34:44.287
 AFNS,Air Forces Northern - Air Forces Space,AF,,2025-03-28T14:35:34.763
 AFSN,Air Forces Southern,AF,,2024-10-25T14:34:44.367
-AFCC,Integrated Capabilities Command,AF,,2024-12-20T15:35:02.343
 WH05,United States DOGE Service,EOP,,2025-02-28T15:37:02.98
 AFCY,Air Force Cyber and Intelligence Command,AF,,2025-03-28T14:35:34.613
 ARCC,U.S. Army Corrections Command,AR,,2025-06-06T14:35:35.777
@@ -797,12 +796,15 @@ OV01,Official Residence of the Vice President,,,2026-01-16T15:34:17.797
 DD85,Joint Interagency Task Force,DD,DOD,2026-02-20T15:38:21.947
 ART2,Army Transformation and Training Command,AR,,2026-02-20T15:38:22.02
 ARJC,U.S. Joint Counter,AR,,2026-02-20T15:38:22.033
-DD86,PCS Joint Task Force,DD,DOD,2026-02-20T15:38:22.05
+DD86,Personal Property Activity (PPA),DD,DOD,2026-05-22T14:34:13.107
 LCCO,U.S. Copyright Office,LL,,2026-02-20T15:38:22.07
 SX00,State Justice Institute,,,2026-03-27T14:39:04.11
 ARW1,U.S. Army Western Hemisphere Command,AR,,2026-03-27T14:39:04.307
 LDAQ,Congressional Budget Office,LL,CBO,2026-03-27T14:39:04.37
 NN11,NASA Shared Services Center,NN,,2026-04-24T14:34:30.98
-SM73,Smithsonian Institution - Trust - (Use only for the Woodrow Wilson International Center for Scholars,SM03,SI,2026-05-15T14:36:18.033
+SM73,Smithsonian Institution - Trust - (Use only for the Woodrow Wilson International Center for Scholars,SM03,SI,2026-05-22T14:34:13.14
 SM71,Smithsonian Institution - Trust (Except units administered under separate boards of trustees),SM03,SI,2026-04-24T14:34:31.057
+DD87,National Guard Bureau Joint Staff,DD,,2026-05-22T14:34:13.16
+AX00,ARAPAHO FIRST (NON-FEDERAL),,,2026-05-22T14:34:13.22
+AL00,"Office of the Inspector General, Foreign Assistance",,,2026-05-22T14:34:13.237
 OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
