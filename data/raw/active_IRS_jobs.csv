@@ -1,8 +1,7 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Accounting Technician (Database Administrator),Internal Revenue Service,"Covington, Kentucky",GS,57453,75666,0525,2026-05-14,2026-05-28,https://www.usajobs.gov:443/job/869087600
 Appeals Officer (Team Case Lead) 6 MONTH REGISTER,Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0930,2026-05-04,2026-08-03,https://www.usajobs.gov:443/job/867755500
-Appraiser,Internal Revenue Service,"Birmingham, Alabama",GS,106437,172980,1171,2026-05-06,2026-05-22,https://www.usajobs.gov:443/job/868069100
-Attorney-Adviser (Tax) (Senior Technician Reviewer),Internal Revenue Service,"Washington, District of Columbia",GS,169279,197200,0905,2026-05-14,2026-05-28,https://www.usajobs.gov:443/job/869292000
+Attorney-Adviser (Tax) (Senior Technician Reviewer),Internal Revenue Service,"Washington, District of Columbia",GS,169279,197200,0905,2026-05-14,2026-06-10,https://www.usajobs.gov:443/job/869292000
 "Centralized Evaluative Review (CER) Group Manager, TEMP NTE 1 yr, MBE 5 yrs, MBMP",Internal Revenue Service,"Ogden, Utah",IR,74678,97087,0962,2026-05-12,2026-05-26,https://www.usajobs.gov:443/job/868676900
 "Contact Representative (Bilingual-Spanish) (Seasonal) - Direct Hire, TERM",Internal Revenue Service,"Caguas, Puerto Rico",GS,19.52,25.37,0962,2026-04-23,2026-06-17,https://www.usajobs.gov:443/job/866509500
 Contact Representative (Bilingual-Spanish) Centralized Evaluation Review (CER) Specialist,Internal Revenue Service,"Bayamon, Puerto Rico",GS,61722,80243,0962,2026-05-21,2026-06-04,https://www.usajobs.gov:443/job/870212600
@@ -28,6 +27,7 @@ General Attorney (Tax) - Special Counsel (Corporate),Internal Revenue Service,"W
 General Attorney - Cybercrimes Special Counsel (Criminal Tax),Internal Revenue Service,"Washington, District of Columbia",GS,169279,197200,0905,2026-05-21,2026-06-08,https://www.usajobs.gov:443/job/869803400
 General Attorney -Special Counsel (Criminal Tax),Internal Revenue Service,"Glynco, Georgia",GS,147945,192331,0905,2026-05-22,2026-06-08,https://www.usajobs.gov:443/job/870245500
 General Attorney- (Criminal Tax),Internal Revenue Service,"Phoenix, Arizona",GS,125776,197200,0905,2026-05-15,2026-06-02,https://www.usajobs.gov:443/job/869611100
+Internal Revenue Agent (Senior Employee Plans Agent),Internal Revenue Service,"Glendale, Arizona",GS,106437,163062,0512,2026-05-22,2026-06-04,https://www.usajobs.gov:443/job/870464500
 Lead Accounting Technician,Internal Revenue Service,"Fresno, California",GS,56164,73010,0525,2026-05-12,2026-05-26,https://www.usajobs.gov:443/job/868872500
 Lead Budget Analyst,Internal Revenue Service,"Fresno, California",GS,125776,197200,0560,2026-05-20,2026-06-03,https://www.usajobs.gov:443/job/869760200
 Lead Clerk,Internal Revenue Service,"Fresno, California",GS,45409,65047,0303,2026-05-12,2026-05-26,https://www.usajobs.gov:443/job/868725200
@@ -48,7 +48,6 @@ Management and Program Analyst,Internal Revenue Service,"Kansas City, Missouri",
 Management and Program Analyst,Internal Revenue Service,"Kansas City, Missouri",GS,61722,119633,0343,2026-05-21,2026-06-04,https://www.usajobs.gov:443/job/870118500
 "Management and Program Analyst (Not to Exceed 1-3 years, May be Extended, May be made Permanent)",Internal Revenue Service,"Atlanta, Georgia",GS,156451,197200,0343,2026-05-20,2026-06-03,https://www.usajobs.gov:443/job/870021900
 Management and Program Analyst (Project Manager),Internal Revenue Service,"Fresno, California",GS,106437,172980,0343,2026-05-12,2026-05-26,https://www.usajobs.gov:443/job/868886800
-"Management and Program Analyst (Project Manager) Temporary, Not-To-Exceed 1 Year",Internal Revenue Service,"Fresno, California",GS,125776,197200,0343,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868710000
 Management and Program Analyst (Senior Operations Advisor),Internal Revenue Service,"Fresno, California",GS,147945,197200,0343,2026-05-19,2026-06-02,https://www.usajobs.gov:443/job/869755500
 Management and Program Analyst (Staff Assistant),Internal Revenue Service,"Washington, District of Columbia",GS,121785,158322,0343,2026-05-19,2026-05-26,https://www.usajobs.gov:443/job/869777500
 Operations Coordinator,Internal Revenue Service,"Chicago, Illinois",GS,77015,110846,0301,2026-05-20,2026-06-03,https://www.usajobs.gov:443/job/869878800
@@ -71,16 +70,11 @@ Supervisory Contact Representative - Centralized Evaluative Review (CER),Interna
 Supervisory General Attorney - Deputy Area Counsel (Criminal Tax),Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0905,2026-05-05,2026-05-26,https://www.usajobs.gov:443/job/868016200
 Supervisory Internal Revenue Agent,Internal Revenue Service,"Glendale, Arizona",IR,125776,192694,0512,2026-05-14,2026-05-28,https://www.usajobs.gov:443/job/869295000
 Supervisory Internal Revenue Agent (Exempt Organization Group Manager (Examiner)),Internal Revenue Service,"Glendale, Arizona",IR,125776,192694,0512,2026-05-15,2026-05-29,https://www.usajobs.gov:443/job/869620100
-Supervisory Public Affairs Specialist,Internal Revenue Service,"Anchorage, Alaska",IR,125776,197200,1035,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868766500
+Supervisory Management and Program Analyst,Internal Revenue Service,"Atlanta, Georgia",IR,125776,197200,0343,2026-05-22,2026-05-29,https://www.usajobs.gov:443/job/870400700
 Supervisory Staff Accountant,Internal Revenue Service,"Washington, District of Columbia",IR,125776,187093,0510,2026-05-20,2026-06-03,https://www.usajobs.gov:443/job/869866000
-Supervisory Tax Analyst,Internal Revenue Service,"Austin, Texas",IR,109428,142259,0501,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868704300
-Supervisory Tax Analyst,Internal Revenue Service,"Fresno, California",IR,125776,197200,0501,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868613100
 Supervisory Tax Analyst,Internal Revenue Service,"Fresno, California",IR,125776,197200,0501,2026-05-14,2026-05-26,https://www.usajobs.gov:443/job/869299300
 "Supervisory Tax Analyst-Temp Prom/Detail NTE 1 year, MBE up to 2 years, MBMP",Internal Revenue Service,"Anchorage, Alaska",IR,125776,197200,0501,2026-05-13,2026-05-27,https://www.usajobs.gov:443/job/868928300
 Supervisory Tax Compliance Officer - Frontline Manager,Internal Revenue Service,"Austin, Texas",IR,92023,119633,0526,2026-05-20,2026-06-03,https://www.usajobs.gov:443/job/870015900
-Supervisory Tax Examining Technician (Group/Unit Manager),Internal Revenue Service,"Covington, Kentucky",IR,70797,92032,0592,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868751600
-Supervisory Tax Examining Technician (Group/Unit Manager),Internal Revenue Service,"Kansas City, Missouri",IR,69079,89797,0592,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868764500
-Supervisory Tax Examining Technician (Group/Unit Manager),Internal Revenue Service,"Memphis, Tennessee",IR,67970,88356,0592,2026-05-11,2026-05-22,https://www.usajobs.gov:443/job/868749300
 "Tax Examining Clerk (Seasonal) - Direct Hire, TERM",Internal Revenue Service,"Philadelphia, Pennsylvania",GS,19.22,27.96,0592,2026-04-23,2026-06-17,https://www.usajobs.gov:443/job/866491000
 Tax Examining Technician,Internal Revenue Service,"Ogden, Utah",GS,50460,65599,0592,2026-05-12,2026-05-26,https://www.usajobs.gov:443/job/868724400
 "Tax Examining Technician (Seasonal) - Direct Hire, TERM",Internal Revenue Service,"Andover, Massachusetts",GS,22.11,28.74,0592,2026-04-24,2026-05-28,https://www.usajobs.gov:443/job/866649200
