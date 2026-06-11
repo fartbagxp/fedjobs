@@ -2,12 +2,13 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 "Chief, Office of Engraving",Bureau of Engraving and Printing,"Washington, District of Columbia",GS,169279,197200,1101,2026-06-10,2026-06-24,https://www.usajobs.gov:443/job/872351300
 INTERMEDIATE PLATE PRINTER,Bureau of Engraving and Printing,"Washington, District of Columbia",WE,55.1,58.18,4454,2026-06-09,2026-06-22,https://www.usajobs.gov:443/job/871692800
 INTERMEDIATE PLATE PRINTER,Bureau of Engraving and Printing,"Washington, District of Columbia",WE,55.1,58.18,4454,2026-06-09,2026-06-22,https://www.usajobs.gov:443/job/871693300
+Machine Tool Operator Supervisor,Bureau of Engraving and Printing,"Washington, District of Columbia",KS,49.57,57.85,3414,2026-06-11,2026-06-25,https://www.usajobs.gov:443/job/872467600
+Platemaker (Intaglio) Leader,Bureau of Engraving and Printing,"Fort Worth, Texas",WE,153311,153311,4449,2026-06-11,2026-06-24,https://www.usajobs.gov:443/job/872472200
 Financial Systems Analyst,Bureau of the Fiscal Service,"Birmingham, Alabama",GS,89508,133142,0501,2026-06-10,2026-06-22,https://www.usajobs.gov:443/job/872275800
 Program Analyst,Bureau of the Fiscal Service,"Birmingham, Alabama",GS,107510,158322,0343,2026-06-09,2026-06-18,https://www.usajobs.gov:443/job/872180900
 Social Science Research Analyst (Evaluation),Bureau of the Fiscal Service,"Washington, District of Columbia",GS,74678,158322,0101,2026-06-09,2026-06-16,https://www.usajobs.gov:443/job/872197600
 Accountant,Internal Revenue Service,"Denver, Colorado",GS,106437,158322,0510,2026-06-04,2026-06-17,https://www.usajobs.gov:443/job/871511400
 Appeals Officer (Team Case Lead) 6 MONTH REGISTER,Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0930,2026-05-04,2026-08-03,https://www.usajobs.gov:443/job/867755500
-Attorney-Adviser (Tax) (Senior Technician Reviewer),Internal Revenue Service,"Washington, District of Columbia",GS,169279,197200,0905,2026-05-14,2026-06-10,https://www.usajobs.gov:443/job/869292000
 Attorney-Advisor (Tax) - Special Counsel (INTL),Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0905,2026-05-29,2026-06-12,https://www.usajobs.gov:443/job/871091500
 "Clerk (General Clerk) (Seasonal 6-8 Months) - Direct Hire, TERM",Internal Revenue Service,"Austin, Texas",GS,17.94,26.09,0303,2026-06-04,2026-06-26,https://www.usajobs.gov:443/job/871765700
 "Clerk (General Clerk) (Seasonal 6-8 Months) - Direct Hire, TERM",Internal Revenue Service,"Kansas City, Missouri",GS,17.73,25.79,0303,2026-06-04,2026-07-15,https://www.usajobs.gov:443/job/871765900
@@ -20,7 +21,6 @@ Criminal Investigator (Special Agent) CTAP/ICTAP/LAND MGMT/VEOA,Internal Revenue
 Director HR Operations and Shared Services,Internal Revenue Service,"Fresno County, California",ES,151661,228000,0201,2026-05-28,2026-06-12,https://www.usajobs.gov:443/job/870670400
 "Economist 6-Month Roster, Direct Hire",Internal Revenue Service,"Mesa, Arizona",GS,74678,163062,0110,2026-05-18,2026-11-18,https://www.usajobs.gov:443/job/869699200
 General Attorney (Tax),Internal Revenue Service,"Washington, District of Columbia",GS,102415,187093,0905,2026-06-01,2026-06-15,https://www.usajobs.gov:443/job/871290100
-General Attorney (Tax) (Senior Counsel) - P&A,Internal Revenue Service,"Phoenix, Arizona",GS,147945,197200,0905,2026-05-28,2026-06-10,https://www.usajobs.gov:443/job/870837000
 "General Attorney (Tax) - Employee Benefits, Exempt Orgs, Employment Taxes",Internal Revenue Service,"Washington, District of Columbia",GS,102415,187093,0905,2026-05-28,2026-06-11,https://www.usajobs.gov:443/job/870928600
 General Attorney (Tax) - Senior Technician Reviewer (INTL),Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0905,2026-05-29,2026-06-12,https://www.usajobs.gov:443/job/871094100
 General Attorney (Tax) - Special Counsel (Corporate),Internal Revenue Service,"Washington, District of Columbia",GS,169279,197200,0905,2026-05-18,2026-06-15,https://www.usajobs.gov:443/job/869452100
@@ -29,7 +29,6 @@ General Attorney-Senior Counsel (Criminal Tax),Internal Revenue Service,"Phoenix
 Group/Unit Supervisor,Internal Revenue Service,"Andover, Massachusetts",IR,101375,133142,0301,2026-05-29,2026-06-11,https://www.usajobs.gov:443/job/870843100
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Augusta, Maine",GS,40736,80243,0501,2026-05-29,2026-06-11,https://www.usajobs.gov:443/job/871126800
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Augusta, Maine",GS,40736,80243,0501,2026-05-29,2026-06-11,https://www.usajobs.gov:443/job/871128500
-Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Augusta, Maine",GS,74678,97087,0501,2026-05-29,2026-06-10,https://www.usajobs.gov:443/job/871130300
 Information Technology Specialist (APPSW),Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,2210,2026-06-08,2026-06-22,https://www.usajobs.gov:443/job/872128300
 Information Technology Specialist (Applications Software),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-06-04,2026-06-17,https://www.usajobs.gov:443/job/871723800
 Information Technology Specialist (Applications Software),Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,2210,2026-06-05,2026-06-18,https://www.usajobs.gov:443/job/871919900
@@ -39,7 +38,9 @@ Initial Assistance Representative,Internal Revenue Service,"Augusta, Maine",GS,4
 Internal Revenue Agent (Fraud Specialist),Internal Revenue Service,"Glendale, Arizona",GS,125776,192694,0512,2026-05-29,2026-06-11,https://www.usajobs.gov:443/job/871050800
 Internal Revenue Agent (Program Advisor),Internal Revenue Service,"Birmingham, Alabama",GS,106437,172980,0512,2026-06-01,2026-06-12,https://www.usajobs.gov:443/job/871230600
 Internal Revenue Agent (Senior Exempt Organizations Agent),Internal Revenue Service,"Atlanta, Georgia",GS,110865,163062,0512,2026-06-02,2026-06-15,https://www.usajobs.gov:443/job/871416800
+Investigative Analyst,Internal Revenue Service,"Anchorage, Alaska",GS,57188,121371,1805,2026-06-10,2026-06-23,https://www.usajobs.gov:443/job/872453200
 Lead Clerk (Not To Exceed 1 Year May Be Extended up to 5 years),Internal Revenue Service,"Kansas City, Missouri",GS,45409,60690,0303,2026-06-08,2026-06-22,https://www.usajobs.gov:443/job/871968000
+Lead Contact Representative,Internal Revenue Service,"Oakland, California",GS,63457,100315,0962,2026-06-10,2026-06-24,https://www.usajobs.gov:443/job/872465100
 Lead Information Technology Specialist (APPSW) Software Engineer,Internal Revenue Service,"Fresno, California",GS,125776,192694,2210,2026-06-05,2026-06-11,https://www.usajobs.gov:443/job/871993900
 Lead Public Affairs Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,1035,2026-06-05,2026-06-11,https://www.usajobs.gov:443/job/871935900
 Legal Administrative Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,0901,2026-05-19,2026-06-18,https://www.usajobs.gov:443/job/869853800
@@ -47,7 +48,6 @@ Legal Administrative Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,
 Legal Assistant (OA),Internal Revenue Service,"Birmingham, Alabama",GS,40736,77306,0986,2026-06-05,2026-06-12,https://www.usajobs.gov:443/job/872017600
 Legal Assistant (OA),Internal Revenue Service,"Chicago, Illinois",GS,40736,65599,0986,2026-06-05,2026-06-12,https://www.usajobs.gov:443/job/872015500
 Legal Assistant (OA),Internal Revenue Service,"Phoenix, Arizona",GS,40736,82007,0986,2026-06-05,2026-06-12,https://www.usajobs.gov:443/job/872007900
-"Management and Program Analyst (NTE 1 Year, May Be Extended Up To 5 Years, May Be Made Perm)",Internal Revenue Service,"Kansas City, Missouri",GS,61722,118261,0343,2026-05-28,2026-06-10,https://www.usajobs.gov:443/job/870855700
 Management and Program Assistant (Office Automation),Internal Revenue Service,"Kansas City, Missouri",GS,40736,60690,0344,2026-05-29,2026-06-11,https://www.usajobs.gov:443/job/871076300
 "Management and Program Assistant (Office Automation) NTE 1 YR, MBE 5 YRS, MBMP",Internal Revenue Service,"Austin, Texas",GS,41881,60690,0344,2026-06-09,2026-06-23,https://www.usajobs.gov:443/job/872391700
 Operations Coordinator,Internal Revenue Service,"Birmingham, Alabama",GS,61722,94563,0301,2026-06-01,2026-06-15,https://www.usajobs.gov:443/job/870891200
@@ -63,8 +63,6 @@ Supervisory Forensic Investigative Analyst CTAP/ICTAP/LAND MGMT/VEOA,Internal Re
 "Supervisory Individual Tax Advisory Specialist - Not to Exceed 1 Year, May Be Extended up to 3",Internal Revenue Service,"Nashville, Tennessee",IR,125776,192331,0501,2026-06-05,2026-06-12,https://www.usajobs.gov:443/job/872021100
 "Supervisory Individual Tax Advisory Specialist - Not to Exceed 1 year, may be extended 3 years",Internal Revenue Service,"Indianapolis, Indiana",IR,106437,159575,0501,2026-06-05,2026-06-11,https://www.usajobs.gov:443/job/871831900
 "Supervisory Individual Tax Advisory Specialist - Not to Exceed 1 year, may be extended 3 years",Internal Revenue Service,"Mobile, Alabama",IR,106437,158322,0501,2026-06-05,2026-06-11,https://www.usajobs.gov:443/job/871832700
-Supervisory Intake Specialist,Internal Revenue Service,"Saint Louis, Missouri",IR,67970,99308,0501,2026-05-28,2026-06-10,https://www.usajobs.gov:443/job/870809600
-Supervisory Internal Revenue Agent,Internal Revenue Service,"Anchorage, Alaska",IR,125776,192694,0512,2026-05-28,2026-06-10,https://www.usajobs.gov:443/job/870750300
 Supervisory Management and Program Analyst,Internal Revenue Service,"Fresno, California",IR,125776,197200,0343,2026-06-09,2026-06-23,https://www.usajobs.gov:443/job/872292900
 Supervisory Tax Analyst (Exam Policy & Coordination),Internal Revenue Service,"Fresno, California",IR,125776,197200,0501,2026-06-02,2026-06-15,https://www.usajobs.gov:443/job/871382100
 Supervisory Tax Examining Technician,Internal Revenue Service,"Fresno, California",IR,67970,100070,0592,2026-06-01,2026-06-12,https://www.usajobs.gov:443/job/870899100
@@ -82,9 +80,13 @@ Telephone System Analyst,Internal Revenue Service,"Fresno, California",GS,61722,
 Visual Information Specialist (CS) CTAP/ICTAP/Land Mgmt/VEOA,Internal Revenue Service,"Tallahassee, Florida",GS,106437,138370,1084,2026-06-09,2026-06-15,https://www.usajobs.gov:443/job/872374200
 Deputy Assistant Inspector General for Audit (Cyber & Transparency),Office of Inspector General,"Washington, District of Columbia",ES,151661,228000,0511,2026-06-05,2026-06-29,https://www.usajobs.gov:443/job/871807400
 "Attorney Advisor (Bank Advisory), NB-905-V/VI",Office of the Comptroller of the Currency,"Denver, Colorado",NB,83458,200349,0905,2026-06-02,2026-06-22,https://www.usajobs.gov:443/job/871455000
+"Attorney Advisor (Litigation), NB-0905-VI",Office of the Comptroller of the Currency,"Washington, District of Columbia",NB,135550,251879,0905,2026-06-10,2026-06-25,https://www.usajobs.gov:443/job/872638500
+"Counsel (Litigation), NB-0905-VI",Office of the Comptroller of the Currency,"Washington, District of Columbia",NB,135550,251879,0905,2026-06-10,2026-06-25,https://www.usajobs.gov:443/job/872638700
 "National Bank Examiner/Bank Examiner (Analyst to LB Examiner-In-Charge/Director), NB-570-VI",Office of the Comptroller of the Currency,"Boston, Massachusetts",NB,107819,200349,0570,2026-06-02,2026-06-16,https://www.usajobs.gov:443/job/871357400
 "Senior Advisor to the Senior Deputy Comptroller, NB-0301-VII",Office of the Comptroller of the Currency,"Washington, District of Columbia",NB,174488,311400,0301,2026-06-09,2026-06-24,https://www.usajobs.gov:443/job/872358800
 "Supervisory NBE/BE (Analyst to LGFI (Megabank) Examiner-In-Charge), NB-0570-VI.2",Office of the Comptroller of the Currency,"New York, New York",NB,166700,309748,0570,2026-06-02,2026-06-16,https://www.usajobs.gov:443/job/871287800
+Criminal Investigator (Special Agent),Office of the Inspector General for Tax Administration,"Richmond, Virginia",GS,78009,144540,1811,2026-06-11,2026-06-24,https://www.usajobs.gov:443/job/872532100
+IT Specialist (SYSADMIN OS),Office of the Inspector General for Tax Administration,"Salt Lake City, Utah",GS,74678,172980,2210,2026-06-11,2026-06-25,https://www.usajobs.gov:443/job/872591400
 Supervisory Criminal Investigator (Assistant Special Agent in Charge),Office of the Inspector General for Tax Administration,"Farmers Branch, Texas",GS,136736,177762,1811,2026-06-09,2026-06-23,https://www.usajobs.gov:443/job/872148000
 Supervisory Criminal Investigator (Assistant Special Agent in Charge),Office of the Inspector General for Tax Administration,"Seattle, Washington",GS,141367,183782,1811,2026-06-09,2026-06-23,https://www.usajobs.gov:443/job/872147800
 Attorney-Adviser (Finance),"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,197200,0905,2026-06-09,2026-06-30,https://www.usajobs.gov:443/job/872279200
@@ -94,16 +96,13 @@ DIRECTOR OF OPERATIONS,"Treasury, Departmental Offices","Washington, District of
 Government Information Specialist (Privacy),"Treasury, Departmental Offices","Washington, District of Columbia",GS,102415,158322,0306,2026-06-03,2026-06-16,https://www.usajobs.gov:443/job/871494600
 Government Information Specialist (Senior FOIA Reviewer),"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,187093,0306,2026-06-05,2026-06-18,https://www.usajobs.gov:443/job/871967200
 IT Specialist (AI),"Treasury, Departmental Offices","Salt Lake City, Utah",GS,89508,197200,2210,2026-02-24,2026-07-20,https://www.usajobs.gov:443/job/858700600
-Procurement Analyst/Acquisition Improvement,"Treasury, Departmental Offices","Washington, District of Columbia",GS,169279,197200,1102,2026-05-27,2026-06-10,https://www.usajobs.gov:443/job/870598700
+POLICY ANALYST,"Treasury, Departmental Offices","Washington, District of Columbia",GS,70623,111087,0301,2026-06-11,2026-07-09,https://www.usajobs.gov:443/job/872616000
+Policy Analyst,"Treasury, Departmental Offices","Washington, District of Columbia",GS,57736,75059,0301,2026-06-11,2026-07-09,https://www.usajobs.gov:443/job/872616400
 SUPERVISORY FINANCIAL ANALYST,"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,197200,1160,2026-03-02,2026-09-02,https://www.usajobs.gov:443/job/859410600
 Senior Policy Advisor,"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,187093,0301,2026-02-17,2026-08-17,https://www.usajobs.gov:443/job/857816900
 Coin Production Manager,U.S. Mint,"Denver, Colorado",GS,140239,182316,1101,2026-05-27,2026-06-15,https://www.usajobs.gov:443/job/870661300
 Die Production Supervisor,U.S. Mint,"Philadelphia, Pennsylvania",WS,40.32,47,3401,2026-06-04,2026-06-18,https://www.usajobs.gov:443/job/871715200
-Environmental Protection Specialist,U.S. Mint,"Denver, Colorado",GS,99800,129742,0028,2026-05-28,2026-06-10,https://www.usajobs.gov:443/job/870647000
-Environmental Protection Specialist,U.S. Mint,"Denver, Colorado",GS,99800,129742,0028,2026-05-26,2026-06-10,https://www.usajobs.gov:443/job/870647800
-Human Resources Officer,U.S. Mint,"Denver, Colorado",GS,140239,182316,0201,2026-06-03,2026-06-10,https://www.usajobs.gov:443/job/871532800
 INDUSTRIAL ENGINEER,U.S. Mint,"Denver, Colorado",GS,118675,154280,0896,2026-06-05,2026-06-19,https://www.usajobs.gov:443/job/871792700
-Industrial Equipment Maintenance Leader,U.S. Mint,"Philadelphia, Pennsylvania",WL,38.7,45.17,5301,2026-05-28,2026-06-10,https://www.usajobs.gov:443/job/870644500
 Toolmaker,U.S. Mint,"Philadelphia, Pennsylvania",WG,35.17,41.02,3416,2026-06-09,2026-06-23,https://www.usajobs.gov:443/job/872082700
 Toolmaker,U.S. Mint,"Philadelphia, Pennsylvania",WG,35.17,41.02,3416,2026-06-09,2026-06-23,https://www.usajobs.gov:443/job/872083300
 Toolmaker Supervisor,U.S. Mint,"Denver, Colorado",WS,45.63,53.16,3416,2026-06-03,2026-06-17,https://www.usajobs.gov:443/job/871495600
