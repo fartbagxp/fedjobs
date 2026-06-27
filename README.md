@@ -167,3 +167,40 @@ uv run python -m fedjobs.main search --job-code 2210
 ## API Reference
 
 This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-jobs) for job searches.
+
+<!-- STATS_START -->
+
+## Data Stats
+
+> Last updated: **2026-06-27**
+
+| Metric                            | Count     |
+| --------------------------------- | --------- |
+| Total unique job postings tracked | **9,674** |
+| Currently active positions        | **1,133** |
+
+### Active Positions by Job Series
+
+| Series | Name                        | Active Postings |
+| ------ | --------------------------- | --------------- |
+| 0854   | Computer Engineering (0854) | 23              |
+| 1550   | Computer Science (1550)     | 37              |
+| 1560   | Data Science (1560)         | 15              |
+| 2210   | IT Management (2210)        | 250             |
+
+### Top Agencies (Active Postings)
+
+| Agency                                   | Active Postings |
+| ---------------------------------------- | --------------- |
+| Veterans Health Administration           | 251             |
+| Federal Aviation Administration          | 211             |
+| Indian Health Service                    | 123             |
+| Internal Revenue Service                 | 52              |
+| Social Security Administration           | 35              |
+| Department of State - Agency Wide        | 32              |
+| Air National Guard Units                 | 31              |
+| Centers for Medicare & Medicaid Services | 22              |
+| Office of the Chief Information Officer  | 17              |
+| National Institutes of Health            | 15              |
+
+<!-- STATS_END -->
