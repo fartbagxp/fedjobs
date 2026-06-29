@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-06-28**
+> Last updated: **2026-06-29**
 
 | Metric                            | Count     |
 | --------------------------------- | --------- |
 | Total unique job postings tracked | **9,679** |
-| Currently active positions        | **1,129** |
+| Currently active positions        | **1,146** |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 22              |
-| 1550   | Computer Science (1550)     | 36              |
+| 0854   | Computer Engineering (0854) | 23              |
+| 1550   | Computer Science (1550)     | 38              |
 | 1560   | Data Science (1560)         | 15              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -195,12 +195,12 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Veterans Health Administration           | 251             |
 | Federal Aviation Administration          | 211             |
 | Indian Health Service                    | 123             |
-| Internal Revenue Service                 | 52              |
+| Internal Revenue Service                 | 58              |
 | Social Security Administration           | 35              |
-| Department of State - Agency Wide        | 32              |
+| Department of State - Agency Wide        | 34              |
 | Air National Guard Units                 | 32              |
-| Centers for Medicare & Medicaid Services | 22              |
-| Office of the Chief Information Officer  | 19              |
-| National Institutes of Health            | 15              |
+| Centers for Medicare & Medicaid Services | 24              |
+| Office of the Chief Information Officer  | 18              |
+| National Institutes of Health            | 17              |
 
 <!-- STATS_END -->

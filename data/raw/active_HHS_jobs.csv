@@ -1,13 +1,17 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+Grants Management Specialist (Policy),Administration for Children and Families,"Washington, District of Columbia",GS,102415,158322,1109,2026-06-29,2026-07-06,https://www.usajobs.gov:443/job/874533900
 Statistician,Administration for Strategic Preparedness and Response,"Washington, District of Columbia",GS,169279,197200,1530,2026-06-26,2026-07-05,https://www.usajobs.gov:443/job/874235400
 "Dir, Nat'l Center for State, Tribal, Local, & Territorial Public Health Infrastructure & Workforce",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-06-15,2026-06-29,https://www.usajobs.gov:443/job/871819700
 "Director, National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-06-25,2026-07-09,https://www.usajobs.gov:443/job/873926200
 "Director, National Center for Immunization and Respiratory Diseases",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-06-22,2026-07-06,https://www.usajobs.gov:443/job/873760700
 "Director, Office of Public Health Data, Surveillance, and Technology (OPHDST)",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-06-18,2026-07-02,https://www.usajobs.gov:443/job/871829200
 Health Scientist (Informatics),Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0601,2026-06-24,2026-06-29,https://www.usajobs.gov:443/job/873866100
+Public Health Analyst (Policy and Issues Management),Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,112556,146325,0685,2026-06-29,2026-07-08,https://www.usajobs.gov:443/job/874352600
 Supervisory Accountant,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0510,2026-06-23,2026-06-29,https://www.usajobs.gov:443/job/873843500
 Supervisory Research Microbiologist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0403,2026-06-23,2026-07-02,https://www.usajobs.gov:443/job/873841300
 Supervisory Security Specialist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0080,2026-06-26,2026-07-08,https://www.usajobs.gov:443/job/874340900
+Supervisory Security Specialist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0080,2026-06-29,2026-07-08,https://www.usajobs.gov:443/job/874341300
+Survey Statistician,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,76463,118204,1530,2026-06-29,2026-07-09,https://www.usajobs.gov:443/job/874557800
 Biomedical Engineer,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,143913,187093,0858,2026-06-26,2026-07-06,https://www.usajobs.gov:443/job/874436400
 Data Scientist,Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,108173,158322,1560,2026-06-02,2026-07-03,https://www.usajobs.gov:443/job/871404900
 "Director,  Medicare Enrollment and Appeals Group",Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",ES,155661,228000,0340,2026-06-26,2026-07-13,https://www.usajobs.gov:443/job/874379700
@@ -25,11 +29,13 @@ Lead Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Woodl
 Management & Program Analyst (Proj Mgr),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,85447,133142,0343,2026-06-24,2026-06-30,https://www.usajobs.gov:443/job/873959100
 Management & Program Analyst (Proj Mgr),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,85447,133142,0343,2026-06-24,2026-06-30,https://www.usajobs.gov:443/job/873973100
 Management Analyst,Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,108173,158322,0343,2026-06-18,2026-07-17,https://www.usajobs.gov:443/job/873702000
+NURSE,Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,0610,2026-06-29,2026-07-10,https://www.usajobs.gov:443/job/874512400
 Nurse,Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,90925,118204,0610,2026-05-01,2026-06-30,https://www.usajobs.gov:443/job/867634500
 Pharmacist,Centers for Medicare & Medicaid Services,"Boston, Massachusetts",GS,117284,158322,0660,2026-06-18,2026-07-02,https://www.usajobs.gov:443/job/873470700
 Program Analyst,Centers for Medicare & Medicaid Services,"Denver, Colorado",GS,108173,158322,0343,2026-06-18,2026-07-17,https://www.usajobs.gov:443/job/873701000
 Senior Advisor (PLCYPLN/SYSANALYSIS),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,126384,164301,2210,2026-06-26,2026-07-09,https://www.usajobs.gov:443/job/874311500
 Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"Boston, Massachusetts",GS,167560,197200,0107,2026-06-26,2026-07-02,https://www.usajobs.gov:443/job/874306500
+Supervisory Health Insurance Specialist,Centers for Medicare & Medicaid Services,"New York, New York",GS,148222,192694,0107,2026-06-29,2026-07-06,https://www.usajobs.gov:443/job/874516600
 Cybersecurity Specialist,Food and Drug Administration,"North Bethesda, Maryland",AD,121785,191352,2210,2026-06-23,2026-07-07,https://www.usajobs.gov:443/job/873803000
 Director (Supervisory Mathematical Statistician),Food and Drug Administration,"Silver Spring, Maryland",AD,194932,308053,1529,2026-06-15,2026-06-29,https://www.usajobs.gov:443/job/873074000
 Division Director (Supervisory Human Resources Specialist),Food and Drug Administration,"North Bethesda, Maryland",AD,189293,252437,0201,2026-06-24,2026-06-30,https://www.usajobs.gov:443/job/874071300
@@ -168,6 +174,8 @@ Chemist,National Institutes of Health,"Montgomery County, Maryland",GS,77983,158
 Clinical Laboratory Scientist (Chemistry),National Institutes of Health,"Montgomery County, Maryland",GS,70623,111087,0644,2026-06-25,2026-06-29,https://www.usajobs.gov:443/job/872901400
 Clinical Laboratory Scientist (Chemistry),National Institutes of Health,"Montgomery County, Maryland",GS,70623,111087,0644,2026-06-25,2026-06-29,https://www.usajobs.gov:443/job/872901700
 Clinical Research Study Operations Manager,National Institutes of Health,"Baltimore, Maryland",GS,111147,158322,0601,2026-06-23,2026-06-29,https://www.usajobs.gov:443/job/873178200
+Engineer,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0801,2026-06-29,2026-07-06,https://www.usajobs.gov:443/job/873936200
+Health Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,111147,158322,0601,2026-06-29,2026-07-03,https://www.usajobs.gov:443/job/873676800
 Lead Extramural Support Assistant (OA),National Institutes of Health,"Montgomery County, Maryland",GS,63940,83119,0303,2026-06-26,2026-06-30,https://www.usajobs.gov:443/job/873915100
 Management Analyst (for Administrative and Travel Support),National Institutes of Health,"Montgomery County, Maryland",GS,102415,158322,0343,2026-06-26,2026-06-30,https://www.usajobs.gov:443/job/873626400
 Personnel Security Specialist (ADJ),National Institutes of Health,"Bethesda, Maryland",GS,89508,133142,0080,2026-06-22,2026-06-29,https://www.usajobs.gov:443/job/873621500
