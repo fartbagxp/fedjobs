@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-06-29**
+> Last updated: **2026-06-30**
 
 | Metric                            | Count     |
 | --------------------------------- | --------- |
 | Total unique job postings tracked | **9,701** |
-| Currently active positions        | **1,146** |
+| Currently active positions        | **1,129** |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 23              |
-| 1550   | Computer Science (1550)     | 38              |
-| 1560   | Data Science (1560)         | 15              |
+| 0854   | Computer Engineering (0854) | 17              |
+| 1550   | Computer Science (1550)     | 33              |
+| 1560   | Data Science (1560)         | 13              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 251             |
+| Veterans Health Administration           | 252             |
 | Federal Aviation Administration          | 211             |
-| Indian Health Service                    | 123             |
-| Internal Revenue Service                 | 58              |
+| Indian Health Service                    | 126             |
+| Internal Revenue Service                 | 61              |
+| Department of State - Agency Wide        | 40              |
 | Social Security Administration           | 35              |
-| Department of State - Agency Wide        | 34              |
-| Air National Guard Units                 | 32              |
+| Air National Guard Units                 | 30              |
 | Centers for Medicare & Medicaid Services | 24              |
-| Office of the Chief Information Officer  | 18              |
-| National Institutes of Health            | 17              |
+| Office of the Chief Information Officer  | 15              |
+| Naval Sea Systems Command                | 14              |
 
 <!-- STATS_END -->
