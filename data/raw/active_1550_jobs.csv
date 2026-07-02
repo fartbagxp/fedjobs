@@ -2,12 +2,12 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Lackland AFB, Texas",GG,79735,126275,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846773800
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,56763,88225,1550,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/852682400
 Computer Scientist,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,56763,99314,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846731400
-OPERATIONS RESEARCH ANALYST,"Air Force Elements, U.S. Special Operations Command","MacDill AFB, Florida",GS,125776,163514,0854,2026-06-25,2026-07-01,https://www.usajobs.gov:443/job/874206200
 SUPERVISORY COMPUTER ENGINEER,"Air Force Elements, U.S. Special Operations Command","MacDill AFB, Florida",GS,147945,192331,0854,2026-06-24,2026-07-08,https://www.usajobs.gov:443/job/874047000
 SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY,"Air Force Elements, U.S. Strategic Command","Dahlgren, Virginia",DR,101103,158756,0854,2026-05-26,2026-09-22,https://www.usajobs.gov:443/job/870514400
 GENERAL ENGINEER-DIRECT HIRE AUTHORITY,Air Force Materiel Command,"Hill AFB, Utah",GS,61722,116362,0801,2026-04-01,2026-07-30,https://www.usajobs.gov:443/job/863464900
 SUPV ELECTRONICS ENGINEER- COMPUTER SCIENTIST- OPERATIONS RESEARCH ANALYST- DIRECT HIRE AUTHORITY,Air Force Materiel Command,"Edwards AFB, California",NH,125776,192331,0801,2026-06-30,2026-07-15,https://www.usajobs.gov:443/job/874327600
 ENGINEER/SCIENTIST,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","San Diego, California",DP,143677,197200,0801,2026-07-01,2026-07-08,https://www.usajobs.gov:443/job/874863100
+MANAGER,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",ND,188436,209600,0801,2026-07-02,2026-07-17,https://www.usajobs.gov:443/job/875034600
 COMPUTER SCIENTIST,Defense Counterintelligence and Security Agency,"Fort Meade, Maryland",GG,167446,197200,1550,2026-06-25,2026-07-06,https://www.usajobs.gov:443/job/874301000
 COMPUTER SCIENTIST (ENTERPRISE ARCHITECT),Defense Counterintelligence and Security Agency,"Fort Meade, Maryland",GG,167446,197200,1550,2026-06-25,2026-07-06,https://www.usajobs.gov:443/job/874292400
 COMPUTER SCIENTIST (SOFTWARE/CLOUD ARCHITECT),Defense Counterintelligence and Security Agency,"Fort Meade, Maryland",GG,167446,197200,1550,2026-06-25,2026-07-06,https://www.usajobs.gov:443/job/874293400
@@ -33,6 +33,8 @@ MANAGER,Naval Sea Systems Command,"Dam Neck Naval Facility, Virginia Beach, Virg
 MANAGER,Naval Sea Systems Command,"Naval Base Newport, Rhode Island",ND,141041,195200,0830,2026-06-29,2026-07-13,https://www.usajobs.gov:443/job/874363400
 PROGRAM MANAGER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,143913,197200,0801,2026-07-01,2026-07-14,https://www.usajobs.gov:443/job/874360000
 SOFTWARE DEVELOPER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,1550,2025-10-22,2026-10-21,https://www.usajobs.gov:443/job/848520700
+SUPERVISORY FLEET AND INDUSTRIAL OPERATIONS PLANNER,STRATEGIC SYSTEMS PROGRAMS (SSP),"Bangor, Washington",NH,141367,197200,0801,2026-07-02,2026-07-10,https://www.usajobs.gov:443/job/875158600
+Interdisciplinary Scheduler,U.S. Army Corps of Engineers,"Buffalo, New York",GS,52766,101524,1515,2026-07-02,2026-07-09,https://www.usajobs.gov:443/job/875096100
 Computer Scientist - SQL Programmer,Veterans Health Administration,"Boston, Massachusetts",GS,84579,109959,1550,2026-06-30,2026-07-08,https://www.usajobs.gov:443/job/874912200
 Research Computer Scientist,Veterans Health Administration,"Orlando, Florida",ZZ,0,0,1550,2026-06-29,2026-07-17,https://www.usajobs.gov:443/job/874772500
 WOC Research Computer Scientist,Veterans Health Administration,"Nashville, Tennessee",ZZ,0,0,1550,2026-06-26,2026-07-10,https://www.usajobs.gov:443/job/874901200
