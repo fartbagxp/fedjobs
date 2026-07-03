@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-02**
+> Last updated: **2026-07-03**
 
 | Metric                            | Count     |
 | --------------------------------- | --------- |
 | Total unique job postings tracked | **9,977** |
-| Currently active positions        | **1,157** |
+| Currently active positions        | **1,137** |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 17              |
-| 1550   | Computer Science (1550)     | 39              |
+| 0854   | Computer Engineering (0854) | 16              |
+| 1550   | Computer Science (1550)     | 38              |
 | 1560   | Data Science (1560)         | 18              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 255             |
-| Federal Aviation Administration          | 203             |
-| Indian Health Service                    | 119             |
-| Internal Revenue Service                 | 80              |
-| Department of State - Agency Wide        | 45              |
+| Federal Aviation Administration          | 195             |
+| Indian Health Service                    | 118             |
+| Internal Revenue Service                 | 73              |
+| Department of State - Agency Wide        | 41              |
 | Social Security Administration           | 35              |
 | Air National Guard Units                 | 27              |
-| Centers for Medicare & Medicaid Services | 27              |
-| Office of the Chief Information Officer  | 18              |
-| Office of Personnel Management           | 13              |
+| Centers for Medicare & Medicaid Services | 22              |
+| Office of the Chief Information Officer  | 20              |
+| Office of Personnel Management           | 15              |
 
 <!-- STATS_END -->
