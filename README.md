@@ -172,12 +172,12 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-03**
+> Last updated: **2026-07-04**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **10,053** |
-| Currently active positions        | **1,137**  |
+| Currently active positions        | **1,127**  |
 
 ### Active Positions by Job Series
 
@@ -185,7 +185,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 16              |
 | 1550   | Computer Science (1550)     | 38              |
-| 1560   | Data Science (1560)         | 18              |
+| 1560   | Data Science (1560)         | 17              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -194,12 +194,12 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 255             |
 | Federal Aviation Administration          | 195             |
-| Indian Health Service                    | 118             |
+| Indian Health Service                    | 115             |
 | Internal Revenue Service                 | 73              |
 | Department of State - Agency Wide        | 41              |
 | Social Security Administration           | 35              |
-| Air National Guard Units                 | 27              |
-| Centers for Medicare & Medicaid Services | 22              |
+| Air National Guard Units                 | 26              |
+| Centers for Medicare & Medicaid Services | 21              |
 | Office of the Chief Information Officer  | 20              |
 | Office of Personnel Management           | 15              |
 
