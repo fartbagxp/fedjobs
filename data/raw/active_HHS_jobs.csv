@@ -1,9 +1,13 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Budget Analyst,Administration for Children and Families,"Washington, District of Columbia",GS,143913,187093,0560,2026-06-02,2026-07-08,https://www.usajobs.gov:443/job/874752100
-Statistician,Administration for Strategic Preparedness and Response,"Washington, District of Columbia",GS,169279,197200,1530,2026-06-26,2026-07-05,https://www.usajobs.gov:443/job/874235400
+Deputy Director - Executive Secretariat,Administration for Children and Families,"Washington, District of Columbia",GS,169279,197200,0301,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874868700
+Biomedical Maintenance Equipment Specialist,Administration for Strategic Preparedness and Response,"Atlanta, Georgia",GS,94654,123052,1601,2026-07-06,2026-07-15,https://www.usajobs.gov:443/job/875208500
+Program Analyst,Administration for Strategic Preparedness and Response,"Washington, District of Columbia",GS,121785,158322,0343,2026-07-06,2026-07-15,https://www.usajobs.gov:443/job/875040700
 Supervisory Emergency Management Specialist,Administration for Strategic Preparedness and Response,"Atlanta, Georgia",GS,133007,172915,0089,2026-07-02,2026-07-07,https://www.usajobs.gov:443/job/874885700
 "Director, National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-06-25,2026-07-09,https://www.usajobs.gov:443/job/873926200
+"Director, National Center for HIV, Viral Hepatitis, STD, and TB Prevention",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-07-06,2026-07-20,https://www.usajobs.gov:443/job/875219700
 "Director, National Center for Immunization and Respiratory Diseases",Centers for Disease Control and Prevention,"Atlanta, Georgia",RF,197200,275000,0601,2026-06-22,2026-07-06,https://www.usajobs.gov:443/job/873760700
+Funding Resource Specialist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,1101,2026-07-06,2026-07-12,https://www.usajobs.gov:443/job/875016200
 Health Scientist (Informatics),Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,94654,123052,0601,2026-07-02,2026-07-08,https://www.usajobs.gov:443/job/875033600
 Supervisory Security Specialist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0080,2026-06-26,2026-07-08,https://www.usajobs.gov:443/job/874340900
 Supervisory Security Specialist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0080,2026-06-29,2026-07-08,https://www.usajobs.gov:443/job/874341300
@@ -58,6 +62,7 @@ Clinical Psychologist,Indian Health Service,"Camp Verde, Arizona",GS,103225,1595
 Clinical Services Administrator,Indian Health Service,"Zia Indian Reservation, New Mexico",GS,107592,139871,0601,2026-06-25,2026-07-15,https://www.usajobs.gov:443/job/874447700
 Contact Representative (Benefits Coordinator),Indian Health Service,"Camp Verde, Arizona",GS,45409,72644,0962,2026-06-09,2026-09-30,https://www.usajobs.gov:443/job/872283100
 Contact Representative (PRC),Indian Health Service,"Camp Verde, Arizona",GS,45409,72644,0962,2026-06-05,2026-09-30,https://www.usajobs.gov:443/job/871916200
+Cook,Indian Health Service,"Eagle Butte, South Dakota",WG,24.04,28.04,7404,2026-07-06,2026-07-20,https://www.usajobs.gov:443/job/875261000
 Cook,Indian Health Service,"Wakpala, South Dakota",WG,21.1,24.65,7404,2026-06-29,2026-07-13,https://www.usajobs.gov:443/job/865538900
 Credentialing Specialist,Indian Health Service,"Red Lake, Minnesota",GS,61722,80243,0301,2026-06-23,2026-07-06,https://www.usajobs.gov:443/job/873905900
 Dental Assistant,Indian Health Service,"Camp Verde, Arizona",GS,38090,56610,0681,2026-06-05,2026-09-30,https://www.usajobs.gov:443/job/872029900
@@ -130,6 +135,7 @@ Safety and Occupational Health Specialist,Indian Health Service,"Parker, Arizona
 Social Worker,Indian Health Service,"Camp Verde, Arizona",GS,65381,104502,0185,2026-06-08,2026-09-30,https://www.usajobs.gov:443/job/872195400
 Supervisory Advanced Practice Nurse (Nurse Practitioner) (Community Health),Indian Health Service,"Pine Ridge, South Dakota",GS,136388,177306,0610,2026-06-29,2026-07-06,https://www.usajobs.gov:443/job/870051100
 Supervisory Clinical Laboratory Scientist,Indian Health Service,"Pine Ridge, South Dakota",GS,123870,161034,0644,2026-06-24,2026-07-08,https://www.usajobs.gov:443/job/874100300
+Supervisory Contract Specialist,Indian Health Service,"Aberdeen, South Dakota",GS,125776,163514,1102,2026-07-06,2026-07-17,https://www.usajobs.gov:443/job/875291500
 Supervisory Contract Specialist,Indian Health Service,"Phoenix, Arizona",GS,154757,197200,1102,2026-06-26,2026-07-09,https://www.usajobs.gov:443/job/874619900
 Supervisory Diagnostic Radiologic Technologist,Indian Health Service,"Eagle Butte, South Dakota",GS,78386,101897,0647,2026-06-11,2026-07-06,https://www.usajobs.gov:443/job/872508500
 Supervisory Dietitian,Indian Health Service,"Whiteriver, Arizona",GS,106437,138370,0630,2026-06-18,2026-07-20,https://www.usajobs.gov:443/job/873741000
@@ -155,11 +161,29 @@ Voucher Examiner,Indian Health Service,"Pawnee, Oklahoma",GS,45409,59031,0540,20
 X-Ray Technologist,Indian Health Service,"Camp Verde, Arizona",GS,54307,84398,0647,2026-06-03,2026-09-30,https://www.usajobs.gov:443/job/871526200
 X-Ray Technologist (CT),Indian Health Service,"Camp Verde, Arizona",GS,64924,93227,0647,2026-06-03,2026-09-30,https://www.usajobs.gov:443/job/871528500
 Administrative Officer,National Institutes of Health,"Salt Lake City, Utah",GS,50460,111087,0341,2026-07-02,2026-07-06,https://www.usajobs.gov:443/job/874659300
+Contract Specialist,National Institutes of Health,"Salt Lake City, Utah",GS,74678,172980,1102,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/875125000
 Data Scientist (Program Officer),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,1560,2026-07-02,2026-07-06,https://www.usajobs.gov:443/job/874861400
+Diagnostic Radiologic Technician (CT-General),National Institutes of Health,"Montgomery County, Maryland",GS,77771,101097,0647,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/875037100
 Engineer,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0801,2026-06-29,2026-07-06,https://www.usajobs.gov:443/job/873936200
 Grants Financial Analyst,National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,0501,2026-07-03,2026-07-07,https://www.usajobs.gov:443/job/874641600
+Health Physicist,National Institutes of Health,"Montgomery County, Maryland",GS,85447,133142,1306,2026-07-06,2026-07-16,https://www.usajobs.gov:443/job/874943200
+IT Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,85447,133142,2210,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874588400
+IT Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,85447,133142,2210,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874588900
+Information Technology Specialist (INFOSEC),National Institutes of Health,"Montgomery County, Maryland",GS,77983,158322,2210,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874746300
+Lead Medical Instrument Technician (Ultrasound),National Institutes of Health,"Montgomery County, Maryland",GS,77771,101097,0649,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874818700
+Lead Medical Instrument Technician (Ultrasound),National Institutes of Health,"Montgomery County, Maryland",GS,77771,101097,0649,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874819500
+Librarian,National Institutes of Health,"Montgomery County, Maryland",GS,121785,158322,1410,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/873612400
+Librarian,National Institutes of Health,"Montgomery County, Maryland",GS,121785,158322,1410,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/873613800
+Librarian,National Institutes of Health,"Montgomery County, Maryland",GS,70623,133142,1410,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874373800
+Librarian,National Institutes of Health,"Montgomery County, Maryland",GS,70623,133142,1410,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874376800
 Management Analyst,National Institutes of Health,"Montgomery County, Maryland",GS,102415,133142,0343,2026-07-02,2026-07-06,https://www.usajobs.gov:443/job/874888400
+Management Analyst,National Institutes of Health,"Montgomery County, Maryland",GS,70623,91815,0343,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/875221400
+Purchasing Agent,National Institutes of Health,"Salt Lake City, Utah",GS,55882,90814,1105,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/875121600
+Supervisory Ethics Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0301,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874671600
 Supervisory Physician (Research),National Institutes of Health,"Montgomery County, Maryland",GS,169279,197200,0602,2026-06-26,2026-07-06,https://www.usajobs.gov:443/job/873834200
+Technical Writer Editor,National Institutes of Health,"Salt Lake City, Utah",GS,106437,172980,1083,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/875261900
+Visual Information Specialist (Biomedical),National Institutes of Health,"Montgomery County, Maryland",GS,70623,133142,1084,2026-07-06,2026-07-13,https://www.usajobs.gov:443/job/874913600
+Visual Information Specialist (Biomedical),National Institutes of Health,"Montgomery County, Maryland",GS,70623,133142,1084,2026-07-06,2026-07-13,https://www.usajobs.gov:443/job/874913700
 IT Specialist (DATAMGT),Office of Inspector General,"Los Angeles, California",GS,90968,172980,2210,2026-06-16,2026-07-13,https://www.usajobs.gov:443/job/873097100
 Attorney Adviser,Office of the Secretary of Health and Human Services,"Denver, Colorado",GS,147945,192331,0905,2026-03-26,2026-09-30,https://www.usajobs.gov:443/job/862590000
 Auditor,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,112556,158322,0511,2026-06-30,2026-07-13,https://www.usajobs.gov:443/job/874700400
@@ -168,6 +192,8 @@ Economist,Office of the Secretary of Health and Human Services,"Washington, Dist
 General Attorney,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,70623,158322,0905,2026-06-10,2026-09-30,https://www.usajobs.gov:443/job/872101600
 General Attorney and Senior Attorney,Office of the Secretary of Health and Human Services,"Denver, Colorado",GS,74678,163514,0905,2026-03-26,2026-09-30,https://www.usajobs.gov:443/job/862588600
 Health Attache-Mexico,Office of the Secretary of Health and Human Services,"Mexico City, Mexico",GS,126384,164301,0301,2026-07-02,2026-07-11,https://www.usajobs.gov:443/job/874825400
+Human Resources Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,143913,187093,0201,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/875300000
+Management Analyst,Office of the Secretary of Health and Human Services,"Irvine, California",GS,74678,161313,0343,2026-07-06,2026-07-10,https://www.usajobs.gov:443/job/874984600
 Supervisory HR Specialist,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,143913,187093,0201,2026-06-26,2026-07-06,https://www.usajobs.gov:443/job/874330000
 Supervisory Management and Program Analyst,Office of the Secretary of Health and Human Services,"Washington, District of Columbia",GS,133007,187093,0343,2026-07-01,2026-07-07,https://www.usajobs.gov:443/job/874869700
 Program Support Assistant (OA),Substance Abuse and Mental Health Services Administration,"Rockville, Maryland",GS,57736,83119,0303,2026-07-02,2026-07-13,https://www.usajobs.gov:443/job/874910800
