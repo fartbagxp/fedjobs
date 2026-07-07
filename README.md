@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-06**
+> Last updated: **2026-07-07**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **10,104** |
-| Currently active positions        | **1,162**  |
+| Currently active positions        | **1,134**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 16              |
-| 1550   | Computer Science (1550)     | 40              |
-| 1560   | Data Science (1560)         | 19              |
+| 0854   | Computer Engineering (0854) | 17              |
+| 1550   | Computer Science (1550)     | 35              |
+| 1560   | Data Science (1560)         | 17              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 255             |
-| Federal Aviation Administration          | 196             |
-| Indian Health Service                    | 117             |
-| Internal Revenue Service                 | 74              |
-| Department of State - Agency Wide        | 43              |
+| Federal Aviation Administration          | 191             |
+| Indian Health Service                    | 118             |
+| Internal Revenue Service                 | 71              |
+| Department of State - Agency Wide        | 42              |
 | Social Security Administration           | 35              |
-| Air National Guard Units                 | 27              |
-| National Institutes of Health            | 24              |
+| Air National Guard Units                 | 24              |
 | Centers for Medicare & Medicaid Services | 21              |
-| Office of the Chief Information Officer  | 20              |
+| National Institutes of Health            | 19              |
+| Naval Sea Systems Command                | 16              |
 
 <!-- STATS_END -->
