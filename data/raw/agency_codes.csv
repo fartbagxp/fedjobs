@@ -240,7 +240,7 @@ DJ10,Office of the Inspector General,DJ,OIG,2024-07-19T14:34:10.947
 DJ11,U.S. Trustee Program,DJ,,2024-07-19T14:34:10.97
 DJ12,Executive Office for Immigration Review,DJ,EOIR,2021-04-30T11:38:50.05
 DJ14,Community Relations Service,DJ,,2021-04-30T11:38:50.063
-DJ15,"Bureau of Alcohol, Tobacco, Firearms, and Explosives",DJ,ATF,2021-04-30T11:38:50.073
+DJ15,"Bureau of Alcohol, Tobacco, Firearms and Explosives",DJ,ATF,2026-07-06T13:39:25.453
 DLAA,Office of the Secretary of Labor,DL,,2021-04-30T11:38:50.143
 DLAM,Office of the Assistant Secretary for Administration and Management,DL,,2021-04-30T11:38:50.157
 DLBL,Bureau of International Labor Affairs,DL,ILAB,2021-04-30T11:38:50.17
@@ -808,4 +808,5 @@ SM71,Smithsonian Institution - Trust (Except units administered under separate b
 DD87,National Guard Bureau Joint Staff,DD,,2026-05-22T14:34:13.16
 AX00,ARAPAHO FIRST (NON-FEDERAL),,,2026-05-22T14:34:13.22
 AL00,"Office of the Inspector General, Foreign Assistance",,,2026-05-22T14:34:13.237
+AFNF,Air Force NAF (Non-Title 5),AF,,2026-07-06T13:39:25.807
 OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
