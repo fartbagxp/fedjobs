@@ -47,7 +47,6 @@ Diagnostic Radiologic Technologist -Computed Tomography,Veterans Health Administ
 Dietitian (Clinical),Veterans Health Administration,"Corpus Christi, Texas",GS,50203,96584,0630,2025-10-31,2026-10-30,https://www.usajobs.gov:443/job/849285200
 Dietitian (Clinical),Veterans Health Administration,"Dallas, Texas",GS,54857,105547,0630,2026-01-02,2026-12-31,https://www.usajobs.gov:443/job/853487300
 Dietitian (Clinical),Veterans Health Administration,"Dallas, Texas",GS,54857,105547,0630,2026-01-09,2026-07-31,https://www.usajobs.gov:443/job/853896200
-Dietitian (Clinical),Veterans Health Administration,"Longview, Texas",GS,50460,97087,0630,2026-01-26,2026-07-07,https://www.usajobs.gov:443/job/855513600
 Electrician,Veterans Health Administration,"Bonham, Texas",WG,31.69,37.02,2805,2026-02-12,2027-02-11,https://www.usajobs.gov:443/job/857515100
 Environmental Services (EVS) Technician,Veterans Health Administration,"Columbia, Missouri",WG,17.78,20.75,3566,2025-11-06,2026-09-30,https://www.usajobs.gov:443/job/849735300
 Environmental Services Technician,Veterans Health Administration,"Charleston, South Carolina",WG,18.35,21.4,3566,2025-11-03,2026-09-30,https://www.usajobs.gov:443/job/849365900
@@ -101,6 +100,7 @@ Medical Instrument Technician (Cardiac Cath Lab Tech),Veterans Health Administra
 Medical Instrument Technician (Diagnostic Ultrasound),Veterans Health Administration,"Madison, Wisconsin",GS,63928,115838,0649,2026-02-23,2026-09-30,https://www.usajobs.gov:443/job/858564500
 Medical Instrument Technician (Echocardiography),Veterans Health Administration,"Martinsburg, West Virginia",GS,63307,82305,0649,2025-11-17,2026-07-08,https://www.usajobs.gov:443/job/850244400
 Medical Instrument Technician (Echocardiography),Veterans Health Administration,"Martinsburg, West Virginia",GS,51442,82305,0649,2025-11-17,2026-07-08,https://www.usajobs.gov:443/job/850244500
+Medical Instrument Technologist (Echocardiography),Veterans Health Administration,"Somerset, Kentucky",GS,93089,121011,0649,2026-02-24,2026-09-30,https://www.usajobs.gov:443/job/858707300
 Medical Records Technician (Coder Inpatient/Outpatient),Veterans Health Administration,"West Palm Beach, Florida",GS,59515,77366,0675,2026-01-22,2026-12-31,https://www.usajobs.gov:443/job/855002000
 Medical Supply Tech (Sterile Processing),Veterans Health Administration,"Dallas, Texas",GS,41989,76419,0622,2026-02-23,2027-02-22,https://www.usajobs.gov:443/job/858540300
 Medical Support Assistant (Advanced),Veterans Health Administration,"Erie County, Pennsylvania",GS,47453,61689,0679,2026-02-12,2026-09-30,https://www.usajobs.gov:443/job/857433600
@@ -110,6 +110,7 @@ Nephrologist,Veterans Health Administration,"Martinsburg, West Virginia",VM,2700
 Neuropsychologist,Veterans Health Administration,"Las Vegas, Nevada",GS,134833,175285,0180,2026-02-23,2026-08-31,https://www.usajobs.gov:443/job/858487800
 "Nurse (PACT, Outpatient)",Veterans Health Administration,"Astoria, Oregon",VN,95284,160200,0610,2025-10-16,2026-09-30,https://www.usajobs.gov:443/job/848288200
 Nurse Anesthetist (Intermittent),Veterans Health Administration,"Fargo, North Dakota",AD,168134,243733,0610,2025-12-11,2026-09-04,https://www.usajobs.gov:443/job/852207800
+Nurse Practitioner (Primary Care),Veterans Health Administration,"Astoria, Oregon",VN,141503,205135,0610,2026-02-24,2026-09-30,https://www.usajobs.gov:443/job/858744100
 Nursing Assistant,Veterans Health Administration,"Amarillo, Texas",GS,40107,58589,0621,2026-02-20,2027-02-19,https://www.usajobs.gov:443/job/858417300
 Nursing Assistant,Veterans Health Administration,"Charleston, South Carolina",GS,33195,54191,0621,2025-11-13,2026-09-30,https://www.usajobs.gov:443/job/850027800
 Nursing Assistant,Veterans Health Administration,"Sheridan, Wyoming",GS,41562,67859,0621,2025-10-29,2026-09-30,https://www.usajobs.gov:443/job/849073800
@@ -156,6 +157,7 @@ Physician (Primary Care),Veterans Health Administration,"Tallahassee, Florida",V
 "Physician (Primary Care)  Hyannis, MA CBOC- EDRP & Recruitment Incentive Authorized",Veterans Health Administration,"Hyannis, Massachusetts",VM,275000,310000,0602,2025-11-12,2026-09-30,https://www.usajobs.gov:443/job/851264000
 Physician (Primary Care) Manchester NH VAMC - Full-time - Recruitment Incentive/ EDRP Authorized,Veterans Health Administration,"Manchester, New Hampshire",VM,250000,270000,0602,2026-02-04,2026-09-30,https://www.usajobs.gov:443/job/856813200
 "Physician (Primary Care) Somersworth, NH - Full-time - Recruitment Incentive/ EDRP Authorized",Veterans Health Administration,"Somersworth, New Hampshire",VM,255000,275000,0602,2026-02-04,2026-09-30,https://www.usajobs.gov:443/job/856817600
+Physician (Psychiatrist),Veterans Health Administration,"Dearborn County, Indiana",VM,200000,300000,0602,2026-02-24,2026-12-31,https://www.usajobs.gov:443/job/858801600
 Physician (Psychiatrist),Veterans Health Administration,"Madison, Wisconsin",GS,204000,300000,0602,2025-10-28,2026-09-18,https://www.usajobs.gov:443/job/849031400
 Physician (Psychiatry),Veterans Health Administration,"Gainesville, Florida",VM,260000,315000,0602,2026-01-13,2026-12-31,https://www.usajobs.gov:443/job/854320700
 Physician (Psychiatry),Veterans Health Administration,"Ocala, Florida",VM,260000,315000,0602,2026-01-23,2026-12-31,https://www.usajobs.gov:443/job/855364000
@@ -214,7 +216,6 @@ Registered Nurse - Informaticist,Veterans Health Administration,"Anchorage, Alas
 Registered Nurse - Inpatient Mental Health,Veterans Health Administration,"Jefferson Barracks, Missouri",VN,79454,154604,0610,2025-10-28,2026-09-30,https://www.usajobs.gov:443/job/849040700
 Registered Nurse - Med-Surg and Telemetry -5 Main,Veterans Health Administration,"Lexington, Kentucky",VN,64825,127694,0610,2026-01-08,2026-09-30,https://www.usajobs.gov:443/job/853985300
 Registered Nurse - Resources/Float Pool,Veterans Health Administration,"Lexington, Kentucky",VN,69665,128994,0610,2026-01-08,2026-09-30,https://www.usajobs.gov:443/job/853986300
-Registered Nurse -Transition to Practice (TTP) Program Resident,Veterans Health Administration,"Kansas City, Missouri",VN,73855,84930,0610,2026-01-16,2026-12-31,https://www.usajobs.gov:443/job/854760400
 Registered Nurse- Intensive Care Unit,Veterans Health Administration,"Saint Louis, Missouri",VN,82702,158193,0610,2025-11-25,2026-09-29,https://www.usajobs.gov:443/job/850962900
 Registered Nurse- Med/ Surg,Veterans Health Administration,"Saint Louis, Missouri",VN,80249,156151,0610,2026-01-15,2026-09-29,https://www.usajobs.gov:443/job/854641500
 Registered Nurse-Community Living Center-EDRP-Open Continuous Announcement,Veterans Health Administration,"Big Spring, Texas",VN,79533,147284,0610,2025-10-20,2026-09-30,https://www.usajobs.gov:443/job/848431300
@@ -234,7 +235,6 @@ Staff Physical Therapist - EDRP Approved,Veterans Health Administration,"Abilene
 Staff Physician (Thoracic Surgeon) - Recruitment/Relocation Incentive Authorized,Veterans Health Administration,"Amarillo, Texas",VM,300000,400000,0602,2026-01-12,2026-08-13,https://www.usajobs.gov:443/job/854204600
 Staff Physician - Ophthalmologist (Glaucoma Specialist),Veterans Health Administration,"Columbia, South Carolina",VM,123077,400000,0602,2025-12-10,2026-09-30,https://www.usajobs.gov:443/job/852038000
 Staff Physician - Ophthalmology (Ophthalmologist - Glaucoma Specialist),Veterans Health Administration,"Austin, Texas",VM,325000,400000,0602,2025-10-17,2026-10-16,https://www.usajobs.gov:443/job/848367400
-Staff Psychologist,Veterans Health Administration,"Minneapolis, Minnesota",GS,81415,150852,0180,2026-01-13,2026-09-30,https://www.usajobs.gov:443/job/854346600
 "Staff Psychologist (BHIP) -  EDRP, Recruitment/Relocation Incentive Authorized",Veterans Health Administration,"Corpus Christi, Texas",GS,83280,154309,0180,2025-10-09,2026-07-15,https://www.usajobs.gov:443/job/847931400
 Staff Psychologist (BHIP) - EDRP/Recruitment/Relocation Approved,Veterans Health Administration,"El Paso, Texas",GS,88479,163941,0180,2025-10-30,2026-08-19,https://www.usajobs.gov:443/job/849186600
 "Staff Psychologist (PCMHI) - EDRP, Recruitment/Relocation Incentive Authorized",Veterans Health Administration,"McAllen, Texas",GS,83280,154309,0180,2025-09-29,2026-07-15,https://www.usajobs.gov:443/job/846881700
