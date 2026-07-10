@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-09**
+> Last updated: **2026-07-10**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **10,417** |
-| Currently active positions        | **1,139**  |
+| Currently active positions        | **1,150**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 18              |
-| 1550   | Computer Science (1550)     | 36              |
-| 1560   | Data Science (1560)         | 20              |
+| 0854   | Computer Engineering (0854) | 19              |
+| 1550   | Computer Science (1550)     | 35              |
+| 1560   | Data Science (1560)         | 23              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 256             |
-| Federal Aviation Administration          | 189             |
+| Veterans Health Administration           | 255             |
+| Federal Aviation Administration          | 191             |
 | Indian Health Service                    | 114             |
-| Internal Revenue Service                 | 71              |
-| Department of State - Agency Wide        | 42              |
-| Social Security Administration           | 36              |
-| Air National Guard Units                 | 25              |
-| Centers for Medicare & Medicaid Services | 22              |
-| National Institutes of Health            | 18              |
-| Naval Sea Systems Command                | 17              |
+| Internal Revenue Service                 | 77              |
+| Department of State - Agency Wide        | 41              |
+| Social Security Administration           | 37              |
+| Air National Guard Units                 | 22              |
+| National Institutes of Health            | 22              |
+| Naval Sea Systems Command                | 18              |
+| Centers for Medicare & Medicaid Services | 18              |
 
 <!-- STATS_END -->
