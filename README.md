@@ -172,12 +172,12 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-10**
+> Last updated: **2026-07-11**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **10,512** |
-| Currently active positions        | **1,150**  |
+| Currently active positions        | **1,159**  |
 
 ### Active Positions by Job Series
 
@@ -192,15 +192,15 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 255             |
-| Federal Aviation Administration          | 191             |
-| Indian Health Service                    | 114             |
-| Internal Revenue Service                 | 77              |
-| Department of State - Agency Wide        | 41              |
+| Veterans Health Administration           | 254             |
+| Federal Aviation Administration          | 193             |
+| Indian Health Service                    | 130             |
+| Internal Revenue Service                 | 84              |
+| Department of State - Agency Wide        | 40              |
 | Social Security Administration           | 37              |
-| Air National Guard Units                 | 22              |
-| National Institutes of Health            | 22              |
+| Air National Guard Units                 | 23              |
+| Centers for Medicare & Medicaid Services | 20              |
 | Naval Sea Systems Command                | 18              |
-| Centers for Medicare & Medicaid Services | 18              |
+| Federal Highway Administration           | 14              |
 
 <!-- STATS_END -->
