@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-12**
+> Last updated: **2026-07-13**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **10,609** |
-| Currently active positions        | **1,154**  |
+| Currently active positions        | **1,186**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 19              |
-| 1550   | Computer Science (1550)     | 35              |
+| 1550   | Computer Science (1550)     | 39              |
 | 1560   | Data Science (1560)         | 23              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 254             |
 | Federal Aviation Administration          | 193             |
-| Indian Health Service                    | 129             |
-| Internal Revenue Service                 | 84              |
-| Department of State - Agency Wide        | 40              |
+| Indian Health Service                    | 128             |
+| Internal Revenue Service                 | 86              |
+| Department of State - Agency Wide        | 45              |
 | Social Security Administration           | 37              |
-| Air National Guard Units                 | 22              |
-| Centers for Medicare & Medicaid Services | 20              |
+| National Institutes of Health            | 26              |
+| Centers for Medicare & Medicaid Services | 21              |
+| Air National Guard Units                 | 20              |
 | Naval Sea Systems Command                | 18              |
-| Federal Highway Administration           | 14              |
 
 <!-- STATS_END -->
