@@ -1,7 +1,7 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Accounting Technician (Senior Accounting Technician),Internal Revenue Service,"Covington, Kentucky",GS,40736,68328,0525,2026-07-13,2026-07-17,https://www.usajobs.gov:443/job/876234300
 Actuary (Employee Plans) - 12 Month Register,Internal Revenue Service,"Glendale, Arizona",GS,125776,192694,1510,2026-06-12,2027-03-29,https://www.usajobs.gov:443/job/872912700
-Administrative Officer,Internal Revenue Service,"Washington, District of Columbia",GS,85447,111087,0341,2026-07-08,2026-07-15,https://www.usajobs.gov:443/job/875774500
+Administrative Officer,Internal Revenue Service,"Washington, District of Columbia",GS,85447,111087,0341,2026-07-08,2026-07-17,https://www.usajobs.gov:443/job/875774500
 Appeals Officer,Internal Revenue Service,"Birmingham, Alabama",GS,106437,172980,0930,2026-07-13,2026-07-22,https://www.usajobs.gov:443/job/876269400
 Appeals Officer (Exam),Internal Revenue Service,"Birmingham, Alabama",GS,125776,197200,0930,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875772800
 Appeals Officer (Team Case Lead) 6 MONTH REGISTER - AMENDED,Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0930,2026-05-04,2026-08-03,https://www.usajobs.gov:443/job/867755500
@@ -12,9 +12,7 @@ Contact Representative (Amended),Internal Revenue Service,"Fresno, California",G
 Data Scientist-Direct Hire,Internal Revenue Service,"Anchorage, Alaska",GS,74678,172980,1560,2026-07-06,2026-08-05,https://www.usajobs.gov:443/job/875270500
 Data Scientist-Direct Hire-6-Month Register,Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,1560,2026-07-01,2027-01-04,https://www.usajobs.gov:443/job/874989800
 "Economist 6-Month Roster, Direct Hire",Internal Revenue Service,"Mesa, Arizona",GS,74678,163062,0110,2026-05-18,2026-11-18,https://www.usajobs.gov:443/job/869699200
-Ethics Program Specialist,Internal Revenue Service,"Washington, District of Columbia",GS,85447,158322,0301,2026-07-06,2026-07-14,https://www.usajobs.gov:443/job/875413400
 Field Program Specialist,Internal Revenue Service,"Birmingham, Alabama",GS,61722,121371,0301,2026-07-07,2026-07-21,https://www.usajobs.gov:443/job/875510800
-General Attorney (Tax) (Special Counsel),Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0905,2026-06-30,2026-07-14,https://www.usajobs.gov:443/job/874722100
 HR Specialist (Information Systems),Internal Revenue Service,"Washington, District of Columbia",GS,121785,158322,0201,2026-07-13,2026-07-20,https://www.usajobs.gov:443/job/876344000
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,40736,90731,0501,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875801800
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,40736,90731,0501,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875802000
@@ -24,11 +22,11 @@ Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Mobile, Alabam
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"Mobile, Alabama",GS,40736,91815,0501,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875800800
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"New London, Connecticut",GS,40736,94563,0501,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875798400
 Individual Taxpayer Advisory Specialist,Internal Revenue Service,"New London, Connecticut",GS,40736,94563,0501,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875799900
-Information Technology Specialist,Internal Revenue Service,"Fresno, California",GS,106437,163062,2210,2026-07-08,2026-07-14,https://www.usajobs.gov:443/job/875530200
-Information Technology Specialist (APPSW),Internal Revenue Service,"Fresno, California",GS,125776,192694,2210,2026-07-09,2026-07-14,https://www.usajobs.gov:443/job/875923600
-Information Technology Specialist (Systems Analysis/Applications Software),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-07-01,2026-07-15,https://www.usajobs.gov:443/job/874730700
+Information Technology Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-07-15,2026-07-21,https://www.usajobs.gov:443/job/876577400
+Information Technology Specialist (Performance Test Engineer),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-07-15,2026-07-21,https://www.usajobs.gov:443/job/876287100
 Information Technology Specialist (Systems Analysis/Applications Software),Internal Revenue Service,"Fresno, California",GS,89508,137128,2210,2026-07-10,2026-07-16,https://www.usajobs.gov:443/job/876033300
 Information Technology Specialist - Java Applications Developer,Internal Revenue Service,"Fresno, California",GS,89508,137128,2210,2026-07-13,2026-07-17,https://www.usajobs.gov:443/job/876261400
+Information Technology Specialist - Salesforce Workflow Integrator,Internal Revenue Service,"Fresno, California",GS,125776,192694,2210,2026-07-15,2026-07-20,https://www.usajobs.gov:443/job/876398200
 Internal Revenue Agent,Internal Revenue Service,"Birmingham, Alabama",GS,106437,172980,0512,2026-06-29,2026-07-20,https://www.usajobs.gov:443/job/874572000
 Internal Revenue Agent,Internal Revenue Service,"Glendale, Arizona",GS,125776,192694,0512,2026-07-10,2026-07-16,https://www.usajobs.gov:443/job/876161100
 Internal Revenue Agent,Internal Revenue Service,"Washington, District of Columbia",GS,106437,163062,0512,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/875706200
@@ -41,12 +39,11 @@ Internal Revenue Agent (Sr Program Analyst),Internal Revenue Service,"Glendale, 
 Lead Data Scientist (AI/ML),Internal Revenue Service,"Fresno, California",GS,125776,192694,1560,2026-07-14,2026-07-20,https://www.usajobs.gov:443/job/876453500
 Lead Data Scientist (Artificial Intelligence/Machine Learning),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,1560,2026-07-01,2026-07-15,https://www.usajobs.gov:443/job/874939400
 Lead IT Specialist (Systems Analysis/Application Software),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-07-02,2026-07-17,https://www.usajobs.gov:443/job/875277900
-Management & Program Analyst,Internal Revenue Service,"Anchorage, Alaska",GS,50460,121371,0343,2026-06-23,2026-07-14,https://www.usajobs.gov:443/job/873889100
+Lead Tax Examining Technician (Lead Complex/Restricted Interest Examiner),Internal Revenue Service,"Charlotte Amalie, Virgin Islands",GS,67970,110456,0592,2026-07-15,2026-07-28,https://www.usajobs.gov:443/job/876573900
 Management Analyst,Internal Revenue Service,"Washington, District of Columbia",GS,70623,91815,0343,2026-07-14,2026-07-21,https://www.usajobs.gov:443/job/876524500
 Management and Program Analyst,Internal Revenue Service,"Birmingham, Alabama",GS,147945,197200,0343,2026-07-14,2026-08-03,https://www.usajobs.gov:443/job/876498600
 Management and Program Assistant (Office Automation),Internal Revenue Service,"Bloomington, Illinois",GS,40736,65599,0344,2026-07-13,2026-07-17,https://www.usajobs.gov:443/job/876162300
 Management and Program Assistant (Office Automation),Internal Revenue Service,"Bloomington, Illinois",GS,40736,65599,0344,2026-07-13,2026-07-17,https://www.usajobs.gov:443/job/876162400
-Management and Program Assistant (Office Automation),Internal Revenue Service,"Fresno, California",GS,50460,82007,0344,2026-07-07,2026-07-14,https://www.usajobs.gov:443/job/875405600
 Management and Program Assistant (Office Automation),Internal Revenue Service,"Fresno, California",GS,45409,82007,0344,2026-07-10,2026-07-16,https://www.usajobs.gov:443/job/876038400
 Management and Program Assistant (Office Automation),Internal Revenue Service,"Holtsville, New York",GS,48005,69565,0344,2026-07-08,2026-07-20,https://www.usajobs.gov:443/job/875649300
 Management and Program Assistant (Office Automation),Internal Revenue Service,"Kansas City, Missouri",GS,40736,67443,0344,2026-07-13,2026-07-17,https://www.usajobs.gov:443/job/876230700
@@ -54,33 +51,33 @@ Mathematical Statistician (Data Scientist) - Direct Hire,Internal Revenue Servic
 Operations Research Analyst-Direct Hire,Internal Revenue Service,"Anchorage, Alaska",GS,74678,172980,1515,2026-07-09,2026-08-10,https://www.usajobs.gov:443/job/875683400
 Program Analyst,Internal Revenue Service,"Oakland, California",GS,90968,145468,0343,2026-07-01,2026-07-15,https://www.usajobs.gov:443/job/874849900
 Program Analyst (Senior Program Analyst),Internal Revenue Service,"Fresno, California",GS,125776,192694,0343,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/876054900
+Program Analyst (Senior Program Analyst),Internal Revenue Service,"Fresno, California",GS,125776,197200,0343,2026-07-15,2026-07-21,https://www.usajobs.gov:443/job/876608500
 Resources Training Coordinator,Internal Revenue Service,"Fresno, California",GS,61722,111087,0501,2026-07-14,2026-07-20,https://www.usajobs.gov:443/job/876522700
 Revenue Officer,Internal Revenue Service,"Anchorage, Alaska",GS,50460,94563,1169,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/876071200
 Revenue Officer,Internal Revenue Service,"Anchorage, Alaska",GS,74678,114413,1169,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/876071800
 Revenue Officer,Internal Revenue Service,"Phoenix, Arizona",GS,50460,94563,1169,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/876070000
 Revenue Officer,Internal Revenue Service,"Phoenix, Arizona",GS,74678,114413,1169,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/876070600
+Revenue Officer (Senior Revenue Analyst),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,1169,2026-07-15,2026-07-21,https://www.usajobs.gov:443/job/876423300
 "Secretary (OA) Temp Prom/Detail NTE 1 year, MBE up to not more than 5 years",Internal Revenue Service,"Fresno, California",GS,55882,100315,0318,2026-07-10,2026-07-16,https://www.usajobs.gov:443/job/875972800
 "Secretary (OA) Temporary Promotion NTE 1 Year, MBE up to 5 Years",Internal Revenue Service,"Austin, Texas",GS,57453,82499,0318,2026-07-10,2026-07-16,https://www.usajobs.gov:443/job/876051300
 Senior Tax Analyst,Internal Revenue Service,"Florence, Kentucky",GS,131009,170317,0501,2026-07-09,2026-07-15,https://www.usajobs.gov:443/job/875755900
 Supervisory Accounting Technician,Internal Revenue Service,"Covington, Kentucky",IR,67970,92032,0525,2026-07-13,2026-07-17,https://www.usajobs.gov:443/job/876217400
 Supervisory Associate Advocate - Local Taxpayer Advocate (LTA),Internal Revenue Service,"Phoenix, Arizona",IR,126410,197200,0501,2026-07-08,2026-07-23,https://www.usajobs.gov:443/job/875649400
-"Supervisory Clerk - Temporary NTE 1 Year, MBE up to 5 Years / MBMP",Internal Revenue Service,"Kansas City, Missouri",IR,50460,67443,0303,2026-07-01,2026-07-14,https://www.usajobs.gov:443/job/874891800
 Supervisory Financial Management Analyst,Internal Revenue Service,"Washington, District of Columbia",IR,125776,187093,0501,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875808000
 Supervisory General Attorney (Tax) - Area Counsel,Internal Revenue Service,"Camarillo, California",GS,147945,197200,0905,2026-07-08,2026-07-22,https://www.usajobs.gov:443/job/875664800
 Supervisory General Attorney (Tax) - Deputy Area Counsel,Internal Revenue Service,"East Hartford, Connecticut",GS,147945,197200,0905,2026-07-08,2026-07-22,https://www.usajobs.gov:443/job/875671900
 Supervisory Human Resources Specialist (Associate Director),Internal Revenue Service,"Washington, District of Columbia",IR,125776,197200,0201,2026-07-09,2026-07-15,https://www.usajobs.gov:443/job/875966500
 Supervisory Internal Revenue Agent,Internal Revenue Service,"Birmingham, Alabama",IR,125776,192694,0512,2026-07-14,2026-07-20,https://www.usajobs.gov:443/job/876528600
 Supervisory Internal Revenue Agent - Appeals Tax Computation Team Manager (MSP),Internal Revenue Service,"Birmingham, Alabama",IR,125776,197200,0512,2026-06-26,2026-07-17,https://www.usajobs.gov:443/job/874590300
+Supervisory Legal Administrative Specialist (Chief of Staff),Internal Revenue Service,"Washington, District of Columbia",IR,143913,197200,0901,2026-07-15,2026-07-21,https://www.usajobs.gov:443/job/876684500
 Supervisory Management and Program Analyst,Internal Revenue Service,"Denver, Colorado",IR,125776,187093,0343,2026-07-08,2026-07-21,https://www.usajobs.gov:443/job/875443300
 Supervisory Management and Program Analyst,Internal Revenue Service,"District of Columbia, District of Columbia",IR,125776,187093,0343,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875731300
 Supervisory Management and Program Analyst,Internal Revenue Service,"Little Rock, Arkansas",IR,125776,185193,0343,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875498500
 Supervisory Management and Program Analyst,Internal Revenue Service,"Washington, District of Columbia",IR,143913,197200,0343,2026-07-09,2026-07-15,https://www.usajobs.gov:443/job/875881200
+Supervisory Management and Program Analyst,Internal Revenue Service,"Washington, District of Columbia",IR,125776,187093,0343,2026-07-15,2026-07-21,https://www.usajobs.gov:443/job/876537800
 Supervisory Program Manager,Internal Revenue Service,"Anchorage, Alaska",IR,125776,197200,0301,2026-07-01,2026-07-15,https://www.usajobs.gov:443/job/874986900
 Supervisory Public Affairs Specialist,Internal Revenue Service,"Anchorage, Alaska",IR,125776,197200,1035,2026-07-02,2026-07-16,https://www.usajobs.gov:443/job/875143300
-Supervisory Public Affairs Specialist,Internal Revenue Service,"Washington, District of Columbia",IR,143913,197200,1035,2026-07-08,2026-07-14,https://www.usajobs.gov:443/job/875711900
-"Supervisory Tax Examiner Temporary NTE 1 year, MBE up to 5 Years - MBMP",Internal Revenue Service,"Philadelphia, Pennsylvania",IR,68013,88421,0592,2026-07-08,2026-07-14,https://www.usajobs.gov:443/job/875548400
 Supervisory Tax Examining Technician,Internal Revenue Service,"Philadelphia, Pennsylvania",IR,68013,88421,0592,2026-07-01,2026-07-15,https://www.usajobs.gov:443/job/875074500
-"Supervisory Tax Examining Technician, Not-to-Exceed 1 Year, May Be Extended Up To 5 Years",Internal Revenue Service,"Memphis, Tennessee",IR,61722,80243,0592,2026-07-08,2026-07-14,https://www.usajobs.gov:443/job/875734000
 Tax Examining Technician,Internal Revenue Service,"Covington, Kentucky",GS,58207,75666,0592,2026-07-10,2026-07-23,https://www.usajobs.gov:443/job/876062000
 "Tax Examining Technician (Seasonal 6-8 Months) - Direct Hire, TERM",Internal Revenue Service,"Kansas City, Missouri",GS,17.82,25.79,0592,2026-06-04,2026-07-15,https://www.usajobs.gov:443/job/871686100
 Tax Law Specialist,Internal Revenue Service,"Anchorage, Alaska",GS,147945,197200,0987,2026-07-10,2026-07-24,https://www.usajobs.gov:443/job/876110400
