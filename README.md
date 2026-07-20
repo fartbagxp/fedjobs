@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-19**
+> Last updated: **2026-07-20**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **11,064** |
-| Currently active positions        | **1,201**  |
+| Currently active positions        | **1,216**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 20              |
-| 1550   | Computer Science (1550)     | 32              |
+| 0854   | Computer Engineering (0854) | 22              |
+| 1550   | Computer Science (1550)     | 34              |
 | 1560   | Data Science (1560)         | 23              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 252             |
 | Federal Aviation Administration          | 195             |
-| Indian Health Service                    | 137             |
-| Internal Revenue Service                 | 71              |
+| Indian Health Service                    | 135             |
+| Internal Revenue Service                 | 75              |
+| Department of State - Agency Wide        | 37              |
 | Social Security Administration           | 36              |
-| Food and Drug Administration             | 34              |
-| Department of State - Agency Wide        | 32              |
-| Centers for Medicare & Medicaid Services | 29              |
+| Food and Drug Administration             | 31              |
+| Centers for Medicare & Medicaid Services | 28              |
 | Air National Guard Units                 | 21              |
-| Federal Highway Administration           | 16              |
+| National Institutes of Health            | 19              |
 
 <!-- STATS_END -->
