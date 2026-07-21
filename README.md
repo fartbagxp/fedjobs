@@ -172,18 +172,18 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-20**
+> Last updated: **2026-07-21**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **11,095** |
-| Currently active positions        | **1,216**  |
+| Currently active positions        | **1,217**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 22              |
+| 0854   | Computer Engineering (0854) | 21              |
 | 1550   | Computer Science (1550)     | 34              |
 | 1560   | Data Science (1560)         | 23              |
 | 2210   | IT Management (2210)        | 250             |
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 252             |
 | Federal Aviation Administration          | 195             |
-| Indian Health Service                    | 135             |
-| Internal Revenue Service                 | 75              |
-| Department of State - Agency Wide        | 37              |
+| Indian Health Service                    | 134             |
+| Internal Revenue Service                 | 76              |
+| Food and Drug Administration             | 42              |
+| Department of State - Agency Wide        | 41              |
 | Social Security Administration           | 36              |
-| Food and Drug Administration             | 31              |
-| Centers for Medicare & Medicaid Services | 28              |
-| Air National Guard Units                 | 21              |
-| National Institutes of Health            | 19              |
+| Centers for Medicare & Medicaid Services | 27              |
+| Air National Guard Units                 | 19              |
+| Federal Highway Administration           | 17              |
 
 <!-- STATS_END -->
