@@ -172,34 +172,34 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-21**
+> Last updated: **2026-07-22**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **11,206** |
-| Currently active positions        | **1,217**  |
+| Currently active positions        | **1,232**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 21              |
-| 1550   | Computer Science (1550)     | 34              |
-| 1560   | Data Science (1560)         | 23              |
+| 0854   | Computer Engineering (0854) | 22              |
+| 1550   | Computer Science (1550)     | 39              |
+| 1560   | Data Science (1560)         | 20              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 252             |
-| Federal Aviation Administration          | 195             |
-| Indian Health Service                    | 134             |
-| Internal Revenue Service                 | 76              |
-| Food and Drug Administration             | 42              |
-| Department of State - Agency Wide        | 41              |
-| Social Security Administration           | 36              |
-| Centers for Medicare & Medicaid Services | 27              |
+| Veterans Health Administration           | 251             |
+| Federal Aviation Administration          | 200             |
+| Indian Health Service                    | 131             |
+| Internal Revenue Service                 | 83              |
+| Department of State - Agency Wide        | 46              |
+| Food and Drug Administration             | 45              |
+| Social Security Administration           | 37              |
+| Centers for Medicare & Medicaid Services | 28              |
 | Air National Guard Units                 | 19              |
 | Federal Highway Administration           | 17              |
 
