@@ -1,4 +1,6 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+Data Scientist,ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,1560,2026-07-23,2026-08-03,https://www.usajobs.gov:443/job/877700100
+Data Scientist,ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,1560,2026-07-23,2026-08-03,https://www.usajobs.gov:443/job/877700300
 DATA SCIENTIST,Air Combat Command,"Nellis AFB, Nevada",GS,128473,167020,1560,2026-01-09,2026-01-23,https://www.usajobs.gov:443/job/854015500
 DATA SCIENTIST,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,49960,99314,1560,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846709300
 OPERATIONS RESEARCH ANALYST/DATA SCIENTIST,Air Force Civilian Career Training,"MacDill AFB, Florida",GS,125776,163514,1515,2026-07-08,2026-07-16,https://www.usajobs.gov:443/job/875567800
@@ -83,6 +85,7 @@ Data Scientist,Federal Acquisition Service,"San Francisco, California",GS,125776
 Data Scientist ,Federal Acquisition Service,"San Francisco, California",GS,108019,172980,1560,2026-06-10,2026-06-16,https://www.usajobs.gov:443/job/872379500
 Senior Data Scientist,Federal Acquisition Service,"San Francisco, California",GS,127624,197200,1560,2026-05-15,2026-05-26,https://www.usajobs.gov:443/job/869323800
 Senior Data Scientist,Federal Acquisition Service,"San Francisco, California",GS,127624,197200,1560,2026-05-21,2026-06-01,https://www.usajobs.gov:443/job/870239100
+Data Scientist,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,1560,2026-07-24,2026-08-03,https://www.usajobs.gov:443/job/877827700
 "Data Scientist, CG-1560-15",Federal Deposit Insurance Corporation,"Washington, District of Columbia",CG,186206,257500,1560,2026-06-12,2026-06-18,https://www.usajobs.gov:443/job/872794100
 Data Scientist,Federal Energy Regulatory Commission,"Washington, District of Columbia",GS,85447,133142,1560,2026-05-07,2026-05-18,https://www.usajobs.gov:443/job/868264200
 Data Scientist (Recent Graduate),Federal Energy Regulatory Commission,"Washington, District of Columbia",GS,57736,91815,1560,2026-03-30,2026-04-09,https://www.usajobs.gov:443/job/863094400
@@ -117,6 +120,7 @@ DATA AND AI ENGINEER/SCIENTIST,Joint Activities,"Stuttgart, Germany",GS,90925,11
 Data Scientist,Joint Activities,"Fort Meade, Maryland",AD,180000,246400,1560,2026-01-05,2026-01-12,https://www.usajobs.gov:443/job/853531600
 Data/AI Strategy and Implementation Supervisor,Joint Activities,"Stuttgart, Germany",GS,107446,139684,0854,2026-03-13,2026-03-26,https://www.usajobs.gov:443/job/860884100
 Data/AI Strategy and Implementation Supervisor,Joint Activities,"Stuttgart, Germany",GS,107446,139684,0854,2026-07-09,2026-07-22,https://www.usajobs.gov:443/job/875829100
+Interdisciplinary,Joint Activities,"Fort Gordon, Georgia",AD,180000,246400,0854,2026-07-23,2026-07-30,https://www.usajobs.gov:443/job/877836500
 Interdisciplinary,Joint Activities,"Fort Meade, Maryland",GG,143913,196689,1550,2026-07-10,2026-07-14,https://www.usajobs.gov:443/job/876038800
 Lead Data Scientist (Joint Cyber Readiness),Joint Activities,"Fort Meade, Maryland",GG,148935,195200,1560,2025-12-30,2026-01-05,https://www.usajobs.gov:443/job/853049600
 AI Operations Specialist,Library of Congress,"Anywhere in the U.S. (remote job), United States",GS,143913,187093,1560,2026-01-06,2026-01-20,https://www.usajobs.gov:443/job/853660100
@@ -196,6 +200,7 @@ Data Scientist College Graduate,Patent and Trademark Office,"Alexandria, Virgini
 DATA SCIENTIST (AI),Securities and Exchange Commission,"Washington, District of Columbia",SK,151597,256833,1560,2026-04-01,2026-04-14,https://www.usajobs.gov:443/job/863322900
 Data Scientist (AI),Securities and Exchange Commission,"Washington, District of Columbia",SK,174859,292300,1560,2026-06-22,2026-07-07,https://www.usajobs.gov:443/job/873753100
 Data and Records Information Officer,Securities and Exchange Commission,"Washington, District of Columbia",SK,174859,292300,1560,2026-06-22,2026-07-07,https://www.usajobs.gov:443/job/873752900
+Data Scientist (Computational Genomics),Smithsonian Institution ,"Washington, District of Columbia",GS,121785,158322,1560,2026-07-24,2026-08-14,https://www.usajobs.gov:443/job/877856700
 Data Scientist - Data Analyst (Direct Hire),Social Security Administration,"Birmingham, Alabama",GS,143913,187093,1560,2026-03-23,2026-04-03,https://www.usajobs.gov:443/job/860998700
 Data Scientist - Data Engineer (Direct Hire),Social Security Administration,"Birmingham, Alabama",GS,143913,187093,1560,2026-03-23,2026-04-03,https://www.usajobs.gov:443/job/860995900
 Human Resources Data Scientist,Space Systems Command,"Los Angeles County, California",NH,104349,161313,1560,2026-04-20,2026-04-24,https://www.usajobs.gov:443/job/865795800
@@ -230,6 +235,7 @@ Data Scientist,Veterans Health Administration,"Minneapolis, Minnesota",GS,116038
 Data Scientist,Veterans Health Administration,"North Little Rock, Arkansas",GS,61722,80243,1560,2026-06-04,2026-06-10,https://www.usajobs.gov:443/job/871636300
 Data Scientist,Veterans Health Administration,"Tucson, Arizona",GS,62893,118569,1560,2026-03-10,2026-03-19,https://www.usajobs.gov:443/job/860348500
 Data Scientist,Veterans Health Administration,"Tucson, Arizona",GS,62893,118569,1560,2026-03-27,2026-04-09,https://www.usajobs.gov:443/job/862881200
+Data Scientist,Veterans Health Administration,"Washington, District of Columbia",GS,106437,138370,1560,2026-07-24,2026-07-31,https://www.usajobs.gov:443/job/877722700
 Data Scientist,Veterans Health Administration,"West Haven, Connecticut",GS,124189,161448,1560,2025-12-16,2026-01-02,https://www.usajobs.gov:443/job/852566200
 Data Scientist,Veterans Health Administration,"West Haven, Connecticut",GS,124189,161448,1560,2025-12-30,2026-01-07,https://www.usajobs.gov:443/job/853342300
 Research Data Scientist,Veterans Health Administration,"Bedford, Massachusetts",ZZ,0,0,1560,2026-07-08,2026-07-21,https://www.usajobs.gov:443/job/875648600
