@@ -1,4 +1,6 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+Data Scientist,ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,1560,2026-07-23,2026-08-03,https://www.usajobs.gov:443/job/877700100
+Data Scientist,ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,1560,2026-07-23,2026-08-03,https://www.usajobs.gov:443/job/877700300
 DATA SCIENTIST,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,49960,99314,1560,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846709300
 SOFTWARE DEVELOPER/DATA SCIENTIST (INTERDISCIPLINARY) - DIRECT HIRE AUTHORITY,"Air Force Elements, U.S. Strategic Command","Dahlgren, Virginia",DR,101103,158756,0854,2026-05-26,2026-09-22,https://www.usajobs.gov:443/job/870514400
 Data Scientist,Centers for Disease Control and Prevention,"Hyattsville, Maryland",GS,143013,187093,1560,2026-07-21,2026-07-27,https://www.usajobs.gov:443/job/876479100
@@ -7,14 +9,14 @@ Senior AI/ML Engineer,Consumer Product Safety Commission,"Bethesda, Maryland",GS
 Senior Data Engineer,Consumer Product Safety Commission,"Bethesda, Maryland",GS,143913,187093,1560,2026-07-22,2026-08-03,https://www.usajobs.gov:443/job/877512900
 Supervisory Data Scientist (AI/ML),Defense Logistics Agency,"Battle Creek, Michigan",GS,125776,187093,1560,2026-07-17,2026-07-25,https://www.usajobs.gov:443/job/876953700
 Supervisory Data Scientist (AI/ML),Defense Logistics Agency,"Battle Creek, Michigan",GS,125776,187093,1560,2026-07-17,2026-07-24,https://www.usajobs.gov:443/job/876958300
-Data Scientist,Food and Drug Administration,"Silver Spring, Maryland",AD,85447,160910,1560,2026-07-17,2026-07-24,https://www.usajobs.gov:443/job/876983400
-Data Scientist,Food and Drug Administration,"Silver Spring, Maryland",AD,121785,191352,1560,2026-07-17,2026-07-24,https://www.usajobs.gov:443/job/877007100
-Data Scientist,Immigration and Customs Enforcement,"Washington, District of Columbia",GS,143913,187093,1560,2026-07-17,2026-07-23,https://www.usajobs.gov:443/job/876975100
+Data Scientist,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,1560,2026-07-24,2026-08-03,https://www.usajobs.gov:443/job/877827700
+Interdisciplinary,Joint Activities,"Fort Gordon, Georgia",AD,180000,246400,0854,2026-07-23,2026-07-30,https://www.usajobs.gov:443/job/877836500
 Data Scientist,National Oceanic and Atmospheric Administration,"Boulder, Colorado",ZP,147945,197200,1560,2026-07-21,2026-08-03,https://www.usajobs.gov:443/job/877223700
 Data Scientist,National Park Service,"Homestead, Florida",GS,79533,103399,1560,2026-07-17,2026-07-31,https://www.usajobs.gov:443/job/877116800
-SUPERVISORY DATA SCIENTIST,Naval Sea Systems Command,"Kittery, Maine",NH,101375,156715,1560,2026-07-17,2026-07-23,https://www.usajobs.gov:443/job/876895300
 Direct Hire Public Notice - Data Scientist,Nuclear Regulatory Commission,"Atlanta, Georgia",GG,74678,197200,1560,2026-05-04,2026-08-06,https://www.usajobs.gov:443/job/867782600
 "Data Scientist, GS-1560-12, FPL 12, (Direct Hire) Open Continuous",Office of Finance and Operations,"Washington, District of Columbia",GS,102415,133142,1560,2026-06-26,2026-07-24,https://www.usajobs.gov:443/job/874464600
 "Data Scientist, GS-1560-13, FPL 13, (Direct Hire) Open Continuous",Office of Finance and Operations,"Washington, District of Columbia",GS,121785,158322,1560,2026-06-26,2026-07-24,https://www.usajobs.gov:443/job/874464700
 Data Scientist,Patent and Trademark Office,"Alexandria, Virginia",GS,143913,187093,1560,2026-07-16,2026-07-29,https://www.usajobs.gov:443/job/876796800
-Interdisciplinary,U.S. Army Test and Evaluation Command,"Aberdeen Proving Ground, Maryland",NH,102415,158322,0801,2026-07-21,2026-07-23,https://www.usajobs.gov:443/job/877281000
+Data Scientist (Computational Genomics),Smithsonian Institution ,"Washington, District of Columbia",GS,121785,158322,1560,2026-07-24,2026-08-14,https://www.usajobs.gov:443/job/877856700
+Interdisciplinary,U.S. Army Test and Evaluation Command,"Aberdeen Proving Ground, Maryland",NH,102415,158322,0801,2026-07-21,2026-07-26,https://www.usajobs.gov:443/job/877281000
+Data Scientist,Veterans Health Administration,"Washington, District of Columbia",GS,106437,138370,1560,2026-07-24,2026-07-31,https://www.usajobs.gov:443/job/877722700
