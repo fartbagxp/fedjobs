@@ -1,7 +1,7 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Assistant Administrator Headquarters Operations,Alcohol and Tobacco Tax and Trade Bureau,"Washington, District of Columbia",ES,151661,228000,0340,2026-07-17,2026-08-17,https://www.usajobs.gov:443/job/877075500
 Attorney-Advisor (General Law and Ethics),Alcohol and Tobacco Tax and Trade Bureau,"Washington, District of Columbia",GS,143913,197200,0905,2026-07-17,2026-08-07,https://www.usajobs.gov:443/job/877087000
-"Supervisory Alcohol and Tobacco Tax Specialist (Director, Tax Services Division)",Alcohol and Tobacco Tax and Trade Bureau,"Washington, District of Columbia",GS,131009,197200,1801,2026-07-14,2026-07-27,https://www.usajobs.gov:443/job/876368000
+"Supervisory Alcohol and Tobacco Tax Specialist (Director, Tax Services Division)",Alcohol and Tobacco Tax and Trade Bureau,"Washington, District of Columbia",GS,131009,197200,1801,2026-07-14,2026-07-31,https://www.usajobs.gov:443/job/876368000
 Electrical Engineer,Bureau of Engraving and Printing,"Washington, District of Columbia",GS,121785,158322,0850,2026-07-17,2026-07-31,https://www.usajobs.gov:443/job/876803000
 Electrical Engineer,Bureau of Engraving and Printing,"Washington, District of Columbia",GS,121785,158322,0850,2026-07-17,2026-07-31,https://www.usajobs.gov:443/job/876804800
 FACILITY ENGINEER,Bureau of Engraving and Printing,"Fort Worth, Texas",GS,115711,150426,0801,2026-07-16,2026-07-24,https://www.usajobs.gov:443/job/876426600
@@ -20,13 +20,11 @@ Appeals Officer (Team Case Lead) 6 MONTH REGISTER - AMENDED,Internal Revenue Ser
 Appeals Officer (Technical Advisor),Internal Revenue Service,"Birmingham, Alabama",GS,125776,197200,0930,2026-07-20,2026-08-07,https://www.usajobs.gov:443/job/876993600
 Chief Privacy Officer,Internal Revenue Service,"Washington, District of Columbia",ES,151661,228000,0340,2026-07-17,2026-07-30,https://www.usajobs.gov:443/job/876903200
 "Contact Representative (CER) Specialist Temp NTE 1 Yr, MBE up to 5 Yr, MBMP",Internal Revenue Service,"Fresno, California",GS,61722,91815,0962,2026-07-20,2026-07-24,https://www.usajobs.gov:443/job/877147900
-Economist - Direct Hire,Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,0110,2026-07-17,2026-07-27,https://www.usajobs.gov:443/job/876982900
 General Attorney (Tax) - Special Counsel (Criminal Tax),Internal Revenue Service,"Phoenix, Arizona",GS,147945,197200,0905,2026-07-17,2026-07-31,https://www.usajobs.gov:443/job/876783300
 HR Specialist (Information Systems),Internal Revenue Service,"Washington, District of Columbia",GS,121785,158322,0201,2026-07-13,2026-07-27,https://www.usajobs.gov:443/job/876344000
 IT Specialist - Senior Cisco Wireless Architect,Internal Revenue Service,"Fresno, California",GS,125776,192694,2210,2026-07-22,2026-07-28,https://www.usajobs.gov:443/job/877550800
 Information Technology Specialist,Internal Revenue Service,"Fresno, California",GS,125776,192694,2210,2026-07-22,2026-07-28,https://www.usajobs.gov:443/job/877568600
-Information Technology Specialist (APPSW),Internal Revenue Service,"Anchorage, Alaska",GS,89508,145468,2210,2026-07-21,2026-07-27,https://www.usajobs.gov:443/job/877217900
-Information Technology Specialist (Applications Software),Internal Revenue Service,"Anchorage, Alaska",GS,106437,172980,2210,2026-07-21,2026-07-27,https://www.usajobs.gov:443/job/877233300
+Information Technology Specialist (DATAMGT),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-07-24,2026-07-31,https://www.usajobs.gov:443/job/877993900
 Information Technology Specialist (DATAMGT),Internal Revenue Service,"Fresno, California",GS,106437,163062,2210,2026-07-21,2026-07-27,https://www.usajobs.gov:443/job/877168600
 Information Technology Specialist (SYSANALYSIS/APPSW),Internal Revenue Service,"Anchorage, Alaska",GS,89508,145468,2210,2026-07-21,2026-07-27,https://www.usajobs.gov:443/job/877278000
 Information Technology Specialist (ServiceNow Developer),Internal Revenue Service,"Anchorage, Alaska",GS,125776,197200,2210,2026-07-20,2026-07-24,https://www.usajobs.gov:443/job/876830300
@@ -68,7 +66,7 @@ Supervisory Appeals Officer MSP,Internal Revenue Service,"Lake Forest, Californi
 Supervisory Associate Advocate (Local Taxpayer Advocate),Internal Revenue Service,"Portland, Oregon",IR,135522,197200,0501,2026-07-23,2026-07-29,https://www.usajobs.gov:443/job/877771000
 "Supervisory Individual Tax Advisory Specialist - Not to Exceed 1 Year, May Be Extended up to 3",Internal Revenue Service,"Phoenix, Arizona",IR,128162,197200,0501,2026-07-20,2026-07-24,https://www.usajobs.gov:443/job/877148200
 Supervisory Internal Revenue Agent,Internal Revenue Service,"Birmingham, Alabama",IR,125776,192694,0512,2026-07-14,2026-07-27,https://www.usajobs.gov:443/job/876528600
-Tax Analyst,Internal Revenue Service,"Chamblee, Georgia",GS,63457,94563,0501,2026-07-20,2026-07-24,https://www.usajobs.gov:443/job/877153900
+Tax Analyst,Internal Revenue Service,"Chamblee, Georgia",GS,63457,94563,0501,2026-07-20,2026-07-31,https://www.usajobs.gov:443/job/877153900
 Tax Analyst,Internal Revenue Service,"Covington, Kentucky",GS,63457,94563,0501,2026-07-20,2026-07-31,https://www.usajobs.gov:443/job/877154100
 Tax Analyst (Quality Analyst),Internal Revenue Service,"Covington, Kentucky",GS,63457,94563,0501,2026-07-20,2026-07-31,https://www.usajobs.gov:443/job/877152000
 Tax Examining Technician,Internal Revenue Service,"Fresno, California",GS,40736,77306,0592,2026-07-17,2026-07-30,https://www.usajobs.gov:443/job/877040800
@@ -98,10 +96,12 @@ Director of Operations,"Treasury, Departmental Offices","Washington, District of
 Human Resources Specialist (Compensation & Benefits),"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,187093,0201,2026-07-23,2026-08-05,https://www.usajobs.gov:443/job/877709600
 IT Specialist (AI),"Treasury, Departmental Offices","Salt Lake City, Utah",GS,89508,197200,2210,2026-02-24,2026-09-21,https://www.usajobs.gov:443/job/858700600
 Intelligence Operations Specialist (Counterintelligence),"Treasury, Departmental Offices","Washington, District of Columbia",GS,85447,158322,0132,2026-07-17,2026-07-30,https://www.usajobs.gov:443/job/876962100
+OPERATIONS OFFICER,"Treasury, Departmental Offices","Washington, District of Columbia",GS,70623,158322,0301,2026-07-24,2026-08-06,https://www.usajobs.gov:443/job/877930600
 Senior Policy Advisor,"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,187093,0301,2026-02-17,2026-08-17,https://www.usajobs.gov:443/job/857816900
 Senior Staff Accountant,"Treasury, Departmental Offices","Washington, District of Columbia",GS,143913,187093,0510,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877359100
 Associate Director - Enforcement & Compliance Division,"Treasury, Financial Crimes Enforcement Network","Washington, District of Columbia",ES,151661,228000,0301,2026-07-21,2026-08-04,https://www.usajobs.gov:443/job/877351800
 Associate Director Global Investigations Division,"Treasury, Financial Crimes Enforcement Network","Washington, District of Columbia",ES,151661,228000,1801,2026-07-16,2026-07-30,https://www.usajobs.gov:443/job/876785100
+"Associate Director, Regulatory & Strategic Affairs Division","Treasury, Financial Crimes Enforcement Network","Washington, District of Columbia",ES,151661,228000,0301,2026-07-24,2026-08-07,https://www.usajobs.gov:443/job/877918200
 Senior International Policy Advisor,"Treasury, Financial Crimes Enforcement Network","Washington, District of Columbia",GS,102415,187093,0301,2026-07-24,2026-08-06,https://www.usajobs.gov:443/job/877836200
 Supervisory Information Technology Specialist,"Treasury, Financial Crimes Enforcement Network","Vienna, Virginia",GS,169279,197200,2210,2026-07-22,2026-08-04,https://www.usajobs.gov:443/job/877423800
 Marketing Specialist,U.S. Mint,"Washington, District of Columbia",GS,121785,158322,1101,2026-06-16,2026-08-04,https://www.usajobs.gov:443/job/873203600
