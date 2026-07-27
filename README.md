@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-26**
+> Last updated: **2026-07-27**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **11,574** |
-| Currently active positions        | **1,193**  |
+| Currently active positions        | **1,203**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 20              |
-| 1550   | Computer Science (1550)     | 40              |
-| 1560   | Data Science (1560)         | 17              |
+| 1550   | Computer Science (1550)     | 39              |
+| 1560   | Data Science (1560)         | 18              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 252             |
 | Federal Aviation Administration          | 201             |
-| Indian Health Service                    | 153             |
-| Internal Revenue Service                 | 54              |
-| Department of State - Agency Wide        | 45              |
-| Social Security Administration           | 35              |
+| Indian Health Service                    | 149             |
+| Internal Revenue Service                 | 59              |
+| Department of State - Agency Wide        | 51              |
+| Social Security Administration           | 36              |
+| National Institutes of Health            | 26              |
 | Food and Drug Administration             | 25              |
 | Air National Guard Units                 | 22              |
-| Centers for Medicare & Medicaid Services | 22              |
-| National Institutes of Health            | 19              |
+| Centers for Medicare & Medicaid Services | 19              |
 
 <!-- STATS_END -->
