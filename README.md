@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-30**
+> Last updated: **2026-07-31**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **11,902** |
-| Currently active positions        | **1,192**  |
+| Currently active positions        | **1,207**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 20              |
-| 1550   | Computer Science (1550)     | 35              |
-| 1560   | Data Science (1560)         | 21              |
+| 0854   | Computer Engineering (0854) | 21              |
+| 1550   | Computer Science (1550)     | 37              |
+| 1560   | Data Science (1560)         | 20              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 252             |
-| Federal Aviation Administration          | 203             |
-| Indian Health Service                    | 153             |
-| Internal Revenue Service                 | 50              |
-| Department of State - Agency Wide        | 46              |
+| Federal Aviation Administration          | 202             |
+| Indian Health Service                    | 162             |
+| Department of State - Agency Wide        | 58              |
+| Internal Revenue Service                 | 51              |
 | Social Security Administration           | 37              |
-| Centers for Medicare & Medicaid Services | 28              |
-| Air National Guard Units                 | 22              |
-| National Institutes of Health            | 21              |
-| Food and Drug Administration             | 20              |
+| National Institutes of Health            | 23              |
+| Centers for Medicare & Medicaid Services | 22              |
+| Air National Guard Units                 | 20              |
+| Federal Highway Administration           | 17              |
 
 <!-- STATS_END -->
