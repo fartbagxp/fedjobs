@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-07-31**
+> Last updated: **2026-08-01**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **11,972** |
-| Currently active positions        | **1,207**  |
+| Currently active positions        | **1,190**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 21              |
+| 0854   | Computer Engineering (0854) | 20              |
 | 1550   | Computer Science (1550)     | 37              |
-| 1560   | Data Science (1560)         | 20              |
+| 1560   | Data Science (1560)         | 17              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 252             |
-| Federal Aviation Administration          | 202             |
-| Indian Health Service                    | 162             |
-| Department of State - Agency Wide        | 58              |
-| Internal Revenue Service                 | 51              |
-| Social Security Administration           | 37              |
-| National Institutes of Health            | 23              |
-| Centers for Medicare & Medicaid Services | 22              |
+| Veterans Health Administration           | 251             |
+| Federal Aviation Administration          | 206             |
+| Indian Health Service                    | 166             |
+| Internal Revenue Service                 | 46              |
+| Department of State - Agency Wide        | 45              |
+| Social Security Administration           | 38              |
+| Centers for Medicare & Medicaid Services | 25              |
 | Air National Guard Units                 | 20              |
 | Federal Highway Administration           | 17              |
+| Treasury, Departmental Offices           | 16              |
 
 <!-- STATS_END -->
