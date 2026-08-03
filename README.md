@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-02**
+> Last updated: **2026-08-03**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **12,073** |
-| Currently active positions        | **1,181**  |
+| Currently active positions        | **1,200**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 20              |
-| 1550   | Computer Science (1550)     | 36              |
-| 1560   | Data Science (1560)         | 17              |
+| 0854   | Computer Engineering (0854) | 23              |
+| 1550   | Computer Science (1550)     | 38              |
+| 1560   | Data Science (1560)         | 19              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 251             |
-| Federal Aviation Administration          | 207             |
-| Indian Health Service                    | 166             |
-| Internal Revenue Service                 | 46              |
-| Department of State - Agency Wide        | 38              |
+| Veterans Health Administration           | 252             |
+| Federal Aviation Administration          | 206             |
+| Indian Health Service                    | 162             |
+| Internal Revenue Service                 | 51              |
+| Department of State - Agency Wide        | 45              |
 | Social Security Administration           | 38              |
-| Centers for Medicare & Medicaid Services | 26              |
+| Centers for Medicare & Medicaid Services | 24              |
 | Air National Guard Units                 | 20              |
-| Federal Highway Administration           | 17              |
-| Treasury, Departmental Offices           | 16              |
+| National Institutes of Health            | 18              |
+| Treasury, Departmental Offices           | 17              |
 
 <!-- STATS_END -->
