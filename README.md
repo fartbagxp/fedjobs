@@ -172,18 +172,18 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-04**
+> Last updated: **2026-08-05**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **12,220** |
-| Currently active positions        | **1,211**  |
+| Currently active positions        | **1,194**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 25              |
+| 0854   | Computer Engineering (0854) | 23              |
 | 1550   | Computer Science (1550)     | 36              |
 | 1560   | Data Science (1560)         | 19              |
 | 2210   | IT Management (2210)        | 250             |
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 252             |
 | Federal Aviation Administration          | 207             |
-| Indian Health Service                    | 163             |
-| Internal Revenue Service                 | 59              |
-| Department of State - Agency Wide        | 44              |
-| Social Security Administration           | 38              |
-| Centers for Medicare & Medicaid Services | 24              |
+| Indian Health Service                    | 171             |
+| Internal Revenue Service                 | 46              |
+| Department of State - Agency Wide        | 40              |
+| Social Security Administration           | 39              |
+| Centers for Medicare & Medicaid Services | 32              |
 | Air National Guard Units                 | 20              |
-| National Institutes of Health            | 18              |
-| Treasury, Departmental Offices           | 17              |
+| Federal Highway Administration           | 19              |
+| Treasury, Departmental Offices           | 16              |
 
 <!-- STATS_END -->
