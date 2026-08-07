@@ -176,7 +176,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
-| Total unique job postings tracked | **12,389** |
+| Total unique job postings tracked | **12,509** |
 | Currently active positions        | **1,215**  |
 
 ### Active Positions by Job Series
@@ -199,8 +199,8 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Department of State - Agency Wide        | 40              |
 | Social Security Administration           | 39              |
 | Centers for Medicare & Medicaid Services | 35              |
-| Federal Highway Administration           | 18              |
 | Air National Guard Units                 | 18              |
+| Federal Highway Administration           | 18              |
 | Treasury, Departmental Offices           | 16              |
 
 <!-- STATS_END -->
