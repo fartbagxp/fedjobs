@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-07**
+> Last updated: **2026-08-08**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **12,509** |
-| Currently active positions        | **1,215**  |
+| Currently active positions        | **1,236**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 27              |
-| 1550   | Computer Science (1550)     | 38              |
-| 1560   | Data Science (1560)         | 25              |
+| 1550   | Computer Science (1550)     | 39              |
+| 1560   | Data Science (1560)         | 27              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
-| Agency                                   | Active Postings |
-| ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 252             |
-| Federal Aviation Administration          | 208             |
-| Indian Health Service                    | 171             |
-| Internal Revenue Service                 | 46              |
-| Department of State - Agency Wide        | 40              |
-| Social Security Administration           | 39              |
-| Centers for Medicare & Medicaid Services | 35              |
-| Air National Guard Units                 | 18              |
-| Federal Highway Administration           | 18              |
-| Treasury, Departmental Offices           | 16              |
+| Agency                                     | Active Postings |
+| ------------------------------------------ | --------------- |
+| Veterans Health Administration             | 252             |
+| Federal Aviation Administration            | 201             |
+| Indian Health Service                      | 168             |
+| Internal Revenue Service                   | 47              |
+| Social Security Administration             | 39              |
+| Department of State Headquarters           | 35              |
+| Centers for Disease Control and Prevention | 27              |
+| Centers for Medicare & Medicaid Services   | 26              |
+| U.S. Mint                                  | 23              |
+| Federal Highway Administration             | 18              |
 
 <!-- STATS_END -->
