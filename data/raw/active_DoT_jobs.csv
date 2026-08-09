@@ -2,7 +2,8 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 Construction Control Inspector (Open to both U.S. Citizens and Federal Employees),Department of Transportation Headquarters,"Tupelo, Mississippi",GS,74678,133142,0809,2026-07-27,2026-08-10,https://www.usajobs.gov:443/job/877913500
 Supervisory Transportation Program Specialist - DIRECT HIRE,Department of Transportation Headquarters,"Kansas City, Missouri",GS,150359,195469,2101,2026-07-29,2026-08-11,https://www.usajobs.gov:443/job/878435700
 Accountant,Federal Aviation Administration,"Washington, District of Columbia",FV,71695,111138,0510,2026-07-21,2026-08-13,https://www.usajobs.gov:443/job/877193700
-Administrative Officer,Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,54819,82232,0341,2026-07-24,2026-08-07,https://www.usajobs.gov:443/job/877738100
+Administrative Officer,Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,54819,82232,0341,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878626100
+Administrative Officer,Federal Aviation Administration,"Tutuila Island, American Samoa",FV,53528,119883,0341,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878669800
 Aerospace Engineer,Federal Aviation Administration,"Belgium, Belgium",FV,95489,148037,0861,2026-07-28,2026-08-13,https://www.usajobs.gov:443/job/878169300
 Aerospace Engineer,Federal Aviation Administration,"Belgium, Belgium",FV,95489,148037,0861,2026-07-28,2026-08-13,https://www.usajobs.gov:443/job/878169500
 Aerospace Engineer (Direct Hire),Federal Aviation Administration,"Los Angeles County, California",FV,53528,99683,0861,2026-07-22,2026-08-12,https://www.usajobs.gov:443/job/877378100
@@ -18,10 +19,9 @@ Air Traffic Control Specialist (Staff Support Specialist - MSS-1),Federal Aviati
 Air Traffic Control Specialist (Terminal) (Support Specialist),Federal Aviation Administration,"Charleston, South Carolina",AT,109627,147997,2152,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877220600
 Air Traffic Control Specialist (Traffic Management Coordinator),Federal Aviation Administration,"Aurora, Illinois",AT,172099,228000,2152,2026-07-28,2026-08-18,https://www.usajobs.gov:443/job/878098500
 Air Traffic Control Specialist (Traffic Management Coordinator),Federal Aviation Administration,"Phoenix, Arizona",AT,145721,196723,2152,2026-07-29,2026-08-18,https://www.usajobs.gov:443/job/878284400
-Air Traffic Control Specialist (Watch Officer),Federal Aviation Administration,"Vint Hill Farms Military Installation, Virginia",FV,150392,228000,2152,2026-07-30,2026-08-07,https://www.usajobs.gov:443/job/878521700
-"Air Traffic Control Specialist, Traffic Management Coordinator (C)",Federal Aviation Administration,"Fremont, California",AT,183286,228000,2152,2026-07-17,2026-08-07,https://www.usajobs.gov:443/job/876736200
+Air Traffic Control Specialist - Trainee,Federal Aviation Administration,"Cold Bay, Alaska",AT,46059,130130,2152,2026-08-03,2026-08-12,https://www.usajobs.gov:443/job/878632100
 "Air Traffic Control Specialist, Traffic Management Coordinator (C)",Federal Aviation Administration,"Rancho Cordova, California",AT,170652,228000,2152,2026-07-23,2026-08-12,https://www.usajobs.gov:443/job/877536100
-Airway Transportation Systems Specialist ,Federal Aviation Administration,"Glenwood Springs, Colorado",FV,90547,140335,2101,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/876999700
+Airway Transportation Systems Specialist ,Federal Aviation Administration,"Casper, Wyoming",FV,90547,140335,2101,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878631300
 Airway Transportation Systems Specialist  (Automation Systems Specialist),Federal Aviation Administration,"Indianapolis, Indiana",FV,91390,141642,2101,2026-07-25,2026-08-14,https://www.usajobs.gov:443/job/877942300
 Airway Transportation Systems Specialist (ATSS Coordinator),Federal Aviation Administration,"Jackson, Mississippi",FV,90547,140335,2101,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877267100
 Airway Transportation Systems Specialist (COORDINATOR),Federal Aviation Administration,"Hilo, Hawaii",FV,94531,146509,2101,2026-07-23,2026-08-12,https://www.usajobs.gov:443/job/877648000
@@ -30,7 +30,6 @@ Airway Transportation Systems Specialist (NAS),Federal Aviation Administration,"
 Airway Transportation Systems Specialist (NAS),Federal Aviation Administration,"Nashua, New Hampshire",FV,101536,157367,2101,2025-09-29,2026-09-23,https://www.usajobs.gov:443/job/846693400
 Airway Transportation Systems Specialist (NAV TID TSOG),Federal Aviation Administration,"Anchorage, Alaska",FV,102382,158677,2101,2026-07-16,2026-08-12,https://www.usajobs.gov:443/job/876704000
 Airway Transportation Systems Specialist (NOM),Federal Aviation Administration,"Fremont, California",FV,139739,216637,2101,2026-07-18,2026-08-10,https://www.usajobs.gov:443/job/876966900
-Airway Transportation Systems Specialist (SOC NAS),Federal Aviation Administration,"Houston, Texas",FV,104424,161842,2101,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/877054800
 Airway Transportation Systems Specialist (TSOG Comm/Telco),Federal Aviation Administration,"Morristown, New Jersey",FV,77351,119833,2101,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877177600
 Aviation Safety Assistant  (Office Automation),Federal Aviation Administration,"Scottsdale, Arizona",FG,47500,68620,0303,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877225800
 Aviation Safety Assistant (Office Automation),Federal Aviation Administration,"Coraopolis, Pennsylvania",FG,38791,56039,0303,2026-07-17,2026-08-20,https://www.usajobs.gov:443/job/873610700
@@ -44,40 +43,21 @@ Aviation Safety Inspector  (AW-General Aviation Avionics ),Federal Aviation Admi
 Aviation Safety Inspector  (AW-General Aviation Maintenance (PMI)),Federal Aviation Administration,"Juneau, Alaska",FG,120348,156455,1825,2026-07-22,2026-08-11,https://www.usajobs.gov:443/job/874619600
 Aviation Safety Inspector  (AW-General Aviation Maintenance (PMI)),Federal Aviation Administration,"Tampa, Florida",FG,106437,137370,1825,2026-07-23,2026-08-12,https://www.usajobs.gov:443/job/877671000
 Aviation Safety Inspector  (Air Carrier Flight Oversight (AAPM)),Federal Aviation Administration,"Irving, Texas",FG,115711,150426,1825,2026-06-18,2026-08-12,https://www.usajobs.gov:443/job/873428900
+Aviation Safety Inspector  (Air Carrier Flight Oversight (APOI)),Federal Aviation Administration,"Anchorage, Alaska",FG,90925,118204,1825,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878629400
 Aviation Safety Inspector  (GA Operations Instructor),Federal Aviation Administration,"Tutuila Island, American Samoa",FG,90925,118204,1825,2026-07-22,2026-08-11,https://www.usajobs.gov:443/job/877470900
 Aviation Safety Inspector  (General Aviation - Operations (POI)),Federal Aviation Administration,"Enfield, Connecticut",FG,141915,184495,1825,2026-07-23,2026-08-12,https://www.usajobs.gov:443/job/877668700
 Aviation Safety Inspector  (General Aviation - Operations),Federal Aviation Administration,"Greensboro, North Carolina",FG,125776,163514,1825,2026-07-17,2026-08-20,https://www.usajobs.gov:443/job/876861200
 Aviation Safety Inspector  (General Aviation - Operations),Federal Aviation Administration,"Juneau, Alaska",FG,142216,184886,1825,2026-07-22,2026-08-11,https://www.usajobs.gov:443/job/874497600
 Aviation Safety Inspector  (General Aviation - Operations),Federal Aviation Administration,"Louisville, Kentucky",FG,125776,163514,1825,2026-07-17,2026-08-20,https://www.usajobs.gov:443/job/876867100
 Aviation Safety Inspector  (General Aviation-Operations (APOI)),Federal Aviation Administration,"Tampa, Florida",FG,106437,138370,1825,2026-07-24,2026-08-13,https://www.usajobs.gov:443/job/877844000
-Aviation Safety Inspector  (PRINCIPAL OPERATIONS INSPECTOR - FLIGHT),Federal Aviation Administration,"Tutuila Island, American Samoa",FG,107446,139684,1825,2026-07-17,2026-08-07,https://www.usajobs.gov:443/job/873642600
 Aviation Safety Inspector (AC - Flight Oversight) - Assistant Principal Oversight Inspector (APOI),Federal Aviation Administration,"Watkins, Colorado",FG,90925,118204,1825,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878415400
 "Aviation Safety Inspector (AC - Flight Oversight), Geographic Program Inspector",Federal Aviation Administration,"Tutuila Island, American Samoa",FG,90025,117034,1825,2026-07-25,2026-08-17,https://www.usajobs.gov:443/job/877946500
 Aviation Safety Inspector (AC-FO) (Principal Flight Oversight Inspector (POI)),Federal Aviation Administration,"Anchorage, Alaska",FG,142216,184886,1825,2026-07-29,2026-08-18,https://www.usajobs.gov:443/job/878371500
+Aviation Safety Inspector (AC-Flight Oversight),Federal Aviation Administration,"San Juan, Puerto Rico",FG,107446,139684,1825,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878754800
+"Aviation Safety Inspector (ACM), Assistant Partial Program Manager (APPM)",Federal Aviation Administration,"Charlotte, North Carolina",FG,90925,118204,1825,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878617300
 Aviation Safety Inspector (ACV) (Principal Avionics Inspector - Air Carrier),Federal Aviation Administration,"Anchorage, Alaska",FG,142216,184886,1825,2026-07-29,2026-08-18,https://www.usajobs.gov:443/job/878369300
 Aviation Safety Inspector (AW - General Aviation Maintenance (PMI)),Federal Aviation Administration,"Anchorage, Alaska",FG,142216,184886,1825,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878545800
 "Aviation Safety Inspector (AW), Air Carrier Avionics - Assistant Principal Avionics Inspector",Federal Aviation Administration,"Miramar, Florida",FG,113356,147365,1825,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878411000
-"Aviation Safety Inspector (AW), PAI, Charleston FSDO, EASD09 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-",Federal Aviation Administration,"Charleston, West Virginia",FG,125776,163514,1825,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/876954200
 "Aviation Safety Inspector (Air Carrier Avionics), Assistant Partial Program Manager (APPM)",Federal Aviation Administration,"Watkins, Colorado",FG,90925,118204,1825,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878565800
 Aviation Safety Inspector (Air Carrier Maintenance - PMI),Federal Aviation Administration,"Belleville, Michigan",FG,90925,118024,1825,2026-07-24,2026-08-13,https://www.usajobs.gov:443/job/877726200
 Aviation Safety Inspector (Air Carrier Operations) (APOI),Federal Aviation Administration,"Charlotte, North Carolina",FG,90925,118204,1825,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877285700
@@ -120,27 +100,30 @@ Aviation Safety Technician,Federal Aviation Administration,"San Juan, Puerto Ric
 Aviation Safety Technician,Federal Aviation Administration,"Washington, District of Columbia",FG,63940,91815,1802,2026-07-09,2026-08-19,https://www.usajobs.gov:443/job/875773400
 Aviation Safety Technician,Federal Aviation Administration,"Watkins, Colorado",FG,62308,89470,1802,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878548700
 Aviation Safety Technician,Federal Aviation Administration,"West Columbia, South Carolina",FG,61722,80243,1802,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878280200
-"Aviation Safety Technician, (External), Kansas City FSDO, CESD63-1",Federal Aviation Administration,"Kansas City, Missouri",FG,56794,81553,1802,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/877127900
-"Aviation Safety Technician, (Internal), Kansas City FSDO, CESD63-1",Federal Aviation Administration,"Kansas City, Missouri",FG,56794,81553,1802,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/877127800
 "Aviation Safety Technician, Boston FSDO, EASD61O",Federal Aviation Administration,"Burlington, Massachusetts",FG,63291,90882,1802,2026-07-24,2026-08-13,https://www.usajobs.gov:443/job/877726400
+Aviation Technical Systems Specialist (Lead Planner),Federal Aviation Administration,"Fort Worth, Texas",FV,121519,188392,2186,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878668100
 Community Planner,Federal Aviation Administration,"Singapore, Singapore",FV,77351,148037,0020,2026-07-22,2026-08-11,https://www.usajobs.gov:443/job/877441500
 Community Planner,Federal Aviation Administration,"Singapore, Singapore",FV,77351,148037,0020,2026-07-22,2026-08-11,https://www.usajobs.gov:443/job/877441800
 Computer Scientist,Federal Aviation Administration,"Washington, District of Columbia",FV,103604,160571,1550,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878451500
 Data Scientist,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,1560,2026-07-24,2026-08-13,https://www.usajobs.gov:443/job/877827700
 Digital Content Producer,Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,75279,116689,0301,2026-07-28,2026-08-13,https://www.usajobs.gov:443/job/878119300
 "Director, Investment Planning & Analysis ",Federal Aviation Administration,"Washington, District of Columbia",EV,153700,216400,0340,2026-07-28,2026-08-11,https://www.usajobs.gov:443/job/878164500
+"Director, Northwest Mountain Regional Airports Division",Federal Aviation Administration,"Des Moines, Washington",EV,153700,216400,0340,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878677600
 Electronics Engineer,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,0855,2026-07-27,2026-08-17,https://www.usajobs.gov:443/job/877924200
 Electronics Engineer ,Federal Aviation Administration,"College Park, Georgia",FV,95489,148037,0855,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878403100
 Electronics Engineer (COMM),Federal Aviation Administration,"College Park, Georgia",FV,77351,119883,0855,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878380700
+Electronics Technician (Team Lead),Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,90547,140335,0856,2026-08-01,2026-08-14,https://www.usajobs.gov:443/job/878776100
 Engineering Technician  (Coordinator),Federal Aviation Administration,"Fort Worth, Texas",FV,98437,152563,0802,2026-08-03,2026-08-24,https://www.usajobs.gov:443/job/878496300
+Engineering Technician  (Coordinator),Federal Aviation Administration,"Kansas City, Missouri",FV,77351,119883,0802,2026-08-03,2026-08-24,https://www.usajobs.gov:443/job/878614800
 Environmental Protection Specialist,Federal Aviation Administration,"College Park, Georgia",FV,66262,148403,0028,2026-07-29,2026-08-11,https://www.usajobs.gov:443/job/878370300
 Environmental Protection Specialist,Federal Aviation Administration,"Orlando, Florida",FV,62660,140335,0028,2026-07-29,2026-08-11,https://www.usajobs.gov:443/job/878369400
-General Engineer,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,0801,2026-07-25,2026-08-07,https://www.usajobs.gov:443/job/877906700
 General Engineer (Direct hire),Federal Aviation Administration,"Atlantic City, New Jersey",FV,99775,154637,0801,2026-07-29,2026-08-11,https://www.usajobs.gov:443/job/878245600
 General Engineer (Direct hire),Federal Aviation Administration,"Atlantic City, New Jersey",FV,99775,154637,0801,2026-07-29,2026-08-11,https://www.usajobs.gov:443/job/878246100
+General Engineer (Lead Engineer),Federal Aviation Administration,"Memphis, Tennessee",FV,111779,173292,0801,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878683800
 General Engineer (NAS Implementation Program Manager),Federal Aviation Administration,"Brook Park, Ohio",FV,95489,148037,0801,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878582100
 IT Specialist  (System Analysis),Federal Aviation Administration,"Atlantic City, New Jersey",FV,123171,190953,2210,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878535900
 IT Specialist (Customer Support),Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,75279,116689,2210,2026-07-27,2026-08-10,https://www.usajobs.gov:443/job/877964400
+Information Technology Specialist (Data Management),Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,2210,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878634400
 Management and Program Analyst,Federal Aviation Administration,"Tutuila Island, American Samoa",FG,90925,118204,0343,2026-07-28,2026-08-17,https://www.usajobs.gov:443/job/878165200
 Management and Program Analyst,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,0343,2026-07-29,2026-08-12,https://www.usajobs.gov:443/job/878331500
 Management and Program Analyst (Technical Support Management Specialist),Federal Aviation Administration,"Fremont, California",FV,94108,175437,0343,2026-07-20,2026-08-10,https://www.usajobs.gov:443/job/876941000
@@ -148,10 +131,6 @@ Management and Program Analyst (Technical Support Management Specialist),Federal
 Management and Program Analyst (Technical Support Management Specialist),Federal Aviation Administration,"Philadelphia, Pennsylvania",FV,69046,107031,0343,2026-07-23,2026-08-12,https://www.usajobs.gov:443/job/877635500
 Management and Program Analyst (Technical Support Management Specialist),Federal Aviation Administration,"Ronkonkoma, New York",FV,106706,165379,0343,2026-07-28,2026-08-17,https://www.usajobs.gov:443/job/878056600
 Management and Program Analyst (Training Analyst),Federal Aviation Administration,"Fort Worth, Texas",FG,115711,150426,0343,2026-07-29,2026-08-19,https://www.usajobs.gov:443/job/878233400
-Management and Program Assistant,Federal Aviation Administration,"Arlington, Virginia",FV,62724,94090,0344,2026-07-16,2026-08-07,https://www.usajobs.gov:443/job/870667600
-Management and Program Assistant,Federal Aviation Administration,"Dulles Airport, Virginia",FV,62724,94090,0344,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/871975200
-Management and Program Assistant,Federal Aviation Administration,"New Castle, Delaware",FV,60406,90613,0344,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/874241100
-Management and Program Assistant,Federal Aviation Administration,"Orlando, Florida",FV,54819,82232,0344,2026-07-18,2026-08-07,https://www.usajobs.gov:443/job/876988700
 Management and Program Assistant,Federal Aviation Administration,"Philadelphia, Pennsylvania",FV,60406,90613,0344,2026-07-25,2026-08-14,https://www.usajobs.gov:443/job/870995500
 Management and Program Assistant ,Federal Aviation Administration,"San Francisco, California",FV,68531,102801,0344,2026-07-28,2026-08-17,https://www.usajobs.gov:443/job/878107300
 Management and Program Assistant  (FV-344-F),Federal Aviation Administration,"Hayward, California",FV,68531,102801,0344,2026-07-28,2026-08-17,https://www.usajobs.gov:443/job/878164200
@@ -168,6 +147,8 @@ PUBLIC NOTICE - Aviation Safety Inspector - Airworthiness (Air Carrier Maintenan
 PUBLIC NOTICE - Aviation Safety Inspector - Airworthiness (General Aviation Avionics),Federal Aviation Administration,"Belgium, Belgium",FG,52727,99404,1825,2026-07-16,2026-09-30,https://www.usajobs.gov:443/job/876312600
 PUBLIC NOTICE - Aviation Safety Inspector Airworthiness (General Aviation Maintenance),Federal Aviation Administration,"Belgium, Belgium",FG,52727,99404,1825,2026-07-16,2026-09-30,https://www.usajobs.gov:443/job/876323500
 Program Analyst,Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,75279,116689,0343,2026-07-30,2026-08-12,https://www.usajobs.gov:443/job/878432600
+Program Manager,Federal Aviation Administration,"Des Moines, Washington",FV,147731,228000,0340,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878702200
+Program Manager ,Federal Aviation Administration,"Tutuila Island, American Samoa",FV,112283,173980,0340,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878641700
 Program Manager (Group Manager),Federal Aviation Administration,"Fort Worth, Texas",FV,142891,221407,0340,2026-07-29,2026-08-18,https://www.usajobs.gov:443/job/878286900
 Public Notice for Aerospace Engineer (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FG,34454,162672,0861,2025-12-12,2026-12-11,https://www.usajobs.gov:443/job/852272900
 Public Notice for Aerospace Engineer (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,52998,172257,0861,2025-12-12,2026-12-11,https://www.usajobs.gov:443/job/852274600
@@ -191,34 +172,31 @@ Public Notice for Mechanical Engineer (Direct Hire),Federal Aviation Administrat
 Public Notice for Medical Officer (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,156999,228000,0602,2026-02-07,2027-02-05,https://www.usajobs.gov:443/job/856925000
 Public Notice for Psychology (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,64308,173980,0180,2026-02-24,2026-09-30,https://www.usajobs.gov:443/job/858713900
 Public Notice for Safety Engineer (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,53528,173980,0803,2026-04-14,2027-04-13,https://www.usajobs.gov:443/job/864894100
+Research Physiologist ,Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,90547,140335,0413,2026-08-01,2026-08-10,https://www.usajobs.gov:443/job/878711200
 "SATCS, Operations Supervisor (MSS-2, Level-12)",Federal Aviation Administration,"Westbury, New York",AT,200948,228000,2152,2026-07-07,2027-07-06,https://www.usajobs.gov:443/job/875361700
 "Supervisory Air Traffic Control Specialist   (Traffic Management Officer, TMO)",Federal Aviation Administration,"Philadelphia, Pennsylvania",AT,196434,228000,2152,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878430000
 Supervisory Air Traffic Control Specialist  (Operations Supervisor),Federal Aviation Administration,"Fairbanks, Alaska",FV,102382,158677,2152,2026-07-18,2026-08-11,https://www.usajobs.gov:443/job/877112100
 Supervisory Air Traffic Control Specialist  (Operations Supervisor),Federal Aviation Administration,"Fairbanks, Alaska",FV,102382,158677,2152,2026-07-18,2026-08-11,https://www.usajobs.gov:443/job/877112600
-Supervisory Air Traffic Control Specialist  (Operations Supervisor),Federal Aviation Administration,"Vero Beach, Florida",AT,129319,168114,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878346800
-Supervisory Air Traffic Control Specialist (Operations Supervisor - MSS-2),Federal Aviation Administration,"Chicago, Illinois",AT,135740,176461,2152,2026-07-28,2026-08-07,https://www.usajobs.gov:443/job/878117200
+Supervisory Air Traffic Control Specialist (Air Traffic Manager - MSS-4),Federal Aviation Administration,"West Chicago, Illinois",AT,111167,144518,2152,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878636800
 Supervisory Air Traffic Control Specialist (Operations Supervisor - MSS-2),Federal Aviation Administration,"Peoria, Illinois",AT,79289,103074,2152,2026-07-08,2026-08-19,https://www.usajobs.gov:443/job/875567000
 "Supervisory Air Traffic Control Specialist (Operations Supervisor - MSS-2, Level 9)",Federal Aviation Administration,"Romulus, Michigan",AT,147994,192393,2152,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878381700
-Supervisory Air Traffic Control Specialist (Operations Supervisor),Federal Aviation Administration,"Austin, Texas",AT,137943,179325,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/861006600
-Supervisory Air Traffic Control Specialist (Operations Supervisor),Federal Aviation Administration,"Birmingham, Alabama",AT,122649,159443,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878220900
+Supervisory Air Traffic Control Specialist (Operations Supervisor),Federal Aviation Administration,"San Francisco, California",AT,192895,228000,2152,2026-08-05,2026-08-14,https://www.usajobs.gov:443/job/878632000
 "Supervisory Air Traffic Control Specialist (Operations Supervisor), (MSS-2,) (Level 12)",Federal Aviation Administration,"Ronkonkoma, New York",AT,200948,228000,2152,2026-07-07,2027-07-06,https://www.usajobs.gov:443/job/875383900
-Supervisory Air Traffic Control Specialist (Support Manager),Federal Aviation Administration,"San Juan, Puerto Rico",AT,140271,178845,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878368500
+"Supervisory Air Traffic Control Specialist, (MSS-2, Level 10), Operations Supervisor",Federal Aviation Administration,"Salt Lake City, Utah",AT,154300,200588,2152,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878724700
+"Supervisory Air Traffic Control Specialist, (MSS-2, Level 5), Operations Supervisor",Federal Aviation Administration,"Great Falls, Montana",AT,89992,116990,2152,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878721800
 "Supervisory Air Traffic Control Specialist, Air Traffic Manager",Federal Aviation Administration,"Bismarck, North Dakota",AT,98176,122717,2152,2026-05-01,2026-08-31,https://www.usajobs.gov:443/job/867409300
-"Supervisory Air Traffic Control Specialist, Air Traffic Manager (AT-2152-FL)",Federal Aviation Administration,"Hayward, California",AT,135619,169522,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878307800
-"Supervisory Air Traffic Control Specialist, Executive Officer",Federal Aviation Administration,"Longmont, Colorado",AT,179860,228000,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878322900
-"Supervisory Air Traffic Control Specialist, Executive Officer",Federal Aviation Administration,"Watkins, Colorado",AT,198764,228000,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878331000
 "Supervisory Air Traffic Control Specialist, Operations Supervisor",Federal Aviation Administration,"Bismarck, North Dakota",AT,89992,116990,2152,2026-02-27,2026-08-31,https://www.usajobs.gov:443/job/859010600
 "Supervisory Air Traffic Control Specialist, Operations Supervisor",Federal Aviation Administration,"Nantucket, Massachusetts",AT,101923,132501,2152,2026-04-02,2026-08-31,https://www.usajobs.gov:443/job/863546500
-"Supervisory Air Traffic Control Specialist, Operations Supervisor",Federal Aviation Administration,"Traverse City, Michigan",AT,89992,116990,2152,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878312000
 Supervisory Aviation Safety Inspector,Federal Aviation Administration,"Boise, Idaho",FV,90547,140335,1825,2026-07-21,2026-08-10,https://www.usajobs.gov:443/job/877298700
 Supervisory Aviation Safety Inspector ,Federal Aviation Administration,"Scottsdale, Arizona",FV,137491,213039,1825,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878493000
 Supervisory Aviation Safety Inspector (Front Line Manager),Federal Aviation Administration,"Herndon, Virginia",FV,127898,198281,1825,2026-08-03,2026-08-13,https://www.usajobs.gov:443/job/873123800
 Supervisory Aviation Safety Inspector - All Specialties (Front Line Manager),Federal Aviation Administration,"Hapeville, Georgia",FV,118206,183255,1825,2026-07-29,2026-08-10,https://www.usajobs.gov:443/job/878198500
 Supervisory Financial Analyst,Federal Aviation Administration,"College Park, Georgia",FV,118206,183255,0501,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878439300
 Supervisory General Engineer,Federal Aviation Administration,"Fort Worth, Texas",FV,121519,188392,0801,2026-08-03,2026-08-12,https://www.usajobs.gov:443/job/878589200
-Supervisory Program Management Specialist (Branch Manager),Federal Aviation Administration,"Tutuila Island, American Samoa",FV,112283,173980,0301,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/877874900
 Technical Operations (AJW) Airway Transportation Systems Specialist Employee Requested Reassignment,Federal Aviation Administration,"Saint Croix, Virgin Islands",FV,46366,146571,2101,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846713900
+Telecommunications Specialist,Federal Aviation Administration,"Anchorage, Alaska",FV,77351,119883,0391,2026-07-31,2026-08-20,https://www.usajobs.gov:443/job/878666100
 Telecommunications Specialist,Federal Aviation Administration,"Washington, District of Columbia",FV,127898,198281,0391,2026-07-30,2026-08-19,https://www.usajobs.gov:443/job/878477000
+Training Specialist ,Federal Aviation Administration,"Oklahoma City, Oklahoma",FV,75279,116689,1712,2026-08-01,2026-08-10,https://www.usajobs.gov:443/job/878702000
 Civil Engineer (Highway) (Claims),Federal Highway Administration,"Lakewood, Colorado",GS,118675,154280,0810,2026-04-21,2026-10-19,https://www.usajobs.gov:443/job/865979200
 Civil Engineer (Highway) (Design)  -  DIRECT HIRE,Federal Highway Administration,"Lakewood, Colorado",GS,80465,129741,0810,2026-04-27,2026-10-06,https://www.usajobs.gov:443/job/866884700
 Civil Engineer (Highway) (PDP) (Direct Hire),Federal Highway Administration,"Hartford, Connecticut",GS,56039,90540,0810,2026-07-29,2026-08-12,https://www.usajobs.gov:443/job/878341300
@@ -232,13 +210,11 @@ Civil Engineer Highway Construction Project Engineer - DH,Federal Highway Admini
 Lead Civil Engineer (Highway) (Direct Hire),Federal Highway Administration,"Montgomery, Alabama",GS,106437,146325,0810,2026-07-29,2026-08-17,https://www.usajobs.gov:443/job/878211800
 Lead Civil Engineer - DIRECT HIRE SME,Federal Highway Administration,"Bismarck, North Dakota",GS,106437,138370,0810,2026-04-02,2026-09-04,https://www.usajobs.gov:443/job/863450600
 Lead Community Planner,Federal Highway Administration,"Washington, District of Columbia",GS,169279,197200,0020,2026-07-07,2026-08-21,https://www.usajobs.gov:443/job/875603100
-Lead Transportation Finance Manager,Federal Highway Administration,"Baltimore, Maryland",GS,121785,158322,0501,2026-07-24,2026-08-07,https://www.usajobs.gov:443/job/877715900
 Lead Transportation Specialist,Federal Highway Administration,"Chicago, Illinois",GS,118984,154682,2101,2026-07-20,2026-08-19,https://www.usajobs.gov:443/job/877032200
 Supervisory Civil Engineer (Highway) (COE),Federal Highway Administration,"Sevierville, Tennessee",GS,106437,138370,0810,2026-07-22,2026-08-14,https://www.usajobs.gov:443/job/877662100
 Supervisory Civil Engineer (Highway) (Construction Operations Engineer) - SME,Federal Highway Administration,"Lakewood, Colorado",GS,118675,154280,0810,2026-04-09,2026-10-06,https://www.usajobs.gov:443/job/864483900
 Supervisory Program Manager (Open to both U.S. Citizens and Federal Employees),Federal Highway Administration,"Lakewood, Colorado",GS,140239,187093,0340,2026-07-28,2026-08-11,https://www.usajobs.gov:443/job/878337800
 Deputy Chief Counsel,Federal Motor Carrier Safety Administration,"Washington, District of Columbia",ES,151661,218800,0905,2026-07-10,2026-08-10,https://www.usajobs.gov:443/job/876032500
-Supervisory Transportation Specialist (Division Chief)  (Open to both U.S. Citizens and Federal Employees),Federal Motor Carrier Safety Administration,"Washington, District of Columbia",GS,169279,197200,2101,2026-07-29,2026-08-07,https://www.usajobs.gov:443/job/878437000
 Railroad Safety Inspector (Grade Crossing) - DIRECT HIRE (SME),Federal Railroad Administration,"Phoenix, Arizona",GS,89508,121720,2121,2026-06-05,2026-08-12,https://www.usajobs.gov:443/job/871955700
 Railroad Safety Inspector (Hazardous Materials) - BIL DIRECT HIRE-SME,Federal Railroad Administration,"Birmingham, Alabama",GS,89508,145468,2121,2026-06-05,2026-09-03,https://www.usajobs.gov:443/job/871832900
 Railroad Safety Inspector (MP&E) -BIL DIRECT HIRE- SME,Federal Railroad Administration,"Apache County, Arizona",GS,89508,145468,2121,2026-05-19,2026-08-17,https://www.usajobs.gov:443/job/869870700
@@ -254,16 +230,20 @@ Marine Transportation Specialist (Ship Inspector) (Open to both U.S. Citizens an
 Marine Transportation Supervisor (Vessel Master) - SME (Open to both U.S. Citizens and Federal Employees),Great Lakes Saint Lawrence Seaway Development Corporation,"Massena, New York",GS,125776,163514,2150,2026-02-25,2026-08-24,https://www.usajobs.gov:443/job/858760400
 Supervisory General Engineer (Chief Engineer)- DIRECT HIRE,Great Lakes Saint Lawrence Seaway Development Corporation,"Massena, New York",GS,125776,163514,0801,2026-03-16,2026-08-14,https://www.usajobs.gov:443/job/861227200
 Accountant (Open to both U.S. Citizens and Federal Employees),Maritime Administration,"Washington, District of Columbia",GS,143913,187093,0510,2026-07-29,2026-08-12,https://www.usajobs.gov:443/job/878488500
+Grants Management Specialist - DIRECT HIRE,Maritime Administration,"Salt Lake City, Utah",GS,63795,118204,1109,2026-07-31,2026-08-13,https://www.usajobs.gov:443/job/878763900
 Marine Engineer (Assistant/Associate) Professor,Maritime Administration,"Kings Point, New York",AD,84896,146699,0801,2025-10-16,2026-10-16,https://www.usajobs.gov:443/job/848149900
 Preservation Servicer (Open to both U.S. Citizens and Federal Employees),Maritime Administration,"Fort Eustis, Virginia",WG,26.4,30.82,7006,2026-05-21,2026-08-21,https://www.usajobs.gov:443/job/870211000
 Small Craft Operator (Open to both U.S. Citizens and Federal Employees),Maritime Administration,"Fort Eustis, Virginia",WG,30.19,35.22,5786,2026-08-03,2026-08-17,https://www.usajobs.gov:443/job/878562300
+Web Designer,Maritime Administration,"Washington, District of Columbia",GS,121785,187093,0301,2026-07-30,2026-08-14,https://www.usajobs.gov:443/job/878676100
+Associate Administrator for National Center for Statistics &  Analysis,National Highway Traffic Safety Administration,"Washington, District of Columbia",ES,151661,228000,0340,2026-08-03,2026-08-17,https://www.usajobs.gov:443/job/878708400
 General Engineer - DIRECT HIRE,National Highway Traffic Safety Administration,"Washington, District of Columbia",GS,102415,187093,0801,2026-07-14,2026-08-10,https://www.usajobs.gov:443/job/876363900
 General Engineer - DIRECT HIRE,National Highway Traffic Safety Administration,"Washington, District of Columbia",GS,121785,187093,0801,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878610100
 Trial Attorney,National Highway Traffic Safety Administration,"Washington, District of Columbia",GS,121785,197200,0905,2026-07-24,2026-08-10,https://www.usajobs.gov:443/job/877872400
 Supervisory Auditor (IT Project Manager),Office of Inspector General,"Washington, District of Columbia",GS,143913,187093,0511,2026-07-28,2026-08-11,https://www.usajobs.gov:443/job/878210700
-Supervisory Criminal Investigator (ASAC),Office of Inspector General,"Lombard, Illinois",GS,131568,192694,1811,2026-07-24,2026-08-07,https://www.usajobs.gov:443/job/877875800
 Chief Product and Technology Officer,Office of the Secretary of Transportation,"Washington, District of Columbia",ES,151661,228800,2210,2026-08-03,2026-08-17,https://www.usajobs.gov:443/job/878377600
+"Deputy Director, Executive Secretariat",Office of the Secretary of Transportation,"Washington, District of Columbia",GS,169279,197200,0301,2026-07-30,2026-08-10,https://www.usajobs.gov:443/job/878711000
 "Director, Bureau of Transportation Statistics",Office of the Secretary of Transportation,"Washington, District of Columbia",ES,151661,218800,0340,2026-07-10,2026-08-10,https://www.usajobs.gov:443/job/875903200
+Environmental Protection Specialist - DIRECT HIRE,Office of the Secretary of Transportation,"Washington, District of Columbia",GS,121785,187093,0028,2026-07-31,2026-08-10,https://www.usajobs.gov:443/job/878709100
 Public Affairs Specialist - SME (Open to both U.S. Citizens and Federal Employees),Office of the Secretary of Transportation,"Washington, District of Columbia",GS,85447,158322,1035,2026-07-29,2026-08-27,https://www.usajobs.gov:443/job/878296100
 Supervisory Transportation Specialist (Discretionary Infrastructure Grants)- SME (Open to both U.S. Citizens and Federal Employees),Office of the Secretary of Transportation,"Washington, District of Columbia",GS,169279,197200,2101,2026-07-23,2026-08-20,https://www.usajobs.gov:443/job/877616000
 Attorney Advisor,Pipeline and Hazardous Materials Safety Administration,"Washington, District of Columbia",GS,85447,197200,0905,2026-05-15,2026-11-11,https://www.usajobs.gov:443/job/869583200

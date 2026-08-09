@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-08**
+> Last updated: **2026-08-09**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **12,606** |
-| Currently active positions        | **1,236**  |
+| Currently active positions        | **1,194**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 27              |
-| 1550   | Computer Science (1550)     | 39              |
-| 1560   | Data Science (1560)         | 27              |
+| 1550   | Computer Science (1550)     | 37              |
+| 1560   | Data Science (1560)         | 22              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 252             |
-| Federal Aviation Administration            | 201             |
+| Federal Aviation Administration            | 199             |
 | Indian Health Service                      | 168             |
-| Internal Revenue Service                   | 47              |
-| Social Security Administration             | 39              |
-| Department of State Headquarters           | 35              |
-| Centers for Disease Control and Prevention | 27              |
-| Centers for Medicare & Medicaid Services   | 26              |
+| Social Security Administration             | 38              |
+| Internal Revenue Service                   | 38              |
+| Department of State Headquarters           | 27              |
+| Centers for Disease Control and Prevention | 26              |
 | U.S. Mint                                  | 23              |
-| Federal Highway Administration             | 18              |
+| Air National Guard Units                   | 19              |
+| Centers for Medicare & Medicaid Services   | 18              |
 
 <!-- STATS_END -->
