@@ -172,7 +172,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-09**
+> Last updated: **2026-08-10**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
@@ -198,9 +198,9 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Social Security Administration             | 38              |
 | Internal Revenue Service                   | 38              |
 | Department of State Headquarters           | 27              |
-| Centers for Disease Control and Prevention | 26              |
+| Centers for Disease Control and Prevention | 25              |
 | U.S. Mint                                  | 23              |
 | Air National Guard Units                   | 19              |
-| Centers for Medicare & Medicaid Services   | 18              |
+| Centers for Medicare & Medicaid Services   | 19              |
 
 <!-- STATS_END -->
