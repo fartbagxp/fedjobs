@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-12**
+> Last updated: **2026-08-13**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **12,837** |
-| Currently active positions        | **1,224**  |
+| Currently active positions        | **1,225**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 28              |
-| 1550   | Computer Science (1550)     | 39              |
-| 1560   | Data Science (1560)         | 20              |
+| 0854   | Computer Engineering (0854) | 25              |
+| 1550   | Computer Science (1550)     | 40              |
+| 1560   | Data Science (1560)         | 18              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 251             |
-| Federal Aviation Administration            | 206             |
-| Indian Health Service                      | 173             |
-| Internal Revenue Service                   | 62              |
+| Federal Aviation Administration            | 209             |
+| Indian Health Service                      | 177             |
+| Internal Revenue Service                   | 65              |
 | Social Security Administration             | 38              |
-| Department of State Headquarters           | 27              |
+| Department of State Headquarters           | 29              |
 | U.S. Mint                                  | 22              |
 | Air National Guard Units                   | 21              |
-| Centers for Disease Control and Prevention | 21              |
-| Centers for Medicare & Medicaid Services   | 19              |
+| Centers for Disease Control and Prevention | 19              |
+| Centers for Medicare & Medicaid Services   | 16              |
 
 <!-- STATS_END -->
