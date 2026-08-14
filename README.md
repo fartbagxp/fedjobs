@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-13**
+> Last updated: **2026-08-14**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **12,920** |
-| Currently active positions        | **1,225**  |
+| Currently active positions        | **1,229**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 25              |
-| 1550   | Computer Science (1550)     | 40              |
+| 1550   | Computer Science (1550)     | 41              |
 | 1560   | Data Science (1560)         | 18              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 251             |
-| Federal Aviation Administration            | 209             |
-| Indian Health Service                      | 177             |
-| Internal Revenue Service                   | 65              |
+| Federal Aviation Administration            | 206             |
+| Indian Health Service                      | 180             |
+| Internal Revenue Service                   | 66              |
 | Social Security Administration             | 38              |
-| Department of State Headquarters           | 29              |
+| Department of State Headquarters           | 36              |
 | U.S. Mint                                  | 22              |
-| Air National Guard Units                   | 21              |
-| Centers for Disease Control and Prevention | 19              |
-| Centers for Medicare & Medicaid Services   | 16              |
+| Air National Guard Units                   | 20              |
+| U.S. Army Cyber Command                    | 18              |
+| Centers for Disease Control and Prevention | 18              |
 
 <!-- STATS_END -->
