@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-14**
+> Last updated: **2026-08-15**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **13,004** |
-| Currently active positions        | **1,229**  |
+| Currently active positions        | **1,231**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 25              |
-| 1550   | Computer Science (1550)     | 41              |
-| 1560   | Data Science (1560)         | 18              |
+| 0854   | Computer Engineering (0854) | 26              |
+| 1550   | Computer Science (1550)     | 39              |
+| 1560   | Data Science (1560)         | 13              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 251             |
-| Federal Aviation Administration            | 206             |
+| Federal Aviation Administration            | 207             |
 | Indian Health Service                      | 180             |
-| Internal Revenue Service                   | 66              |
-| Social Security Administration             | 38              |
-| Department of State Headquarters           | 36              |
-| U.S. Mint                                  | 22              |
-| Air National Guard Units                   | 20              |
-| U.S. Army Cyber Command                    | 18              |
-| Centers for Disease Control and Prevention | 18              |
+| Internal Revenue Service                   | 70              |
+| Department of State Headquarters           | 37              |
+| Social Security Administration             | 37              |
+| Centers for Disease Control and Prevention | 20              |
+| Air National Guard Units                   | 19              |
+| U.S. Mint                                  | 19              |
+| Federal Highway Administration             | 19              |
 
 <!-- STATS_END -->
