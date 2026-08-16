@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-15**
+> Last updated: **2026-08-16**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **13,115** |
-| Currently active positions        | **1,231**  |
+| Currently active positions        | **1,203**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 26              |
-| 1550   | Computer Science (1550)     | 39              |
-| 1560   | Data Science (1560)         | 13              |
+| 0854   | Computer Engineering (0854) | 25              |
+| 1550   | Computer Science (1550)     | 37              |
+| 1560   | Data Science (1560)         | 11              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 251             |
-| Federal Aviation Administration            | 207             |
-| Indian Health Service                      | 180             |
-| Internal Revenue Service                   | 70              |
-| Department of State Headquarters           | 37              |
+| Federal Aviation Administration            | 204             |
+| Indian Health Service                      | 182             |
+| Internal Revenue Service                   | 55              |
 | Social Security Administration             | 37              |
-| Centers for Disease Control and Prevention | 20              |
-| Air National Guard Units                   | 19              |
+| Department of State Headquarters           | 32              |
+| Federal Highway Administration             | 22              |
+| Air National Guard Units                   | 20              |
 | U.S. Mint                                  | 19              |
-| Federal Highway Administration             | 19              |
+| Centers for Disease Control and Prevention | 18              |
 
 <!-- STATS_END -->
