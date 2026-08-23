@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-22**
+> Last updated: **2026-08-23**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **13,657** |
-| Currently active positions        | **1,245**  |
+| Currently active positions        | **1,221**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 30              |
-| 1550   | Computer Science (1550)     | 46              |
-| 1560   | Data Science (1560)         | 16              |
+| 0854   | Computer Engineering (0854) | 28              |
+| 1550   | Computer Science (1550)     | 44              |
+| 1560   | Data Science (1560)         | 17              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                           | Active Postings |
 | -------------------------------- | --------------- |
 | Veterans Health Administration   | 251             |
-| Federal Aviation Administration  | 199             |
-| Indian Health Service            | 193             |
-| Internal Revenue Service         | 80              |
-| Social Security Administration   | 40              |
-| Department of State Headquarters | 36              |
-| U.S. Army Cyber Command          | 23              |
-| Federal Highway Administration   | 21              |
-| Air National Guard Units         | 19              |
+| Indian Health Service            | 203             |
+| Federal Aviation Administration  | 202             |
+| Internal Revenue Service         | 67              |
+| Social Security Administration   | 39              |
+| Department of State Headquarters | 35              |
+| Air National Guard Units         | 21              |
+| Federal Highway Administration   | 20              |
+| U.S. Army Cyber Command          | 18              |
 | Naval Sea Systems Command        | 17              |
 
 <!-- STATS_END -->
