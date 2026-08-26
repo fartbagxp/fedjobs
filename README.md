@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-25**
+> Last updated: **2026-08-26**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **13,812** |
-| Currently active positions        | **1,253**  |
+| Currently active positions        | **1,250**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 31              |
-| 1550   | Computer Science (1550)     | 52              |
-| 1560   | Data Science (1560)         | 24              |
+| 0854   | Computer Engineering (0854) | 30              |
+| 1550   | Computer Science (1550)     | 48              |
+| 1560   | Data Science (1560)         | 23              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
-| Agency                           | Active Postings |
-| -------------------------------- | --------------- |
-| Veterans Health Administration   | 251             |
-| Federal Aviation Administration  | 203             |
-| Indian Health Service            | 197             |
-| Internal Revenue Service         | 82              |
-| Social Security Administration   | 39              |
-| Department of State Headquarters | 35              |
-| Air National Guard Units         | 20              |
-| National Institutes of Health    | 20              |
-| U.S. Army Cyber Command          | 20              |
-| Federal Highway Administration   | 20              |
+| Agency                             | Active Postings |
+| ---------------------------------- | --------------- |
+| Veterans Health Administration     | 251             |
+| Federal Aviation Administration    | 209             |
+| Indian Health Service              | 195             |
+| Internal Revenue Service           | 85              |
+| Department of State Headquarters   | 39              |
+| Social Security Administration     | 39              |
+| Air National Guard Units           | 20              |
+| National Institutes of Health      | 18              |
+| Naval Sea Systems Command          | 18              |
+| Defense Information Systems Agency | 16              |
 
 <!-- STATS_END -->

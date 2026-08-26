@@ -2,6 +2,7 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 COMPUTER ENGINEER,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,56763,88225,0854,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/847080100
 ENGINEERING,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,55486,99314,0801,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846773600
 Software Developer/Data Scientist (Interdisciplinary) - Direct Hire Authority,"Air Force Elements, U.S. Strategic Command","Dahlgren, Virginia",DR,101103,158756,0854,2026-05-26,2026-09-22,https://www.usajobs.gov:443/job/870514400
+Computer Engineer (Cybersecurity),Bureau of the Fiscal Service,"Birmingham, Alabama",GS,106437,158322,0854,2026-08-25,2026-08-29,https://www.usajobs.gov:443/job/881847700
 Interdisciplinary Engineer,Defense Contract Management Agency,"McKinney, Texas",GS,97307,126502,0801,2026-08-21,2026-09-14,https://www.usajobs.gov:443/job/881639000
 Interdisciplinary (CYBER),Defense Information Systems Agency,"Scott AFB, Illinois",GG,115475,157818,0854,2026-08-13,2026-08-26,https://www.usajobs.gov:443/job/880404000
 Interdisciplinary (Cyber),Defense Information Systems Agency,"Fort Meade, Maryland",GG,143913,187093,0854,2026-08-19,2026-08-29,https://www.usajobs.gov:443/job/881099800
@@ -10,7 +11,6 @@ Computer Engineer,Department of the Air Force Headquarters,"Eielson AFB, Alaska"
 Engineering,Department of the Air Force Headquarters,"Salt Lake City, Utah",GS,22584,164301,0801,2026-03-31,2027-03-30,https://www.usajobs.gov:443/job/863288600
 Engineering and Architecture Family,Department of the Air Force Headquarters,"Salt Lake City, Utah",NH,22584,164301,0801,2026-03-30,2027-03-29,https://www.usajobs.gov:443/job/863064100
 Public Notice for Computer Engineer (Direct Hire),Federal Aviation Administration,"Belgium, Belgium",FV,53528,173980,0854,2026-02-24,2027-02-23,https://www.usajobs.gov:443/job/858636600
-Computer Engineer (Voice Engineer),Internal Revenue Service,"Fresno, California",GS,147945,197200,0854,2026-08-18,2026-08-24,https://www.usajobs.gov:443/job/880991800
 Computer Engineer (Voice Engineer),Internal Revenue Service,"Fresno, California",GS,125776,192694,0854,2026-08-20,2026-08-26,https://www.usajobs.gov:443/job/881265600
 INTERDISCIPLINARY ENGINEER,Naval Air Systems Command,"China Lake, California",DP,104349,161313,0801,2026-08-11,2026-11-10,https://www.usajobs.gov:443/job/879918500
 INTERDISCIPLINARY ENGINEER,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-07-15,2027-01-13,https://www.usajobs.gov:443/job/876707200
@@ -23,8 +23,7 @@ ENGINEER or SCIENTIST,Naval Sea Systems Command,"Naval Base Newport, Rhode Islan
 ENGINEER or SCIENTIST,Naval Sea Systems Command,"Naval Base Newport, Rhode Island",ND,101375,156715,0830,2026-08-24,2026-08-28,https://www.usajobs.gov:443/job/881482800
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,46610,158322,0854,2026-02-17,2027-02-15,https://www.usajobs.gov:443/job/857832800
 Engineer,Naval Sea Systems Command,"San Diego, California",ND,102246,158062,0830,2026-08-18,2026-08-28,https://www.usajobs.gov:443/job/880834200
-INTERDISCIPLINARY ENGINEER/SCIENTIST,Organization of the Joint Chiefs of Staff,"Suffolk, Virginia",GS,127646,165945,0801,2026-08-13,2026-08-24,https://www.usajobs.gov:443/job/880531500
-Interdisciplinary (Automated Controls and Cyber Security),U.S. Army Corps of Engineers,"Portland, Oregon",GS,114684,157607,0850,2026-08-05,2026-08-25,https://www.usajobs.gov:443/job/879445500
+Interdisciplinary (Automated Controls and Cyber Security),U.S. Army Corps of Engineers,"Portland, Oregon",GS,114684,157607,0850,2026-08-05,2026-08-26,https://www.usajobs.gov:443/job/879445500
 Interdisciplinary,U.S. Army Cyber Command,"Wiesbaden, Germany",GG,131841,180186,0854,2026-08-21,2026-08-31,https://www.usajobs.gov:443/job/881389000
 GENERAL ENGINEER,U.S. Marine Corps,"Quantico, Virginia",NH,102415,158322,0801,2026-07-29,2026-09-29,https://www.usajobs.gov:443/job/878498000
 GENERAL ENGINEER,U.S. Marine Corps,"Quantico, Virginia",NH,102415,158322,0801,2026-07-29,2026-09-30,https://www.usajobs.gov:443/job/878549000
