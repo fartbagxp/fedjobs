@@ -2,9 +2,7 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Lackland AFB, Texas",GG,79735,126275,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846773800
 COMPUTER SCIENTIST,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,56763,88225,1550,2025-10-01,2026-09-30,https://www.usajobs.gov:443/job/852682400
 Computer Scientist,Air Force Civilian Career Training,"Gunter AFB, Alabama",GS,56763,99314,1550,2025-09-29,2026-09-28,https://www.usajobs.gov:443/job/846731400
-Computer Scientist- DIRECT HIRE AUTHORITY,"Air Force Elements, U.S. Strategic Command","Dahlgren, Virginia",DR,101103,158756,1550,2026-08-13,2026-08-27,https://www.usajobs.gov:443/job/880498200
 Software Developer/Data Scientist (Interdisciplinary) - Direct Hire Authority,"Air Force Elements, U.S. Strategic Command","Dahlgren, Virginia",DR,101103,158756,0854,2026-05-26,2026-09-22,https://www.usajobs.gov:443/job/870514400
-Computer Scientist-Direct Hire Authority,Air Force Materiel Command,"Edwards AFB, California",NH,104349,161313,1550,2026-07-27,2026-08-27,https://www.usajobs.gov:443/job/878038400
 COMPUTER SCIENTIST (AI INNOVATION LEAD),Defense Counterintelligence and Security Agency,"Fort Meade, Maryland",GG,167446,197200,1550,2026-08-24,2026-09-07,https://www.usajobs.gov:443/job/881861500
 COMPUTER SCIENTIST (ENTERPRISE ARCHITECT),Defense Counterintelligence and Security Agency,"Fort Meade, Maryland",GG,169279,197200,1550,2026-08-24,2026-09-02,https://www.usajobs.gov:443/job/881802100
 Computer Scientist (Cyber) - CES Recent Graduate,Defense Information Systems Agency,"Letterkenny Army Depot, Pennsylvania",GG,57736,158322,1550,2026-08-25,2026-09-02,https://www.usajobs.gov:443/job/881951700
@@ -18,12 +16,13 @@ Computer Scientist,Government Publishing Office,"Washington, District of Columbi
 Computer Scientist,Government Publishing Office,"Washington, District of Columbia",PG,121785,158322,1550,2026-08-12,2026-09-02,https://www.usajobs.gov:443/job/880176100
 Computer Scientist Cybersecurity,Internal Revenue Service,"Homewood, Alabama",GS,125776,197200,1550,2026-08-21,2026-09-01,https://www.usajobs.gov:443/job/881700300
 "AI Standards Coordinator, Interdisciplinary ZP-0101-IV/V ZP-1550-IV/V",National Institute of Standards and Technology,"Gaithersburg, Maryland",ZP,121785,187093,0101,2026-08-17,2026-08-31,https://www.usajobs.gov:443/job/880637700
+Genomics Bioinformatician,National Institute of Standards and Technology,"Gaithersburg, Maryland",ZP,85447,133142,0401,2026-08-28,2026-09-03,https://www.usajobs.gov:443/job/882435000
 Principal Researcher for AI Risk Management,National Institute of Standards and Technology,"Boulder, Colorado",ZP,118675,197200,0101,2026-08-20,2026-09-02,https://www.usajobs.gov:443/job/881334900
 High Performance Computing Digital Design Engineering - Mid to Experienced Level (Maryland),National Security Agency/Central Security Service,"Fort Meade, Maryland",GG,105262,192764,1550,2026-08-17,2026-08-31,https://www.usajobs.gov:443/job/880877200
 INTERDISCIPLINARY ENGINEER,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0801,2026-07-15,2027-01-13,https://www.usajobs.gov:443/job/876707200
 INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,143913,197200,0850,2026-06-25,2026-12-24,https://www.usajobs.gov:443/job/874477700
 INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,143913,197200,0801,2026-08-26,2026-09-01,https://www.usajobs.gov:443/job/881556100
-SUPERVISORY INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Point Mugu, California",NM,124085,190627,0801,2026-08-17,2026-08-27,https://www.usajobs.gov:443/job/880184200
+SUPERVISORY INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"San Diego, California",DP,143677,186785,0854,2026-08-28,2026-08-31,https://www.usajobs.gov:443/job/882217800
 INTERDISCIPLINARY,Naval Intelligence Activity,"National Maritime Intelligence Center, Maryland",GG,81901,111935,0801,2026-08-07,2026-09-08,https://www.usajobs.gov:443/job/879817700
 COOPERATIVE ENGAGEMENT CAPABILITY SYSTEMS ENGINEER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,69923,156755,0801,2025-10-21,2026-10-20,https://www.usajobs.gov:443/job/848468700
 DIRECTOR FOR USW NEXT GENERATION WEAPONS AND DEFENSIVE SYSTEMS,Naval Sea Systems Command,"Naval Base Newport, Rhode Island",ND,192695,209600,0830,2026-08-07,2026-08-28,https://www.usajobs.gov:443/job/879774200
@@ -37,6 +36,7 @@ ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,1567
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,0801,2025-11-04,2026-11-03,https://www.usajobs.gov:443/job/849247100
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,46610,158322,0854,2026-02-17,2027-02-15,https://www.usajobs.gov:443/job/857832800
 MANAGER,Naval Sea Systems Command,"Keyport, Washington",ND,141367,197200,0801,2026-08-26,2026-09-08,https://www.usajobs.gov:443/job/882129900
+MANAGER,Naval Sea Systems Command,"Naval Surface Warfare Center, Maryland",ND,143913,197200,0801,2026-08-27,2026-09-09,https://www.usajobs.gov:443/job/882398100
 SCIENTIST,Naval Sea Systems Command,"Naval Base Newport, Rhode Island",ND,101375,156715,1550,2026-08-21,2026-09-03,https://www.usajobs.gov:443/job/881521700
 SCIENTIST,Naval Sea Systems Command,"Naval Base Newport, Rhode Island",ND,101375,156715,1550,2026-08-25,2026-09-09,https://www.usajobs.gov:443/job/881629100
 SOFTWARE DEVELOPER,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,1550,2025-10-22,2026-10-21,https://www.usajobs.gov:443/job/848520700

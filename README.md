@@ -172,18 +172,18 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-27**
+> Last updated: **2026-08-28**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **14,002** |
-| Currently active positions        | **1,256**  |
+| Currently active positions        | **1,259**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 29              |
+| 0854   | Computer Engineering (0854) | 33              |
 | 1550   | Computer Science (1550)     | 48              |
 | 1560   | Data Science (1560)         | 24              |
 | 2210   | IT Management (2210)        | 250             |
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 251             |
-| Federal Aviation Administration          | 208             |
-| Indian Health Service                    | 192             |
-| Internal Revenue Service                 | 84              |
-| Department of State Headquarters         | 41              |
-| Social Security Administration           | 39              |
-| Centers for Medicare & Medicaid Services | 23              |
-| Air National Guard Units                 | 19              |
-| Naval Sea Systems Command                | 19              |
-| National Institutes of Health            | 18              |
+| Federal Aviation Administration          | 207             |
+| Indian Health Service                    | 195             |
+| Internal Revenue Service                 | 87              |
+| Department of State Headquarters         | 38              |
+| Social Security Administration           | 38              |
+| Naval Sea Systems Command                | 20              |
+| Centers for Medicare & Medicaid Services | 19              |
+| Air National Guard Units                 | 18              |
+| Defense Information Systems Agency       | 18              |
 
 <!-- STATS_END -->
