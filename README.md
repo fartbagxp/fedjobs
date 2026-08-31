@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-30**
+> Last updated: **2026-08-31**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **14,207** |
-| Currently active positions        | **1,247**  |
+| Currently active positions        | **1,244**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 32              |
-| 1550   | Computer Science (1550)     | 45              |
+| 0854   | Computer Engineering (0854) | 31              |
+| 1550   | Computer Science (1550)     | 44              |
 | 1560   | Data Science (1560)         | 22              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 251             |
-| Federal Aviation Administration          | 203             |
-| Indian Health Service                    | 200             |
-| Internal Revenue Service                 | 85              |
+| Federal Aviation Administration          | 204             |
+| Indian Health Service                    | 201             |
+| Internal Revenue Service                 | 84              |
 | Social Security Administration           | 37              |
 | Department of State Headquarters         | 36              |
-| Centers for Medicare & Medicaid Services | 19              |
 | Air National Guard Units                 | 18              |
-| Defense Information Systems Agency       | 17              |
+| Centers for Medicare & Medicaid Services | 18              |
 | U.S. Marine Corps                        | 17              |
+| Naval Sea Systems Command                | 15              |
 
 <!-- STATS_END -->
