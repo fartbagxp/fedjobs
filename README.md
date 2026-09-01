@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-08-31**
+> Last updated: **2026-09-01**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **14,230** |
-| Currently active positions        | **1,244**  |
+| Currently active positions        | **1,272**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 31              |
-| 1550   | Computer Science (1550)     | 44              |
-| 1560   | Data Science (1560)         | 22              |
+| 0854   | Computer Engineering (0854) | 33              |
+| 1550   | Computer Science (1550)     | 47              |
+| 1560   | Data Science (1560)         | 24              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 251             |
 | Federal Aviation Administration          | 204             |
-| Indian Health Service                    | 201             |
-| Internal Revenue Service                 | 84              |
+| Indian Health Service                    | 202             |
+| Internal Revenue Service                 | 102             |
+| Department of State Headquarters         | 40              |
 | Social Security Administration           | 37              |
-| Department of State Headquarters         | 36              |
 | Air National Guard Units                 | 18              |
 | Centers for Medicare & Medicaid Services | 18              |
 | U.S. Marine Corps                        | 17              |
-| Naval Sea Systems Command                | 15              |
+| National Institutes of Health            | 16              |
 
 <!-- STATS_END -->
