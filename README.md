@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-01**
+> Last updated: **2026-09-02**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **14,353** |
-| Currently active positions        | **1,272**  |
+| Currently active positions        | **1,267**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 33              |
-| 1550   | Computer Science (1550)     | 47              |
-| 1560   | Data Science (1560)         | 24              |
+| 1550   | Computer Science (1550)     | 42              |
+| 1560   | Data Science (1560)         | 26              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 251             |
-| Federal Aviation Administration          | 204             |
-| Indian Health Service                    | 202             |
-| Internal Revenue Service                 | 102             |
-| Department of State Headquarters         | 40              |
+| Veterans Health Administration           | 250             |
+| Federal Aviation Administration          | 206             |
+| Indian Health Service                    | 201             |
+| Internal Revenue Service                 | 100             |
+| Department of State Headquarters         | 39              |
 | Social Security Administration           | 37              |
-| Air National Guard Units                 | 18              |
-| Centers for Medicare & Medicaid Services | 18              |
-| U.S. Marine Corps                        | 17              |
-| National Institutes of Health            | 16              |
+| Air National Guard Units                 | 21              |
+| Centers for Medicare & Medicaid Services | 19              |
+| National Institutes of Health            | 17              |
+| U.S. Marine Corps                        | 16              |
 
 <!-- STATS_END -->
