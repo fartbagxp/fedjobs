@@ -172,7 +172,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-02**
+> Last updated: **2026-09-03**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
@@ -184,23 +184,23 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 33              |
-| 1550   | Computer Science (1550)     | 42              |
-| 1560   | Data Science (1560)         | 26              |
+| 1550   | Computer Science (1550)     | 43              |
+| 1560   | Data Science (1560)         | 23              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
-| Agency                                   | Active Postings |
-| ---------------------------------------- | --------------- |
-| Veterans Health Administration           | 250             |
-| Federal Aviation Administration          | 206             |
-| Indian Health Service                    | 201             |
-| Internal Revenue Service                 | 100             |
-| Department of State Headquarters         | 39              |
-| Social Security Administration           | 37              |
-| Air National Guard Units                 | 21              |
-| Centers for Medicare & Medicaid Services | 19              |
-| National Institutes of Health            | 17              |
-| U.S. Marine Corps                        | 16              |
+| Agency                             | Active Postings |
+| ---------------------------------- | --------------- |
+| Veterans Health Administration     | 250             |
+| Federal Aviation Administration    | 211             |
+| Indian Health Service              | 210             |
+| Internal Revenue Service           | 93              |
+| Department of State Headquarters   | 41              |
+| Social Security Administration     | 37              |
+| Air National Guard Units           | 21              |
+| Naval Sea Systems Command          | 17              |
+| Defense Information Systems Agency | 15              |
+| Naval Air Systems Command          | 15              |
 
 <!-- STATS_END -->
