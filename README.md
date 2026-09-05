@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-04**
+> Last updated: **2026-09-05**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **14,630** |
-| Currently active positions        | **1,277**  |
+| Currently active positions        | **1,281**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 38              |
-| 1550   | Computer Science (1550)     | 43              |
-| 1560   | Data Science (1560)         | 23              |
+| 0854   | Computer Engineering (0854) | 39              |
+| 1550   | Computer Science (1550)     | 50              |
+| 1560   | Data Science (1560)         | 21              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                             | Active Postings |
 | ---------------------------------- | --------------- |
 | Veterans Health Administration     | 250             |
-| Federal Aviation Administration    | 211             |
-| Indian Health Service              | 210             |
-| Internal Revenue Service           | 100             |
+| Indian Health Service              | 211             |
+| Federal Aviation Administration    | 209             |
+| Internal Revenue Service           | 96              |
 | Department of State Headquarters   | 40              |
-| Social Security Administration     | 37              |
+| Social Security Administration     | 35              |
 | Air National Guard Units           | 21              |
-| Defense Information Systems Agency | 15              |
-| Naval Air Systems Command          | 15              |
-| Naval Sea Systems Command          | 15              |
+| Defense Information Systems Agency | 21              |
+| Naval Air Systems Command          | 16              |
+| Naval Sea Systems Command          | 16              |
 
 <!-- STATS_END -->
