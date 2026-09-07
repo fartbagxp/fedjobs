@@ -172,7 +172,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-06**
+> Last updated: **2026-09-07**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
