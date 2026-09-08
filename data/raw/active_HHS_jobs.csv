@@ -1,5 +1,4 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
-Data Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,1560,2026-09-02,2026-09-06,https://www.usajobs.gov:443/job/882835500
 Epidemiologist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,112556,146325,0601,2026-09-02,2026-09-11,https://www.usajobs.gov:443/job/882998700
 Management Officer,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0301,2026-09-01,2026-09-07,https://www.usajobs.gov:443/job/882794400
 Research Microbiologist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0403,2026-08-31,2026-09-07,https://www.usajobs.gov:443/job/882762100
@@ -27,7 +26,6 @@ Supervisory Social Science Research Analyst,Centers for Medicare & Medicaid Serv
 Supervisory Budget Analyst,Food and Drug Administration,"Rockville, Maryland",RC,169279,232306,0560,2026-09-01,2026-09-10,https://www.usajobs.gov:443/job/882894700
 Administrative Officer,Health Resources and Services Administration,"Rockville, Maryland",GS,126384,164301,0341,2026-08-27,2026-09-08,https://www.usajobs.gov:443/job/882084400
 Accounting Technician,Indian Health Service,"Shiprock, New Mexico",GS,45409,65599,0525,2026-08-13,2026-09-10,https://www.usajobs.gov:443/job/880391300
-Acquisition Program Support Specialist,Indian Health Service,"Salem, Oregon",GS,74678,104610,0301,2026-08-17,2026-09-06,https://www.usajobs.gov:443/job/880894700
 Administrative Officer,Indian Health Service,"Lame Deer, Montana",GS,89508,116362,0341,2026-09-01,2026-09-21,https://www.usajobs.gov:443/job/874367300
 Administrative Support Assistant,Indian Health Service,"Kayenta, Arizona",GS,50460,65599,0303,2026-08-26,2026-09-09,https://www.usajobs.gov:443/job/882323600
 Administrative/Office Support Assistant,Indian Health Service,"Red Lake, Minnesota",GS,40736,59031,0303,2026-08-31,2026-09-14,https://www.usajobs.gov:443/job/876015900
@@ -203,8 +201,8 @@ Supervisory Clinical Laboratory Scientist,Indian Health Service,"Warm Springs, O
 Supervisory Dental Assistant (EF),Indian Health Service,"Gallup, New Mexico",GS,60627,78812,0681,2026-08-21,2026-09-18,https://www.usajobs.gov:443/job/881668000
 Supervisory Diagnostic Radiologic Technologist,Indian Health Service,"Browning, Montana",GS,78386,101897,0647,2026-08-27,2026-09-25,https://www.usajobs.gov:443/job/882401500
 Supervisory Diagnostic Radiologic Technologist,Indian Health Service,"Eagle Butte, South Dakota",GS,78386,101897,0647,2026-07-09,2026-09-10,https://www.usajobs.gov:443/job/872508500
-Supervisory Environmental Engineer (Deputy Director for Management Operations),Indian Health Service,"Saint Michaels, Arizona",GS,119112,154847,0819,2026-08-07,2026-09-07,https://www.usajobs.gov:443/job/879615600
-Supervisory Environmental Engineer (Deputy Director for Management Operations),Indian Health Service,"Saint Michaels, Arizona",GS,119112,154847,0819,2026-08-07,2026-09-07,https://www.usajobs.gov:443/job/879617600
+Supervisory Environmental Engineer (Deputy Director for Management Operations),Indian Health Service,"Saint Michaels, Arizona",GS,119112,154847,0819,2026-08-07,2026-09-21,https://www.usajobs.gov:443/job/879615600
+Supervisory Environmental Engineer (Deputy Director for Management Operations),Indian Health Service,"Saint Michaels, Arizona",GS,119112,154847,0819,2026-08-07,2026-09-21,https://www.usajobs.gov:443/job/879617600
 Supervisory General Engineer,Indian Health Service,"Polacca, Arizona",GS,106437,138370,0801,2026-08-26,2026-09-15,https://www.usajobs.gov:443/job/882351300
 Supervisory Health System Specialist,Indian Health Service,"Mescalero, New Mexico",GS,75489,98141,0671,2026-08-28,2026-09-14,https://www.usajobs.gov:443/job/867496000
 Supervisory Medical Records Administration Specialist,Indian Health Service,"Fort Yates, North Dakota",GS,89508,116362,0669,2026-08-24,2026-09-07,https://www.usajobs.gov:443/job/881796700
@@ -230,10 +228,13 @@ X-Ray Technologist (CT),Indian Health Service,"Camp Verde, Arizona",GS,64924,932
 Animal Facility Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,0301,2026-09-01,2026-09-07,https://www.usajobs.gov:443/job/881379400
 Animal Facility Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,0301,2026-09-01,2026-09-07,https://www.usajobs.gov:443/job/881379500
 ETHICS PROGRAM SPECIALIST,National Institutes of Health,"Montgomery County, Maryland",GS,70623,133142,0301,2026-09-04,2026-09-08,https://www.usajobs.gov:443/job/882786000
+Lead Program Specialist (Protocol),National Institutes of Health,"Montgomery County, Maryland",GS,121785,158322,0301,2026-09-07,2026-09-11,https://www.usajobs.gov:443/job/883138700
 Mechanical Engineer,National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,0830,2026-08-31,2026-09-09,https://www.usajobs.gov:443/job/882251100
 Mechanical Engineer,National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,0830,2026-08-31,2026-09-09,https://www.usajobs.gov:443/job/882252200
 Nurse (Clinical Research),National Institutes of Health,"Bethesda, Maryland",GS,85532,120051,0610,2026-08-10,2026-12-31,https://www.usajobs.gov:443/job/879129100
+Supervisory Engineering Technician,National Institutes of Health,"Montgomery County, Maryland",GS,121785,158322,0802,2026-09-04,2026-09-14,https://www.usajobs.gov:443/job/883427800
 Supervisory Program Specialist,National Institutes of Health,"Durham, North Carolina",GS,131342,170750,0301,2026-09-02,2026-09-08,https://www.usajobs.gov:443/job/883035600
+Supervisory Administrative Officer,Office of Inspector General,"Washington, District of Columbia",GS,143913,187093,0341,2026-09-04,2026-09-14,https://www.usajobs.gov:443/job/883411600
 ATTORNEY-ADVISER (GENERAL),Office of the Secretary of Health and Human Services,"San Francisco, California",GS,63795,139684,0905,2026-08-25,2026-09-30,https://www.usajobs.gov:443/job/881725300
 Attorney Adviser,Office of the Secretary of Health and Human Services,"Denver, Colorado",GS,147945,192331,0905,2026-03-26,2026-09-30,https://www.usajobs.gov:443/job/862590000
 Attorney Advisor (Procurement),Office of the Secretary of Health and Human Services,"Denver, Colorado",GS,126384,164301,0905,2026-09-03,2026-09-14,https://www.usajobs.gov:443/job/883128600
@@ -247,5 +248,4 @@ General Attorney and Senior Attorney,Office of the Secretary of Health and Human
 Health Attache-Mexico,Office of the Secretary of Health and Human Services,"Mexico City, Mexico",GS,154972,197200,0301,2026-08-27,2026-09-09,https://www.usajobs.gov:443/job/882309400
 Health Attache-Mexico,Office of the Secretary of Health and Human Services,"Mexico City, Mexico",GS,154972,197200,0301,2026-08-27,2026-09-08,https://www.usajobs.gov:443/job/882310500
 Management and Program Analyst,Office of the Secretary of Health and Human Services,"San Francisco, California",GS,107446,139684,0343,2026-09-03,2026-09-07,https://www.usajobs.gov:443/job/882855900
-Supervisory IT Specialist (Applications Software),Office of the Secretary of Health and Human Services,"Phoenix, Arizona",GS,107446,139684,2210,2026-08-31,2026-09-09,https://www.usajobs.gov:443/job/882406400
 Supervisory Logistics Management Specialist,Program Support Center,"Perry Point, Maryland",GS,143913,187093,0346,2026-09-02,2026-09-07,https://www.usajobs.gov:443/job/881263700
