@@ -177,15 +177,15 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **14,941** |
-| Currently active positions        | **1,251**  |
+| Currently active positions        | **1,232**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 34              |
-| 1550   | Computer Science (1550)     | 44              |
-| 1560   | Data Science (1560)         | 20              |
+| 0854   | Computer Engineering (0854) | 29              |
+| 1550   | Computer Science (1550)     | 39              |
+| 1560   | Data Science (1560)         | 13              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
-| Federal Aviation Administration          | 209             |
-| Indian Health Service                    | 205             |
-| Internal Revenue Service                 | 87              |
-| Department of State Headquarters         | 36              |
+| Indian Health Service                    | 208             |
+| Federal Aviation Administration          | 202             |
+| Internal Revenue Service                 | 82              |
+| Department of State Headquarters         | 37              |
 | Social Security Administration           | 25              |
-| Air National Guard Units                 | 19              |
-| Centers for Medicare & Medicaid Services | 17              |
-| Naval Sea Systems Command                | 16              |
-| Defense Information Systems Agency       | 15              |
+| Air National Guard Units                 | 20              |
+| Defense Information Systems Agency       | 16              |
+| Centers for Medicare & Medicaid Services | 16              |
+| U.S. Army Cyber Command                  | 15              |
 
 <!-- STATS_END -->
