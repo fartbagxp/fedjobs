@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-11**
+> Last updated: **2026-09-12**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,099** |
-| Currently active positions        | **1,238**  |
+| Currently active positions        | **1,243**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 28              |
-| 1550   | Computer Science (1550)     | 40              |
-| 1560   | Data Science (1560)         | 13              |
+| 0854   | Computer Engineering (0854) | 30              |
+| 1550   | Computer Science (1550)     | 41              |
+| 1560   | Data Science (1560)         | 14              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                             | Active Postings |
 | ---------------------------------- | --------------- |
 | Veterans Health Administration     | 250             |
-| Indian Health Service              | 206             |
-| Federal Aviation Administration    | 202             |
-| Internal Revenue Service           | 78              |
-| Department of State Headquarters   | 39              |
+| Indian Health Service              | 207             |
+| Federal Aviation Administration    | 201             |
+| Internal Revenue Service           | 81              |
+| Department of State Headquarters   | 37              |
+| Air National Guard Units           | 26              |
 | Social Security Administration     | 25              |
-| Air National Guard Units           | 22              |
-| Bureau of the Fiscal Service       | 17              |
-| National Institutes of Health      | 16              |
-| Defense Information Systems Agency | 15              |
+| Defense Information Systems Agency | 17              |
+| Bureau of the Fiscal Service       | 16              |
+| Office of Personnel Management     | 16              |
 
 <!-- STATS_END -->
