@@ -20,6 +20,7 @@ Chief Hematology/Oncology,Veterans Health Administration,"Bronx, New York",VM,28
 Clinical Dietetic Technician,Veterans Health Administration,"Fargo, North Dakota",GS,40736,65599,0640,2026-03-26,2026-09-25,https://www.usajobs.gov:443/job/862805100
 Clinical Laboratory Scientist,Veterans Health Administration,"Pensacola, Florida",GS,61004,117374,0644,2026-02-19,2026-09-30,https://www.usajobs.gov:443/job/858210400
 Clinical Laboratory Scientist (Ancillary Testing Coordinator),Veterans Health Administration,"Providence, Rhode Island",GS,107583,139861,0644,2026-04-16,2026-09-30,https://www.usajobs.gov:443/job/865557400
+Contact Representative,Veterans Health Administration,"Fort Riley, Kansas",GS,34799,56039,0962,2026-04-20,2026-09-30,https://www.usajobs.gov:443/job/865823300
 Contact Representative,Veterans Health Administration,"Smyrna, Georgia",GS,34799,50428,0962,2026-03-02,2027-03-01,https://www.usajobs.gov:443/job/859395100
 Contact Representative,Veterans Health Administration,"Smyrna, Georgia",GS,45409,69371,0962,2026-04-01,2027-03-31,https://www.usajobs.gov:443/job/863411600
 Creative Arts Therapist (Art),Veterans Health Administration,"Memphis, Tennessee",GS,61722,97087,0638,2026-02-04,2026-09-30,https://www.usajobs.gov:443/job/856565600
@@ -59,7 +60,6 @@ Food Service Worker,Veterans Health Administration,"Muskogee, Oklahoma",WG,19.89
 Food Service Worker,Veterans Health Administration,"Oklahoma City, Oklahoma",WG,18.95,22.09,7408,2025-10-29,2026-09-30,https://www.usajobs.gov:443/job/849106300
 Food Service Worker,Veterans Health Administration,"Portland, Oregon",WG,24.59,28.68,7408,2025-12-09,2026-09-30,https://www.usajobs.gov:443/job/851930300
 Food Service Worker,Veterans Health Administration,"Providence, Rhode Island",WG,21.4,24.96,7408,2025-10-31,2026-09-21,https://www.usajobs.gov:443/job/849268600
-GASTROENTEROLOGIST,Veterans Health Administration,"Columbia, Missouri",VM,390000,400000,0602,2026-03-25,2026-09-11,https://www.usajobs.gov:443/job/862469900
 Gastroenterologist Physician (Regular Ft),Veterans Health Administration,"Huntington, West Virginia",VM,300000,400000,0602,2025-10-10,2026-09-30,https://www.usajobs.gov:443/job/847964200
 Health Technician (Hearing Instrument Specialist),Veterans Health Administration,"Pensacola, Florida",GS,40332,58445,0640,2025-12-01,2026-09-30,https://www.usajobs.gov:443/job/851202600
 Health Technician (Hearing Instrument Specialist),Veterans Health Administration,"San Antonio, Texas",GS,40142,58174,0640,2025-10-06,2026-10-02,https://www.usajobs.gov:443/job/847467600
@@ -74,7 +74,6 @@ Housekeeping Aid,Veterans Health Administration,"Grand Junction, Colorado",WG,18
 Housekeeping Aid,Veterans Health Administration,"Muskogee, Oklahoma",WG,17.78,20.54,3566,2025-10-22,2026-09-30,https://www.usajobs.gov:443/job/848640100
 Housekeeping Aid,Veterans Health Administration,"Oklahoma City, Oklahoma",WG,18.95,22.09,3566,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849218100
 Housekeeping Aid - Environmental Services Technician,Veterans Health Administration,"Montrose, New York",WG,21.62,25.23,3566,2026-03-06,2026-09-25,https://www.usajobs.gov:443/job/860204800
-Housekeeping Aid- Environmental Services (EVS) Technician,Veterans Health Administration,"White River Junction, Vermont",WG,19.54,22.79,3566,2026-04-16,2026-09-11,https://www.usajobs.gov:443/job/865591400
 ICU fee basis Physician,Veterans Health Administration,"Albuquerque, New Mexico",FB,3200,3200,0602,2026-01-01,2026-12-31,https://www.usajobs.gov:443/job/847434900
 Intermediate Care Technician,Veterans Health Administration,"Carrollton, Kentucky",GS,49960,64952,0640,2025-10-06,2026-09-30,https://www.usajobs.gov:443/job/847548000
 Lead Medical Laboratory Technician,Veterans Health Administration,"Dallas, Texas",GS,56107,72940,0645,2026-03-24,2027-01-04,https://www.usajobs.gov:443/job/862270100
@@ -85,6 +84,7 @@ Licensed Professional Mental Health Counselor- Suicide Prevention Case Manager,V
 Marriage and Family Therapist (BHIP),Veterans Health Administration,"Corpus Christi, Texas",GS,63476,99835,0182,2025-10-16,2026-09-15,https://www.usajobs.gov:443/job/848309500
 Medical Instrument Technician (Anesthesia),Veterans Health Administration,"Las Vegas, Nevada",GS,56515,73475,0649,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849192200
 Medical Instrument Technician (Cardiac Cath Lab Tech),Veterans Health Administration,"San Antonio, Texas",GS,82154,106806,0649,2026-01-08,2027-01-07,https://www.usajobs.gov:443/job/853644000
+Medical Instrument Technician (Diagnostic Ultrasound),Veterans Health Administration,"Augusta, Georgia",GS,58892,94215,0649,2026-04-20,2026-09-30,https://www.usajobs.gov:443/job/865893400
 Medical Instrument Technician (Diagnostic Ultrasound),Veterans Health Administration,"Grand Forks, North Dakota",GS,61722,80243,0649,2026-04-09,2026-09-18,https://www.usajobs.gov:443/job/864530200
 Medical Instrument Technician (Diagnostic Ultrasound),Veterans Health Administration,"Grand Forks, North Dakota",GS,61722,80243,0649,2026-04-09,2026-09-18,https://www.usajobs.gov:443/job/864530400
 Medical Instrument Technician (Diagnostic Ultrasound),Veterans Health Administration,"Madison, Wisconsin",GS,63928,115838,0649,2026-02-23,2026-09-30,https://www.usajobs.gov:443/job/858564500
@@ -132,7 +132,6 @@ Physician (Endocrinology),Veterans Health Administration,"Jacksonville, Florida"
 Physician (Gastroenterologist),Veterans Health Administration,"Jacksonville, Florida",VM,291593,400000,0602,2026-02-03,2026-12-31,https://www.usajobs.gov:443/job/856299900
 Physician (Gastroenterology),Veterans Health Administration,"Miami, Florida",VM,360000,400000,0602,2026-03-16,2026-12-31,https://www.usajobs.gov:443/job/861357400
 Physician (General Surgery),Veterans Health Administration,"Jacksonville, Florida",VM,252638,400000,0602,2026-04-17,2026-12-31,https://www.usajobs.gov:443/job/865728800
-Physician (Geriatrics) - Section Chief,Veterans Health Administration,"Miami, Florida",VM,292794,350000,0602,2026-02-20,2026-09-11,https://www.usajobs.gov:443/job/858234500
 Physician (Geriatrics)- Community Living Center,Veterans Health Administration,"Lake City, Florida",VM,228000,290000,0602,2026-02-05,2026-12-31,https://www.usajobs.gov:443/job/856699200
 Physician (HBPC Medical Director),Veterans Health Administration,"Tuskegee, Alabama",VM,200000,320000,0602,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851777600
 Physician (Hematology/Oncology),Veterans Health Administration,"Miami, Florida",VM,300000,400000,0602,2026-01-12,2026-12-31,https://www.usajobs.gov:443/job/854140200
@@ -185,10 +184,12 @@ Physician-Dermatology,Veterans Health Administration,"Charleston, South Carolina
 Physician-Primary Care,Veterans Health Administration,"Clermont, Florida",VM,230000,315000,0602,2026-01-01,2026-09-30,https://www.usajobs.gov:443/job/853453000
 Physician-Primary Care (Daytona Beach),Veterans Health Administration,"Daytona Beach, Florida",VM,230000,315000,0602,2026-01-29,2026-09-30,https://www.usajobs.gov:443/job/855886400
 Physician-Primary Care (Viera/Palm Bay),Veterans Health Administration,"Palm Bay, Florida",VM,230000,315000,0602,2026-01-29,2026-09-30,https://www.usajobs.gov:443/job/855884700
-Police Officer,Veterans Health Administration,"Anchorage, Alaska",GS,45409,98335,0083,2026-04-17,2026-09-11,https://www.usajobs.gov:443/job/865753000
+Podiatrist (General),Veterans Health Administration,"Montgomery, Alabama",VM,124308,315000,0668,2026-04-21,2026-09-30,https://www.usajobs.gov:443/job/865935800
 Primary Care Physician,Veterans Health Administration,"Georgetown, Ohio",VM,235000,255000,0602,2026-03-12,2026-12-31,https://www.usajobs.gov:443/job/860850900
 Primary Care Physician (Middletown RI - CBOC) EDRP Authorized,Veterans Health Administration,"Middletown, Rhode Island",VM,220000,250000,0602,2026-04-02,2026-09-30,https://www.usajobs.gov:443/job/863566300
 Primary Care Physician EDRP Authorized,Veterans Health Administration,"Providence, Rhode Island",VM,220000,250000,0602,2025-10-29,2026-09-30,https://www.usajobs.gov:443/job/849173100
+Primary Care Physician-Fee Basis,Veterans Health Administration,"Lee County, Florida",FB,40,186,0602,2026-04-20,2026-12-31,https://www.usajobs.gov:443/job/865851000
+Primary Care Physician-Fee Basis,Veterans Health Administration,"Sebring, Florida",FB,40,186,0602,2026-04-20,2026-12-31,https://www.usajobs.gov:443/job/865848400
 Psychiatrist- Mental Health Intensive Case Management,Veterans Health Administration,"Chesapeake County, Virginia",VM,265000,275000,0602,2026-01-07,2026-09-30,https://www.usajobs.gov:443/job/853835800
 Psychologist,Veterans Health Administration,"Bay Pines, Florida",GS,144298,187590,0180,2026-03-23,2026-12-31,https://www.usajobs.gov:443/job/862059100
 Psychologist,Veterans Health Administration,"Bronx, New York",GS,100202,185663,0180,2026-03-19,2027-03-17,https://www.usajobs.gov:443/job/862510600
@@ -231,7 +232,6 @@ Staff Physical Therapist - EDRP Approved,Veterans Health Administration,"Abilene
 Staff Physician - Ophthalmologist (Glaucoma Specialist),Veterans Health Administration,"Columbia, South Carolina",VM,123077,400000,0602,2025-12-10,2026-09-30,https://www.usajobs.gov:443/job/852038000
 Staff Psychologist,Veterans Health Administration,"Des Moines, Iowa",GS,74678,150852,0180,2026-04-14,2026-09-30,https://www.usajobs.gov:443/job/865116400
 Staff Psychologist,Veterans Health Administration,"Lyons, New Jersey",GS,101204,187519,0180,2026-03-24,2026-09-30,https://www.usajobs.gov:443/job/862268700
-Staff Psychologist,Veterans Health Administration,"Mobile, Alabama",GS,86123,159575,0180,2026-03-11,2026-09-11,https://www.usajobs.gov:443/job/861018000
 Staff Psychologist,Veterans Health Administration,"Tampa, Florida",GS,95374,176715,0180,2026-04-07,2026-10-16,https://www.usajobs.gov:443/job/864140900
 Staff Psychologist (BHIP),Veterans Health Administration,"Memphis, Tennessee",GS,147890,192259,0180,2026-04-15,2026-09-30,https://www.usajobs.gov:443/job/865356200
 "Staff Psychologist (BHIP) -  EDRP, Recruitment/Relocation Incentive Authorized",Veterans Health Administration,"Corpus Christi, Texas",GS,83280,154309,0180,2025-10-09,2026-10-08,https://www.usajobs.gov:443/job/847931400
