@@ -172,7 +172,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-13**
+> Last updated: **2026-09-14**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
-| Federal Aviation Administration          | 203             |
+| Federal Aviation Administration          | 204             |
 | Indian Health Service                    | 196             |
 | Internal Revenue Service                 | 68              |
 | Department of State Headquarters         | 35              |
-| Air National Guard Units                 | 26              |
+| Air National Guard Units                 | 25              |
 | Social Security Administration           | 24              |
 | Centers for Medicare & Medicaid Services | 18              |
-| Defense Information Systems Agency       | 17              |
+| Defense Information Systems Agency       | 16              |
 | National Institutes of Health            | 16              |
 
 <!-- STATS_END -->
