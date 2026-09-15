@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-14**
+> Last updated: **2026-09-15**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,212** |
-| Currently active positions        | **1,214**  |
+| Currently active positions        | **1,250**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 30              |
-| 1550   | Computer Science (1550)     | 39              |
-| 1560   | Data Science (1560)         | 12              |
+| 0854   | Computer Engineering (0854) | 33              |
+| 1550   | Computer Science (1550)     | 45              |
+| 1560   | Data Science (1560)         | 13              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
 | Federal Aviation Administration          | 204             |
-| Indian Health Service                    | 196             |
-| Internal Revenue Service                 | 68              |
-| Department of State Headquarters         | 35              |
-| Air National Guard Units                 | 25              |
+| Indian Health Service                    | 199             |
+| Internal Revenue Service                 | 84              |
+| Department of State Headquarters         | 39              |
+| Air National Guard Units                 | 24              |
 | Social Security Administration           | 24              |
-| Centers for Medicare & Medicaid Services | 18              |
-| Defense Information Systems Agency       | 16              |
-| National Institutes of Health            | 16              |
+| National Institutes of Health            | 19              |
+| Defense Information Systems Agency       | 18              |
+| Centers for Medicare & Medicaid Services | 17              |
 
 <!-- STATS_END -->
