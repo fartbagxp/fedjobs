@@ -172,12 +172,12 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-16**
+> Last updated: **2026-09-17**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,434** |
-| Currently active positions        | **1,251**  |
+| Currently active positions        | **1,255**  |
 
 ### Active Positions by Job Series
 
@@ -185,7 +185,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 33              |
 | 1550   | Computer Science (1550)     | 41              |
-| 1560   | Data Science (1560)         | 18              |
+| 1560   | Data Science (1560)         | 20              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
-| Federal Aviation Administration          | 206             |
-| Indian Health Service                    | 203             |
-| Internal Revenue Service                 | 81              |
+| Federal Aviation Administration          | 208             |
+| Indian Health Service                    | 206             |
+| Internal Revenue Service                 | 79              |
 | Department of State Headquarters         | 42              |
-| Air National Guard Units                 | 27              |
+| Air National Guard Units                 | 28              |
 | Social Security Administration           | 25              |
 | Centers for Medicare & Medicaid Services | 24              |
-| Defense Information Systems Agency       | 16              |
-| U.S. Army Cyber Command                  | 15              |
+| Naval Sea Systems Command                | 17              |
+| Office of Personnel Management           | 17              |
 
 <!-- STATS_END -->
