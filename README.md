@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-17**
+> Last updated: **2026-09-18**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,528** |
-| Currently active positions        | **1,255**  |
+| Currently active positions        | **1,270**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 33              |
-| 1550   | Computer Science (1550)     | 41              |
+| 0854   | Computer Engineering (0854) | 31              |
+| 1550   | Computer Science (1550)     | 40              |
 | 1560   | Data Science (1560)         | 20              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
-| Federal Aviation Administration          | 208             |
+| Federal Aviation Administration          | 209             |
 | Indian Health Service                    | 206             |
-| Internal Revenue Service                 | 79              |
-| Department of State Headquarters         | 42              |
-| Air National Guard Units                 | 28              |
+| Internal Revenue Service                 | 81              |
+| Department of State Headquarters         | 43              |
+| Air National Guard Units                 | 30              |
 | Social Security Administration           | 25              |
-| Centers for Medicare & Medicaid Services | 24              |
-| Naval Sea Systems Command                | 17              |
-| Office of Personnel Management           | 17              |
+| Centers for Medicare & Medicaid Services | 22              |
+| Office of Personnel Management           | 21              |
+| Naval Sea Systems Command                | 19              |
 
 <!-- STATS_END -->
