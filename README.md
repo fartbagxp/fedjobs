@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-19**
+> Last updated: **2026-09-20**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,708** |
-| Currently active positions        | **1,272**  |
+| Currently active positions        | **1,233**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 32              |
-| 1550   | Computer Science (1550)     | 42              |
-| 1560   | Data Science (1560)         | 22              |
+| 0854   | Computer Engineering (0854) | 31              |
+| 1550   | Computer Science (1550)     | 39              |
+| 1560   | Data Science (1560)         | 20              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
-| Agency                                     | Active Postings |
-| ------------------------------------------ | --------------- |
-| Veterans Health Administration             | 250             |
-| Federal Aviation Administration            | 206             |
-| Indian Health Service                      | 203             |
-| Internal Revenue Service                   | 80              |
-| Department of State Headquarters           | 45              |
-| Air National Guard Units                   | 29              |
-| Social Security Administration             | 25              |
-| Naval Sea Systems Command                  | 21              |
-| Office of Personnel Management             | 20              |
-| Centers for Disease Control and Prevention | 19              |
+| Agency                                   | Active Postings |
+| ---------------------------------------- | --------------- |
+| Veterans Health Administration           | 250             |
+| Federal Aviation Administration          | 207             |
+| Indian Health Service                    | 204             |
+| Internal Revenue Service                 | 63              |
+| Department of State Headquarters         | 38              |
+| Air National Guard Units                 | 28              |
+| Social Security Administration           | 25              |
+| Naval Sea Systems Command                | 22              |
+| Centers for Medicare & Medicaid Services | 18              |
+| Office of Personnel Management           | 18              |
 
 <!-- STATS_END -->
