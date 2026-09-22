@@ -46,8 +46,6 @@ Diagnostic Radiologic Technologist (MRI),Veterans Health Administration,"Birming
 Diagnostic Radiologic Technologist - CT,Veterans Health Administration,"Madison, Wisconsin",GS,56061,110441,0647,2026-02-05,2026-09-30,https://www.usajobs.gov:443/job/856653600
 Diagnostic Radiologic Technologist - CT,Veterans Health Administration,"Madison, Wisconsin",GS,56061,110441,0647,2026-02-05,2026-09-30,https://www.usajobs.gov:443/job/856653700
 Diagnostic Radiologic Technologist - Cath Lab,Veterans Health Administration,"Oklahoma City, Oklahoma",GS,86636,112633,0647,2026-04-07,2026-09-25,https://www.usajobs.gov:443/job/864273300
-Diagnostic Radiologic Technologist - General Radiologic Technology,Veterans Health Administration,"Oklahoma City, Oklahoma",GS,57178,101966,0647,2026-04-17,2026-09-30,https://www.usajobs.gov:443/job/866085000
-Diagnostic Radiologic Technologist - General Radiologic Technology,Veterans Health Administration,"Oklahoma City, Oklahoma",GS,57178,101966,0647,2026-04-17,2026-09-30,https://www.usajobs.gov:443/job/866095100
 Diagnostic Radiologic Technologist - General Radiologic Technology,Veterans Health Administration,"Wichita Falls, Texas",GS,40736,72644,0647,2026-04-17,2026-09-30,https://www.usajobs.gov:443/job/866099900
 Diagnostic Radiologic Technologist -Computed Tomography,Veterans Health Administration,"Gainesville, Florida",GS,72220,93884,0647,2026-01-23,2026-12-31,https://www.usajobs.gov:443/job/855380400
 Dietitian (Clinical),Veterans Health Administration,"Tacoma, Washington",GS,56715,109122,0630,2026-03-04,2026-09-30,https://www.usajobs.gov:443/job/859759900
@@ -82,8 +80,10 @@ Housekeeping Aid - Environmental Services Technician,Veterans Health Administrat
 ICU fee basis Physician,Veterans Health Administration,"Albuquerque, New Mexico",FB,3200,3200,0602,2026-01-01,2026-12-31,https://www.usajobs.gov:443/job/847434900
 Intermediate Care Technician,Veterans Health Administration,"Carrollton, Kentucky",GS,49960,64952,0640,2025-10-06,2026-09-30,https://www.usajobs.gov:443/job/847548000
 Lead Medical Laboratory Technician,Veterans Health Administration,"Dallas, Texas",GS,56107,72940,0645,2026-03-24,2027-01-04,https://www.usajobs.gov:443/job/862270100
+Licensed Professional Mental Health Counselor (BHIP),Veterans Health Administration,"Corpus Christi, Texas",GS,63476,99835,0183,2025-10-16,2026-10-15,https://www.usajobs.gov:443/job/848309600
 Licensed Professional Mental Health Counselor (BHIP),Veterans Health Administration,"Memphis, Tennessee",GS,89508,116362,0183,2026-04-15,2026-09-30,https://www.usajobs.gov:443/job/865355900
 Licensed Professional Mental Health Counselor- Suicide Prevention Case Manager,Veterans Health Administration,"Spokane, Washington",GS,66383,104419,0183,2026-03-23,2026-09-30,https://www.usajobs.gov:443/job/862237500
+Marriage and Family Therapist (BHIP),Veterans Health Administration,"Corpus Christi, Texas",GS,63476,99835,0182,2025-10-16,2026-10-15,https://www.usajobs.gov:443/job/848309500
 Medical Instrument Technician (Anesthesia),Veterans Health Administration,"Las Vegas, Nevada",GS,56515,73475,0649,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849192200
 Medical Instrument Technician (Cardiac Cath Lab Tech),Veterans Health Administration,"San Antonio, Texas",GS,82154,106806,0649,2026-01-08,2027-01-07,https://www.usajobs.gov:443/job/853644000
 Medical Instrument Technician (Diagnostic Ultrasound),Veterans Health Administration,"Augusta, Georgia",GS,58892,94215,0649,2026-04-20,2026-09-30,https://www.usajobs.gov:443/job/865893400
@@ -133,7 +133,7 @@ Physician (General Surgery),Veterans Health Administration,"Jacksonville, Florid
 Physician (Geriatrics)- Community Living Center,Veterans Health Administration,"Lake City, Florida",VM,228000,290000,0602,2026-02-05,2026-12-31,https://www.usajobs.gov:443/job/856699200
 Physician (HBPC Medical Director),Veterans Health Administration,"Tuskegee, Alabama",VM,200000,320000,0602,2025-12-05,2026-09-30,https://www.usajobs.gov:443/job/851777600
 Physician (Hematology/Oncology),Veterans Health Administration,"Miami, Florida",VM,300000,400000,0602,2026-01-12,2026-12-31,https://www.usajobs.gov:443/job/854140200
-Physician (Hospitalist),Veterans Health Administration,"Gainesville, Florida",VM,225845,315000,0602,2026-04-16,2026-12-31,https://www.usajobs.gov:443/job/865493800
+Physician (Hospitalist),Veterans Health Administration,"Gainesville, Florida",VM,225845,315000,0602,2026-04-16,2026-09-21,https://www.usajobs.gov:443/job/865493800
 Physician (Infectious Disease),Veterans Health Administration,"West Palm Beach, Florida",VM,216727,400000,0602,2026-02-24,2026-12-31,https://www.usajobs.gov:443/job/858685000
 Physician (Ophthalmologist),Veterans Health Administration,"Columbia, Missouri",AD,300000,375000,0602,2025-10-06,2026-10-01,https://www.usajobs.gov:443/job/847512000
 Physician (Ophthalmology),Veterans Health Administration,"The Villages, Florida",VM,251283,400000,0602,2026-04-17,2026-12-31,https://www.usajobs.gov:443/job/865617000
@@ -141,8 +141,8 @@ Physician (Orthopedic Spine Surgeon),Veterans Health Administration,"Cincinnati,
 Physician (Orthopedic Surgery),Veterans Health Administration,"Gainesville, Florida",VM,325000,400000,0602,2026-01-27,2026-12-31,https://www.usajobs.gov:443/job/855658200
 Physician (Part-Time Urologist),Veterans Health Administration,"Augusta, Georgia",VM,350000,400000,0602,2026-02-24,2026-09-30,https://www.usajobs.gov:443/job/858856300
 Physician (Pathologist),Veterans Health Administration,"Cincinnati, Ohio",VM,270000,400000,0602,2026-04-08,2026-12-31,https://www.usajobs.gov:443/job/864270100
-Physician (Pathology),Veterans Health Administration,"Gainesville, Florida",VM,250000,400000,0602,2026-03-17,2026-12-31,https://www.usajobs.gov:443/job/861457900
-Physician (Pathology),Veterans Health Administration,"Gainesville, Florida",VM,250000,400000,0602,2026-03-18,2026-12-31,https://www.usajobs.gov:443/job/861570400
+Physician (Pathology),Veterans Health Administration,"Gainesville, Florida",VM,250000,400000,0602,2026-03-17,2026-09-21,https://www.usajobs.gov:443/job/861457900
+Physician (Pathology),Veterans Health Administration,"Gainesville, Florida",VM,250000,400000,0602,2026-03-18,2026-09-21,https://www.usajobs.gov:443/job/861570400
 Physician (Primary Care CBOC),Veterans Health Administration,"Newnan, Georgia",VM,124308,315000,0602,2026-03-25,2026-09-30,https://www.usajobs.gov:443/job/862488500
 Physician (Primary Care),Veterans Health Administration,"Cincinnati, Ohio",VM,225000,250000,0602,2026-01-14,2026-12-31,https://www.usajobs.gov:443/job/854523700
 Physician (Primary Care),Veterans Health Administration,"Lake City, Florida",VM,225000,315000,0602,2026-04-15,2026-09-30,https://www.usajobs.gov:443/job/865197000
@@ -182,9 +182,9 @@ Physician-Primary Care (Daytona Beach),Veterans Health Administration,"Daytona B
 Physician-Primary Care (Viera/Palm Bay),Veterans Health Administration,"Palm Bay, Florida",VM,230000,315000,0602,2026-01-29,2026-09-30,https://www.usajobs.gov:443/job/855884700
 Podiatrist (General),Veterans Health Administration,"Montgomery, Alabama",VM,124308,315000,0668,2026-04-21,2026-09-30,https://www.usajobs.gov:443/job/865935800
 Podiatrist (Surgery Rearfoot/Ankle),Veterans Health Administration,"Fresno, California",GS,200000,255000,0668,2026-04-21,2026-09-25,https://www.usajobs.gov:443/job/866107800
+Practical Nurse,Veterans Health Administration,"Goose Creek, South Carolina",GS,42670,67574,0620,2026-04-28,2026-09-21,https://www.usajobs.gov:443/job/867006100
 Primary Care Physician,Veterans Health Administration,"Georgetown, Ohio",VM,235000,255000,0602,2026-03-12,2026-12-31,https://www.usajobs.gov:443/job/860850900
 Primary Care Physician,Veterans Health Administration,"Topeka, Kansas",VM,250000,315000,0602,2026-04-28,2026-10-14,https://www.usajobs.gov:443/job/866921300
-Primary Care Physician (Middletown RI - CBOC) EDRP Authorized,Veterans Health Administration,"Middletown, Rhode Island",VM,220000,250000,0602,2026-04-02,2026-09-30,https://www.usajobs.gov:443/job/863566300
 Primary Care Physician EDRP Authorized,Veterans Health Administration,"Providence, Rhode Island",VM,220000,250000,0602,2025-10-29,2026-09-30,https://www.usajobs.gov:443/job/849173100
 Primary Care Physician-Fee Basis,Veterans Health Administration,"Lee County, Florida",FB,40,186,0602,2026-04-20,2026-12-31,https://www.usajobs.gov:443/job/865851000
 Primary Care Physician-Fee Basis,Veterans Health Administration,"Sebring, Florida",FB,40,186,0602,2026-04-20,2026-12-31,https://www.usajobs.gov:443/job/865848400

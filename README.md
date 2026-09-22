@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-21**
+> Last updated: **2026-09-22**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,765** |
-| Currently active positions        | **1,233**  |
+| Currently active positions        | **1,267**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 31              |
+| 0854   | Computer Engineering (0854) | 33              |
 | 1550   | Computer Science (1550)     | 39              |
-| 1560   | Data Science (1560)         | 20              |
+| 1560   | Data Science (1560)         | 22              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
 | Federal Aviation Administration          | 207             |
-| Indian Health Service                    | 204             |
-| Internal Revenue Service                 | 63              |
-| Department of State Headquarters         | 38              |
-| Air National Guard Units                 | 28              |
+| Indian Health Service                    | 194             |
+| Internal Revenue Service                 | 75              |
+| Department of State Headquarters         | 45              |
+| National Institutes of Health            | 27              |
+| Air National Guard Units                 | 26              |
 | Social Security Administration           | 25              |
 | Naval Sea Systems Command                | 22              |
-| Centers for Medicare & Medicaid Services | 18              |
-| Office of Personnel Management           | 18              |
+| Centers for Medicare & Medicaid Services | 19              |
 
 <!-- STATS_END -->
