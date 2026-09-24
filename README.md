@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-23**
+> Last updated: **2026-09-24**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **15,950** |
-| Currently active positions        | **1,265**  |
+| Currently active positions        | **1,269**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 33              |
-| 1550   | Computer Science (1550)     | 41              |
-| 1560   | Data Science (1560)         | 20              |
+| 0854   | Computer Engineering (0854) | 30              |
+| 1550   | Computer Science (1550)     | 44              |
+| 1560   | Data Science (1560)         | 17              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 250             |
-| Federal Aviation Administration          | 204             |
-| Indian Health Service                    | 200             |
-| Internal Revenue Service                 | 78              |
-| Department of State Headquarters         | 44              |
+| Federal Aviation Administration          | 207             |
+| Indian Health Service                    | 202             |
+| Internal Revenue Service                 | 81              |
+| Department of State Headquarters         | 43              |
 | Air National Guard Units                 | 27              |
-| Social Security Administration           | 25              |
-| Naval Sea Systems Command                | 22              |
-| Centers for Medicare & Medicaid Services | 20              |
+| Naval Sea Systems Command                | 26              |
+| Social Security Administration           | 26              |
+| Centers for Medicare & Medicaid Services | 22              |
 | National Institutes of Health            | 20              |
 
 <!-- STATS_END -->
