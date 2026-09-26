@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-09-25**
+> Last updated: **2026-09-26**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **16,124** |
-| Currently active positions        | **1,268**  |
+| Currently active positions        | **1,278**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 30              |
-| 1550   | Computer Science (1550)     | 45              |
-| 1560   | Data Science (1560)         | 13              |
+| 0854   | Computer Engineering (0854) | 31              |
+| 1550   | Computer Science (1550)     | 50              |
+| 1560   | Data Science (1560)         | 14              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
-| Veterans Health Administration             | 250             |
-| Federal Aviation Administration            | 207             |
-| Indian Health Service                      | 204             |
-| Internal Revenue Service                   | 84              |
+| Veterans Health Administration             | 251             |
+| Federal Aviation Administration            | 205             |
+| Indian Health Service                      | 198             |
+| Internal Revenue Service                   | 85              |
 | Department of State Headquarters           | 44              |
-| Naval Sea Systems Command                  | 27              |
-| Air National Guard Units                   | 26              |
+| Air National Guard Units                   | 28              |
+| Naval Sea Systems Command                  | 28              |
 | Social Security Administration             | 26              |
-| Centers for Disease Control and Prevention | 22              |
-| National Institutes of Health              | 22              |
+| National Institutes of Health              | 24              |
+| Centers for Disease Control and Prevention | 23              |
 
 <!-- STATS_END -->
