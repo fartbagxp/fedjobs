@@ -1,5 +1,4 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
-ANESTHESIOLOGIST PHYSICIAN,Veterans Health Administration,"Leavenworth, Kansas",VM,325000,400000,0602,2026-04-28,2026-10-13,https://www.usajobs.gov:443/job/866933400
 Advanced Diagnostic Radiologic Technologist (MRI/CT/X-Ray),Veterans Health Administration,"Fredericksburg, Virginia",GS,101894,132457,0647,2025-10-22,2026-09-30,https://www.usajobs.gov:443/job/848616300
 Advanced Diagnostic Radiologic Technologist (MRI/CT/X-Ray),Veterans Health Administration,"Richmond, Virginia",GS,96328,125220,0647,2026-03-25,2026-09-30,https://www.usajobs.gov:443/job/862523500
 Advanced Diagnostic Radiologic Technologist - Multi Modality,Veterans Health Administration,"East Orange, New Jersey",GS,85528,111181,0647,2026-02-17,2026-09-30,https://www.usajobs.gov:443/job/857865000
@@ -26,7 +25,7 @@ Chiropractor,Veterans Health Administration,"Gainesville, Florida",VP,73939,1904
 Clinical Laboratory Scientist,Veterans Health Administration,"Pensacola, Florida",GS,61004,117374,0644,2026-02-19,2026-09-30,https://www.usajobs.gov:443/job/858210400
 Clinical Laboratory Scientist (Ancillary Testing Coordinator),Veterans Health Administration,"Providence, Rhode Island",GS,107583,139861,0644,2026-04-16,2026-09-30,https://www.usajobs.gov:443/job/865557400
 Contact Representative,Veterans Health Administration,"Fort Riley, Kansas",GS,34799,56039,0962,2026-04-20,2026-09-30,https://www.usajobs.gov:443/job/865823300
-Contact Representative,Veterans Health Administration,"Smyrna, Georgia",GS,34799,50428,0962,2026-03-02,2027-03-01,https://www.usajobs.gov:443/job/859395100
+Contact Representative,Veterans Health Administration,"Smyrna, Georgia",GS,34799,50428,0962,2026-03-02,2026-09-30,https://www.usajobs.gov:443/job/859395100
 Contact Representative,Veterans Health Administration,"Smyrna, Georgia",GS,45409,69371,0962,2026-04-01,2027-03-31,https://www.usajobs.gov:443/job/863411600
 Creative Arts Therapist (Art),Veterans Health Administration,"Memphis, Tennessee",GS,61722,97087,0638,2026-02-04,2026-09-30,https://www.usajobs.gov:443/job/856565600
 Dental Assistant,Veterans Health Administration,"Columbia, Missouri",GS,49929,64905,0681,2026-01-12,2026-12-31,https://www.usajobs.gov:443/job/854142800
@@ -84,7 +83,6 @@ Lead Medical Laboratory Technician,Veterans Health Administration,"Dallas, Texas
 Licensed Practical Nurse,Veterans Health Administration,"Tacoma, Washington",GS,54931,85535,0620,2026-04-28,2026-09-28,https://www.usajobs.gov:443/job/867095500
 Licensed Professional Mental Health Counselor (BHIP),Veterans Health Administration,"Corpus Christi, Texas",GS,63476,99835,0183,2025-10-16,2026-10-15,https://www.usajobs.gov:443/job/848309600
 Licensed Professional Mental Health Counselor (BHIP),Veterans Health Administration,"Memphis, Tennessee",GS,89508,116362,0183,2026-04-15,2026-09-30,https://www.usajobs.gov:443/job/865355900
-Licensed Professional Mental Health Counselor- Suicide Prevention Case Manager,Veterans Health Administration,"Spokane, Washington",GS,66383,104419,0183,2026-03-23,2026-09-30,https://www.usajobs.gov:443/job/862237500
 Marriage and Family Therapist (BHIP),Veterans Health Administration,"Corpus Christi, Texas",GS,63476,99835,0182,2025-10-16,2026-10-15,https://www.usajobs.gov:443/job/848309500
 Medical Instrument Technician (Anesthesia),Veterans Health Administration,"Las Vegas, Nevada",GS,56515,73475,0649,2025-10-30,2026-09-30,https://www.usajobs.gov:443/job/849192200
 Medical Instrument Technician (Cardiac Cath Lab Tech),Veterans Health Administration,"San Antonio, Texas",GS,82154,106806,0649,2026-01-08,2027-01-07,https://www.usajobs.gov:443/job/853644000
@@ -110,6 +108,7 @@ Nursing Assistant - Float (Intermittent) Open Continuous Announcement,Veterans H
 Optometrist,Veterans Health Administration,"Gainesville, Florida",VP,73939,190424,0662,2026-04-29,2026-12-31,https://www.usajobs.gov:443/job/867192000
 Optometrist (Chief of Optometry),Veterans Health Administration,"Montgomery, Alabama",VM,124308,315000,0662,2026-04-27,2026-09-30,https://www.usajobs.gov:443/job/866665000
 Orthotist/Prosthetist,Veterans Health Administration,"Muskogee, Oklahoma",GS,40736,97087,0667,2026-04-17,2026-09-30,https://www.usajobs.gov:443/job/865627600
+PHYSICIAN ASSISTANT,Veterans Health Administration,"Gainesville, Florida",VN,96159,161249,0603,2026-04-30,2026-12-31,https://www.usajobs.gov:443/job/867500200
 PHYSICIAN CARDIOLOGIST,Veterans Health Administration,"Leavenworth, Kansas",VM,300000,400000,0602,2026-04-09,2026-10-13,https://www.usajobs.gov:443/job/864614800
 "PHYSICIAN- PRIMARY CARE COLUMBIA, MO",Veterans Health Administration,"Columbia, Missouri",VM,250000,258000,0602,2025-12-01,2026-11-20,https://www.usajobs.gov:443/job/851181700
 Pathologist,Veterans Health Administration,"Bronx, New York",VM,250000,400000,0602,2026-01-21,2027-01-20,https://www.usajobs.gov:443/job/855003100
@@ -118,6 +117,7 @@ Pharmacy Technician,Veterans Health Administration,"New Orleans, Louisiana",GS,5
 Pharmacy Technician,Veterans Health Administration,"New Orleans, Louisiana",GS,57819,99154,0661,2026-01-23,2026-09-30,https://www.usajobs.gov:443/job/855188200
 Pharmacy Technician - Multiple Inpatient Specialties,Veterans Health Administration,"Tulsa, Oklahoma",GS,66204,86070,0661,2026-04-09,2026-09-30,https://www.usajobs.gov:443/job/864600200
 Physical Therapist,Veterans Health Administration,"Memphis, Tennessee",GS,91757,114698,0633,2026-02-18,2026-09-30,https://www.usajobs.gov:443/job/857976600
+Physician,Veterans Health Administration,"Gainesville, Florida",VM,123077,400000,0602,2026-04-30,2026-12-31,https://www.usajobs.gov:443/job/867500400
 Physician (Anesthesiology),Veterans Health Administration,"Miami, Florida",VM,350000,400000,0602,2026-02-03,2026-12-31,https://www.usajobs.gov:443/job/856377600
 Physician (Anesthesiology),Veterans Health Administration,"Miami, Florida",VM,350000,400000,0602,2026-02-20,2026-12-31,https://www.usajobs.gov:443/job/856839800
 Physician (Anesthesiology),Veterans Health Administration,"Miami, Florida",VM,124000,400000,0602,2026-02-17,2026-12-31,https://www.usajobs.gov:443/job/858437100
@@ -144,7 +144,6 @@ Physician (Pathologist),Veterans Health Administration,"Cincinnati, Ohio",VM,270
 Physician (Primary Care CBOC),Veterans Health Administration,"Newnan, Georgia",VM,124308,315000,0602,2026-03-25,2026-09-30,https://www.usajobs.gov:443/job/862488500
 Physician (Primary Care),Veterans Health Administration,"Cincinnati, Ohio",VM,225000,250000,0602,2026-01-14,2026-12-31,https://www.usajobs.gov:443/job/854523700
 Physician (Primary Care),Veterans Health Administration,"Lake City, Florida",VM,225000,315000,0602,2026-04-15,2026-09-30,https://www.usajobs.gov:443/job/865197000
-"Physician (Primary Care)  Hyannis, MA CBOC- EDRP & Recruitment Incentive Authorized",Veterans Health Administration,"Hyannis, Massachusetts",VM,275000,310000,0602,2025-11-12,2026-09-30,https://www.usajobs.gov:443/job/851264000
 Physician (Primary Care) Manchester NH VAMC - Full-time - Recruitment Incentive/ EDRP Authorized,Veterans Health Administration,"Manchester, New Hampshire",VM,250000,270000,0602,2026-02-04,2026-09-30,https://www.usajobs.gov:443/job/856813200
 "Physician (Primary Care) Portsmouth, NH - Full-time - Recruitment Incentive/ EDRP Authorized",Veterans Health Administration,"Portsmouth, New Hampshire",VM,255000,275000,0602,2026-03-19,2026-09-30,https://www.usajobs.gov:443/job/861797800
 "Physician (Primary Care) Somersworth, NH - Full-time - Recruitment Incentive/ EDRP Authorized",Veterans Health Administration,"Somersworth, New Hampshire",VM,255000,275000,0602,2026-02-04,2026-09-30,https://www.usajobs.gov:443/job/856817600
@@ -166,6 +165,7 @@ Physician (Urology),Veterans Health Administration,"Tampa, Florida",VM,320000,40
 Physician - DEPUTY CHIEF OF STAFF,Veterans Health Administration,"Charleston, South Carolina",VM,300000,375000,0602,2025-10-09,2026-09-30,https://www.usajobs.gov:443/job/847862300
 Physician - Full Time Radiologist - 25 percent Incentive,Veterans Health Administration,"Phoenix, Arizona",VM,300000,400000,0602,2025-10-07,2026-09-30,https://www.usajobs.gov:443/job/847588200
 Physician - Primary Care,Veterans Health Administration,"North Charleston, South Carolina",VM,240000,300000,0602,2025-11-20,2026-09-30,https://www.usajobs.gov:443/job/850540200
+Physician - Urologist,Veterans Health Administration,"Erie, Pennsylvania",VM,320000,400000,0602,2026-05-01,2026-12-31,https://www.usajobs.gov:443/job/867536600
 Physician -Diagnostic Radiologist (Intermittent),Veterans Health Administration,"Asheville, North Carolina",AD,200000,400000,0602,2026-04-17,2026-09-30,https://www.usajobs.gov:443/job/865678200
 Physician Assistant,Veterans Health Administration,"Sutton, West Virginia",VN,135000,150000,0603,2026-04-03,2026-09-30,https://www.usajobs.gov:443/job/864170100
 Physician Assistant - Primary Care,Veterans Health Administration,"Auburn, Washington",VN,93139,176553,0603,2026-03-07,2026-09-30,https://www.usajobs.gov:443/job/860293000
@@ -200,6 +200,7 @@ Registered Nurse - Critical Care (Surgical Intensive Care Unit),Veterans Health 
 Registered Nurse - Current Permanent South Texas VAHCS Bargaining Unit Employees Only,Veterans Health Administration,"Balcones Heights, Texas",VN,85610,173974,0610,2026-04-30,2027-04-29,https://www.usajobs.gov:443/job/867382900
 Registered Nurse - Domiciliary Mental Health,Veterans Health Administration,"Walla Walla, Washington",VN,80912,145558,0610,2026-04-08,2026-09-30,https://www.usajobs.gov:443/job/864475300
 Registered Nurse - Informaticist,Veterans Health Administration,"Anchorage, Alaska",VN,91954,171975,0610,2026-02-19,2026-09-30,https://www.usajobs.gov:443/job/858301700
+Registered Nurse - Inpatient Staff,Veterans Health Administration,"Birmingham, Alabama",VN,80364,152817,0610,2026-05-01,2026-09-28,https://www.usajobs.gov:443/job/867552500
 Registered Nurse - Med-Surg and Telemetry -5 Main,Veterans Health Administration,"Lexington, Kentucky",VN,64825,127694,0610,2026-01-08,2026-09-30,https://www.usajobs.gov:443/job/853985300
 Registered Nurse - Med-Surg and Telemetry -5 Main Part-Time .9 FTE,Veterans Health Administration,"Lexington, Kentucky",AD,64825,127694,0610,2026-02-26,2026-09-30,https://www.usajobs.gov:443/job/859204800
 "Registered Nurse - Only for Current, Permanent Employees of VA North Texas Health Care System",Veterans Health Administration,"Dallas, Texas",VN,74938,74938,0610,2026-04-30,2026-12-31,https://www.usajobs.gov:443/job/867415400
@@ -223,7 +224,6 @@ Social Work- Primary Care Mental Health Integration,Veterans Health Administrati
 Social Work- Primary Care Mental Health Integration,Veterans Health Administration,"The Villages, Florida",GS,62035,110000,0185,2026-04-15,2026-12-31,https://www.usajobs.gov:443/job/865282500
 Social Worker (Program Coordinator),Veterans Health Administration,"Montgomery, Alabama",GS,92138,119782,0185,2026-04-08,2026-09-30,https://www.usajobs.gov:443/job/864419100
 Social Worker - Mental Health Residential Rehabilitation Treatment Program,Veterans Health Administration,"Anchorage, Alaska",GS,73992,116387,0185,2026-04-29,2026-09-30,https://www.usajobs.gov:443/job/867123500
-Social Worker-Suicide Prevention Case Manager,Veterans Health Administration,"Spokane, Washington",GS,67570,106285,0185,2026-03-23,2026-09-30,https://www.usajobs.gov:443/job/862236800
 Staff Dentist,Veterans Health Administration,"Columbia, South Carolina",AD,123077,315000,0680,2025-11-03,2026-09-30,https://www.usajobs.gov:443/job/849785000
 Staff Physical Therapist - EDRP Approved,Veterans Health Administration,"Abilene, Texas",GS,73939,115213,0633,2025-10-23,2026-09-30,https://www.usajobs.gov:443/job/848765500
 Staff Physician - Ophthalmologist (Glaucoma Specialist),Veterans Health Administration,"Columbia, South Carolina",VM,123077,400000,0602,2025-12-10,2026-09-30,https://www.usajobs.gov:443/job/852038000
