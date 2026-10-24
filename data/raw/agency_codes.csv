@@ -233,7 +233,7 @@ DJ01,"Offices, Boards and Divisions",DJ,,2021-04-30T11:38:49.943
 DJ02,Federal Bureau of Investigation,DJ,FBI,2021-04-30T11:38:49.953
 DJ03,Bureau of Prisons/Federal Prison System,DJ,BOP,2026-01-30T15:33:47.89
 DJ06,Drug Enforcement Administration,DJ,DEA,2021-04-30T11:38:49.973
-DJ07,Office of Justice Programs,DJ,OJP,2021-04-30T11:38:49.987
+DJ07,Bureau of Justice Grants,DJ,OJP,2026-10-09T14:41:42.783
 DJ08,U.S. Marshals Service,DJ,USMS,2021-04-30T11:38:49.997
 DJ09,Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,DJ,,2021-04-30T11:38:50.01
 DJ10,Office of the Inspector General,DJ,OIG,2024-07-19T14:34:10.947
@@ -665,7 +665,6 @@ ST32,Materiel Acquisition Support Center,ST,,2021-04-30T11:38:55.587
 ST46,Eastern Regional Personnel Center,ST,,2021-04-30T11:38:55.597
 AF20,Air Force Agency for Modeling/Simulation,AF,,2021-04-30T11:38:46.797
 ARAA,U.S. Army Accession Command,AR,,2021-04-30T11:38:47.747
-ARAP,U.S. Military Entrance Processing Command,AR,,2021-04-30T11:38:47.813
 ARCE,U.S. Army Corps of Engineers,AR,USACE,2021-04-30T11:38:47.887
 WHX1,Office of the Former President,EOP,,2021-04-30T11:38:51.167
 WHY1,Office of the President Elect,EOP,,2021-04-30T11:38:51.177
@@ -815,4 +814,5 @@ DD88,Technology Support Office,DD,TSO,2026-09-18T14:34:33.213
 DD89,Defense Innovation Unit,DD,DIU,2026-09-18T14:34:33.243
 DD90,Strategic Capabilities Office,DD,SCO,2026-09-18T14:34:33.25
 LCCC,Congressional Child Care Center,LL,HRCCC,2026-09-18T14:34:33.257
+DDAP,U.S. Military Entrance Processing Command,DD,,2026-10-02T14:36:38.413
 OT,Other Agencies and Independent Organizations,,,2021-03-29T09:28:41.693
