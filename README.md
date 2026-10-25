@@ -172,18 +172,18 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-10-24**
+> Last updated: **2026-10-25**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **17,702** |
-| Currently active positions        | **1,111**  |
+| Currently active positions        | **1,109**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 25              |
+| 0854   | Computer Engineering (0854) | 24              |
 | 1550   | Computer Science (1550)     | 30              |
 | 1560   | Data Science (1560)         | 14              |
 | 2210   | IT Management (2210)        | 250             |
