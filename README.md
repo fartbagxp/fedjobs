@@ -176,7 +176,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
-| Total unique job postings tracked | **17,704** |
+| Total unique job postings tracked | **17,755** |
 | Currently active positions        | **1,137**  |
 
 ### Active Positions by Job Series
