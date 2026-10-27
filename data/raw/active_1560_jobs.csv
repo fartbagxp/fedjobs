@@ -1,6 +1,8 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Supervisory Data Scientist,Administration for Strategic Preparedness and Response,"Washington, District of Columbia",GS,143913,187093,1560,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889422700
 Data Scientist,Air Force Civilian Career Training,"Maxwell AFB, Alabama",GS,50460,93549,1560,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887072000
+Data Scientist,Citizenship and Immigration Services,"Camp Springs, Maryland",GS,57736,91815,1560,2026-10-27,2026-11-02,https://www.usajobs.gov:443/job/890215800
+Supervisory Data Scientist,Citizenship and Immigration Services,"Camp Springs, Maryland",GS,143913,187093,1560,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/890249800
 Supervisory AI/ML Engineer,Consumer Product Safety Commission,"Washington, District of Columbia",GS,169279,197200,1560,2026-10-19,2026-10-30,https://www.usajobs.gov:443/job/889350600
 DATA SCIENTIST,Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,106437,144481,1560,2026-10-13,2026-10-27,https://www.usajobs.gov:443/job/888486300
 Data Scientist,Drug Enforcement Administration,"Arlington County, Virginia",GS,121785,158322,1560,2026-10-23,2026-11-02,https://www.usajobs.gov:443/job/890037500
@@ -13,5 +15,4 @@ DATA SCIENTIST,Naval Sea Systems Command,"Washington Navy Yard, District of Colu
 Data Scientist,U.S. Army Cyber Command,"Fort Huachuca, Arizona",GG,76095,148226,1560,2026-10-02,2026-10-27,https://www.usajobs.gov:443/job/887180300
 Data Scientist,U.S. Census Bureau,"Suitland, Maryland",GS,102415,158322,1560,2026-10-21,2026-11-04,https://www.usajobs.gov:443/job/889688200
 Data Scientist (Recent Graduate),U.S. Census Bureau,"Suitland, Maryland",GS,57736,91815,1560,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/889950600
-DATA SCIENTIST,U.S. Pacific Fleet,"Pearl Harbor, Hawaii",GS,111119,144457,1560,2026-10-16,2026-10-26,https://www.usajobs.gov:443/job/889000400
 Supervisory Data Scientist,Veterans Health Administration,"Salt Lake City, Utah",GS,107446,139684,1560,2026-10-21,2026-10-28,https://www.usajobs.gov:443/job/889599400
