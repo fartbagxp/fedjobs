@@ -1,12 +1,13 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
 Computer Scientist,Air Force Civilian Career Training,"Lackland AFB, Texas",GG,81901,129717,1550,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887034500
 Computer Scientist,Air Force Civilian Career Training,"Maxwell AFB, Alabama",GS,57331,93549,1550,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887073900
-Supervisory Computer Scientist- DIRECT HIRE AUTHORITY,"Air Force Elements, U.S. Strategic Command","Dahlgren, Virginia",DR,139539,197192,1550,2026-09-29,2026-10-27,https://www.usajobs.gov:443/job/886781200
 COMPUTER SCIENTIST,"Air Force Elements, U.S. Transportation Command","Scott AFB, Illinois",NH,91779,141880,1550,2026-10-23,2026-11-09,https://www.usajobs.gov:443/job/890033300
+COMPUTER ENGINEER/COMPUTER SCIENTIST-DIRECT HIRE AUTHORITY,Air Force Materiel Command,"Edwards AFB, California",NH,89508,138370,0854,2026-10-28,2026-11-19,https://www.usajobs.gov:443/job/890447000
 Computer Scientist/Computer Engineer-Direct Hire Authority,Air Force Materiel Command,"Edwards AFB, California",NH,89508,138370,0854,2026-10-20,2026-11-19,https://www.usajobs.gov:443/job/889252200
 Supervisory Computer Scientist-Direct Hire Authority,Air Force Materiel Command,"Edwards AFB, California",NH,104349,161313,1550,2026-09-30,2026-10-29,https://www.usajobs.gov:443/job/886781300
 ENGINEER/SCIENTIST,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",ND,102246,158062,0801,2026-10-23,2026-10-29,https://www.usajobs.gov:443/job/889823600
-SUPERVISORY ENGINEER/COMPUTER SCIENTIST/IT SPECIALIST (PLCYPLN),"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","San Diego, California",NH,143677,197200,0801,2026-10-13,2026-10-27,https://www.usajobs.gov:443/job/888282700
+SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",NM,102246,186785,0801,2026-10-28,2026-10-30,https://www.usajobs.gov:443/job/890414100
+SUPERVISOR,"Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)","Point Loma Complex, San Diego, California",NM,143677,197200,0801,2026-10-28,2026-10-30,https://www.usajobs.gov:443/job/890415200
 LEAD COMPUTER SCIENTIST,Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,125776,170736,1550,2026-10-26,2026-11-10,https://www.usajobs.gov:443/job/890077800
 COMPUTER SCIENTIST (CYBER),Defense Information Systems Agency,"Fort Meade, Maryland",GG,143913,187093,1550,2026-10-27,2026-11-03,https://www.usajobs.gov:443/job/890052900
 SUPV Interdisciplinary,Defense Information Systems Agency,"Fort Meade, Maryland",GG,169279,197200,0854,2026-10-23,2026-10-29,https://www.usajobs.gov:443/job/889685800
@@ -21,6 +22,7 @@ INTERDISCIPLINARY ENGINEER,Naval Air Systems Command,"Patuxent River, Maryland",
 INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,143913,197200,0850,2026-06-25,2026-12-24,https://www.usajobs.gov:443/job/874477700
 INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0854,2026-09-29,2027-03-29,https://www.usajobs.gov:443/job/886459500
 INTERDISCIPLINARY ENGINEER/SCIENTIST,Naval Air Systems Command,"Patuxent River, Maryland",DP,102415,158322,0850,2026-10-14,2027-04-14,https://www.usajobs.gov:443/job/888473900
+DISTINGUISHED SCIENTIST/ENGINEER FOR UNDERSEA WEAPONS PRODUCTION AND SUSTAINMENT TECHNOLOGIES,Naval Sea Systems Command,"Keyport, Washington",ND,191227,209600,0801,2026-10-28,2026-11-12,https://www.usajobs.gov:443/job/890429000
 Deputy Technical Director - Technical,Naval Sea Systems Command,"Panama City Naval Surface Warfare Center, Florida",ND,170138,209600,0801,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/889846600
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Crane, Indiana",ND,125776,192331,0801,2026-10-27,2026-11-05,https://www.usajobs.gov:443/job/890336100
 ENGINEER/SCIENTIST,Naval Sea Systems Command,"Dahlgren, Virginia",ND,101401,156755,0801,2025-11-03,2026-11-02,https://www.usajobs.gov:443/job/849215100
