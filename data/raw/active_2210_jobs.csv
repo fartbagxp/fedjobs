@@ -1,8 +1,9 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
-Information Technology Specialist (Applications Software),ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,2210,2026-10-20,2026-10-30,https://www.usajobs.gov:443/job/889246400
 Information Technology Specialist (Applications Software),ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,2210,2026-10-21,2026-11-02,https://www.usajobs.gov:443/job/889657800
 Information Technology Specialist (Applications Software),ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,109137,141880,2210,2026-10-21,2026-11-02,https://www.usajobs.gov:443/job/889658100
 Information Technology Specialist (Applications Software),ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,91779,119315,2210,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889923000
+Supervisory Information Technology Specialist (Policy and Planning/Applications Software),ARMY TRANSPORTATION,"Scott AFB, Illinois",GS,128967,167663,2210,2026-10-23,2026-11-04,https://www.usajobs.gov:443/job/890167300
+Supervisory Information Technology Specialist (Information Security),"Agriculture, Rural Development","Kansas City, Missouri",GS,150359,197200,2210,2026-10-26,2026-11-05,https://www.usajobs.gov:443/job/890165100
 IT SPECIALIST,Air Force Civilian Career Training,"Salt Lake City, Utah",GS,50460,113185,2210,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/888437200
 SUPERVISORY IT SPECIALIST (PLCYPLN/ENTARCH),Air Force District of Washington,"Andrews AFB, Maryland",GS,121785,158322,2210,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889585100
 IT SPECIALIST (INFOSEC/APPSW),"Air Force Elements, U.S. Transportation Command","Scott AFB, Illinois",NH,128967,143236,2210,2026-10-14,2026-11-01,https://www.usajobs.gov:443/job/888625700
@@ -15,16 +16,13 @@ Information Technology (IT) Specialist (APPSW/DATAMGT) - Direct Hiring Authority
 Information Technology Specialist (SYSTEMS ADMINISTRATION) - DIRECT HIRING AUTHORITY,Air Force Materiel Command,"Kelly AFB, Texas",NH,90823,140403,2210,2026-10-22,2027-02-19,https://www.usajobs.gov:443/job/889796800
 Information Technology Specialist (SysAnalysis) Direct Hire Authority,Air Force Materiel Command,"Wright-Patterson AFB, Ohio",NH,76463,118204,2210,2026-09-04,2027-01-06,https://www.usajobs.gov:443/job/883599800
 IT Specialist (System Developer/Data Integration),Air Force Services Agency,"Kelly AFB, Texas",NF,40,48,2210,2026-10-15,2026-11-05,https://www.usajobs.gov:443/job/888775000
-IT SPECIALIST (APPSW),Air Mobility Command,"Scott AFB, Illinois",GS,91779,119315,2210,2026-10-19,2026-10-30,https://www.usajobs.gov:443/job/889121900
 IT CYBERSECURITY SPECIALIST (INFOSEC) TITLE 5,Air National Guard Units,"Springfield, Illinois",GS,89508,116362,2210,2026-04-29,2027-04-28,https://www.usajobs.gov:443/job/866957100
 IT SPEC (INFOSEC/NETWORK) - TITLE 32,Air National Guard Units,"Hunter AFB, Georgia",GS,74678,97087,2210,2026-03-27,2026-12-31,https://www.usajobs.gov:443/job/862387500
 IT SPEC (NETWORK/CUSTSPT),Air National Guard Units,"Eielson AFB, Alaska",GS,84761,122636,2210,2025-11-12,2026-11-10,https://www.usajobs.gov:443/job/849970300
-IT SPEC (SYSANALYSIS),Air National Guard Units,"McChord AFB, Washington",GS,83935,109122,2210,2026-08-31,2026-10-30,https://www.usajobs.gov:443/job/882883200
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"Bangor, Maine",GS,75278,97857,2210,2026-10-16,2026-11-03,https://www.usajobs.gov:443/job/889037700
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"Kirtland AFB, New Mexico",GS,75489,98141,2210,2026-10-14,2026-11-13,https://www.usajobs.gov:443/job/888900900
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"McConnell AFB, Kansas",GS,75278,97867,2210,2026-10-14,2026-11-04,https://www.usajobs.gov:443/job/888778900
 IT SPECIALIST (CUSTSPT),Air National Guard Units,"Reno, Nevada",GS,75278,97867,2210,2026-10-09,2027-10-08,https://www.usajobs.gov:443/job/888443900
-IT SPECIALIST (CUSTSPT),Air National Guard Units,"San Diego, California",GS,85307,110905,2210,2026-10-20,2026-11-10,https://www.usajobs.gov:443/job/889256700
 IT SPECIALIST (ENTARCH) (TITLE 32),Air National Guard Units,"Chattanooga, Tennessee",GS,75278,97867,2210,2026-10-19,2026-11-16,https://www.usajobs.gov:443/job/889218100
 IT SPECIALIST (INFOSEC),Air National Guard Units,"Bangor, Maine",GS,75278,97887,2210,2026-10-21,2026-11-20,https://www.usajobs.gov:443/job/889585800
 IT SPECIALIST (INFOSEC) (TITLE 32),Air National Guard Units,"Scott AFB, Illinois",GS,76573,99550,2210,2026-10-14,2027-10-13,https://www.usajobs.gov:443/job/888529500
@@ -41,7 +39,7 @@ SUPERVISORY ITSPECIALIST (NETWORK) (TITLE 32),Air National Guard Units,"Jefferso
 IT SPECIALIST (CUSTOMER SUPPORT),Army National Guard Units,"Indiantown Gap, Pennsylvania",GS,76190,99053,2210,2026-10-21,2026-11-18,https://www.usajobs.gov:443/job/889603000
 IT SPECIALIST (CUSTSPT),Army National Guard Units,"Augusta, Maine",GS,68545,89114,2210,2026-10-23,2026-11-18,https://www.usajobs.gov:443/job/889990500
 IT SPECIALIST (NETWORK/SYSADMIN),Army National Guard Units,"Richmond, New York",GS,88005,114413,2210,2026-10-07,2026-11-06,https://www.usajobs.gov:443/job/887879200
-IT SPECIALIST (NETWORK/SYSADMIN),Army National Guard Units,"Stockton, California",GS,93358,121371,2210,2026-10-22,2026-10-30,https://www.usajobs.gov:443/job/889655400
+IT SPECIALIST (NETWORK/SYSADMIN),Army National Guard Units,"Stockton, California",GS,93358,121371,2210,2026-10-27,2026-11-17,https://www.usajobs.gov:443/job/890306700
 IT SPECIALIST (SYSADMIN/NETWORK) (TITLE 32),Army National Guard Units,"Camp Blanding, Florida",GS,75278,97867,2210,2026-10-20,2026-11-03,https://www.usajobs.gov:443/job/889300500
 IT SPECIALIST (SYSTEMS ADMINISTRATION),Army National Guard Units,"Fort Dix, New Jersey",GS,88005,114413,2210,2026-10-02,2026-11-03,https://www.usajobs.gov:443/job/887436700
 IT SPECIALIST (SYSTEMS ADMINISTRATION) (TITLE 32),Army National Guard Units,"Jefferson Barracks, Missouri",GS,76573,99550,2210,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/890087100
@@ -56,21 +54,21 @@ IT Specialist (OS),Bureau of Economic Analysis,"Suitland, Maryland",ZP,85477,133
 IT Specialist (OS),Bureau of Economic Analysis,"Suitland, Maryland",ZP,85447,133142,2210,2026-10-21,2026-11-05,https://www.usajobs.gov:443/job/889750900
 IT Specialist (Policy and Planning),Bureau of Economic Analysis,"Suitland, Maryland",ZP,85447,133142,2210,2026-10-21,2026-11-05,https://www.usajobs.gov:443/job/889752600
 IT Specialist (Policy and Planning),Bureau of Economic Analysis,"Suitland, Maryland",ZP,85447,133142,2210,2026-10-21,2026-11-05,https://www.usajobs.gov:443/job/889753100
+INFORMATION TECHNOLOGY (NETWORK),Bureau of Naval Personnel,"Annapolis, Maryland",GS,85447,111087,2210,2026-10-26,2026-11-26,https://www.usajobs.gov:443/job/890175300
 Information Technology Specialist (Computer Specialist),Bureau of Prisons/Federal Prison System,"Aliceville, Alabama",GS,75278,145468,2210,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887129000
 Information Technology Specialist (Senior Computer Specialist),Bureau of Prisons/Federal Prison System,"Washington, District of Columbia",GS,89508,158322,2210,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887138100
 Supervisory Information Technology Specialist (Supervisory Computer Specialist),Bureau of Prisons/Federal Prison System,"Washington, District of Columbia",GS,106437,158322,2210,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887136400
-IT Specialist (AI),Centers for Medicare & Medicaid Services,"San Francisco, California",GS,90925,118204,2210,2026-10-23,2026-10-30,https://www.usajobs.gov:443/job/889911300
+IT SPECIALIST (SYSANALYSIS),Centers for Medicare & Medicaid Services,"Woodlawn, Maryland",GS,121785,158322,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/890139900
 Data Engineer,Central Intelligence Agency,"Washington, District of Columbia",GS,74584,156755,2210,2026-09-01,2027-01-31,https://www.usajobs.gov:443/job/759326100
-Information Technology Specialist (INFOSEC),Customs and Border Protection,"Ashburn, Virginia",GS,143913,187093,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889410000
-Supervisory Cyber Threat Analyst,Cybersecurity and Infrastructure Security Agency,"Arlington, Virginia",GS,143913,187093,2210,2026-10-21,2026-10-30,https://www.usajobs.gov:443/job/889514000
 "Executive Director, Chief Information Security Officer (XD, CISO)",DHS Headquarters,"Springfield, Virginia",ES,151661,228000,2210,2026-10-22,2026-11-04,https://www.usajobs.gov:443/job/889804800
-IT Specialist (PLCYPLN/ENTARCH),Defense Advanced Research Projects Agency,"Arlington, Virginia",GS,121785,187093,2210,2026-10-14,2026-10-30,https://www.usajobs.gov:443/job/888621100
 Information Technology Specialist  (Development and Analysis) Senior Solutions Architect,Defense Contract Audit Agency,"Irving, Texas",GS,136736,187093,2210,2026-10-09,2026-11-09,https://www.usajobs.gov:443/job/888375700
+INFORMATION TECHNOLOGY SPECIALIST (INFOSEC),Defense Counterintelligence and Security Agency,"Huntsville, Alabama",GG,110401,144102,2210,2026-10-26,2026-11-09,https://www.usajobs.gov:443/job/890223000
 IT CYBERSECURITY SPECIALIST  (DATAMGT/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,107428,139658,2210,2026-10-26,2026-11-09,https://www.usajobs.gov:443/job/889975600
 IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,121502,2210,2026-10-22,2026-11-04,https://www.usajobs.gov:443/job/889670100
 IT CYBERSECURITY SPECIALIST (APPSW/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,121502,2210,2026-10-28,2026-11-10,https://www.usajobs.gov:443/job/889785100
 IT CYBERSECURITY SPECIALIST (CUSTSPT),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,93400,121422,2210,2026-10-16,2026-11-02,https://www.usajobs.gov:443/job/888598600
 IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,117446,2210,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/889630300
+IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,111138,144481,2210,2026-10-28,2026-11-11,https://www.usajobs.gov:443/job/890208900
 IT CYBERSECURITY SPECIALIST (INET/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,93400,121422,2210,2026-10-19,2026-11-02,https://www.usajobs.gov:443/job/888639600
 IT CYBERSECURITY SPECIALIST (INET/INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,121502,2210,2026-10-21,2026-11-03,https://www.usajobs.gov:443/job/889512200
 IT CYBERSECURITY SPECIALIST (INFOSEC),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,117446,2210,2026-10-21,2026-11-04,https://www.usajobs.gov:443/job/889384600
@@ -97,14 +95,16 @@ IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC),Defense Information Systems Agency
 IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC),Defense Information Systems Agency,"Gunter AFB, Alabama",GG,106437,158322,2210,2026-09-03,2026-12-02,https://www.usajobs.gov:443/job/882701000
 IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC),Defense Information Systems Agency,"Gunter AFB, Alabama",GG,89508,133124,2210,2026-09-03,2026-12-02,https://www.usajobs.gov:443/job/882715300
 IT CYBERSECURITY SPECIALIST (SYSANALYSIS),Defense Information Systems Agency,"Fort Huachuca, Arizona",GG,51417,81765,2210,2026-10-24,2026-10-31,https://www.usajobs.gov:443/job/890042900
-IT Cybersecurity Specialist (CustSpt/InfoSec),Defense Information Systems Agency,"Suffolk, Virginia",GG,75788,98530,2210,2026-10-23,2026-10-30,https://www.usajobs.gov:443/job/889986600
-IT Cybersecurity Specialist (INFOSEC),Defense Information Systems Agency,"Scott AFB, Illinois",GG,103225,141078,2210,2026-10-21,2026-10-30,https://www.usajobs.gov:443/job/889415900
 IT Cybersecurity Specialist (PLCYPLN) - CES Recent Graduate,Defense Information Systems Agency,"Fort Meade, Maryland",GG,57736,75059,2210,2026-08-18,2026-11-18,https://www.usajobs.gov:443/job/880946700
-IT Specialist (INFOSEC/SYSADMIN),Defense Logistics Agency,"Maxwell AFB, Alabama",GS,106437,138370,2210,2026-10-23,2026-10-30,https://www.usajobs.gov:443/job/890031700
+IT Specialist (CUSTSPT),Defense Information Systems Agency,"Montgomery, Alabama",GG,89508,133142,2210,2026-10-28,2026-11-03,https://www.usajobs.gov:443/job/890296400
+IT Cybersecurity Specialist (INFOSEC),Defense Logistics Agency,"Arlington, Virginia",GS,121785,158322,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/890244900
+IT Specialist (INFOSEC),Defense Logistics Agency,"Arlington, Virginia",GS,121785,158322,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/890242200
 Supervisory IT Specialist (PLCYPLN),Defense Media Activity,"Fort Meade, Maryland",GS,143913,187093,2210,2026-10-19,2026-11-02,https://www.usajobs.gov:443/job/889314000
+IT PROJECT MANAGER (SYSANALYSIS),Defense Threat Reduction Agency,"Fort Belvoir, Virginia",GS,102415,158322,2210,2026-10-26,2026-11-09,https://www.usajobs.gov:443/job/890190800
 IT Product Manager (Detail Opportunity),Department of Homeland Security Headquarters,"Washington, District of Columbia",GS,121785,187093,2210,2026-06-04,2026-12-03,https://www.usajobs.gov:443/job/874600500
 Senior Security Engineer,Department of Homeland Security Headquarters,"Washington, District of Columbia",GS,143913,187093,2210,2026-10-08,2027-04-07,https://www.usajobs.gov:443/job/888370900
 Foreign Service Diplomatic Technology Officer (FP 2885),Department of State Headquarters,"Montevideo, Uruguay",FP,66810,121080,2210,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887136000
+Information Technology Specialist  (Application Software),Department of State Headquarters,"Washington, District of Columbia",GS,143913,187093,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/890259900
 Information Technology Specialist (Customer Support),Department of War Education Activity,"Fort Campbell, Kentucky",GS,89508,121511,2210,2026-10-29,2026-11-04,https://www.usajobs.gov:443/job/890047400
 Information Technology,Department of the Air Force Headquarters,"Salt Lake City, Utah",NH,22584,164301,2210,2026-03-30,2027-03-29,https://www.usajobs.gov:443/job/863124000
 Information Technology Specialist (INFOSEC),Department of the Air Force Headquarters,"Eielson AFB, Alaska",GS,52727,139684,2210,2025-12-22,2026-12-21,https://www.usajobs.gov:443/job/852981200
@@ -116,14 +116,15 @@ IT Specialist,Deputy Assistant Secretary for Information and Technology,"Fayette
 IT Specialist,Deputy Assistant Secretary for Information and Technology,"Newington, Connecticut",GS,89508,116362,2210,2026-09-29,2026-12-29,https://www.usajobs.gov:443/job/885839500
 IT Specialist,Deputy Assistant Secretary for Information and Technology,"Washington, District of Columbia",GS,89508,116362,2210,2026-09-29,2026-12-29,https://www.usajobs.gov:443/job/885843100
 IT Specialist (Network),Deputy Assistant Secretary for Information and Technology,"Salt Lake City, Utah",GS,89508,145468,2210,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889723600
+Supervisory Information Technology Specialist,Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys,"Knoxville, Tennessee",GS,106437,138370,2210,2026-10-26,2026-11-16,https://www.usajobs.gov:443/job/890154000
 IT Specialist,Federal Aviation Administration,"Atlantic City, New Jersey",FV,99775,154637,2210,2026-10-16,2026-11-02,https://www.usajobs.gov:443/job/888919400
 IT Specialist (CUSTSPT),Federal Emergency Management Agency,"New York, New York",GS,105481,137128,2210,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889783900
-Information Technology Specialist,Federal Emergency Management Agency,"Emmitsburg, Maryland",GS,85447,133142,2210,2026-10-21,2026-10-30,https://www.usajobs.gov:443/job/889712800
-Information Technology Specialist,Federal Emergency Management Agency,"Emmitsburg, Maryland",GS,85447,133142,2210,2026-10-21,2026-10-30,https://www.usajobs.gov:443/job/889713200
+Information Technology Specialist (INET),Federal Emergency Management Agency,"Emmitsburg, Maryland",GS,85447,133142,2210,2026-10-27,2026-11-05,https://www.usajobs.gov:443/job/890303500
+Information Technology Specialist (INET),Federal Emergency Management Agency,"Emmitsburg, Maryland",GS,85447,133142,2210,2026-10-27,2026-11-05,https://www.usajobs.gov:443/job/890304000
 Enterprise Solutions Architect,Federal Retirement Thrift Investment Board,"Washington, District of Columbia",GS,143913,187093,2210,2026-10-22,2026-11-05,https://www.usajobs.gov:443/job/889814700
 "Information Technology Specialist (APPSW), AI Software Engineer, GS-2210-15, FPL 15 (DH) (TERM)",Federal Student Aid,"San Francisco, California",GS,147945,197200,2210,2026-10-21,2026-10-31,https://www.usajobs.gov:443/job/889525300
 Information Technology Specialist,Food and Nutrition Service,"Fort Collins, Colorado",GS,62729,154280,2210,2026-10-22,2026-11-06,https://www.usajobs.gov:443/job/889893500
-Supervisory Information Technology Specialist (SYSANALYSIS),Forest Service,"Salt Lake City, Utah",GS,147945,192331,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889730400
+Supervisory Information Technology Specialist (SYSANALYSIS),Forest Service,"Salt Lake City, Utah",GS,147945,192331,2210,2026-10-26,2026-11-04,https://www.usajobs.gov:443/job/889730400
 INFORMATION TECHNOLOGY SPECIALIST,HQ USAF and Support Elements,"Pentagon, Arlington, Virginia",GS,169279,197200,2210,2026-10-23,2026-11-05,https://www.usajobs.gov:443/job/889860500
 Network Systems Engineer,House of Representatives,"Washington, District of Columbia",HS,138998,152911,2210,2026-10-23,2026-11-14,https://www.usajobs.gov:443/job/890086900
 INFORMATION TECHNOLOGY  SPECIALIST (INFOSEC),Immediate Office of the Chief of Naval Operations,"Camp H.M. Smith Marine Corp Base, Hawaii",GS,111119,144457,2210,2026-10-02,2026-11-02,https://www.usajobs.gov:443/job/886998000
@@ -149,20 +150,16 @@ Software Developer (Hiring Event),National Geospatial-Intelligence Agency,"Saint
 Systems Engineer (Hiring Event),National Geospatial-Intelligence Agency,"Saint Louis, Missouri",IA,76573,158322,2210,2026-10-19,2026-10-31,https://www.usajobs.gov:443/job/889210700
 Systems Engineer (Hiring Event),National Geospatial-Intelligence Agency,"Saint Louis, Missouri",IA,109137,187093,2210,2026-10-19,2026-10-31,https://www.usajobs.gov:443/job/889211000
 User Experience Architect (Hiring Event),National Geospatial-Intelligence Agency,"Springfield, Virginia",IA,85447,158322,2210,2026-10-19,2026-10-31,https://www.usajobs.gov:443/job/889028000
-IT Specialist (APPSW),National Institutes of Health,"Montgomery County, Maryland",GS,102415,158322,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889427600
-IT Specialist (APPSW),National Institutes of Health,"Montgomery County, Maryland",GS,102415,158322,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889427800
-IT Specialist (SysAdmin),National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889304100
-IT Specialist (SysAdmin),National Institutes of Health,"Montgomery County, Maryland",GS,85447,158322,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889306000
+Supervisory IT Specialist,National Oceanic and Atmospheric Administration,"Boulder, Colorado",ZP,147945,197200,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/890143600
 INFORMATION TECHNOLOGY SPECIALIST (APPSW/SYSANALYSIS),Naval Air Systems Command,"Naval Air Station Jacksonville, Florida",GS,106437,138370,2210,2026-10-27,2026-11-02,https://www.usajobs.gov:443/job/889639400
 IT CYBERSECURITY SPECIALIST (INFOSEC),Naval Air Systems Command,"Naval Air Station Jacksonville, Florida",DS,89508,140426,2210,2026-02-11,2027-02-10,https://www.usajobs.gov:443/job/857151400
 IT SPECIALIST (INFOSEC),Naval Air Systems Command,"Patuxent River, Maryland",DS,102415,158322,2210,2026-09-03,2027-09-02,https://www.usajobs.gov:443/job/883109400
 IT SPECIALIST (INFOSEC),Naval Air Systems Command,"Point Mugu, California",DS,87061,161313,2210,2026-09-10,2026-12-10,https://www.usajobs.gov:443/job/883856000
 IT SPECIALIST (SYSADMIN),Naval Air Systems Command,"China Lake, California",DS,104349,161313,2210,2026-10-20,2026-11-20,https://www.usajobs.gov:443/job/889137700
-Information Technology Specialist (APPSW/SYSANALYSIS),Naval Air Systems Command,"Patuxent River, Maryland",GS,121785,158322,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889664100
+IT SPECIALIST (INFOSEC),Naval Supply Systems Command,"Naval Support Activity, Mechanicsburg, Pennsylvania",GS,76190,118718,2210,2026-10-29,2026-11-04,https://www.usajobs.gov:443/job/890297900
 IT SPECIALIST (SYSADMIN/CUSTSPT),Naval Supply Systems Command,"Naval Support Activity, Mechanicsburg, Pennsylvania",GS,91320,118718,2210,2026-10-26,2026-11-03,https://www.usajobs.gov:443/job/889695600
 SUPERVISORY IT PROJECT MANAGER,Naval Supply Systems Command,"Naval Support Activity, Mechanicsburg, Pennsylvania",GS,108592,141171,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/889505800
 Senior IT Specialist (Project Manager),Nuclear Regulatory Commission,"Rockville, Maryland",GG,169279,197200,2210,2026-10-23,2026-11-03,https://www.usajobs.gov:443/job/889934100
-"Supervisory IT Specialist (Director, Mission Solution)",Office of Intelligence and Analysis,"Washington, District of Columbia",GS,169279,197200,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/889473300
 Chief Information Security Officer,Office of Personnel Management,"District of Columbia, District of Columbia",GS,169279,197200,2210,2026-10-21,2026-11-06,https://www.usajobs.gov:443/job/889577300
 Enterprise Architect,Office of Personnel Management,"Washington, District of Columbia",GS,147945,197200,2210,2026-10-22,2026-11-04,https://www.usajobs.gov:443/job/889732900
 IT Software Engineer (Tech Force),Office of Personnel Management,"Washington, District of Columbia",GS,125776,197200,2210,2026-10-13,2026-11-06,https://www.usajobs.gov:443/job/888508400
@@ -174,54 +171,56 @@ IT Cybersecurity Specialist (ENTARCH/AI),"Offices, Boards and Divisions","Washin
 IT Specialist (INFOSEC),"Offices, Boards and Divisions","Washington, District of Columbia",GS,121785,158322,2210,2026-10-20,2026-11-02,https://www.usajobs.gov:443/job/889416200
 Supervisory IT Cybersecurity Specialist (INFOSEC),"Offices, Boards and Divisions","Washington, District of Columbia",GS,169279,197200,2210,2026-10-19,2026-11-02,https://www.usajobs.gov:443/job/889258200
 Information Technology Specialist (CUSTSPT),Pacific Air Forces,"Elmendorf AFB, Alaska",NF,25,30,2210,2026-10-21,2026-11-18,https://www.usajobs.gov:443/job/889758900
+Supervisory IT Specialist,Patent and Trademark Office,"Alexandria, Virginia",GS,143913,187903,2210,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/890161000
+Supervisory IT Specialist,Patent and Trademark Office,"Alexandria, Virginia",GS,143913,187903,2210,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/890161300
 Senior Identity and Access Management Specialist #211,Senate,"Washington, District of Columbia",AD,102745,173959,2210,2026-10-20,2026-11-03,https://www.usajobs.gov:443/job/889741800
 AIOps/Observability- DHA,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-09-17,2026-10-31,https://www.usajobs.gov:443/job/884739000
-Business Intelligence Platform Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-03-04,2026-10-31,https://www.usajobs.gov:443/job/859667400
-Business Intelligence Platform Developer,Social Security Administration,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-04,2026-10-31,https://www.usajobs.gov:443/job/859667500
-COBOL Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-03-05,2026-10-31,https://www.usajobs.gov:443/job/859750900
-Cloud/Infrastructure Engineer - DHA,Social Security Administration,"Woodlawn, Maryland",GS,107446,139684,2210,2026-03-09,2026-10-31,https://www.usajobs.gov:443/job/860257100
-Data Scientist,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-02-06,2026-10-31,https://www.usajobs.gov:443/job/856629100
-Data Solutions Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-03-05,2026-10-31,https://www.usajobs.gov:443/job/859907200
-Data Solutions Developer-DHA,Social Security Administration,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-05,2026-10-31,https://www.usajobs.gov:443/job/859884600
-HIT Integration Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-10-31,https://www.usajobs.gov:443/job/856720800
-IT CYBERSECURITY SPECIALIST (INFOSEC) (DIRECT HIRE),Social Security Administration,"Denver County, Colorado",GS,76463,99404,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/890136700
+Business Intelligence Platform Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-03-04,2026-11-30,https://www.usajobs.gov:443/job/859667400
+Business Intelligence Platform Developer,Social Security Administration,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-04,2026-11-30,https://www.usajobs.gov:443/job/859667500
+COBOL Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-03-05,2026-11-30,https://www.usajobs.gov:443/job/859750900
+Cloud/Infrastructure Engineer - DHA,Social Security Administration,"Woodlawn, Maryland",GS,107446,139684,2210,2026-03-09,2026-11-30,https://www.usajobs.gov:443/job/860257100
+Data Scientist,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-02-06,2026-11-30,https://www.usajobs.gov:443/job/856629100
+Data Solutions Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-03-05,2026-11-30,https://www.usajobs.gov:443/job/859907200
+Data Solutions Developer-DHA,Social Security Administration,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-05,2026-11-30,https://www.usajobs.gov:443/job/859884600
+HIT Integration Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-11-30,https://www.usajobs.gov:443/job/856720800
 IT SPECIALIST (APPSW),Social Security Administration,"Woodlawn, Maryland",GS,58193,133142,2210,2026-08-24,2027-02-13,https://www.usajobs.gov:443/job/881804700
-IT Specialist (APPSW) - .NET - DHA,Social Security Administration,"Denver, Colorado",GS,90925,139684,2210,2026-04-15,2026-10-31,https://www.usajobs.gov:443/job/865188800
-IT Specialist (Enterprise Data Architect) - DHA,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-04-15,2026-10-31,https://www.usajobs.gov:443/job/865155700
+IT Specialist (APPSW) - .NET - DHA,Social Security Administration,"Denver, Colorado",GS,90925,139684,2210,2026-04-15,2026-11-30,https://www.usajobs.gov:443/job/865188800
+IT Specialist (Enterprise Data Architect) - DHA,Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-04-15,2026-11-30,https://www.usajobs.gov:443/job/865155700
+IT Specialist (Infrastructure Engineer),Social Security Administration,"Woodlawn, Maryland",GS,143913,187093,2210,2026-10-27,2026-11-02,https://www.usajobs.gov:443/job/890205000
 IT Specialist (Project Coordinator),Social Security Administration,"Woodlawn, Maryland",GS,121785,187093,2210,2026-07-07,2026-10-31,https://www.usajobs.gov:443/job/875461600
-Infrastructure Engineer - DHA,Social Security Administration,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-09,2026-10-31,https://www.usajobs.gov:443/job/860240500
-JAVA Angular Full Stack Web Application Developer,Social Security Administration,"Woodlawn, Maryland",GS,121785,197200,2210,2026-01-26,2026-10-31,https://www.usajobs.gov:443/job/855330700
-Kafka Engineer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-05,2026-10-31,https://www.usajobs.gov:443/job/856552100
-Network Architect-DHA,Social Security Administration,"Denver, Colorado",GS,126384,164301,2210,2026-03-06,2026-10-31,https://www.usajobs.gov:443/job/860040900
-Node-React Full Stack Web Application Developer,Social Security Administration,"Woodlawn, Maryland",GS,121785,197200,2210,2026-01-26,2026-10-31,https://www.usajobs.gov:443/job/855341900
-Node-React Full Stack Web Application Developer - DHA,Social Security Administration,"Woodlawn, Maryland",GS,102415,133142,2210,2026-04-15,2026-10-31,https://www.usajobs.gov:443/job/865142100
+Infrastructure Engineer - DHA,Social Security Administration,"Woodlawn, Maryland",GS,121785,158322,2210,2026-03-09,2026-11-30,https://www.usajobs.gov:443/job/860240500
+JAVA Angular Full Stack Web Application Developer,Social Security Administration,"Woodlawn, Maryland",GS,121785,197200,2210,2026-01-26,2026-11-30,https://www.usajobs.gov:443/job/855330700
+Kafka Engineer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-05,2026-11-30,https://www.usajobs.gov:443/job/856552100
+Network Architect-DHA,Social Security Administration,"Denver, Colorado",GS,126384,164301,2210,2026-03-06,2026-11-30,https://www.usajobs.gov:443/job/860040900
+Node-React Full Stack Web Application Developer,Social Security Administration,"Woodlawn, Maryland",GS,121785,197200,2210,2026-01-26,2026-11-30,https://www.usajobs.gov:443/job/855341900
+Node-React Full Stack Web Application Developer - DHA,Social Security Administration,"Woodlawn, Maryland",GS,102415,133142,2210,2026-04-15,2026-11-30,https://www.usajobs.gov:443/job/865142100
 Operating Systems Technician,Social Security Administration,"Urbana, Maryland",GS,93468,133142,2210,2026-07-30,2027-01-30,https://www.usajobs.gov:443/job/878573400
-PEGA Developer- DHA,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-04-16,2026-10-31,https://www.usajobs.gov:443/job/865420200
-Python Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-10-31,https://www.usajobs.gov:443/job/856726500
-Solutions Architect,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-10-31,https://www.usajobs.gov:443/job/856787000
-Test Automation Engineer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-10-31,https://www.usajobs.gov:443/job/856707700
-Delta Information Systems Security Developer,Space Systems Command,"Kirtland AFB, New Mexico",NH,90479,139871,2210,2026-10-23,2026-10-30,https://www.usajobs.gov:443/job/890015700
+PEGA Developer- DHA,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-04-16,2026-11-30,https://www.usajobs.gov:443/job/865420200
+Python Developer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-11-30,https://www.usajobs.gov:443/job/856726500
+Solutions Architect,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-11-30,https://www.usajobs.gov:443/job/856787000
+Test Automation Engineer,Social Security Administration,"Woodlawn, Maryland",GS,143913,197200,2210,2026-02-06,2026-11-30,https://www.usajobs.gov:443/job/856707700
 Al Software Engineer ,Technology Transformation Service,"San Francisco, California",GS,117284,172980,2210,2026-09-04,2026-12-31,https://www.usajobs.gov:443/job/883691200
 "Deputy Director, Technology",Technology Transformation Service,"Washington, District of Columbia",ES,151661,228000,2210,2026-10-20,2026-11-03,https://www.usajobs.gov:443/job/889396300
 Principal Al Software Engineer ,Technology Transformation Service,"San Francisco, California",GS,163023,197200,2210,2026-09-04,2026-12-31,https://www.usajobs.gov:443/job/883695200
 Senior AI Software Engineer,Technology Transformation Service,"San Francisco, California",GS,138595,197200,2210,2026-09-04,2026-12-31,https://www.usajobs.gov:443/job/883693300
 Associate Chief Information Officer for Security Operations,"Treasury, Departmental Offices","Washington, District of Columbia",ES,151661,228000,2210,2026-10-22,2026-11-22,https://www.usajobs.gov:443/job/889832200
 Software Engineer and Data Automation Specialist,U. S. Sentencing Commission,"Washington, District of Columbia",JS,102415,187093,2210,2026-10-13,2026-11-13,https://www.usajobs.gov:443/job/888547100
-IT SPECIALIST (PLCYPLN/ENTARCH),U.S. Air Force Academy,"Air Force Academy, Colorado",GS,76650,99650,2210,2026-10-19,2026-10-30,https://www.usajobs.gov:443/job/889165100
 IT SPECIALIST (PLCYPLN/ENTARCH),U.S. Air Force Academy,"Air Force Academy, Colorado",GS,76650,99650,2210,2026-10-22,2026-11-04,https://www.usajobs.gov:443/job/889597500
 IT SPECIALIST,U.S. Army Corps of Engineers,"Huntsville, Alabama",GS,106437,158322,2210,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889725700
-IT Specialist (Information Security and Systems Analysis (INFOSEC/SYSANALYSIS)),U.S. Army Corps of Engineers,"Alexandria, Virginia",GS,121785,158322,2210,2026-10-22,2026-10-30,https://www.usajobs.gov:443/job/889584700
 IT Specialist (PLCYPLN),U.S. Army Corps of Engineers,"Vicksburg, Mississippi",GS,106437,138370,2210,2026-10-20,2026-11-06,https://www.usajobs.gov:443/job/889539000
 IT SPECIALIST (NETWORK),U.S. Army Cyber Command,"Adams County, Pennsylvania",GG,85477,116785,2210,2026-10-21,2026-11-19,https://www.usajobs.gov:443/job/889550400
 IT Specialist (Network Services),U.S. Army Cyber Command,"Fort Huachuca, Arizona",GG,91205,124649,2210,2026-10-23,2026-11-02,https://www.usajobs.gov:443/job/889852500
 IT Specialist (SYSADMIN),U.S. Army Cyber Command,"Fort Bragg, North Carolina",GG,84209,115093,2210,2026-10-22,2026-11-05,https://www.usajobs.gov:443/job/889710600
 Information Technology Cybersecurity Specialist (Security),U.S. Army Cyber Command,"Camp Arifjan, Kuwait",GG,131841,180183,2210,2026-10-07,2026-11-18,https://www.usajobs.gov:443/job/887363600
-Information Technology Specialist (Network Services),U.S. Army Cyber Command,"Adams County, Pennsylvania",GG,85447,116785,2210,2026-07-31,2026-10-30,https://www.usajobs.gov:443/job/878698400
-Information Technology Specialist (Network),U.S. Army Cyber Command,"Redstone Arsenal, Alabama",GG,77772,106296,2210,2026-10-26,2026-10-30,https://www.usajobs.gov:443/job/890011300
+Information Technology Specialist (Network Services),U.S. Army Cyber Command,"Fort Greely, Alaska",GG,95284,123876,2210,2026-10-23,2026-11-10,https://www.usajobs.gov:443/job/890142900
+Information Technology Specialist (Network Services),U.S. Army Cyber Command,"Fort Shafter, Hawaii",GG,88809,115458,2210,2026-10-27,2026-11-09,https://www.usajobs.gov:443/job/890207600
+Information Technology Specialist (Network),U.S. Army Cyber Command,"Redstone Arsenal, Alabama",GG,77772,106296,2210,2026-10-26,2026-11-02,https://www.usajobs.gov:443/job/890011300
 Information Technology Specialist (Policy and Planning),U.S. Army Cyber Command,"Fort Huachuca, Arizona",GG,108445,148226,2210,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/889923300
+Information Technology Specialist (Policy and Planning),U.S. Army Cyber Command,"Fort Shafter, Hawaii",GG,101091,131442,2210,2026-10-27,2026-11-10,https://www.usajobs.gov:443/job/890197000
 Information Technology Specialist (Security),U.S. Army Cyber Command,"Camp Arifjan, Kuwait",GG,84109,109344,2210,2026-10-06,2026-11-03,https://www.usajobs.gov:443/job/887680100
 Information Technology Specialist (Security),U.S. Army Cyber Command,"Joint Base Lewis-McChord, Washington",GG,83935,114720,2210,2026-10-23,2026-11-05,https://www.usajobs.gov:443/job/889512600
-Information Technology Specialist System Administrator,U.S. Army Cyber Command,"Fort Huachuca, Arizona",GG,91205,124649,2210,2026-10-20,2026-10-30,https://www.usajobs.gov:443/job/889506100
+Information Technology Specialist (Systems Administration),U.S. Army Cyber Command,"Camp Humphreys, South Korea",GG,84109,109344,2210,2026-10-27,2026-11-17,https://www.usajobs.gov:443/job/890244200
+Information Technology Specialist System Administrator,U.S. Army Cyber Command,"Fort Huachuca, Arizona",GG,91205,124649,2210,2026-10-20,2026-11-02,https://www.usajobs.gov:443/job/889506100
 SUPV IT SPECIALIST (PLCYPLN/INFOSEC),U.S. Army Cyber Command,"Fort Sam Houston, Texas",GG,115475,157818,2210,2026-10-21,2026-11-03,https://www.usajobs.gov:443/job/889406700
 Supervisory IT Specialist (INFOSEC),U.S. Army Cyber Command,"Fort Leavenworth, Kansas",GG,108173,147839,2210,2026-10-20,2026-11-02,https://www.usajobs.gov:443/job/889410500
 Supervisory Information Technology Specialist (CUSTOMER SUPPORT),U.S. Army Cyber Command,"Fort Greely, Alaska",GG,120348,164479,2210,2026-10-23,2026-11-06,https://www.usajobs.gov:443/job/889779600
@@ -238,14 +237,15 @@ IT Network Specialist (HelpDesk/CustSupport),U.S. Coast Guard,"Chesapeake, Virgi
 Information Technology Specialist,U.S. Coast Guard,"Juneau, Alaska",GS,107775,140113,2210,2026-10-21,2026-11-02,https://www.usajobs.gov:443/job/889635000
 Information Technology Specialist,U.S. Coast Guard,"Juneau, Alaska",GS,101206,131571,2210,2026-10-22,2026-11-02,https://www.usajobs.gov:443/job/889911800
 Applications Administrator,U.S. Courts,"Phoenix, Arizona",CL,74879,121753,2210,2026-10-02,2026-12-18,https://www.usajobs.gov:443/job/887481500
-Information Technology Security Administrator,U.S. Courts,"Phoenix, Arizona",CL,89062,144752,2210,2026-09-21,2026-10-30,https://www.usajobs.gov:443/job/887106700
 Senior IT Specialist (Web Development),U.S. Courts,"Brooklyn, New York",CL,70392,114425,2210,2026-08-17,2027-08-16,https://www.usajobs.gov:443/job/882683000
 Systems Administrator / IT Security Officer,U.S. Courts,"Brooklyn, New York",CL,84358,137165,2210,2026-08-17,2027-08-16,https://www.usajobs.gov:443/job/882702100
 Temporary Information Technology Technician II  1 Year Term,U.S. Courts,"Alexandria, Virginia",CL,56478,70623,2210,2026-04-15,2027-04-14,https://www.usajobs.gov:443/job/865610500
 IT Specialist (Artificial Intelligence) DIRECT HIRE,U.S. International Trade Commission,"Washington, District of Columbia",GS,143913,187093,2210,2026-10-22,2026-11-05,https://www.usajobs.gov:443/job/889777800
 Information Technology Specialist (Information Security),U.S. Marine Corps,"Quantico, Virginia",NF,110000,130000,2210,2026-10-19,2026-11-02,https://www.usajobs.gov:443/job/889325200
 IT SPECIALIST (SYSADMIN),U.S. Pacific Fleet,"Pearl Harbor, Hawaii",GS,111119,144457,2210,2026-10-23,2026-11-05,https://www.usajobs.gov:443/job/890129900
-Information Technology Specialist (Systems Administration),U.S. Special Operations Command (Army),"Fort Bragg, North Carolina",GS,77983,101383,2210,2026-10-16,2026-10-30,https://www.usajobs.gov:443/job/889165400
+Information Technology Cybersecurity Specialist (Enterprise Architecture),U.S. Special Operations Command (Army),"Alexandria, Virginia",GG,132751,181428,2210,2026-10-27,2026-11-03,https://www.usajobs.gov:443/job/890296000
 Information Technology Cybersecurity Specialist,U.S. Trustee Program,"Salt Lake City, Utah",GS,43106,56039,2210,2026-10-21,2026-11-04,https://www.usajobs.gov:443/job/889557000
-INFORMATION TECHNOLOGY SPECIALIST (APPSW),United States Fleet Forces Command,"Monterey, California",GS,111896,172980,2210,2026-10-20,2026-10-30,https://www.usajobs.gov:443/job/889219500
+Information Technology Specialist (Systems Administration/Customer Support),United States Army Installation Management Command,"Fort Campbell, Kentucky",GS,75278,97867,2210,2026-10-28,2026-11-03,https://www.usajobs.gov:443/job/890279800
+Information Technology Specialist (Systems Administration/Customer Support),United States Army Installation Management Command,"Fort Campbell, Kentucky",GS,75278,97867,2210,2026-10-28,2026-11-02,https://www.usajobs.gov:443/job/890280400
+IT SPECIALIST (PLCYPLN),United States Fleet Forces Command,"Naval Shipyard, Portsmouth, Virginia",GS,90838,118092,2210,2026-10-27,2026-11-05,https://www.usajobs.gov:443/job/890240300
 IT CYBERSECURITY SPECIALIST (INFOSEC),Warfighting Acquisition University,"Huntsville, Alabama",NH,76463,164301,2210,2026-10-22,2026-11-05,https://www.usajobs.gov:443/job/889699900
