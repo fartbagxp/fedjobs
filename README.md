@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-06**
+> Last updated: **2026-11-07**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **18,695** |
-| Currently active positions        | **1,217**  |
+| Currently active positions        | **1,208**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 30              |
-| 1550   | Computer Science (1550)     | 29              |
-| 1560   | Data Science (1560)         | 25              |
+| 1550   | Computer Science (1550)     | 27              |
+| 1560   | Data Science (1560)         | 26              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
-| Agency                                 | Active Postings |
-| -------------------------------------- | --------------- |
-| Veterans Health Administration         | 250             |
-| Federal Aviation Administration        | 207             |
-| Indian Health Service                  | 177             |
-| Department of State Headquarters       | 59              |
-| Internal Revenue Service               | 48              |
-| Air National Guard Units               | 27              |
-| Social Security Administration         | 24              |
-| Defense Finance and Accounting Service | 23              |
-| U.S. Army Cyber Command                | 21              |
-| Naval Air Systems Command              | 19              |
+| Agency                                     | Active Postings |
+| ------------------------------------------ | --------------- |
+| Veterans Health Administration             | 250             |
+| Federal Aviation Administration            | 212             |
+| Indian Health Service                      | 190             |
+| Department of State Headquarters           | 54              |
+| Internal Revenue Service                   | 44              |
+| Air National Guard Units                   | 27              |
+| Social Security Administration             | 23              |
+| Defense Finance and Accounting Service     | 21              |
+| Naval Air Systems Command                  | 20              |
+| Centers for Disease Control and Prevention | 19              |
 
 <!-- STATS_END -->
