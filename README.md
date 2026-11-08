@@ -172,7 +172,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-07**
+> Last updated: **2026-11-08**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
@@ -194,7 +194,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 250             |
 | Federal Aviation Administration            | 212             |
-| Indian Health Service                      | 190             |
+| Indian Health Service                      | 192             |
 | Department of State Headquarters           | 54              |
 | Internal Revenue Service                   | 44              |
 | Air National Guard Units                   | 27              |
