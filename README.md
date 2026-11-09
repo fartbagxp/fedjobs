@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-08**
+> Last updated: **2026-11-09**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **18,810** |
-| Currently active positions        | **1,208**  |
+| Currently active positions        | **1,225**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 30              |
-| 1550   | Computer Science (1550)     | 27              |
-| 1560   | Data Science (1560)         | 26              |
+| 0854   | Computer Engineering (0854) | 31              |
+| 1550   | Computer Science (1550)     | 31              |
+| 1560   | Data Science (1560)         | 28              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 250             |
-| Federal Aviation Administration            | 212             |
-| Indian Health Service                      | 192             |
-| Department of State Headquarters           | 54              |
-| Internal Revenue Service                   | 44              |
+| Federal Aviation Administration            | 213             |
+| Indian Health Service                      | 177             |
+| Department of State Headquarters           | 57              |
+| Internal Revenue Service                   | 50              |
 | Air National Guard Units                   | 27              |
-| Social Security Administration             | 23              |
+| Social Security Administration             | 24              |
+| Centers for Disease Control and Prevention | 21              |
 | Defense Finance and Accounting Service     | 21              |
-| Naval Air Systems Command                  | 20              |
-| Centers for Disease Control and Prevention | 19              |
+| National Institutes of Health              | 21              |
 
 <!-- STATS_END -->
