@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-09**
+> Last updated: **2026-11-10**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **18,852** |
-| Currently active positions        | **1,225**  |
+| Currently active positions        | **1,234**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 31              |
-| 1550   | Computer Science (1550)     | 31              |
-| 1560   | Data Science (1560)         | 28              |
+| 0854   | Computer Engineering (0854) | 29              |
+| 1550   | Computer Science (1550)     | 35              |
+| 1560   | Data Science (1560)         | 32              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
 | Veterans Health Administration             | 250             |
-| Federal Aviation Administration            | 213             |
-| Indian Health Service                      | 177             |
+| Federal Aviation Administration            | 215             |
+| Indian Health Service                      | 186             |
 | Department of State Headquarters           | 57              |
-| Internal Revenue Service                   | 50              |
+| Internal Revenue Service                   | 46              |
 | Air National Guard Units                   | 27              |
-| Social Security Administration             | 24              |
-| Centers for Disease Control and Prevention | 21              |
-| Defense Finance and Accounting Service     | 21              |
-| National Institutes of Health              | 21              |
+| Centers for Disease Control and Prevention | 23              |
+| Social Security Administration             | 23              |
+| U.S. Army Cyber Command                    | 21              |
+| Treasury, Departmental Offices             | 19              |
 
 <!-- STATS_END -->
