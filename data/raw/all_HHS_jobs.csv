@@ -2,6 +2,7 @@ Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date
 Administrative Officer,Administration for Children and Families,"Washington, District of Columbia",GS,102415,158322,0341,2026-08-05,2026-08-11,https://www.usajobs.gov:443/job/878855500
 Administrative Officer,Administration for Children and Families,"Washington, District of Columbia",GS,130042,169060,0341,2026-11-10,2026-11-13,https://www.usajobs.gov:443/job/891746300
 Associate Deputy Director,Administration for Children and Families,"Washington, District of Columbia",GS,169279,197200,0301,2026-03-27,2026-03-31,https://www.usajobs.gov:443/job/862457000
+Auditor,Administration for Children and Families,"Denver, Colorado",GS,52727,68549,0511,2026-11-09,2026-11-20,https://www.usajobs.gov:443/job/892123300
 Budget Analyst,Administration for Children and Families,"Washington, District of Columbia",GS,143913,187093,0560,2026-06-02,2026-07-08,https://www.usajobs.gov:443/job/874752100
 Budget Analyst,Administration for Children and Families,"Washington, District of Columbia",GS,120579,156755,0560,2026-08-12,2026-08-17,https://www.usajobs.gov:443/job/879906200
 Budget Officer,Administration for Children and Families,"Washington, District of Columbia",GS,143913,187093,0560,2026-07-20,2026-07-24,https://www.usajobs.gov:443/job/877036600
@@ -183,6 +184,7 @@ Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",G
 Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0601,2026-11-06,2026-11-16,https://www.usajobs.gov:443/job/891591000
 Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,112556,146325,0601,2026-11-06,2026-11-13,https://www.usajobs.gov:443/job/891646600
 Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,156451,197200,0601,2026-11-06,2026-11-12,https://www.usajobs.gov:443/job/891764300
+Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0601,2026-11-12,2026-11-20,https://www.usajobs.gov:443/job/891270600
 Health Scientist,Centers for Disease Control and Prevention,"New Delhi, India",GS,154972,197200,0601,2026-05-15,2026-05-20,https://www.usajobs.gov:443/job/869510800
 Health Scientist,Centers for Disease Control and Prevention,"Washington, District of Columbia",GS,110865,158322,0601,2026-05-01,2026-05-07,https://www.usajobs.gov:443/job/867320400
 Health Scientist (Informatics),Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0601,2026-06-24,2026-06-29,https://www.usajobs.gov:443/job/873866100
@@ -1970,6 +1972,7 @@ Medical Support Assistant,Indian Health Service,"Pawnee, Oklahoma",GS,40736,5295
 Medical Support Assistant,Indian Health Service,"Phoenix, Arizona",GS,42611,61749,0679,2026-08-07,2026-08-20,https://www.usajobs.gov:443/job/879851900
 Medical Support Assistant,Indian Health Service,"Polacca, Arizona",GS,40736,59031,0679,2026-09-30,2026-10-06,https://www.usajobs.gov:443/job/886874100
 Medical Support Assistant,Indian Health Service,"Shiprock, New Mexico",GS,37193,47848,0679,2026-11-04,2026-11-19,https://www.usajobs.gov:443/job/891661100
+Medical Support Assistant,Indian Health Service,"Shiprock, New Mexico",GS,37193,52957,0679,2026-11-09,2026-11-25,https://www.usajobs.gov:443/job/892134000
 Medical Support Assistant,Indian Health Service,"Towaoc, Colorado",GS,40736,59671,0679,2026-07-13,2026-08-03,https://www.usajobs.gov:443/job/876272900
 Medical Support Assistant,Indian Health Service,"Winnebago, Nebraska",GS,37193,59031,0679,2026-07-22,2026-08-05,https://www.usajobs.gov:443/job/877588900
 Medical Support Assistant,Indian Health Service,"Winnebago, Nebraska",GS,37193,59031,0679,2026-07-22,2026-08-05,https://www.usajobs.gov:443/job/877589600
@@ -2649,6 +2652,8 @@ Chief of Staff,National Institutes of Health,"Montgomery County, Maryland",GS,16
 Chief of Staff,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0601,2026-08-24,2026-08-28,https://www.usajobs.gov:443/job/880987000
 Clinical Bioinformatics Specialist,National Institutes of Health,"Montgomery County, Maryland",GS,143913,187093,0601,2026-10-19,2026-10-23,https://www.usajobs.gov:443/job/888520300
 Clinical Coordinator,National Institutes of Health,"Montgomery County, Maryland",GS,102415,158322,0601,2026-07-23,2026-07-27,https://www.usajobs.gov:443/job/876522800
+Clinical Laboratory Scientist,National Institutes of Health,"Montgomery County, Maryland",GS,70623,111087,0644,2026-11-12,2026-11-16,https://www.usajobs.gov:443/job/891531500
+Clinical Laboratory Scientist,National Institutes of Health,"Montgomery County, Maryland",GS,70623,111087,0644,2026-11-12,2026-11-16,https://www.usajobs.gov:443/job/891531700
 Clinical Laboratory Scientist,National Institutes of Health,"Phoenix, Arizona",GS,64564,111087,0644,2026-04-16,2026-04-20,https://www.usajobs.gov:443/job/863716300
 Clinical Laboratory Scientist,National Institutes of Health,"Phoenix, Arizona",GS,64564,111087,0644,2026-04-16,2026-04-20,https://www.usajobs.gov:443/job/863716500
 Clinical Laboratory Scientist (Chemistry),National Institutes of Health,"Montgomery County, Maryland",GS,70623,111087,0644,2026-06-25,2026-06-29,https://www.usajobs.gov:443/job/872901400
