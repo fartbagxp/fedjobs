@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-12**
+> Last updated: **2026-11-13**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **19,063** |
-| Currently active positions        | **1,241**  |
+| Currently active positions        | **1,228**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 27              |
-| 1550   | Computer Science (1550)     | 37              |
-| 1560   | Data Science (1560)         | 32              |
+| 1550   | Computer Science (1550)     | 31              |
+| 1560   | Data Science (1560)         | 25              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -194,13 +194,13 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | -------------------------------- | --------------- |
 | Veterans Health Administration   | 250             |
 | Federal Aviation Administration  | 214             |
-| Indian Health Service            | 187             |
-| Department of State Headquarters | 62              |
-| Internal Revenue Service         | 43              |
-| U.S. Army Cyber Command          | 24              |
-| Air National Guard Units         | 24              |
-| Social Security Administration   | 23              |
-| Treasury, Departmental Offices   | 19              |
-| National Institutes of Health    | 19              |
+| Indian Health Service            | 191             |
+| Department of State Headquarters | 63              |
+| Internal Revenue Service         | 41              |
+| Social Security Administration   | 24              |
+| U.S. Army Cyber Command          | 23              |
+| Air National Guard Units         | 22              |
+| National Institutes of Health    | 20              |
+| Treasury, Departmental Offices   | 18              |
 
 <!-- STATS_END -->
