@@ -172,12 +172,12 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-13**
+> Last updated: **2026-11-14**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **19,165** |
-| Currently active positions        | **1,228**  |
+| Currently active positions        | **1,202**  |
 
 ### Active Positions by Job Series
 
@@ -185,7 +185,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 27              |
 | 1550   | Computer Science (1550)     | 31              |
-| 1560   | Data Science (1560)         | 25              |
+| 1560   | Data Science (1560)         | 21              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                           | Active Postings |
 | -------------------------------- | --------------- |
 | Veterans Health Administration   | 250             |
-| Federal Aviation Administration  | 214             |
+| Federal Aviation Administration  | 208             |
 | Indian Health Service            | 191             |
-| Department of State Headquarters | 63              |
-| Internal Revenue Service         | 41              |
-| Social Security Administration   | 24              |
-| U.S. Army Cyber Command          | 23              |
-| Air National Guard Units         | 22              |
-| National Institutes of Health    | 20              |
-| Treasury, Departmental Offices   | 18              |
+| Department of State Headquarters | 51              |
+| Internal Revenue Service         | 38              |
+| U.S. Army Cyber Command          | 25              |
+| Social Security Administration   | 23              |
+| Air National Guard Units         | 20              |
+| Office of Personnel Management   | 17              |
+| Treasury, Departmental Offices   | 17              |
 
 <!-- STATS_END -->
