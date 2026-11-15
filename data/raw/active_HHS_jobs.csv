@@ -1,9 +1,9 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+Administrative Officer,Administration for Children and Families,"Washington, District of Columbia",GS,130042,169060,0341,2026-11-13,2026-11-17,https://www.usajobs.gov:443/job/892715000
 Auditor,Administration for Children and Families,"Denver, Colorado",GS,52727,68549,0511,2026-11-09,2026-11-20,https://www.usajobs.gov:443/job/892123300
 Deputy Director,Administration for Children and Families,"Washington, District of Columbia",GS,169279,197200,0101,2026-11-09,2026-11-16,https://www.usajobs.gov:443/job/891715000
 Public Health Analyst,Administration for Strategic Preparedness and Response,"Washington, District of Columbia",GS,143913,187093,0685,2026-11-06,2026-11-16,https://www.usajobs.gov:443/job/891672400
 Biologist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,94654,123052,0401,2026-11-13,2026-11-23,https://www.usajobs.gov:443/job/892565700
-Environmental Health Scientist,Centers for Disease Control and Prevention,"Fort Lauderdale, Florida",GS,90925,118204,0601,2026-11-09,2026-11-19,https://www.usajobs.gov:443/job/892051700
 Epidemiologist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,94654,123052,0601,2026-11-10,2026-11-17,https://www.usajobs.gov:443/job/892211500
 Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0601,2026-11-12,2026-11-20,https://www.usajobs.gov:443/job/891270600
 Health Scientist,Centers for Disease Control and Prevention,"Atlanta, Georgia",GS,133007,172915,0601,2026-11-06,2026-11-16,https://www.usajobs.gov:443/job/891591000
@@ -35,7 +35,6 @@ Accounting Technician,Indian Health Service,"Red Lake, Minnesota",GS,50460,65599
 Acquisition Program Support Specialist,Indian Health Service,"Chinle, Arizona",GS,74678,116362,0301,2026-10-29,2026-11-27,https://www.usajobs.gov:443/job/890924400
 Acquisition Program Support Specialist,Indian Health Service,"Sisseton, South Dakota",GS,74678,97087,0301,2026-11-06,2026-11-23,https://www.usajobs.gov:443/job/891867600
 Acquisitions Director,Indian Health Service,"Phoenix, Arizona",ES,151161,228000,1102,2026-10-22,2026-11-20,https://www.usajobs.gov:443/job/889906000
-Administrative Officer,Indian Health Service,"Inscription House, Arizona",GS,74678,97087,0341,2026-10-30,2026-11-14,https://www.usajobs.gov:443/job/891084100
 Administrative Officer,Indian Health Service,"Red Mesa, Arizona",GS,106437,138370,0341,2026-11-02,2026-11-23,https://www.usajobs.gov:443/job/891265200
 Advanced Practice Nurse (Midwife),Indian Health Service,"Kyle, South Dakota",GS,117383,164017,0610,2026-11-04,2026-12-04,https://www.usajobs.gov:443/job/885398700
 Advanced Practice Nurse (Nurse Practitioner),Indian Health Service,"Camp Verde, Arizona",GS,110727,164017,0610,2026-10-01,2026-12-31,https://www.usajobs.gov:443/job/887064300
@@ -127,6 +126,7 @@ Medical Support Assistant,Indian Health Service,"Chinle, Arizona",GS,36464,59031
 Medical Support Assistant,Indian Health Service,"Fort Hall, Idaho",GS,36464,51002,0679,2026-11-04,2026-12-31,https://www.usajobs.gov:443/job/891727200
 Medical Support Assistant,Indian Health Service,"Fort Hall, Idaho",GS,40736,63605,0679,2026-11-04,2026-12-31,https://www.usajobs.gov:443/job/891727300
 Medical Support Assistant,Indian Health Service,"Red Mesa, Arizona",GS,40736,52957,0679,2026-11-12,2026-12-07,https://www.usajobs.gov:443/job/892708400
+Medical Support Assistant,Indian Health Service,"Red Mesa, Arizona",GS,40736,52957,0679,2026-11-13,2026-12-07,https://www.usajobs.gov:443/job/892715900
 Medical Support Assistant,Indian Health Service,"Shiprock, New Mexico",GS,37193,47848,0679,2026-11-04,2026-11-19,https://www.usajobs.gov:443/job/891661100
 Medical Support Assistant,Indian Health Service,"Shiprock, New Mexico",GS,37193,52957,0679,2026-11-09,2026-11-25,https://www.usajobs.gov:443/job/892134000
 Medical Support Assistant (Patient Registration),Indian Health Service,"Mashpee, Massachusetts",GS,40736,66857,0679,2026-11-10,2026-12-31,https://www.usajobs.gov:443/job/892517400
@@ -194,7 +194,6 @@ Supervisory Clinical Psychologist,Indian Health Service,"Salem, Oregon",GS,12274
 Supervisory Clinical Psychologist,Indian Health Service,"Shiprock, New Mexico",GS,145052,188573,0180,2026-10-28,2026-12-31,https://www.usajobs.gov:443/job/890715700
 Supervisory Clinical Psychologist,Indian Health Service,"Shiprock, New Mexico",GS,145052,188573,0180,2026-10-28,2026-12-31,https://www.usajobs.gov:443/job/890716100
 Supervisory Dental Officer (Deputy Dental Supervisor),Indian Health Service,"Toppenish, Washington",GS,200000,300000,0680,2026-11-10,2026-12-01,https://www.usajobs.gov:443/job/889375600
-Supervisory Dentist,Indian Health Service,"Inscription House, Arizona",GS,145000,335000,0680,2026-10-30,2026-11-14,https://www.usajobs.gov:443/job/891059900
 Supervisory Dentist,Indian Health Service,"Red Lake, Minnesota",GS,180000,335000,0680,2026-11-03,2026-11-24,https://www.usajobs.gov:443/job/891375500
 Supervisory General Engineer,Indian Health Service,"Nashville, Tennessee",GS,147945,192331,0801,2026-11-02,2026-12-02,https://www.usajobs.gov:443/job/891309800
 Supervisory Health System Specialist,Indian Health Service,"Nashville, Tennessee",GS,147945,192331,0671,2026-10-23,2026-11-23,https://www.usajobs.gov:443/job/890113100
@@ -209,6 +208,7 @@ Supervisory Optometrist,Indian Health Service,"Chinle, Arizona",GS,170030,221041
 Supervisory Pharmacist,Indian Health Service,"Crownpoint, New Mexico",GS,143662,186762,0660,2026-10-30,2026-11-30,https://www.usajobs.gov:443/job/890976500
 Supervisory Pharmacist,Indian Health Service,"Eagle Butte, South Dakota",GS,143662,186762,0660,2026-10-30,2026-11-16,https://www.usajobs.gov:443/job/891005400
 Supervisory Pharmacist (Clinical),Indian Health Service,"Pine Ridge, South Dakota",GS,143662,186762,0660,2026-10-26,2026-11-16,https://www.usajobs.gov:443/job/881583800
+Supervisory Pharmacist (Deputy Chief),Indian Health Service,"Rosebud, South Dakota",GS,143662,186762,0660,2026-11-12,2026-11-26,https://www.usajobs.gov:443/job/892718300
 Supervisory Physician (Clinical Director),Indian Health Service,"Warm Springs, Oregon",GS,200000,400000,0602,2026-11-04,2026-11-18,https://www.usajobs.gov:443/job/891632000
 Supervisory Physician (General Practice),Indian Health Service,"Kayenta, Arizona",GS,200000,400000,0602,2026-11-06,2026-11-21,https://www.usajobs.gov:443/job/892020700
 Therapy Assistant,Indian Health Service,"Kayenta, Arizona",GS,40736,52957,0636,2026-10-21,2026-11-21,https://www.usajobs.gov:443/job/889748100
