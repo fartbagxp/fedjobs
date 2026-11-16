@@ -176,7 +176,7 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
-| Total unique job postings tracked | **19,262** |
+| Total unique job postings tracked | **19,286** |
 | Currently active positions        | **1,212**  |
 
 ### Active Positions by Job Series
@@ -199,8 +199,8 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Internal Revenue Service         | 38              |
 | U.S. Army Cyber Command          | 24              |
 | Social Security Administration   | 23              |
-| National Institutes of Health    | 20              |
 | Air National Guard Units         | 20              |
+| National Institutes of Health    | 20              |
 | Treasury, Departmental Offices   | 18              |
 
 <!-- STATS_END -->
