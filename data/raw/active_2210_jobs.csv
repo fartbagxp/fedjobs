@@ -80,9 +80,6 @@ IT SPECIALIST (APPSW),Defense Finance and Accounting Service,"Indianapolis, Indi
 IT SPECIALIST (APPSW),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,121502,2210,2026-11-09,2026-11-23,https://www.usajobs.gov:443/job/891806600
 Mainframe Release Manager,Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,90341,121502,2210,2026-11-10,2026-11-24,https://www.usajobs.gov:443/job/891813600
 SUPV IT PROGRAM MANAGER (PLCYPLN),Defense Finance and Accounting Service,"Indianapolis, Indiana",GS,126947,170736,2210,2026-11-10,2026-11-24,https://www.usajobs.gov:443/job/892042700
-IT PROGRAM MANAGER (POLICY AND PLANNING),Defense Human Resources Activity,"Seaside, California",GS,121785,172980,2210,2026-05-06,2026-11-15,https://www.usajobs.gov:443/job/868121200
-IT SPECIALIST (POLICY AND PLANNING),Defense Human Resources Activity,"Seaside, California",GS,121785,197200,2210,2026-06-11,2026-11-15,https://www.usajobs.gov:443/job/872648800
-IT Specialist (PLCYPLN),Defense Human Resources Activity,"Seaside, California",GS,121785,172980,2210,2026-05-06,2026-11-15,https://www.usajobs.gov:443/job/868120100
 IT CYBERSECURITY SPECIALIST (CUSTSPT/INFOSEC),Defense Information Systems Agency,"Montgomery, Alabama",GG,57331,133142,2210,2026-10-20,2027-01-18,https://www.usajobs.gov:443/job/889218700
 IT CYBERSECURITY SPECIALIST (INFOSEC),Defense Information Systems Agency,"Montgomery, Alabama",GG,115475,150119,2210,2026-11-10,2026-11-16,https://www.usajobs.gov:443/job/892276500
 IT CYBERSECURITY SPECIALIST (NETWORK/INFOSEC),Defense Information Systems Agency,"Gunter AFB, Alabama",GG,106437,158322,2210,2026-09-03,2026-12-02,https://www.usajobs.gov:443/job/882701000
@@ -144,6 +141,8 @@ IT Specialist (APPSW),Joint Activities,"Key West, Florida",GG,81901,143867,2210,
 Selective Placement Program (Noncompetitive Appointments for Applicants with Disabilities),Library of Congress,"Washington, District of Columbia",GS,29949,195200,1210,2025-11-25,2026-11-25,https://www.usajobs.gov:443/job/850999700
 IT SPECIALIST (SYSTEMS ADMINISTRATION/CUSTOMER SUPPORT),Military Treatment Facilities under DHA,"Landstuhl, Germany",GS,74640,97037,2210,2026-11-03,2026-11-16,https://www.usajobs.gov:443/job/891180900
 Information Technology Specialist (Policy and Planning/Information Security),Military Treatment Facilities under DHA,"Columbus AFB, Mississippi",GS,106437,138370,2210,2026-11-03,2026-11-17,https://www.usajobs.gov:443/job/891176200
+SUPV IT CYBERSECURITY SPECIALIST (INFOSEC),National Defense University,"Fort McNair, District of Columbia",GS,127646,187093,2210,2026-11-11,2026-11-25,https://www.usajobs.gov:443/job/892361800
+SUPV IT PROGRAM MANAGER (NETWORK/INFOSEC),National Defense University,"Fort McNair, District of Columbia",GS,127646,187093,2210,2026-11-11,2026-11-25,https://www.usajobs.gov:443/job/892362600
 Data Engineer (Open Continuous),National Geospatial-Intelligence Agency,"Saint Louis, Missouri",IA,76573,158322,2210,2026-10-19,2027-09-30,https://www.usajobs.gov:443/job/889388600
 Supervisory IT Specialist,National Oceanic and Atmospheric Administration,"College Park, Maryland",GS,143913,187093,2210,2026-11-06,2026-11-19,https://www.usajobs.gov:443/job/891863400
 IT CYBERSECURITY SPECIALIST (INFOSEC),Naval Air Systems Command,"Naval Air Station Jacksonville, Florida",DS,89508,140426,2210,2026-02-11,2027-02-10,https://www.usajobs.gov:443/job/857151400
@@ -159,6 +158,7 @@ IT SPECIALIST (INFOSEC),Naval Sea Systems Command,"Naval Business Center, Philad
 SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC),Naval Sea Systems Command,"Washington Navy Yard, District of Columbia",NH,143913,197200,2210,2026-11-10,2026-11-20,https://www.usajobs.gov:443/job/892270400
 SUPERVISORY IT SPECIALIST (INFOSEC),Naval Sea Systems Command,"Port Hueneme, California",NT,146632,197200,2210,2026-11-02,2026-11-16,https://www.usajobs.gov:443/job/891244600
 IT PROJECT MANAGER (PLCYPLN),Naval Supply Systems Command,"Naval Support Activity, Mechanicsburg, Pennsylvania",GS,108592,141171,2210,2026-11-10,2026-11-16,https://www.usajobs.gov:443/job/892332000
+IT SPECIALIST (APPSW/DATAMGT),Naval Supply Systems Command,"Naval Support Activity, Mechanicsburg, Pennsylvania",GS,91320,118718,2210,2026-11-10,2026-11-16,https://www.usajobs.gov:443/job/892353000
 Technical Program Manager (Salesforce) 2 Year Term,Office of Administration,"Washington, District of Columbia",GS,143913,187093,2210,2026-11-09,2026-12-09,https://www.usajobs.gov:443/job/892132100
 Technical Project Manager (Archival) 2 Year Term,Office of Administration,"Washington, District of Columbia",GS,143913,187093,2210,2026-11-09,2026-12-09,https://www.usajobs.gov:443/job/891924500
 Technical Project Manager (Cloud) 2 Year Term,Office of Administration,"Washington, District of Columbia",GS,143913,187093,2210,2026-11-09,2026-12-09,https://www.usajobs.gov:443/job/892136200
@@ -232,7 +232,6 @@ Information Technology Specialist (Systems Administration),U.S. Army Cyber Comma
 Information Technology Specialist (Systems Administration),U.S. Army Cyber Command,"Fort Wainwright, Alaska",GG,95284,123876,2210,2026-11-02,2026-11-16,https://www.usajobs.gov:443/job/891080700
 Information Technology Specialist (Systems Administration/ Data Management),U.S. Army Cyber Command,"Camp Humphreys, South Korea",GG,84109,109344,2210,2026-10-29,2026-11-18,https://www.usajobs.gov:443/job/892173900
 Information Technology Specialist (Systems Analysis/ Internet),U.S. Army Cyber Command,"Schofield Barracks, Hawaii",GG,88809,115458,2210,2026-11-04,2026-11-18,https://www.usajobs.gov:443/job/891461500
-Information Technology Specialist Customer Support & Policy Planning,U.S. Army Cyber Command,"SHAPE, Belgium",GG,84109,109344,2210,2026-11-05,2026-11-15,https://www.usajobs.gov:443/job/891558600
 Lead Information Technology Specialist (System Administration / Operating Systems),U.S. Army Cyber Command,"Camp Humphreys, South Korea",GG,90925,124266,2210,2026-11-09,2026-11-23,https://www.usajobs.gov:443/job/892167400
 Supervisory Information Technology Specialist (Network Services),U.S. Army Cyber Command,"Schofield Barracks, Hawaii",GG,101091,131422,2210,2026-10-23,2026-11-16,https://www.usajobs.gov:443/job/890064700
 IT Cybersecurity Specialist,U.S. Coast Guard,"Glen Burnie, Maryland",GS,143913,187093,2210,2026-11-09,2026-11-19,https://www.usajobs.gov:443/job/892205300
@@ -244,6 +243,7 @@ IT SPECIALIST (INFOSEC),U.S. Marine Corps,"Orlando, Florida",NH,89508,138370,221
 "Senior Enterprise Data Architect, NF5",U.S. Marine Corps,"Quantico, Virginia",NF,145000,165000,2210,2026-10-27,2026-11-24,https://www.usajobs.gov:443/job/890474500
 Supervisory POS Specialist,U.S. Marine Corps,"Quantico, Virginia",NF,90000,105000,2210,2026-10-28,2026-11-18,https://www.usajobs.gov:443/job/890621400
 IT SPECIALIST (INFOSEC),U.S. Pacific Fleet,"Naval Base, Norfolk, Virginia",GS,108019,140426,2210,2026-11-09,2026-11-16,https://www.usajobs.gov:443/job/892184800
+Supervisory IT Cybersecurity Specialist (DEV/DTA),U.S. Secret Service,"Washington, District of Columbia",GS,143913,187093,2210,2026-11-10,2026-11-17,https://www.usajobs.gov:443/job/892354300
 Supervisory IT Specialist (APPSW),US ARMY HUMAN RESOURCES COMMAND (DRU),"Fort Knox, Kentucky",GS,106437,138370,2210,2026-11-10,2026-11-19,https://www.usajobs.gov:443/job/892245800
 SUPERVISORY IT CYBERSECURITY SPECIALIST (INFOSEC),United States Fleet Forces Command,"Suffolk, Virginia",GG,133233,182092,2210,2026-11-06,2026-11-16,https://www.usajobs.gov:443/job/891533400
 SUPV IT SPECIALIST (PLCYPLN),United States Fleet Forces Command,"Fort Meade Naval Facilities, Maryland",GG,150424,197200,2210,2026-11-10,2026-11-16,https://www.usajobs.gov:443/job/891454600
