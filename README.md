@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-16**
+> Last updated: **2026-11-17**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **19,286** |
-| Currently active positions        | **1,212**  |
+| Currently active positions        | **1,193**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 27              |
-| 1550   | Computer Science (1550)     | 31              |
+| 0854   | Computer Engineering (0854) | 24              |
+| 1550   | Computer Science (1550)     | 29              |
 | 1560   | Data Science (1560)         | 21              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                           | Active Postings |
 | -------------------------------- | --------------- |
 | Veterans Health Administration   | 250             |
-| Federal Aviation Administration  | 208             |
-| Indian Health Service            | 187             |
-| Department of State Headquarters | 57              |
-| Internal Revenue Service         | 38              |
-| U.S. Army Cyber Command          | 24              |
-| Social Security Administration   | 23              |
-| Air National Guard Units         | 20              |
-| National Institutes of Health    | 20              |
-| Treasury, Departmental Offices   | 18              |
+| Federal Aviation Administration  | 207             |
+| Indian Health Service            | 192             |
+| Department of State Headquarters | 49              |
+| Internal Revenue Service         | 32              |
+| U.S. Army Cyber Command          | 22              |
+| Social Security Administration   | 22              |
+| Air National Guard Units         | 21              |
+| Treasury, Departmental Offices   | 20              |
+| National Institutes of Health    | 17              |
 
 <!-- STATS_END -->
