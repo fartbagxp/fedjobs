@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-18**
+> Last updated: **2026-11-19**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **19,493** |
-| Currently active positions        | **1,202**  |
+| Currently active positions        | **1,220**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 22              |
-| 1550   | Computer Science (1550)     | 30              |
+| 0854   | Computer Engineering (0854) | 26              |
+| 1550   | Computer Science (1550)     | 31              |
 | 1560   | Data Science (1560)         | 22              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                           | Active Postings |
 | -------------------------------- | --------------- |
 | Veterans Health Administration   | 250             |
-| Federal Aviation Administration  | 205             |
-| Indian Health Service            | 194             |
-| Department of State Headquarters | 46              |
-| Internal Revenue Service         | 36              |
-| Social Security Administration   | 22              |
-| Air National Guard Units         | 21              |
-| U.S. Army Cyber Command          | 19              |
-| Treasury, Departmental Offices   | 17              |
-| National Institutes of Health    | 17              |
+| Indian Health Service            | 200             |
+| Federal Aviation Administration  | 198             |
+| Department of State Headquarters | 53              |
+| Internal Revenue Service         | 37              |
+| Social Security Administration   | 25              |
+| Air National Guard Units         | 22              |
+| Office of Personnel Management   | 16              |
+| U.S. Army Cyber Command          | 16              |
+| Treasury, Departmental Offices   | 16              |
 
 <!-- STATS_END -->
