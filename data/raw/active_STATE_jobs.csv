@@ -1,4 +1,5 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+ Economist (Instructor) - Direct Hire Authority,Department of State Headquarters,"Washington, District of Columbia",GG,143913,187093,0110,2026-11-19,2026-12-18,https://www.usajobs.gov:443/job/893591400
 Assistant Legal Adviser,Department of State Headquarters,"Washington, District of Columbia",ES,151661,228000,0905,2026-11-11,2026-11-25,https://www.usajobs.gov:443/job/892529400
 Assistant Legal Adviser,Department of State Headquarters,"Washington, District of Columbia",ES,151661,228000,0905,2026-11-11,2026-11-25,https://www.usajobs.gov:443/job/892531300
 Assistant Legal Adviser,Department of State Headquarters,"Washington, District of Columbia",ES,151661,228000,0905,2026-11-11,2026-11-25,https://www.usajobs.gov:443/job/892531500
@@ -10,8 +11,8 @@ Attorney Adviser International,Department of State Headquarters,"Washington, Dis
 Attorney Adviser International,Department of State Headquarters,"Washington, District of Columbia",GS,169279,197200,0905,2026-11-05,2026-11-30,https://www.usajobs.gov:443/job/891785000
 Attorney Adviser International,Department of State Headquarters,"Washington, District of Columbia",GS,102415,197200,0905,2026-11-10,2026-12-31,https://www.usajobs.gov:443/job/892413400
 Budget Analyst,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0560,2026-11-19,2026-11-30,https://www.usajobs.gov:443/job/893422900
-Budget Officer,Department of State Headquarters,"Washington, District of Columbia",GS,169279,197200,0560,2026-11-06,2026-11-19,https://www.usajobs.gov:443/job/891769800
 Criminal Investigator,Department of State Headquarters,"Arlington, Virginia",GS,125158,162708,1811,2026-11-19,2026-11-25,https://www.usajobs.gov:443/job/893308200
+Criminal Investigator,Department of State Headquarters,"Arlington, Virginia",GS,143913,187093,1811,2026-11-19,2026-11-27,https://www.usajobs.gov:443/job/893502500
 Criminal Investigator (Special Agent),Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,1811,2026-11-17,2026-11-30,https://www.usajobs.gov:443/job/892967800
 Criminal Investigator (Special Agent),Department of State Headquarters,"Washington, District of Columbia",GS,85447,108238,1811,2026-11-17,2026-11-30,https://www.usajobs.gov:443/job/893062800
 Deputy Assistant Secretary,Department of State Headquarters,"Washington, District of Columbia",ES,151661,228000,0301,2026-11-06,2026-11-20,https://www.usajobs.gov:443/job/891812500
@@ -21,16 +22,15 @@ Diplomatic Security:  Foreign Service Security Technical Specialist (FS 2560),De
 FOREIGN AFFAIRS OFFICER,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0130,2026-11-16,2026-11-23,https://www.usajobs.gov:443/job/892767400
 Foreign Affairs Officer,Department of State Headquarters,"District of Columbia, District of Columbia",GS,169279,197200,0130,2026-11-16,2026-11-24,https://www.usajobs.gov:443/job/892872000
 Foreign Affairs Officer,Department of State Headquarters,"Miami, Florida",GS,79533,103399,0130,2026-11-18,2026-12-18,https://www.usajobs.gov:443/job/893417700
-Foreign Affairs Officer,Department of State Headquarters,"Washington, District of Columbia",GS,169279,197200,0130,2026-11-10,2026-11-19,https://www.usajobs.gov:443/job/892299400
 Foreign Affairs Officer,Department of State Headquarters,"Washington, District of Columbia",GS,143913,187093,0130,2026-11-13,2026-11-20,https://www.usajobs.gov:443/job/892888500
 Foreign Affairs Officer,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0130,2026-11-17,2026-11-23,https://www.usajobs.gov:443/job/892953600
+Foreign Affairs Officer,Department of State Headquarters,"Washington, District of Columbia",GS,102415,158322,0130,2026-11-20,2026-11-27,https://www.usajobs.gov:443/job/893503400
 "Foreign Service Consular Fellow - Arabic, Mandarin Chinese, Portuguese, and/or Spanish Proficiency",Department of State Headquarters,"Montevideo, Uruguay",FP,59726,121080,0967,2026-10-01,2027-03-31,https://www.usajobs.gov:443/job/887144300
 Foreign Service Diplomatic Technology Officer (FP 2885),Department of State Headquarters,"Montevideo, Uruguay",FP,66810,121080,2210,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887136000
 Foreign Service Office Management Specialist (FS 9017),Department of State Headquarters,"Montevideo, Uruguay",FP,59726,87709,0318,2026-10-01,2027-09-30,https://www.usajobs.gov:443/job/887133000
 Government Information Specialist,Department of State Headquarters,"Washington, District of Columbia",GS,102415,158322,0306,2026-11-09,2026-11-23,https://www.usajobs.gov:443/job/892064500
 Historian,Department of State Headquarters,"Washington, District of Columbia",GS,102415,158322,0170,2026-11-19,2026-11-30,https://www.usajobs.gov:443/job/893493300
 Historian,Department of State Headquarters,"Washington, District of Columbia",GS,102415,158322,0170,2026-11-19,2026-11-30,https://www.usajobs.gov:443/job/893494500
-Human Resources Specialist,Department of State Headquarters,"Washington, District of Columbia",GS,102415,133142,0201,2026-11-02,2026-11-19,https://www.usajobs.gov:443/job/891786400
 IT Specialist ( Appsw/Infosec),Department of State Headquarters,"Arlington, Virginia",GS,143913,187093,2210,2026-11-10,2026-11-25,https://www.usajobs.gov:443/job/892422200
 Information Technology Specialist (Info Sec/Policy and Planning),Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,2210,2026-11-19,2026-11-25,https://www.usajobs.gov:443/job/893372800
 Intelligence Research Specialist,Department of State Headquarters,"Arlington, Virginia",GS,85447,111087,0132,2026-11-19,2026-11-27,https://www.usajobs.gov:443/job/893414400
@@ -41,14 +41,15 @@ Management Analyst ,Department of State Headquarters,"Arlington, Virginia",GS,14
 Managing Director,Department of State Headquarters,"Washington, District of Columbia",ES,151661,228000,0301,2026-11-19,2026-12-03,https://www.usajobs.gov:443/job/893305200
 Office Director  (Chief Data and SI Officer),Department of State Headquarters,"Washington, District of Columbia",ES,151661,228000,1560,2026-11-13,2026-11-27,https://www.usajobs.gov:443/job/892536800
 Operations Officer,Department of State Headquarters,"Portsmouth, New Hampshire",GS,142452,185193,1101,2026-11-12,2026-11-25,https://www.usajobs.gov:443/job/892399300
+Paralegal Specialist,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0950,2026-11-20,2026-12-04,https://www.usajobs.gov:443/job/893679200
 Program Analyst,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0343,2026-11-16,2026-11-27,https://www.usajobs.gov:443/job/892901900
 Program Analyst,Department of State Headquarters,"Washington, District of Columbia",GS,102415,158322,0343,2026-11-18,2026-12-02,https://www.usajobs.gov:443/job/893182400
-Program Analyst ,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0343,2026-11-18,2026-11-23,https://www.usajobs.gov:443/job/893372600
-Public Affairs Specialist,Department of State Headquarters,"Washington, District of Columbia",GG,121785,158322,1035,2026-11-13,2026-11-19,https://www.usajobs.gov:443/job/892567800
+Program Analyst ,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0343,2026-11-18,2026-11-25,https://www.usajobs.gov:443/job/893372600
 Public Affairs Specialist,Department of State Headquarters,"Washington, District of Columbia",GG,169279,197200,1035,2026-11-17,2026-11-30,https://www.usajobs.gov:443/job/892951100
-Supervisory General Engineer,Department of State Headquarters,"Washington, District of Columbia",GS,169279,197200,0801,2026-11-18,2026-11-25,https://www.usajobs.gov:443/job/893427700
-Supervisory Human Resources Specialist,Department of State Headquarters,"Washington, District of Columbia",GS,125776,187093,0201,2026-11-16,2026-11-20,https://www.usajobs.gov:443/job/892895300
+Staff Assistant,Department of State Headquarters,"Washington, District of Columbia",GS,121785,158322,0301,2026-11-19,2026-11-27,https://www.usajobs.gov:443/job/893517600
+Supervisory General Engineer,Department of State Headquarters,"Washington, District of Columbia",GS,169279,197200,0801,2026-11-18,2026-11-25,https://www.usajobs.gov:443/job/893502200
+Supervisory Human Resources Specialist,Department of State Headquarters,"Washington, District of Columbia",GS,125776,187093,0201,2026-11-16,2026-11-30,https://www.usajobs.gov:443/job/892895300
 Supervisory Passport Specialist ,Department of State Headquarters,"Tucson, Arizona",GS,125776,197200,0967,2026-11-10,2026-11-24,https://www.usajobs.gov:443/job/892224200
-Supervisory Program Analyst,Department of State Headquarters,"Washington, District of Columbia",GS,143913,187093,0343,2026-11-05,2026-11-19,https://www.usajobs.gov:443/job/891643400
 Supervisory Public Affairs Specialist,Department of State Headquarters,"Washington, District of Columbia",GS,169279,197200,1035,2026-11-13,2026-11-27,https://www.usajobs.gov:443/job/892572000
 Supervisory Systems Accountant,Department of State Headquarters,"Charleston, South Carolina",GS,125776,163514,0510,2026-11-06,2026-11-26,https://www.usajobs.gov:443/job/892108800
+Support Services Supervisor,Department of State Headquarters,"Arlington, Virginia",GS,143913,187093,0342,2026-11-20,2026-11-30,https://www.usajobs.gov:443/job/893673300
