@@ -172,19 +172,19 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-24**
+> Last updated: **2026-11-25**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **19,919** |
-| Currently active positions        | **1,199**  |
+| Currently active positions        | **1,183**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 25              |
-| 1550   | Computer Science (1550)     | 30              |
+| 0854   | Computer Engineering (0854) | 24              |
+| 1550   | Computer Science (1550)     | 28              |
 | 1560   | Data Science (1560)         | 14              |
 | 2210   | IT Management (2210)        | 250             |
 
@@ -192,15 +192,15 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 | Agency                                     | Active Postings |
 | ------------------------------------------ | --------------- |
-| Veterans Health Administration             | 250             |
-| Indian Health Service                      | 192             |
-| Federal Aviation Administration            | 184             |
-| Department of State Headquarters           | 57              |
-| Internal Revenue Service                   | 40              |
+| Veterans Health Administration             | 248             |
+| Indian Health Service                      | 195             |
+| Federal Aviation Administration            | 183             |
+| Department of State Headquarters           | 58              |
+| Internal Revenue Service                   | 36              |
 | Air National Guard Units                   | 25              |
-| Centers for Medicare & Medicaid Services   | 22              |
 | Social Security Administration             | 22              |
-| Centers for Disease Control and Prevention | 20              |
-| U.S. Army Cyber Command                    | 17              |
+| Centers for Disease Control and Prevention | 18              |
+| U.S. Army Cyber Command                    | 18              |
+| Centers for Medicare & Medicaid Services   | 17              |
 
 <!-- STATS_END -->

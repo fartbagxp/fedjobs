@@ -1,4 +1,6 @@
 Position Title,Agency,Location,Grade,Salary Min,Salary Max,Job Code,Opening Date,Closing Date,Job URL
+CRIMINAL INVESTIGATOR,"Veterans Affairs, Inspector General","Bay Pines, Florida",GS,63780,97087,1811,2026-08-24,2026-12-31,https://www.usajobs.gov:443/job/881807100
+CRIMINAL INVESTIGATOR,"Veterans Affairs, Inspector General","Bay Pines, Florida",GS,63780,97087,1811,2026-08-24,2026-12-31,https://www.usajobs.gov:443/job/881812900
 Advanced Practice Nurse  - Cardiology,Veterans Health Administration,"Sioux Falls, South Dakota",VN,95056,149166,0610,2026-01-07,2026-12-02,https://www.usajobs.gov:443/job/853779900
 Advanced Practice Nurse (NP) - Open only to Current Permanent Employees of VA North Texas HCS,Veterans Health Administration,"Dallas, Texas",VN,134190,223712,0610,2026-04-30,2026-12-31,https://www.usajobs.gov:443/job/867419000
 Advanced Practice Nurse - Certified Nurse Anesthetist,Veterans Health Administration,"Washington, District of Columbia",VN,180195,261224,0610,2026-08-04,2026-11-30,https://www.usajobs.gov:443/job/879165600
@@ -15,9 +17,7 @@ Certified Nurse Anesthetist,Veterans Health Administration,"Lake City, Florida",
 Certified Registered Nurse Anesthetist - CRNA,Veterans Health Administration,"Milwaukee, Wisconsin",VN,192029,278477,0610,2026-06-10,2027-06-09,https://www.usajobs.gov:443/job/872712400
 Contact Representative,Veterans Health Administration,"Smyrna, Georgia",GS,45409,69371,0962,2026-04-01,2027-03-31,https://www.usajobs.gov:443/job/863411600
 Dental Assistant,Veterans Health Administration,"Columbia, Missouri",GS,49929,64905,0681,2026-01-12,2026-12-31,https://www.usajobs.gov:443/job/854142800
-Dental Assistant,Veterans Health Administration,"Sioux Falls, South Dakota",GS,37026,67387,0681,2026-06-29,2026-12-01,https://www.usajobs.gov:443/job/874689300
 Dental Service Line Chief,Veterans Health Administration,"Poplar Bluff, Missouri",VM,260000,300000,0680,2026-07-29,2027-01-29,https://www.usajobs.gov:443/job/878531600
-Dentist,Veterans Health Administration,"Martinsburg, West Virginia",AD,124308,315000,0680,2026-08-06,2027-08-05,https://www.usajobs.gov:443/job/879546900
 Dentist (Oral Surgeon),Veterans Health Administration,"Bay Pines, Florida",VM,125000,400000,0680,2026-08-14,2026-12-31,https://www.usajobs.gov:443/job/880734600
 Dentist- Internal to VA North Texas Health Care System,Veterans Health Administration,"Bonham, Texas",VM,124308,315000,0680,2026-05-13,2027-05-12,https://www.usajobs.gov:443/job/869091300
 Dentist-Oral Maxillofacial Surgeon,Veterans Health Administration,"Cincinnati, Ohio",VM,300000,400000,0680,2026-06-23,2026-12-31,https://www.usajobs.gov:443/job/873912600
@@ -43,7 +43,6 @@ Gastroenterologist,Veterans Health Administration,"Poplar Bluff, Missouri",VM,38
 Gastroenterologist (Part-time w/Recruitment-Relocation Incentive/EDRP),Veterans Health Administration,"Harlingen, Texas",VM,300000,400000,0602,2026-05-22,2026-12-31,https://www.usajobs.gov:443/job/870488000
 Gastroenterologist w/Recruitment-Relocation Incentive/EDRP,Veterans Health Administration,"Harlingen, Texas",VM,300000,400000,0602,2026-05-21,2026-12-31,https://www.usajobs.gov:443/job/870351400
 Health Technician (Hearing Instrument Specialist),Veterans Health Administration,"Atlanta, Georgia",GS,48019,62425,0640,2026-11-20,2026-11-30,https://www.usajobs.gov:443/job/879850100
-Health Technician (Hearing Instrument Specialist),Veterans Health Administration,"Sioux Falls, South Dakota",GS,40736,59031,0640,2026-01-29,2026-12-01,https://www.usajobs.gov:443/job/855880400
 Health Technician (Hearing Instrument Specialist),Veterans Health Administration,"Sioux Falls, South Dakota",GS,40736,59031,0640,2026-01-29,2026-12-01,https://www.usajobs.gov:443/job/855880500
 Health Technician - Orthotic Fitter,Veterans Health Administration,"Minneapolis, Minnesota",GS,49505,71517,0640,2026-07-10,2026-12-01,https://www.usajobs.gov:443/job/876094700
 Home Based Primary Care GeriPACT and Community Living Center Staff Psychologist,Veterans Health Administration,"Pueblo, Colorado",GS,79176,146703,0180,2026-08-14,2026-12-11,https://www.usajobs.gov:443/job/880593700
@@ -64,6 +63,8 @@ Nurse (Pain Management),Veterans Health Administration,"Syracuse, New York",AD,7
 Nurse Anesthetist,Veterans Health Administration,"Sioux Falls, South Dakota",VN,152661,221313,0610,2025-12-03,2026-12-02,https://www.usajobs.gov:443/job/850392200
 Nurse Anesthetist (Intermittent),Veterans Health Administration,"Fargo, North Dakota",AD,168134,243733,0610,2025-12-11,2026-12-02,https://www.usajobs.gov:443/job/852207800
 "Nurse Practitioner -Primary Care Grand Island, NE",Veterans Health Administration,"Grand Island, Nebraska",VN,113600,165070,0610,2026-07-27,2026-12-02,https://www.usajobs.gov:443/job/878305500
+Nursing Assistant,Veterans Health Administration,"Sheridan, Wyoming",GS,41562,67859,0621,2026-08-24,2026-12-01,https://www.usajobs.gov:443/job/881878200
+Nursing Assistant,Veterans Health Administration,"Sheridan, Wyoming",GS,41562,67859,0621,2026-08-24,2026-12-01,https://www.usajobs.gov:443/job/881879100
 Nursing Assistant (Intermittent),Veterans Health Administration,"East Orange, New Jersey",GS,39614,64678,0621,2026-08-14,2026-11-30,https://www.usajobs.gov:443/job/880638300
 Optometrist,Veterans Health Administration,"Poplar Bluff, Missouri",VM,125000,150000,0602,2026-07-21,2027-01-29,https://www.usajobs.gov:443/job/877410500
 Optometrist,Veterans Health Administration,"Union County, South Dakota",VM,123077,200000,0662,2026-07-13,2026-12-02,https://www.usajobs.gov:443/job/876322400
@@ -83,7 +84,6 @@ Physician (Cardiologist w/Recruitment/Relocation Incentive-EDRP),Veterans Health
 Physician (Cardiologist),Veterans Health Administration,"Cape Coral, Florida",VM,300000,400000,0602,2026-08-03,2026-12-31,https://www.usajobs.gov:443/job/879043700
 Physician (Cardiologist) Non-Invasive,Veterans Health Administration,"Wilkes Barre, Pennsylvania",VM,325000,350000,0602,2026-07-22,2027-07-01,https://www.usajobs.gov:443/job/877567100
 Physician (Cardiology Non-Invasive),Veterans Health Administration,"Kansas City, Missouri",VM,275000,400000,0602,2026-05-19,2027-05-18,https://www.usajobs.gov:443/job/869858900
-Physician (Cardiology-Non Invasive) - EDRP Approved,Veterans Health Administration,"El Paso, Texas",VM,124308,400000,0602,2026-05-07,2026-12-31,https://www.usajobs.gov:443/job/868377200
 Physician (Chief Hematology Oncology),Veterans Health Administration,"West Palm Beach, Florida",VM,275000,400000,0602,2026-06-03,2026-12-31,https://www.usajobs.gov:443/job/871564400
 Physician (Chief of Pathology & Laboratory Services) w/Recruitment-Relocation Incentive,Veterans Health Administration,"Harlingen, Texas",VM,325000,380000,0602,2026-07-17,2026-12-29,https://www.usajobs.gov:443/job/876962300
 Physician (Chief of the Otolaryngology (ENT)) INCENTIVE OFFERED,Veterans Health Administration,"Togus, Maine",VM,350000,400000,0602,2026-06-10,2026-12-31,https://www.usajobs.gov:443/job/872605500
@@ -91,7 +91,6 @@ Physician (Chief-Spinal Cord Injury) - Recruitment Incentive May Be Offered/EDRP
 Physician (Dermatology),Veterans Health Administration,"Gainesville, Florida",VM,323452,400000,0602,2026-07-01,2026-12-30,https://www.usajobs.gov:443/job/875042900
 Physician (Dermatology),Veterans Health Administration,"Vero Beach, Florida",VM,300000,400000,0602,2026-06-03,2026-12-31,https://www.usajobs.gov:443/job/871563600
 Physician (Diagnostic-Radiologist) - Neuroradiology,Veterans Health Administration,"Anywhere in the U.S. (remote job), United States",VM,385000,400000,0602,2026-08-20,2026-12-31,https://www.usajobs.gov:443/job/881409800
-Physician (Emergency Medicine),Veterans Health Administration,"Albany, New York",VM,300000,350000,0602,2026-08-19,2026-12-16,https://www.usajobs.gov:443/job/881074800
 Physician (Endocrinology),Veterans Health Administration,"Gainesville, Florida",VM,216145,315000,0602,2026-01-22,2026-12-31,https://www.usajobs.gov:443/job/855119900
 Physician (Endocrinology),Veterans Health Administration,"Jacksonville, Florida",VM,216145,315000,0602,2026-03-02,2026-12-31,https://www.usajobs.gov:443/job/859500400
 Physician (Ft) Urologist,Veterans Health Administration,"Martinsburg, West Virginia",VM,300000,400000,0602,2026-05-11,2026-11-30,https://www.usajobs.gov:443/job/868766200
@@ -128,7 +127,6 @@ Physician (Psychiatrist),Veterans Health Administration,"Togus, Maine",VM,270000
 Physician (Psychiatry),Veterans Health Administration,"Gainesville, Florida",VM,260000,315000,0602,2026-01-13,2026-12-31,https://www.usajobs.gov:443/job/854320700
 Physician (Psychiatry),Veterans Health Administration,"The Villages, Florida",VM,260000,315000,0602,2026-01-12,2026-12-31,https://www.usajobs.gov:443/job/854225300
 Physician (Psychiatry) - EDRP Eligible - Recruitment/Relocation Incentive,Veterans Health Administration,"Temple, Texas",VM,270000,295000,0602,2026-08-19,2026-12-31,https://www.usajobs.gov:443/job/881265900
-Physician (Pulmonologist),Veterans Health Administration,"Buffalo, New York",AD,275000,320000,0602,2026-05-20,2026-11-24,https://www.usajobs.gov:443/job/870111800
 Physician (Pulmonology and Critical Care),Veterans Health Administration,"Buffalo, New York",VM,275000,320000,0602,2026-05-20,2026-12-23,https://www.usajobs.gov:443/job/870057600
 Physician (Radiologist) - EDRP Eligible - Recruitment/Relocation Incentive,Veterans Health Administration,"Temple, Texas",VM,380000,400000,0602,2026-08-21,2026-12-31,https://www.usajobs.gov:443/job/881639500
 Physician (Radiologist) w/Recruitment-Relocation Incentive-EDRP,Veterans Health Administration,"El Paso, Texas",VM,350000,390000,0602,2026-07-28,2026-12-31,https://www.usajobs.gov:443/job/878227000
@@ -183,6 +181,7 @@ Physician - Psychiatrist (Home-Based Primary Care),Veterans Health Administratio
 Physician - Psychiatry - EDRP Eligible and Recruitment/Relocation Incentive May be Offered,Veterans Health Administration,"Saint Cloud, Minnesota",VM,275000,315000,0602,2026-05-13,2026-12-02,https://www.usajobs.gov:443/job/869135500
 Physician - Pulmonologist - Critical Care,Veterans Health Administration,"Temple, Texas",VM,360000,400000,0602,2026-06-18,2026-12-31,https://www.usajobs.gov:443/job/873619100
 Physician - Radiology Diagnostic (Mammography),Veterans Health Administration,"Aurora, Colorado",VM,365000,400000,0602,2026-07-08,2026-12-31,https://www.usajobs.gov:443/job/875656000
+Physician - Spinal Cord Injury (SCI) Primary Care - EDRP Authorized,Veterans Health Administration,"Dallas, Texas",VM,200000,315000,0602,2026-08-24,2026-12-31,https://www.usajobs.gov:443/job/881872600
 Physician - Urologist,Veterans Health Administration,"Erie, Pennsylvania",VM,320000,400000,0602,2026-05-01,2026-12-31,https://www.usajobs.gov:443/job/867536600
 Physician - Urologist,Veterans Health Administration,"Fargo, North Dakota",VM,300000,400000,0602,2026-07-01,2026-12-02,https://www.usajobs.gov:443/job/875153300
 Physician - Urologist,Veterans Health Administration,"Sioux Falls, South Dakota",VM,300000,400000,0602,2026-05-11,2026-12-02,https://www.usajobs.gov:443/job/869171400
@@ -190,6 +189,7 @@ Physician - Urology,Veterans Health Administration,"Fort Meade, South Dakota",VM
 Physician -Medical Director of CLC,Veterans Health Administration,"Marion, Indiana",VM,200000,235000,0602,2026-06-23,2026-12-11,https://www.usajobs.gov:443/job/873877300
 "Physician -Primary Care Grand Island, NE",Veterans Health Administration,"Grand Island, Nebraska",VN,225000,300000,0602,2026-07-27,2026-12-02,https://www.usajobs.gov:443/job/879217900
 Physician -Primary Care Women's Health,Veterans Health Administration,"Omaha, Nebraska",VM,225000,300000,0602,2026-06-24,2026-12-02,https://www.usajobs.gov:443/job/875687500
+Physician -Psychiatrist (EDRP),Veterans Health Administration,"Quincy, Illinois",VM,250000,300000,0602,2026-08-21,2026-12-02,https://www.usajobs.gov:443/job/881878400
 Physician Assistant - Hematology/Oncology,Veterans Health Administration,"Alexandria, Minnesota",VN,123240,196732,0603,2026-05-14,2026-12-02,https://www.usajobs.gov:443/job/869436900
 Physician Assistant - Primary Care Services,Veterans Health Administration,"Saint Louis, Missouri",VN,115898,204005,0603,2026-07-28,2027-07-26,https://www.usajobs.gov:443/job/878329400
 "Physician Assistant -Primary Care Grand Island, NE",Veterans Health Administration,"Grand Island, Nebraska",VN,117329,170084,0603,2026-07-27,2026-12-02,https://www.usajobs.gov:443/job/878304600
