@@ -172,35 +172,35 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-25**
+> Last updated: **2026-11-26**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **19,981** |
-| Currently active positions        | **1,183**  |
+| Currently active positions        | **1,143**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
-| 0854   | Computer Engineering (0854) | 24              |
+| 0854   | Computer Engineering (0854) | 25              |
 | 1550   | Computer Science (1550)     | 28              |
-| 1560   | Data Science (1560)         | 14              |
+| 1560   | Data Science (1560)         | 15              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
 
-| Agency                                     | Active Postings |
-| ------------------------------------------ | --------------- |
-| Veterans Health Administration             | 248             |
-| Indian Health Service                      | 195             |
-| Federal Aviation Administration            | 183             |
-| Department of State Headquarters           | 58              |
-| Internal Revenue Service                   | 36              |
-| Air National Guard Units                   | 25              |
-| Social Security Administration             | 22              |
-| Centers for Disease Control and Prevention | 18              |
-| U.S. Army Cyber Command                    | 18              |
-| Centers for Medicare & Medicaid Services   | 17              |
+| Agency                           | Active Postings |
+| -------------------------------- | --------------- |
+| Veterans Health Administration   | 249             |
+| Indian Health Service            | 198             |
+| Federal Aviation Administration  | 163             |
+| Department of State Headquarters | 45              |
+| Internal Revenue Service         | 30              |
+| Air National Guard Units         | 26              |
+| Social Security Administration   | 22              |
+| U.S. Army Cyber Command          | 19              |
+| U.S. Mint                        | 17              |
+| Naval Air Systems Command        | 16              |
 
 <!-- STATS_END -->
