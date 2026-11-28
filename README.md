@@ -172,20 +172,20 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 
 ## Data Stats
 
-> Last updated: **2026-11-27**
+> Last updated: **2026-11-28**
 
 | Metric                            | Count      |
 | --------------------------------- | ---------- |
 | Total unique job postings tracked | **20,037** |
-| Currently active positions        | **1,148**  |
+| Currently active positions        | **1,096**  |
 
 ### Active Positions by Job Series
 
 | Series | Name                        | Active Postings |
 | ------ | --------------------------- | --------------- |
 | 0854   | Computer Engineering (0854) | 26              |
-| 1550   | Computer Science (1550)     | 30              |
-| 1560   | Data Science (1560)         | 17              |
+| 1550   | Computer Science (1550)     | 27              |
+| 1560   | Data Science (1560)         | 15              |
 | 2210   | IT Management (2210)        | 250             |
 
 ### Top Agencies (Active Postings)
@@ -193,14 +193,14 @@ This tool uses the [USAJOBS API](https://developer.usajobs.gov/tutorials/search-
 | Agency                                   | Active Postings |
 | ---------------------------------------- | --------------- |
 | Veterans Health Administration           | 249             |
-| Indian Health Service                    | 198             |
-| Federal Aviation Administration          | 161             |
-| Department of State Headquarters         | 44              |
-| Internal Revenue Service                 | 31              |
+| Indian Health Service                    | 201             |
+| Federal Aviation Administration          | 140             |
+| Department of State Headquarters         | 37              |
 | Air National Guard Units                 | 25              |
-| Social Security Administration           | 22              |
-| U.S. Army Cyber Command                  | 19              |
-| Centers for Medicare & Medicaid Services | 18              |
+| Internal Revenue Service                 | 24              |
+| Social Security Administration           | 23              |
+| U.S. Army Cyber Command                  | 22              |
 | U.S. Mint                                | 17              |
+| Centers for Medicare & Medicaid Services | 17              |
 
 <!-- STATS_END -->
